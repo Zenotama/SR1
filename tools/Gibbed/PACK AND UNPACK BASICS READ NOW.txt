@@ -1,0 +1,14 @@
+Use the unpack.bat to unpack misc and misc2 .vpp_xbox2 files
+
+use pack misc and pack misc2 to repack misc.vpp_xbox2 files to correct xbox format
+
+if you wish to create a new .bat or edit a .bat to unpack a diff vpp_xbox2 file for saints row 1
+
+simply create a .bat using this paremeter
+
+Gibbed.RedFaction3.UnpackVPP.exe [FILENAME].vpp_xbox2 [FOLDER NAME] (folder name should be the same name as the file.(without.vpp_xbox2))
+
+to repack a diff vpp_xbox2 file use this parmeter
+
+
+Gibbed.RedFaction3.PackVPP.exe -b -c [FILENAME].vpp_xbox2 [FOLDER NAME]

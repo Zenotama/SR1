@@ -1,0 +1,1 @@
+the only files you should move to your game are the COMPILED misc.vpp_xbox2 and the NULLIFIED (0 KB) misc2.vpp_xbox2

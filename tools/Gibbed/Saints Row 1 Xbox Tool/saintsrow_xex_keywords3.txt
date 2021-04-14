@@ -1,0 +1,132 @@
+
+$Group:
++Uses_Slate:     
++Slate_Name:     $Emitter: 
+    $Min Delay:
+	$Max Delay:
+	$Min ToD:    
+	$Max ToD:    
+	$ToD Fade In:   
+	$ToD Fade Out:
+	$Play Type:
+	+Silence on Weapon Fire
+	+File:
+	$Ambient:
+	$Shape:
+	$Inner Radius:
+	$Outer Radius:
+	
+	Cylinder     
+	$Inner Height:
+	$Outer Height:
+	
+	Box
+	$Inner Dimensions:
+	$Outer Dimensions:
+	$Inner Offset:
+	$Negative:
+	$Min Volume:     
+	$LPF Send Level:     
+	$Reverb Send Level:
+	$DSP:     
+	$Node:
+	$Angle left:    
+	$Angle right:     
+	$Edge dist left: 
+	$Edge dist right:     
+	+Crouch
+	$Camera:
+    $Path:
+	END
+	$Item:
+	$Item type:
+	$Start nav:
+	baseball_bat    
+	$Respawn:  
+	$Respawn Delay:
+	$Ammo:
+	
+	$Vehicle: 
+    $Vehicle type:
+	$Stream Distance:
+	+Hit Points:     
+	+Invulnerable     
+	+Enable respawn
+	+Persistent
+	+Variant:
+	
+	$Box size:
+	+Death:
+	+Busted
+	+Indoor
+	+PassedOut
+	+NPC     
+	+Vehicle     
+	+MPTeam1     
+	+MPTeam2     
+	+MPTeam3     
+	+MPTeam4     
+	+MPTeam5     
+	+MPTeam6     
+	+MPTeam7     
+	+MPTeam8     
+	
+	$Human:
+	$Char type:
+	+Hit points:     
+	+Knockdown points:
+	+Item:
+	+Loot:
+	+Rank:
+	+Notoriety:
+	+Skill level:
+	+Aggressiveness: 
+    .+Self-preservation:
+	+Combat personality:     
+	+Hearing distance:
+	+Leash distance:     
+	+Team:
+	+Personality:     
+	+Cower/Flee:     
+	+AlwaysCowerWhenAttacked     
+	+AlwaysFleeWhenAttacked
+	+AttackEnemiesOnSight     
+	+AttackPlayerOnSight     
+	+Blitz
+	+Camp     
+	+CantFlee     
+	+Deaf     
+	+DontDropCash     
+	+DontDropWeaponOnRagdoll     
+	+DontEffectNotoriety     
+	+GunfireInvulnerable     
+	+IgnoreAI     
+	+IgnoreAttacks
+	+Immaterial
+	+Kamikaze     
+	+NeverCowerOrFlee     
+	+NeverTurnOnPlayer
+	+PlayerGroupIgnore
+	+RespawnAfterDeath
+	+RespawnAlly     
+	+Sitting     
+	+Sleeping     
+	+Undismissable
+	+StreamLoadDistance:
+	.+Group:
+	+MinRank:
+	+MaxRank:     
+	$EndShopkeeper
+	$Cutscene:
+	$Spawn Name:   
+	$Minimum:     
+	$Maximum:     
+	$Category:
+	$TIME:
+	+Ped:     
+	+Car:     
+	+Invisible
+	$Left Nav:
+	$Right Nav:
+	$Next:
+	$IncludeRace referencing unknown race '%s'..$Race:..$Race Time:.$Laps:..$Startline:.$Finishline:     .$Checkpoint:     .$IncludeRace:     $Pole Position:.$End Race     heli_land     shore     .cts     .#Includes     $Include:     #Groups.#Navpoints..#Dynobs.#Cameras     .#Items..#Triggers     $Trigger:     #Vehicles     #Respawns     #Humans.#Shopkeeper.$Shopkeeper:     .#Spawn NPC Regions..#Racing.#Special Spawns.#Strongholds     .$Stronghold:     .#Parking     .#Ambients     #Negative Regions     #DSP Regions     .#Audio Cluders..#Audio Barriers.#Nodes..#Movers.#Cutscene     $Offset nav:     .$Level nav:.#Effects     .$Effect:     ..lua     .cutscene_main     unable to include script file."%s".._init     _main     #PLAYER1#     #PLAYER2#     #FOLLOWER#.._CutsceneGlobals     ._     _PrepareCutsceneGlobals._UnloadCutsceneGlobals..%s_%s%03d     %s_$trigger.mission_help.xtbl.
