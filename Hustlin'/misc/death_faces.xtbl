@@ -1,0 +1,52 @@
+<root>
+<Table>
+	<Face>
+		<Name>Eye Closed</Name>
+		<Morph>eyeClosed</Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Chance>0.5</Chance>
+		</Face>
+	<Face>
+		<Name>Eye Open</Name>
+		<Morph>None</Morph>
+		<Chance>0.5</Chance>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Face>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Face</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Face Name</Display_Name>
+		<MaxLength>15</MaxLength>
+		</Element>
+	<Element>
+		<Name>Morph</Name>
+		<Type>String</Type>
+		<Display_Name>Morph Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Chance</Name>
+		<Type>Float</Type>
+		<Display_Name>Select Chance</Display_Name>
+		<Description>How often this death face is chosen</Description>
+		<Default>0.1</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

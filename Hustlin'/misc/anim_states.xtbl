@@ -1,0 +1,2533 @@
+<root>
+<Table>
+	<State>
+		<Name>talking disrespect</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Talking</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>driving open door</Name>
+		<_Editor>
+			<Category>Vehicle Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>thrown ride ready</Name>
+		<_Editor>
+			<Category>Pipe Bomb</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>thrown ride l ready</Name>
+		<_Editor>
+			<Category>Pipe Bomb</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>thrown drive right ready</Name>
+		<_Editor>
+			<Category>Pipe Bomb</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>thrown drive left ready</Name>
+		<_Editor>
+			<Category>Pipe Bomb</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>thrown drive ready</Name>
+		<_Editor>
+			<Category>Pipe Bomb</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>riding l ready</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>riding l ready na</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>riding ready</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving reverse right</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving reverse left</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving forward right</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving forward left</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving reverse</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>driving forward</Name>
+		<_Editor>
+			<Category>Driving</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>fall dead</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>back liedown</Name>
+		<_Editor>
+			<Category>Body Carry</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>body ready</Name>
+		<_Editor>
+			<Category>Body Carry</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>prone</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>combat stand</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>panic fall</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>worried fall run</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>worried fall</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>calm fall run state</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>calm fall state</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run on fire</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sprint</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>jog</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>search walk</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>react Cheer</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>react melee watch</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>react inspect body</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>react Over Body</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>react car wreck</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>recovery</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch walk</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand draw</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>angry stand</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>surrender</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>blunt smoking</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>blunt smoking walk</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>forty drinking walk</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>forty drinking</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>magazine walk</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>magazine stand</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle A</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle B</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle C</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle D</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle E</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle F</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle G</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Idle H</Name>
+		<_Editor>
+			<Category>Base:Idles</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand ready left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand ready right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run left B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run right B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready left B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready right B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch walk left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch walk right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch walk back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch wlk rdy fwd</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch wlk rdy left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch wlk rdy right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch wlk rdy back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>crouch wary</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drive ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive ready l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive ready r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive ready b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive l ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive l ready l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive l ready r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive l ready b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive r ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive r ready l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive r ready r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>drive r ready b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride ready left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride ready right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride ready back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride l ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride l ready left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride l ready right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride l ready right b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>ride l ready back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>passenger open door</Name>
+		<_Editor>
+			<Category>Vehicle Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sleep</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sitting</Name>
+		<_Editor>
+			<Category>Base:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower stand</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>tour Stand</Name>
+		<_Editor>
+			<Category>Tourist</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>tour Walk</Name>
+		<_Editor>
+			<Category>Tourist</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>tour Take Pictures</Name>
+		<_Editor>
+			<Category>Tourist</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cam Stand</Name>
+		<_Editor>
+			<Category>Cameraman</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cam Walk</Name>
+		<_Editor>
+			<Category>Cameraman</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cam Run</Name>
+		<_Editor>
+			<Category>Cameraman</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>protest Stand</Name>
+		<_Editor>
+			<Category>Protester</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>protest Walk</Name>
+		<_Editor>
+			<Category>Protester</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower stand variant 1</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower stand variant 2</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower stand variant 3</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower run</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>swim_slow</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>tread</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 1</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 2</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 3</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 4</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 5</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>melee stand</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>melee walk</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>melee run</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>ride ready left b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>walk variant 6</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 7</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 8</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 9</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 10</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 11</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 12</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 13</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 14</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 15</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>mag walk</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>mag read</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>car Lean</Name>
+		<_Editor>
+			<Category>Base:Lean In Car</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>preacher stand</Name>
+		<_Editor>
+			<Category>Preacher</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>preacher walk</Name>
+		<_Editor>
+			<Category>Preacher</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run variant 1</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run variant 2</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run variant 3</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run variant 4</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower run variant 1</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower run variant 2</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cower run variant 3</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>dance a</Name>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>dance b</Name>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>dance c</Name>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>dance d</Name>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stage stand</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>pole stand</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Jogger Stand</Name>
+		<_Editor>
+			<Category>Jogger</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sunbather laying</Name>
+		<_Editor>
+			<Category>Sunbather</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>carry stand</Name>
+		<_Editor>
+			<Category>Base:Carry</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>carry walk</Name>
+		<_Editor>
+			<Category>Base:Carry</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>guitar stand</Name>
+		<_Editor>
+			<Category>Guitar Player</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>guitar walk</Name>
+		<_Editor>
+			<Category>Guitar Player</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>breakdancer stand</Name>
+		<_Editor>
+			<Category>Breakdancer</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drunk stand</Name>
+		<_Editor>
+			<Category>Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drunk walk</Name>
+		<_Editor>
+			<Category>Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drunk run</Name>
+		<_Editor>
+			<Category>Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drunk passed out</Name>
+		<_Editor>
+			<Category>Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Jogger Jog</Name>
+		<_Editor>
+			<Category>Jogger</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>head get</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>head give</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>pose</Name>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sprint left</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sprint right</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sprint back</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sleep b</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>bj give</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>bj get</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sex give</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>sex get</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>swim-breastroke</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>swim-crawl</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk left B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk right B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk back B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready left B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready right B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk ready back B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run back B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>run ready back B</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			<Flag>Non-Strafe Variation</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>riding ready na</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>pant</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>heli driver drive</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>heli passback ride</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>heli dpassback ride</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>heli passflr ride</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>heli dpassflr ride</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>heli passflr rdy</Name>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>heli dpassflr rdy</Name>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>surrender walk</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Basic</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>carry run</Name>
+		<_Editor>
+			<Category>Base:Carry</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>tag stand</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Lounge</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lounge</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>Lean</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>walk variant 16</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>walk variant 17</Name>
+		<_Editor>
+			<Category>Walk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>rear driver hostage a</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>rear driver hostage b</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>rear driver hostage c</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>pass hostage a</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>pass hostage b</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>pass hostage c</Name>
+		<_Editor>
+			<Category>Riding</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</State>
+	<State>
+		<Name>stand cover ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>talking long</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Talking</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>talking dunno</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Talking</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>talking yes</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Talking</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>swim_fast</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>flip fall</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>interrogation vehicle hang high</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Interrogation</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>interrogation vehicle hang low</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Interrogation</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>stand shldr ready</Name>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>walk shldr ready</Name>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>racer stand</Name>
+		<_Editor>
+			<Category>Racergirl</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>drug</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cellphone arm</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Jackhammer</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>mourn</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand ready b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>stand ready c</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Ready Anim</Flag>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cell walk</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>cell stand</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>cell crouch walk</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>cell crouch</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>stand b</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>stand c</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>stand d</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>barstool sit</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>browse jewelry</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>browse gun</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>cell run</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>multi blunt b</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>block</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>browse wine</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>browse clothing</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>multi blunt crouch b</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>TiedUp</Name>
+		<_Editor>
+			<Category>TiedUp</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Stand</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Shoes</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Legs</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Hair</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Wrist R</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>swim surface</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>dial safe combo</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>crouch eat</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>eating</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>read paper</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>read book</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>ready sprint</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Zombie Eat</Name>
+		<_Editor>
+			<Category>Zombie</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Wrist L</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>cannonball</Name>
+		<_Editor>
+			<Category>Fall</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Cust Rings</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>Beer Stand</Name>
+		<_Editor>
+			<Category>Beer</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>pimp sprint</Name>
+		<_Editor>
+			<Category>Run</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	<State>
+		<Name>pair dance a</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>pair dance b</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>pair dance d</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>pair dance c</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Dance</Category>
+			</_Editor>
+		</State>
+	<State>
+		<Name>warm hands</Name>
+		<_Editor>
+			<Category>Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</State>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>State</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Animation State</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>State Name</Display_Name>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Anim_Flags</Name>
+		<Type>Flags</Type>
+		<Display_Name>Animation Flags</Display_Name>
+		<Flag>Blocking Anim</Flag>
+		<Flag>Controller Block Anim</Flag>
+		<Flag>Ready Anim</Flag>
+		<Flag>Idle Anim</Flag>
+		<Flag>Flinch Anim</Flag>
+		<Flag>Turn Anim</Flag>
+		<Flag>Throw Anim</Flag>
+		<Flag>Fire Anim</Flag>
+		<Flag>Reload Anim</Flag>
+		<Flag>Drug Use Anim</Flag>
+		<Flag>Jump Anim</Flag>
+		<Flag>Takeoff/Land Anim</Flag>
+		<Flag>Failed Pulled Out Anim</Flag>
+		<Flag>Non-Strafe Variation</Flag>
+		<Flag>Failed Pullout Anim</Flag>
+		<Flag>Allow Swimming</Flag>
+		</Element>
+	<Element>
+		<Name>Vehicle_Anim_Seat</Name>
+		<Type>Selection</Type>
+		<Display_Name>Vehicle Animation</Display_Name>
+		<Required>false</Required>
+		<Choice>Driver</Choice>
+		<Choice>Passenger</Choice>
+		<Choice>Rear Driver</Choice>
+		</Element>
+	<ReferencedBy>GML1.xtbl</ReferencedBy>
+	<ReferencedBy>GML3.xtbl</ReferencedBy>
+	<ReferencedBy>GML4.xtbl</ReferencedBy>
+	<ReferencedBy>PFL1.xtbl</ReferencedBy>
+	<ReferencedBy>PML1.xtbl</ReferencedBy>
+	<ReferencedBy>CML1.xtbl</ReferencedBy>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Base</Name>
+		<Category>
+			<Name>Carry</Name>
+			</Category>
+		<Category>
+			<Name>Cower</Name>
+			</Category>
+		<Category>
+			<Name>Dance</Name>
+			</Category>
+		<Category>
+			<Name>Idles</Name>
+			</Category>
+		<Category>
+			<Name>Lean</Name>
+			</Category>
+		<Category>
+			<Name>Lean In Car</Name>
+			</Category>
+		<Category>
+			<Name>Lounge</Name>
+			</Category>
+		<Category>
+			<Name>Reactions</Name>
+			</Category>
+		<Category>
+			<Name>Sex</Name>
+			</Category>
+		<Category>
+			<Name>Sitting</Name>
+			</Category>
+		<Category>
+			<Name>Sleep</Name>
+			</Category>
+		<Category>
+			<Name>Tagging</Name>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Basic</Name>
+		</Category>
+	<Category>
+		<Name>Beer</Name>
+		</Category>
+	<Category>
+		<Name>Body Carry</Name>
+		</Category>
+	<Category>
+		<Name>Breakdancer</Name>
+		</Category>
+	<Category>
+		<Name>Cameraman</Name>
+		</Category>
+	<Category>
+		<Name>Combat</Name>
+		</Category>
+	<Category>
+		<Name>Cust</Name>
+		</Category>
+	<Category>
+		<Name>Driving</Name>
+		</Category>
+	<Category>
+		<Name>Drunk</Name>
+		</Category>
+	<Category>
+		<Name>Fall</Name>
+		</Category>
+	<Category>
+		<Name>Guitar Player</Name>
+		</Category>
+	<Category>
+		<Name>Helicopter</Name>
+		</Category>
+	<Category>
+		<Name>Interrogation</Name>
+		</Category>
+	<Category>
+		<Name>Jogger</Name>
+		</Category>
+	<Category>
+		<Name>Melee</Name>
+		</Category>
+	<Category>
+		<Name>Pipe Bomb</Name>
+		</Category>
+	<Category>
+		<Name>Preacher</Name>
+		</Category>
+	<Category>
+		<Name>Protester</Name>
+		</Category>
+	<Category>
+		<Name>Racergirl</Name>
+		</Category>
+	<Category>
+		<Name>Riding</Name>
+		</Category>
+	<Category>
+		<Name>Run</Name>
+		</Category>
+	<Category>
+		<Name>Stripper</Name>
+		</Category>
+	<Category>
+		<Name>Sunbather</Name>
+		</Category>
+	<Category>
+		<Name>Talking</Name>
+		</Category>
+	<Category>
+		<Name>TiedUp</Name>
+		</Category>
+	<Category>
+		<Name>Tourist</Name>
+		</Category>
+	<Category>
+		<Name>Vehicle Enter</Name>
+		</Category>
+	<Category>
+		<Name>Walk</Name>
+		</Category>
+	<Category>
+		<Name>Weapon</Name>
+		</Category>
+	<Category>
+		<Name>Zombie</Name>
+		</Category>
+	</EntryCategories>
+</root>

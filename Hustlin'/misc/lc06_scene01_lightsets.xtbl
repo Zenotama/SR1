@@ -1,0 +1,664 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>CH_Walllight02</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-8.6463 2.6074 -4.00409</Position>
+				<Orientation>0.0001 -1.0 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 3.825</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight03</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.73066 2.60727 6.17575</Position>
+				<Orientation>0.0001 -1.0 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 3.825</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.946 0.691 0.291</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-6.44495 1.38123 7.01208</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.225 6.95</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.408 0.84 0.981</Color>
+				<Multiplier>0.45</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-16.1867 1.38123 8.73178</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 6.175</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.934 0.946 0.824</Color>
+				<Multiplier>0.53</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-10.3656 1.89682 -0.770194</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 6.45</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>cs_photomanuel</Exclude_List>
+				<Exclude_List_Original_Names>Photo01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>16.0551 2.58857 -3.087</Position>
+				<Orientation>0.0001 -0.7071 0.0001 0.7072</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 5.0</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight01</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>16.0549 2.5887 2.08092</Position>
+				<Orientation>0.0001 -0.7071 0.0001 0.7072</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 5.0</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight04</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.70576 2.49356 -6.86768</Position>
+				<Orientation>0.0001 0.0001 -0.0001 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 3.825</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight05</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>10.5474 2.49369 -6.86744</Position>
+				<Orientation>0.0001 0.0001 -0.0001 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 3.825</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight07</Name>
+				<Type>omni</Type>
+				<Color>0.542 0.714 0.973</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.6188 2.54205 -8.34011</Position>
+				<Orientation>0.0001 0.0001 -0.0001 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 4.55</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight06</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.41491 2.39929 5.01079</Position>
+				<Orientation>0.0001 -1.0 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.7 3.825</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.408 0.84 0.981</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.72057 7.79941 -2.33105</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 7.85001</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.953 0.867 0.604</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.27883 7.3087 1.51296</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 9.00001</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight13</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.789 0.467</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>12.1446 12.4942 -8.92835</Position>
+				<Orientation>0.0001 -0.7071 0.0001 0.7072</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>6.70001 12.575</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Walllight12</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.702 0.283</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>17.4204 2.99615 -5.41525</Position>
+				<Orientation>0.0001 -0.7071 0.0001 0.7072</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 5.55</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_spot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.934 0.938</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.75112 15.5859 -0.142975</Position>
+				<Orientation>-0.0819 -0.9967 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.241728 0.414516</Hotspot>
+				<Attenuation>13.875 19.25</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_spot</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>6.6691 11.3712 -0.14238</Position>
+				<Orientation>0.0001 -1.0 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.36041 0.603884</Hotspot>
+				<Attenuation>12.1 16.35</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_Omni13</Name>
+				<Type>omni</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>17.6632 16.3774 -0.0599785</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 13.225</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-10.2271 4.03329 -8.85352</Position>
+				<Orientation>0.5483 0.0085 0.0129 0.8362</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.5 13.05</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_spot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.934 0.938</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-9.75112 15.5859 -0.142975</Position>
+				<Orientation>-0.0819 -0.9967 0.0001 0.0001</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.241728 0.414516</Hotspot>
+				<Attenuation>13.875 19.25</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>cs_photomanuel</Exclude_List>
+				<Exclude_List_Original_Names>Photo01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH photo Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.934 0.946 0.824</Color>
+				<Multiplier>0.12</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-10.3656 3.0544 -0.770194</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 6.45</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>TS_B_M_Dex-01 cs_dexdesk #PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>dex01 DexDesk01 pc01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH Troy Rim Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.934 0.946 0.824</Color>
+				<Multiplier>0.81</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.90531 1.89682 -3.34263</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 6.45</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>TS_B_M_Dex-01 cs_dexdesk #PLAYER# cs_photomanuel</Exclude_List>
+				<Exclude_List_Original_Names>dex01 DexDesk01 pc01 Photo01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH Dex fill Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.942 0.922 0.824</Color>
+				<Multiplier>0.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-11.5051 1.67523 0.431601</Position>
+				<Orientation>0.0001 0.1721 -0.0001 0.8459</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.8 3.6</Attenuation>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Exclude_List>cs_dexdesk #PLAYER# cs_photomanuel TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>DexDesk01 pc01 Photo01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_church_main</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

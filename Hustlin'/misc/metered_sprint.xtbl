@@ -1,0 +1,108 @@
+<root>
+<Table>
+	<SprintEntry>
+		<Name>Single Player</Name>
+		<UseTime>10</UseTime>
+		<RechargeTime>9</RechargeTime>
+		<DelayTime>2</DelayTime>
+		<PantPercentage>0.25</PantPercentage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<JumpPenalty>0.0</JumpPenalty>
+		<DivePenalty>0.33</DivePenalty>
+		</SprintEntry>
+	<SprintEntry>
+		<Name>Multiplayer</Name>
+		<UseTime>3</UseTime>
+		<RechargeTime>6</RechargeTime>
+		<DelayTime>2</DelayTime>
+		<PantPercentage>0.25</PantPercentage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<JumpPenalty>0.2</JumpPenalty>
+		<DivePenalty>0.2</DivePenalty>
+		</SprintEntry>
+	<SprintEntry>
+		<Name>MP Pimp</Name>
+		<UseTime>2</UseTime>
+		<RechargeTime>7</RechargeTime>
+		<DelayTime>2</DelayTime>
+		<PantPercentage>0.25</PantPercentage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<JumpPenalty>0.2</JumpPenalty>
+		<DivePenalty>0.2</DivePenalty>
+		</SprintEntry>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>SprintEntry</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Sprint Entry</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>UseTime</Name>
+		<Type>Float</Type>
+		<Display_Name>Use Time</Display_Name>
+		<Description>in seconds</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>RechargeTime</Name>
+		<Type>Float</Type>
+		<Display_Name>Recharge Time</Display_Name>
+		<Description>in seconds</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>DelayTime</Name>
+		<Type>Float</Type>
+		<Display_Name>Delay Time</Display_Name>
+		<Description>in seconds, delay between end of use and start of recharge</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>PantPercentage</Name>
+		<Type>Float</Type>
+		<Display_Name>Pant Percentage</Display_Name>
+		<Description>percentage of sprint bar where player will pant when standing</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>JumpPenalty</Name>
+		<Type>Float</Type>
+		<Display_Name>Jump Penalty</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>DivePenalty</Name>
+		<Type>Float</Type>
+		<Display_Name>Dive Penalty</Display_Name>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

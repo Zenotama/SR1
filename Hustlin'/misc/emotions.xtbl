@@ -1,0 +1,146 @@
+<root>
+<Table>
+	<Emotion>
+		<Name>Angry</Name>
+		<Face_Morph>AngryEye</Face_Morph>
+		<Mouth_Morph>AngryMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>0.3</Lipsync_Blend>
+		<Face_Fluctuation>0.3</Face_Fluctuation>
+		<Mouth_Fluctuation>0.3</Mouth_Fluctuation>
+		<Chance>0.15</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>Disgust</Name>
+		<Face_Morph>DisgustEye</Face_Morph>
+		<Mouth_Morph>DisgustMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>1</Lipsync_Blend>
+		<Face_Fluctuation>.2</Face_Fluctuation>
+		<Mouth_Fluctuation>.5</Mouth_Fluctuation>
+		<Chance>0.1</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>Fear</Name>
+		<Face_Morph>FearEye</Face_Morph>
+		<Mouth_Morph>FearMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>.1</Lipsync_Blend>
+		<Face_Fluctuation>.2</Face_Fluctuation>
+		<Mouth_Fluctuation>.2</Mouth_Fluctuation>
+		<Chance>0</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>Joy</Name>
+		<Face_Morph>JoyEye</Face_Morph>
+		<Mouth_Morph>JoyMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>0.4</Lipsync_Blend>
+		<Face_Fluctuation>0.2</Face_Fluctuation>
+		<Mouth_Fluctuation>0.4</Mouth_Fluctuation>
+		<Chance>0.15</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>Sad</Name>
+		<Face_Morph>SadEye</Face_Morph>
+		<Mouth_Morph>SadMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>1</Lipsync_Blend>
+		<Face_Fluctuation>.2</Face_Fluctuation>
+		<Mouth_Fluctuation>.3</Mouth_Fluctuation>
+		<Chance>0.2</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>Surprise</Name>
+		<Face_Morph>SurpriseEye</Face_Morph>
+		<Mouth_Morph>SurpriseMouth</Mouth_Morph>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Lipsync_Blend>.05</Lipsync_Blend>
+		<Face_Fluctuation>.25</Face_Fluctuation>
+		<Mouth_Fluctuation>.15</Mouth_Fluctuation>
+		<Chance>0</Chance>
+		</Emotion>
+	<Emotion>
+		<Name>None</Name>
+		<Face_Morph>None</Face_Morph>
+		<Mouth_Morph>None</Mouth_Morph>
+		<Lipsync_Blend>0.0</Lipsync_Blend>
+		<Face_Fluctuation>0.0</Face_Fluctuation>
+		<Mouth_Fluctuation>0.0</Mouth_Fluctuation>
+		<Chance>0.4</Chance>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Emotion>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Emotion</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Emotion Name</Display_Name>
+		<MaxLength>15</MaxLength>
+		</Element>
+	<Element>
+		<Name>Face_Morph</Name>
+		<Type>String</Type>
+		<Display_Name>Face Morph Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Mouth_Morph</Name>
+		<Type>String</Type>
+		<Display_Name>Mouth Morph Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Lipsync_Blend</Name>
+		<Type>Float</Type>
+		<Display_Name>Lipsync Blend Rate</Display_Name>
+		<Description>How much the mouth morph will blend with the lipsync animation.</Description>
+		<Default>0.1</Default>
+		</Element>
+	<Element>
+		<Name>Face_Fluctuation</Name>
+		<Type>Float</Type>
+		<Display_Name>Face Fluctuation</Display_Name>
+		<Description>How much the face morph fluctuates from 100% blended in.</Description>
+		<Default>0.2</Default>
+		</Element>
+	<Element>
+		<Name>Mouth_Fluctuation</Name>
+		<Type>Float</Type>
+		<Display_Name>Mouth Fluctuation</Display_Name>
+		<Description>How much the mouth morph fluctuates from 100% blended in.</Description>
+		<Default>0.2</Default>
+		</Element>
+	<Element>
+		<Name>Chance</Name>
+		<Type>Float</Type>
+		<Display_Name>Select Chance</Display_Name>
+		<Description>How often this emotion is chosen as the default emotion for a human</Description>
+		<Default>0.1</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

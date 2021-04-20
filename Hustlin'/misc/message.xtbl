@@ -1,0 +1,128 @@
+<root>
+   <Table>
+      <Message>
+         <Name>VL Stronghold</Name>
+         <Voice>VL Stronghold</Voice>
+         <_Editor>
+            <Category>Entries</Category>
+         </_Editor>
+         <Subtitles>
+            <Subtitle>
+               <String>Hey kid, it's Julius.</String>
+               <Delay>0.0</Delay>
+               <Duration>2.0</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+            <Subtitle>
+               <String>We found the Vice Kings hideout -</String>
+               <Delay>0.0</Delay>
+               <Duration>2.0</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+            <Subtitle>
+               <String>sendin' the location to your PDA now.</String>
+               <Delay>0.0</Delay>
+               <Duration>2.5</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+            <Subtitle>
+               <String>Go take 'em out!</String>
+               <Delay>0.0</Delay>
+               <Duration>1.5</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+         </Subtitles>
+      </Message>
+      <Message>
+         <Name>P5_Stronghold_Defeat</Name>
+         <Voice>P5_Stronghold_Defeat</Voice>
+         <NoName>
+            <Category>Entries</Category>
+         </NoName>
+         <_Editor>
+            <Category>Entries</Category>
+         </_Editor>
+         <Subtitles>
+            <Subtitle>
+               <String>Great job, kid.  You took out their leader.</String>
+               <Delay>0.0</Delay>
+               <Duration>2.0</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+            <Subtitle>
+               <String>This hood is ours now!</String>
+               <Delay>0.0</Delay>
+               <Duration>2.0</Duration>
+               <XSTR>-1</XSTR>
+            </Subtitle>
+         </Subtitles>
+      </Message>
+   </Table>
+
+   <TableTemplates>
+   </TableTemplates>
+
+   <TableDescription>
+      <Name>Message</Name>
+      <Type>TableDescription</Type>
+      <Description>Text and cell phone messages that are received in the game.</Description>
+      <Element>
+         <Name>Name</Name>
+         <Type>String</Type>
+         <Display_Name>Message Name</Display_Name>
+         <Description>The name of this particular message.</Description>
+      </Element>
+      <Element>
+         <Name>Voice</Name>
+         <Type>Reference</Type>
+         <Description>Voice to be played along with the text display.</Description>
+         <Required>false</Required>
+         <Reference>
+            <File>voice.xtbl</File>
+            <Type>Voice.Name</Type>
+         </Reference>
+      </Element>
+      <Element>
+         <Name>Subtitles</Name>
+         <Type>Grid</Type>
+         <Description>The list of subtitles for this message.</Description>
+         <Element>
+            <Name>Subtitle</Name>
+            <Type>Element</Type>
+            <Element>
+               <Name>String</Name>
+               <Type>String</Type>
+               <Display_Name>Subtitle String</Display_Name>
+               <Description>The (English) text for this line of dialogue.  Use the \ character to split lines.</Description>
+            </Element>
+            <Element>
+               <Name>Delay</Name>
+               <Type>Float</Type>
+               <Display_Name>Initial Delay</Display_Name>
+               <Description>The delay between the end of the previous line and the beginning of this line (negative values will cause this line to overlap with the previous line.)</Description>
+               <Default>0.0</Default>
+            </Element>
+            <Element>
+               <Name>Duration</Name>
+               <Type>Float</Type>
+               <Description>The amount of time that this subtitle line should remain on the screen.</Description>
+               <Default>2.0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>XSTR</Name>
+               <Type>Int</Type>
+               <Display_Name>Localization Index</Display_Name>
+               <Description>The index of this string in the subtitle localization table.  You should never change this </Description>
+               <Default>-1</Default>
+            </Element>
+         </Element>
+      </Element>
+   </TableDescription>
+
+   <EntryCategories>
+      <Category>
+         <Name>Entries</Name>
+      </Category>
+   </EntryCategories>
+</root>

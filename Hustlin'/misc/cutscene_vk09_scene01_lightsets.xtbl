@@ -1,0 +1,465 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>CH_FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.934 0.922 0.777</Color>
+				<Multiplier>1.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-5.1217 1.65452 4.28549</Position>
+				<Orientation>0.3767 -0.6746 -0.3945 0.4975</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.387463 0.666716</Hotspot>
+				<Attenuation>5.975 13.5</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.953 0.789</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.76928 1.25526 -3.34253</Position>
+				<Orientation>-0.3079 0.5731 0.6205 -0.4381</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.438078 0.710349</Hotspot>
+				<Attenuation>1.75 6.5</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 0.875</Color>
+				<Multiplier>1.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-3.49077 1.06739 -3.22593</Position>
+				<Orientation>0.0115 -0.9109 -0.3821 0.1556</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.41277 0.666716</Hotspot>
+				<Attenuation>1.025 1.75</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.636 0.573</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-0.2829 4.0023 1.00776</Position>
+				<Orientation>-0.0001 -0.0006 0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.925 4.8</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.977 0.859 0.604</Color>
+				<Multiplier>0.92</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-2.48728 4.0023 -3.28742</Position>
+				<Orientation>-0.0001 -0.0005 0.0001 0.8655</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.825 5.275</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.785 0.291</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.621645 1.57722 -6.06687</Position>
+				<Orientation>-0.0001 -0.0005 0.0001 0.8655</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.775 5.125</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.408 0.84 0.981</Color>
+				<Multiplier>0.45</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-8.10932 1.57722 -1.09075</Position>
+				<Orientation>-0.0001 -0.0005 0.0001 0.8655</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 3.7</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot04_rim</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.765 0.765</Color>
+				<Multiplier>1.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.785635 1.25526 -1.27611</Position>
+				<Orientation>-0.3372 -0.6856 -0.6051 -0.2244</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.387463 0.67457</Hotspot>
+				<Attenuation>2.25 4.875</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot05_player</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 0.883</Color>
+				<Multiplier>1.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.64367 1.88591 -2.1601</Position>
+				<Orientation>0.4796 -0.5002 -0.4087 0.594</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.289725 0.48782</Hotspot>
+				<Attenuation>0.824995 2.125</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot04_johnny</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 0.777</Color>
+				<Multiplier>1.1</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.44101 1.91358 -2.79097</Position>
+				<Orientation>0.1121 -0.7544 -0.633 0.1335</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.41277 0.741765</Hotspot>
+				<Attenuation>0.5 2.45</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot05_kingEnter</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.926 0.848</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.4675 1.72603 1.30177</Position>
+				<Orientation>0.353 -0.6407 -0.5221 0.4388</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.336849 0.392699</Hotspot>
+				<Attenuation>0.824995 6.05</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot07_king</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.914 0.777</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.26091 1.50101 -3.00121</Position>
+				<Orientation>0.4848 -0.5133 -0.4508 0.5462</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.523599 0.741765</Hotspot>
+				<Attenuation>0.524995 3.125</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot05_kingEnter01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.93 0.824</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.36521 1.72603 -0.0303714</Position>
+				<Orientation>0.3438 -0.6483 -0.5281 0.4275</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.610865 0.65188</Hotspot>
+				<Attenuation>0.5 4.0</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			<LightProperties>
+				<Name>CH_FreeSpot05_kingEnter02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.93 0.824</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.00612 1.72603 -3.94112</Position>
+				<Orientation>0.6299 0.0258 0.0172 0.7761</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>0.5 6.5</Attenuation>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_church_johnnyroom</Slate_Name>
+				<Level_Ambient>
+					<R>40</R>
+					<G>40</G>
+					<B>40</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>40</R>
+					<G>40</G>
+					<B>40</B>
+					</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

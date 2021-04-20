@@ -1,0 +1,237 @@
+<root>
+<Table>
+	<Activity>
+		<Name>wr02_race01</Name>
+		<VehicleClass>Open</VehicleClass>
+		<Levels>
+			<Level>
+				<Name>wr_racing01_race007</Name>
+				<DisplayName>WR02 Race - Checkpoint</DisplayName>
+				<AINitrous>False</AINitrous>
+				<Splines>False</Splines>
+				<Cash_Award>0</Cash_Award>
+				<Props_Award>0</Props_Award>
+				<Opponents>
+					<OppElement>
+						<Opponent>WR_X_M_Thug1-01</Opponent>
+						<DisplayName>Sal</DisplayName>
+						<Vehicle>car_4dr_sports01</Vehicle>
+						<Skill>6</Skill>
+						<VehicleVariant>Racer_01</VehicleVariant>
+						</OppElement>
+					<OppElement>
+						<Opponent>WR_X_M_Thug1-01</Opponent>
+						<DisplayName>Mac</DisplayName>
+						<Vehicle>car_4dr_sports01</Vehicle>
+						<Skill>6</Skill>
+						<VehicleVariant>Racer_02</VehicleVariant>
+						</OppElement>
+					<OppElement>
+						<Opponent>WR_X_M_Thug1-01</Opponent>
+						<DisplayName>Sydney</DisplayName>
+						<Vehicle>car_4dr_sports01</Vehicle>
+						<Skill>6</Skill>
+						<VehicleVariant>Racer_01</VehicleVariant>
+						</OppElement>
+					</Opponents>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Cash>0</Max_Cash>
+		<Max_Props>0</Max_Props>
+		<Script_File>wr_racing01</Script_File>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Description>Describes the activity</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>String</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>Where the activity will be started from</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Reward</Name>
+		<Type>Reference</Type>
+		<Description>Reward given after beating this circuit.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>vehicles.xtbl</File>
+			<Type>Vehicle.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>VehicleClass</Name>
+		<Type>Selection</Type>
+		<Display_Name>Racing Class</Display_Name>
+		<Default>Open</Default>
+		<Choice>SUV</Choice>
+		<Choice>Exotic</Choice>
+		<Choice>Lowrider</Choice>
+		<Choice>Stock</Choice>
+		<Choice>Open</Choice>
+		</Element>
+	<Element>
+		<Name>Script_File</Name>
+		<Type>String</Type>
+		<Description>Script file (.cts) prefix for the races listed.</Description>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Display_Name>Race Name</Display_Name>
+				<Description>Name of the race... Must correspond to a race created in the racing editor.</Description>
+				</Element>
+			<Element>
+				<Name>DisplayName</Name>
+				<Type>String</Type>
+				<Display_Name>Display Name</Display_Name>
+				<Description>Display name of the race.</Description>
+				</Element>
+			<Element>
+				<Name>AINitrous</Name>
+				<Type>Selection</Type>
+				<Display_Name>AI Nitrous Allowed</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Timed</Name>
+				<Type>Float</Type>
+				<Description>How long the race is in minutes.</Description>
+				<Required>false</Required>
+				<Default>2.0</Default>
+				<MinValue>0.1</MinValue>
+				</Element>
+			<Element>
+				<Name>Splines</Name>
+				<Type>Selection</Type>
+				<Display_Name>Use Racing Splines</Display_Name>
+				<Description>False: Use ambient splines
+True: Use racing splines</Description>
+				<Default>False</Default>
+				<Choice>False</Choice>
+				<Choice>True</Choice>
+				</Element>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Money</Display_Name>
+				<Description>Cash to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Respect</Display_Name>
+				<Description>Props to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Opponents</Name>
+				<Type>Grid</Type>
+				<Required>false</Required>
+				<Element>
+					<Name>OppElement</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>Opponent</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>character.xtbl</File>
+							<Type>Character.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>DisplayName</Name>
+						<Type>String</Type>
+						<Display_Name>Display Name</Display_Name>
+						<Description>Display name of the opponent.</Description>
+						</Element>
+					<Element>
+						<Name>Vehicle</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>vehicles.xtbl</File>
+							<Type>Vehicle.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>VehicleVariant</Name>
+						<Type>String</Type>
+						</Element>
+					<Element>
+						<Name>Skill</Name>
+						<Type>Selection</Type>
+						<Choice>1</Choice>
+						<Choice>2</Choice>
+						<Choice>3</Choice>
+						<Choice>4</Choice>
+						<Choice>5</Choice>
+						<Choice>6</Choice>
+						</Element>
+					</Element>
+				<Max_Children>3</Max_Children>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Max_Children>4</Max_Children>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Max_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Cash Award</Display_Name>
+		<Description>Cash award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Props Award</Display_Name>
+		<Description>Props award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

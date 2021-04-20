@@ -1,0 +1,659 @@
+<root>
+<Table>
+	<Activity>
+		<Name>wr_hijack01</Name>
+		<Levels>
+			<Level>
+				<Vehicle_Type>car_2dr_compact03</Vehicle_Type>
+				<Name>wr_hijack01_L1_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>150</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>1</Notoriety_Level>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Evade_Driver_Damage>1</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>1</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Attack_Evade>true</Attack_Evade>
+				<Ram_Evade>true</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>10</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>100</Cash_Award>
+				<Props_Award>700</Props_Award>
+				<Use_Roads>true</Use_Roads>
+				<Target_Start>wr_hijack01_$n_L1_target</Target_Start>
+				<Ped_Evade_Radius>0</Ped_Evade_Radius>
+				<Notoriety_type>Rollerz</Notoriety_type>
+				<Health_multiplier>1.0</Health_multiplier>
+				<Vehicle_Variant>Gang_WR</Vehicle_Variant>
+				</Level>
+			<Level>
+				<Vehicle_Type>car_4dr_standard03</Vehicle_Type>
+				<Name>wr_hijack01_L2_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>140</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>2</Notoriety_Level>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>1</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>1</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Attack_Evade>true</Attack_Evade>
+				<Ram_Evade>true</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>25</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>250</Cash_Award>
+				<Props_Award>800</Props_Award>
+				<Target_Start>wr_hijack01_$n_L2_target</Target_Start>
+				<Ped_Evade_Radius>5</Ped_Evade_Radius>
+				<Notoriety_type>Rollerz</Notoriety_type>
+				<Health_multiplier>1.0</Health_multiplier>
+				<Vehicle_Variant>Gang_WR</Vehicle_Variant>
+				</Level>
+			<Level>
+				<Vehicle_Type>car_4dr_taxi01</Vehicle_Type>
+				<Name>wr_hijack01_L3_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>130</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>2</Notoriety_Level>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>0</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>0</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Attack_Evade>false</Attack_Evade>
+				<Ram_Evade>false</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>40</Stop_Vehicle_Damage>
+				<Attack_Stop>false</Attack_Stop>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>900</Props_Award>
+				<Target_Start>wr_hijack01_$n_L3_target</Target_Start>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Kill_notoriety>2</Kill_notoriety>
+				<Notoriety_type>Police</Notoriety_type>
+				<Health_multiplier>1.5</Health_multiplier>
+				</Level>
+			<Level>
+				<Vehicle_Type>car_4dr_luxury03</Vehicle_Type>
+				<Name>wr_hijack01_L4_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>120</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>2</Notoriety_Level>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>0</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>0</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Attack_Evade>true</Attack_Evade>
+				<Ram_Evade>false</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>40</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>1000</Cash_Award>
+				<Props_Award>1000</Props_Award>
+				<Target_Start>wr_hijack01_$n_L4_target</Target_Start>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Kill_notoriety>2</Kill_notoriety>
+				<Notoriety_type>Rollerz</Notoriety_type>
+				<Health_multiplier>2.5</Health_multiplier>
+				<Passenger>wr_hijack01_L6_pass</Passenger>
+				<Vehicle_Variant>Gang_WR</Vehicle_Variant>
+				</Level>
+			<Level>
+				<Vehicle_Type>truck_2dr_pickup03</Vehicle_Type>
+				<Name>wr_hijack01_L5_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>110</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>3</Notoriety_Level>
+				<Kill_notoriety>3</Kill_notoriety>
+				<Target_Start>wr_hijack01_$n_L5_target</Target_Start>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>0</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>0</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Attack_Evade>false</Attack_Evade>
+				<Ram_Evade>false</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>45</Stop_Vehicle_Damage>
+				<Attack_Stop>false</Attack_Stop>
+				<Cash_Award>1500</Cash_Award>
+				<Props_Award>1100</Props_Award>
+				<Notoriety_type>Police</Notoriety_type>
+				<Health_multiplier>2.5</Health_multiplier>
+				</Level>
+			<Level>
+				<Vehicle_Type>car_4dr_sports01</Vehicle_Type>
+				<Name>wr_hijack01_L6_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>100</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>3</Notoriety_Level>
+				<Kill_notoriety>3</Kill_notoriety>
+				<Target_Start>wr_hijack01_$n_L6_target</Target_Start>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Speed>10</Speed>
+				<Evade_Driver_Damage>60</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>60</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Attack_Evade>true</Attack_Evade>
+				<Ram_Evade>true</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>45</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>2000</Cash_Award>
+				<Props_Award>1200</Props_Award>
+				<Passenger>wr_hijack01_L6_pass</Passenger>
+				<Notoriety_type>Rollerz</Notoriety_type>
+				<Health_multiplier>3.5</Health_multiplier>
+				<Vehicle_Variant>Gang_WR</Vehicle_Variant>
+				</Level>
+			<Level>
+				<Vehicle_Type>truck_2dr_armored01</Vehicle_Type>
+				<Name>wr_hijack01_L7_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>100</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>3</Notoriety_Level>
+				<Target_Start>wr_hijack01_$n_L7_target</Target_Start>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>0</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>0</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Attack_Evade>false</Attack_Evade>
+				<Ram_Evade>false</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>45</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>3000</Cash_Award>
+				<Props_Award>1300</Props_Award>
+				<Notoriety_type>Police</Notoriety_type>
+				<Health_multiplier>3.5</Health_multiplier>
+				<Kill_notoriety>4</Kill_notoriety>
+				</Level>
+			<Level>
+				<Vehicle_Type>suv_4dr_luxury06</Vehicle_Type>
+				<Name>wr_hijack01_L8_drv</Name>
+				<Tail_Radius>100</Tail_Radius>
+				<Seek_Timer>100</Seek_Timer>
+				<Lost_Timer>30</Lost_Timer>
+				<Notoriety_Level>3</Notoriety_Level>
+				<Target_Start>wr_hijack01_$n_L8_target</Target_Start>
+				<Return_Location>wr_hijack01_$return</Return_Location>
+				<Use_Roads>true</Use_Roads>
+				<Evade_Driver_Damage>0</Evade_Driver_Damage>
+				<Evade_Vehicle_Damage>0</Evade_Vehicle_Damage>
+				<Evade_Radius>50</Evade_Radius>
+				<Ped_Evade_Radius>10</Ped_Evade_Radius>
+				<Attack_Evade>true</Attack_Evade>
+				<Ram_Evade>false</Ram_Evade>
+				<Ram_Angle>60</Ram_Angle>
+				<Stop_Driver_Damage>100</Stop_Driver_Damage>
+				<Stop_Vehicle_Damage>45</Stop_Vehicle_Damage>
+				<Attack_Stop>true</Attack_Stop>
+				<Cash_Award>5000</Cash_Award>
+				<Props_Award>1400</Props_Award>
+				<Passenger>wr_hijack01_L8_pass</Passenger>
+				<Notoriety_type>Rollerz</Notoriety_type>
+				<Kill_notoriety>4</Kill_notoriety>
+				<Health_multiplier>3.5</Health_multiplier>
+				<Vehicle_Variant>Gang_WR</Vehicle_Variant>
+				</Level>
+			</Levels>
+		<Max_Cash>0</Max_Cash>
+		<Max_Props>0</Max_Props>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>wr_hijack01_$activate</Start_Location>
+		<Cutscene>hijacking_truckyard</Cutscene>
+		<Free_car>wr_hijack01_car</Free_car>
+		<Unlockables>
+			<Unlockable>wr_hijack</Unlockable>
+			</Unlockables>
+		<Warp_Location>wr_hijack01_nav-warp</Warp_Location>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Description>A description of the activity</Description>
+	<MaxCount>2</MaxCount>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>A unique name for the region</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>Where the activity will be started from</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\wr_hijack01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Warp_Location</Name>
+		<Type>Reference</Type>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\wr_hijack01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Free_car</Name>
+		<Type>Reference</Type>
+		<Display_Name>Provided vehicle</Display_Name>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\wr_hijack01_vehicles.xtbl</File>
+			<Type>VehicleReference.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Description>All of the levels available in the region.</Description>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Description>Description of a level</Description>
+			<Element>
+				<Name>Vehicle_Type</Name>
+				<Type>Reference</Type>
+				<Display_Name>Vehicle Type</Display_Name>
+				<Description>What type of vehicle should be spawned.</Description>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Vehicle_Variant</Name>
+				<Type>String</Type>
+				<Display_Name>Vehicle Variant</Display_Name>
+				<Description>Which variant of this vehicle to use.</Description>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Driver</Display_Name>
+				<Description>What type of character the driver will be.</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+					<Type>NPCReference.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Tail_Radius</Name>
+				<Type>Float</Type>
+				<Display_Name>Tailing Radius</Display_Name>
+				<Description>How close you must be to the vehicle in order to be tailing it (meters).</Description>
+				<Default>40</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Seek_Timer</Name>
+				<Type>Int</Type>
+				<Display_Name>Seek Time</Display_Name>
+				<Description>How many seconds you have to initially get within tailing distance of the vehicle.</Description>
+				<Default>120</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Lost_Timer</Name>
+				<Type>Int</Type>
+				<Display_Name>Lost Time</Display_Name>
+				<Description>How many seconds you have to get back within tailing distance after losing it.</Description>
+				<Default>15</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Notoriety_Level</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety Level</Display_Name>
+				<Description>What level of police notoriety hijacking the vehicle should cause.</Description>
+				<Default>2</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				<UseSlider>True</UseSlider>
+				</Element>
+			<Element>
+				<Name>Kill_notoriety</Name>
+				<Type>Int</Type>
+				<Display_Name>Kill Notoriety</Display_Name>
+				<Required>false</Required>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>Notoriety_type</Name>
+				<Type>Reference</Type>
+				<Display_Name>Notoriety type</Display_Name>
+				<Reference>
+					<File>teams.xtbl</File>
+					<Type>Team.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Target_Start</Name>
+				<Type>Reference</Type>
+				<Display_Name>Target Start</Display_Name>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\wr_hijack01_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Return_Location</Name>
+				<Type>Reference</Type>
+				<Display_Name>Return Location</Display_Name>
+				<Description>Place you must return the stolen vehicle to.</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\wr_hijack01_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Use_Roads</Name>
+				<Type>Selection</Type>
+				<Display_Name>Use Roads</Display_Name>
+				<Description>Whether the vehicle should try and use roads to get from point-to-point or just go straight</Description>
+				<Default>true</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Speed</Name>
+				<Type>Float</Type>
+				<Display_Name>Speed Override</Display_Name>
+				<Description>Only used for navmesh pathfinding.  By default, the vehicle will go at top speed.  If you'd like it to go at a more reasonable pace, enter a speed value in meters per second here.</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Health_multiplier</Name>
+				<Type>Float</Type>
+				<Display_Name>Hp multiplier</Display_Name>
+				<Description>Adjust the health of the target vehicle</Description>
+				<Default>1.0</Default>
+				</Element>
+			<Element>
+				<Name>Evade_Driver_Damage</Name>
+				<Type>Int</Type>
+				<Display_Name>Driver Evade Damage</Display_Name>
+				<Description>Percent of damage to driver that will cause evade</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Evade_Vehicle_Damage</Name>
+				<Type>Int</Type>
+				<Display_Name>Vehicle Evade Damage</Display_Name>
+				<Description>Percent of damage to vehicle that will cause evade</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Evade_Radius</Name>
+				<Type>Float</Type>
+				<Display_Name>Evade Radius</Display_Name>
+				<Description>How close the player must be to cause evade behavior.  Only active when both evade damage thresholds are zero.</Description>
+				<Default>30</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Ped_Evade_Radius</Name>
+				<Type>Int</Type>
+				<Display_Name>Ped Evade Radius</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Attack_Evade</Name>
+				<Type>Selection</Type>
+				<Display_Name>Attack on Evade</Display_Name>
+				<Description>Whether the driver should attack on evade or not</Description>
+				<Default>false</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Ram_Evade</Name>
+				<Type>Selection</Type>
+				<Display_Name>Ram on Evade</Display_Name>
+				<Description>Whether the vehicle should ram on evade or not.</Description>
+				<Default>false</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Ram_Angle</Name>
+				<Type>Float</Type>
+				<Display_Name>Ram Angle</Display_Name>
+				<Description>Maximum angle between vehicle front and player direction that will cause the vehicle to ram (degrees).</Description>
+				<Default>60</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>90</MaxValue>
+				</Element>
+			<Element>
+				<Name>Stop_Driver_Damage</Name>
+				<Type>Int</Type>
+				<Display_Name>Driver Stop Damage</Display_Name>
+				<Description>Percent of damage to driver that will cause stop and exit</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Stop_Vehicle_Damage</Name>
+				<Type>Int</Type>
+				<Display_Name>Vehicle Stop Damage</Display_Name>
+				<Description>Percent of damage to vehicle that will cause stop and exit</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Attack_Stop</Name>
+				<Type>Selection</Type>
+				<Display_Name>Attack on Stop</Display_Name>
+				<Description>Whether the driver should attack the player when the vehicle stops.</Description>
+				<Default>false</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Cash Award</Display_Name>
+				<Description>Cash to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Props Award</Display_Name>
+				<Description>Props to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Passenger</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+					<Type>NPCReference.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Escorts</Name>
+				<Type>Grid</Type>
+				<Required>false</Required>
+				<Element>
+					<Name>Escort</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>Vehicle</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>vehicles.xtbl</File>
+							<Type>Vehicle.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Vehicle_Variant</Name>
+						<Type>String</Type>
+						<Display_Name>Vehicle Variant</Display_Name>
+						<Description>Which variant of this vehicle to use.</Description>
+						<Required>false</Required>
+						</Element>
+					<Element>
+						<Name>Driver</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+							<Type>NPCReference.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Pass1</Name>
+						<Type>Reference</Type>
+						<Display_Name>Passenger 1</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+							<Type>NPCReference.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Pass2</Name>
+						<Type>Reference</Type>
+						<Display_Name>Passenger 2</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+							<Type>NPCReference.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Pass3</Name>
+						<Type>Reference</Type>
+						<Display_Name>Passenger 3</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\wr_hijack01_npcs.xtbl</File>
+							<Type>NPCReference.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Start_Nav</Name>
+						<Type>Reference</Type>
+						<Display_Name>Starting Navpoint</Display_Name>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\wr_hijack01_navpoints.xtbl</File>
+							<Type>Navpoint.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Escort_Flags</Name>
+						<Type>Flags</Type>
+						<Display_Name>Escort Flags</Display_Name>
+						<Description>Ram - attempt to ram the attacker to defend the target
+No guns - passengers will not attack the PC with weapons
+
+If neither is set, the escort will act much like a notoriety police spawn.</Description>
+						<Flag>Ram</Flag>
+						<Flag>No guns</Flag>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Helptext</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Max_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Cash Award</Display_Name>
+		<Description>Cash award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Props Award</Display_Name>
+		<Description>Props to be given for completing the last level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Unlockables</Name>
+		<Type>Grid</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>Unlockable</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>unlockables.xtbl</File>
+				<Type>Unlockable.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

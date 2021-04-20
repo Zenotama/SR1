@@ -1,0 +1,664 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>PentSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-8.6925 9.65121 -27.1361</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.200713 0.43895</Hotspot>
+				<Attenuation>17.65 19.025</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.564977 3.92844 -1.35667</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot39</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.48694 3.92844 -34.8052</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot40</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.27788 3.92844 -27.9673</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot41</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.83288 3.92844 -11.2241</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot48</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.79373 -1.49162 -17.6869</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentBB Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.942 0.899 0.769</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.1487 9.48664 -23.6977</Position>
+				<Orientation>-0.0001 -0.4817 0.0001 0.8764</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.975 20.775</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentBB Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.875 0.706 0.487</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.56761 3.34678 -4.8023</Position>
+				<Orientation>-0.0001 -0.4817 0.0001 0.8764</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.850001 2.5</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_50</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.58838 3.92844 -1.71009</Position>
+				<Orientation>-0.0336 -0.4804 -0.0612 0.8743</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.285361 0.411898</Hotspot>
+				<Attenuation>1.175 4.9</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_51</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.42944 3.92844 -0.168746</Position>
+				<Orientation>0.0459 -0.481 -0.0253 0.8753</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.374373</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni01</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.934 0.757</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.15724 4.46267 -2.30899</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 7.0</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentBB Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.879 0.769</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.66014 1.38447 -3.99836</Position>
+				<Orientation>-0.0001 -0.4817 0.0001 0.8764</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.3 2.55</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_53</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.23645 3.92844 1.70935</Position>
+				<Orientation>0.0459 -0.481 -0.0253 0.8753</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.374373</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_54</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.00556902 3.92844 3.66463</Position>
+				<Orientation>0.0459 -0.481 -0.0253 0.8753</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.374373</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_55</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.180182 3.92844 -3.4687</Position>
+				<Orientation>-0.0336 -0.4804 -0.0612 0.8743</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.285361 0.411898</Hotspot>
+				<Attenuation>1.175 4.9</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_56</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.0415 3.37174 -3.00873</Position>
+				<Orientation>0.1447 -0.475 -0.0795 0.8644</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.340339</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_57</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.23448 3.37174 -1.13064</Position>
+				<Orientation>0.1447 -0.475 -0.0795 0.8644</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.436332</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_58</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.4765 3.37174 0.824647</Position>
+				<Orientation>0.1447 -0.475 -0.0795 0.8644</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.234747 0.436332</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_59</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.993 0.981 0.922</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.00556671 2.77516 -0.638697</Position>
+				<Orientation>-0.3152 -0.4034 -0.5289 0.677</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.162316 0.179769</Hotspot>
+				<Attenuation>1.475 5.575</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot47</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.19851 -1.49162 4.34078</Position>
+				<Orientation>0.0 -0.4816 0.0 0.8765</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.308051 0.612611</Hotspot>
+				<Attenuation>4.95 5.625</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_52</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.993 0.906 0.769</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.2778 1.61026 7.6788</Position>
+				<Orientation>-0.3406 -0.3406 -0.6198 0.6198</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.174533 0.349066</Hotspot>
+				<Attenuation>3.1 17.95</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_elevWall</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.82397 2.71435 -3.34563</Position>
+				<Orientation>-0.6942 -0.135 0.135 0.6942</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.1309 0.349066</Hotspot>
+				<Attenuation>1.175 4.0</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot_elevWall01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.953 0.887</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.19712 2.71435 -4.4217</Position>
+				<Orientation>-0.5087 0.4912 -0.4912 0.5087</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.1309 0.349066</Hotspot>
+				<Attenuation>1.175 4.0</Attenuation>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vk09_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>40</R>
+					<G>40</G>
+					<B>40</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>40</R>
+					<G>40</G>
+					<B>40</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

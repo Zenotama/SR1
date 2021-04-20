@@ -1,0 +1,2808 @@
+<root>
+<Table>
+	<Skeleton_Set>
+		<Name>MASCOT</Name>
+		<Groups>
+			<Group>
+				<States>
+					<State>
+						<ID>run on fire</ID>
+						<Animation>
+							<Filename>pml1_bs_run_onf.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>stand</ID>
+						<Animation>
+							<Filename>pml1_bs_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>left-foot</Name>
+								<Frame>1</Frame>
+								</Trigger>
+							<Trigger>
+								<Name>right-foot</Name>
+								<Frame>17</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 1</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 2</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 3</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 4</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 5</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>left-foot</Name>
+								<Frame>8</Frame>
+								</Trigger>
+							<Trigger>
+								<Name>right-foot</Name>
+								<Frame>1</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run on fire</ID>
+						<Animation>
+							<Filename>pml1_bs_run_onf.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower stand</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower stand variant 1</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower stand variant 2</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower stand variant 3</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>surrender</ID>
+						<Animation>
+							<Filename>PML1_BS_SU.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower run</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_run.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>left-foot</Name>
+								<Frame>12</Frame>
+								</Trigger>
+							<Trigger>
+								<Name>right-foot</Name>
+								<Frame>5</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower run variant 1</ID>
+						<Animation>
+							<Filename>pml1_bs_run.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>cower run variant 3</ID>
+						<Animation>
+							<Filename>pml1_bs_run.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>stand ready</ID>
+						<Animation>
+							<Filename>pml1_mc_rd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk ready</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_walk.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>fall dead</ID>
+						<Animation>
+							<Filename>gml1_fl_dead.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>panic fall</ID>
+						<Animation>
+							<Filename>gml1_fl_pan.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>angry stand</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_reac_ang.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 6</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 7</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 8</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 9</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 10</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 11</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>walk variant 12</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run variant 1</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run variant 2</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run variant 3</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>run variant 4</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>dance a</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_dance_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>dance b</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_dance_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>dance c</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_dance_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>dance d</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_dance_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>breakdancer stand</ID>
+						<Animation>
+							<Filename>pml1_bd_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>drunk stand</ID>
+						<Animation>
+							<Filename>pml1_bs_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>drunk walk</ID>
+						<Animation>
+							<Filename>pml1_bs_walk_l.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>drunk run</ID>
+						<Animation>
+							<Filename>pml1_bs_run_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>combat stand</ID>
+						<Animation>
+							<Filename>pml1_mc_rd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>surrender walk</ID>
+						<Animation>
+							<Filename>pml1_bs_su_walk.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>left-foot</Name>
+								<Frame>3</Frame>
+								</Trigger>
+							<Trigger>
+								<Name>right-foot</Name>
+								<Frame>19</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					</States>
+				<Actions>
+					<Action>
+						<ID>trans Sitting to Stand</ID>
+						<Animation>
+							<Filename>PML1_BS_ST_To_SD.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Sitting</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_To_ST.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Sitting Paper</ID>
+						<Animation>
+							<Filename>pml1_bs_st_rdppr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Sitting Book</ID>
+						<Animation>
+							<Filename>PML1_BS_ST_RdBk.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props>
+							<Prop>
+								<Name>magazine</Name>
+								<AttachPoint>Left Hand</AttachPoint>
+								<StartFrame>0</StartFrame>
+								<EndFrame>0</EndFrame>
+								</Prop>
+							</Props>
+						</Action>
+					<Action>
+						<ID>stand Turn Left</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Sttle_Lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>stand Turn Right</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Sttle_Rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 1</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 2</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_e.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 3</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_h.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>22</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Spine Middle</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>22</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Spine Middle</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>372</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Spine Middle</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>372</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Spine Middle</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>unique Hit on Girl</ID>
+						<Animation>
+							<Filename>pml1_bs_uniq_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>unique B</ID>
+						<Animation>
+							<Filename>pml1_bs_uniq_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Avoid Person</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Reac_AvP.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Wave</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Reac_Wav.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Surprised</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Reac_Srp.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>7</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Left Cheek</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>7</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Right Cheek</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>16</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Left Cheek</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>16</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Right Cheek</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>22</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>22</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>46</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>47</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>54</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Right Forehead</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>54</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Left Hip</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>76</Frame>
+								<Blend>15</Blend>
+								<Situation>VID Left Hip</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>93</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Right Forehead</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>108</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Left Head</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>108</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Right Head</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>124</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Left Head</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>124</Frame>
+								<Blend>5</Blend>
+								<Situation>VID Right Head</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Jeer</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Reac_Jer.animx</Filename>
+							<Preload>false</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react horrified</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Reac_Hrf.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>1</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>83</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>103</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>135</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Mouth</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>192</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Forehead</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>243</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Forehead</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react melee watch</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_reac_wac.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Surrender</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_To_SU.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>critical end</Name>
+								<Frame>16</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Surrender to Stand</ID>
+						<Animation>
+							<Filename>pml1_bs_su_to_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>critical end</Name>
+								<Frame>138</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Sell Shady</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Situ_SSh.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>1</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Buy Shady</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_situ_bsh.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>1</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Sell Item</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Situ_Sel.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Buy Item</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Situ_BIt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Deal Drugs</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_situ_ssh.animx</Filename>
+							<Preload>false</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit React Drugs</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Situ_BSh.animx</Filename>
+							<Preload>false</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Dust Off</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_situ_dst.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sit Spit</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Situ_Spt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						<Sound>
+							<ID>ANI_PML1_SPIT01</ID>
+							</Sound>
+						</Action>
+					<Action>
+						<ID>sit Peeing</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_situ_pee.animx</Filename>
+							<Preload>false</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>talk submissive</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Talk_Sub.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>talk confrontational</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Talk_Cnf.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>talk yell</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_talk_yel.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Cower to Stand</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_to_sd_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Cower</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_to_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>dive</ID>
+						<Animation>
+							<Filename>pml1_bs_dv.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower Run Fall</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_run_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower Trip</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_run_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>MC ready to stand</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_to_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch L 1</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkl_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>16</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch L 2</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkl_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>13</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch R 1</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkr_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>7</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch R 2</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkr_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>8</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>finish L 1</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkfl_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>20</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>finish L 2</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkfl_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>21</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>finish R 1</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkfr_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>23</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>finish R 2</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkfr_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>18</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone stomp short</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkps_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>20</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone stomp med</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkps_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>13</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone stomp long</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkps_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>26</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone kick short</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkpk_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>15</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone kick med</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkpk_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>prone kick long</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_atkpk_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch move l</ID>
+						<Animation>
+							<Filename>PML1_MC_RD_AttkM_Lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>17</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>punch move r</ID>
+						<Animation>
+							<Filename>PML1_MC_RD_AttkM_Rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>impact start</Name>
+								<Frame>19</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>back falldown</ID>
+						<Animation>
+							<Filename>gml1_fl_bk.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>back getup</ID>
+						<Animation>
+							<Filename>GML1_FL_BK_Getup.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>fwd falldown</ID>
+						<Animation>
+							<Filename>GML1_FL_FR.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>fwd getup</ID>
+						<Animation>
+							<Filename>GML1_FL_FR_Getup.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>land hard</ID>
+						<Animation>
+							<Filename>GML1_FL_Hrd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>land slam</ID>
+						<Animation>
+							<Filename>GML1_FL_Slm.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Startle</ID>
+						<Animation>
+							<Filename>gml1_bs_sd_reac_strt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react Startle Run</ID>
+						<Animation>
+							<Filename>gml1_bs_run_strt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch bullet front</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_frn.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch bullet back</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_bck.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch bullet left</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch bullet right</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_frn.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_stm.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front left high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_upl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front left low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_lwl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front right high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_upr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee front right low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_lwr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee back high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_bhh.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee back low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnch_bhl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee left high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee left low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee right high</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flinch melee right low</ID>
+						<Animation>
+							<Filename>pml1_mc_rd_flnfa_rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 4</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_e.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>118</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Right Rib</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>154</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Right Rib</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 5</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_h.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 6</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_i.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 7</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>130</Frame>
+								<Blend>11</Blend>
+								<Situation>VID Left Head Top</Situation>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>130</Frame>
+								<Blend>11</Blend>
+								<Situation>VID Right Head Top</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>337</Frame>
+								<Blend>15</Blend>
+								<Situation>VID Left Head Top</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>337</Frame>
+								<Blend>15</Blend>
+								<Situation>VID Right Head Top</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle variant 8</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle Greet</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Idle_GrF.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle Greet Move</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Idle_GrFM.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle adjustCrotch</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_h.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>43</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Crotch</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>135</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Crotch</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle adjustCrotch Move</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_h.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>44</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Crotch</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>120</Frame>
+								<Blend>20</Blend>
+								<Situation>VID Crotch</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle scratchAss</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>42</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Butt</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>106</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Butt</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle scratchAss Move</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>10</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Butt</Situation>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>82</Frame>
+								<Blend>10</Blend>
+								<Situation>VID Butt</Situation>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle tie Shoe</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>idle Fix Hair</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_idle_i.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>react applause</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_reac_app.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						<Sound>
+							<ID>ANI_PML1_REACT_APPLAUSE01</ID>
+							</Sound>
+						</Action>
+					<Action>
+						<ID>react angry</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_reac_ang.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Cower to Stand B</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_to_sd_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Cower B</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_to_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Cower to Stand C</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_to_sd_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Cower C</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_to_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Cower to Stand D</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_to_sd_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans Stand to Cower D</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_to_cw_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Two Person Dance A</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_tpdnc_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Two Person Dance B</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_tpdnc_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Two Person Dance C</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_tpdnc_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Two Person Dance D</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_tpdnc_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans read to stand</ID>
+						<Animation>
+							<Filename>pml1_bs_mr_to_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>trans stand to read</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_to_mr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>breakdancer poplock</ID>
+						<Animation>
+							<Filename>pml1_bd_pl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>breakdancer backspin</ID>
+						<Animation>
+							<Filename>pml1_bd_ba.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>drunk beg</ID>
+						<Animation>
+							<Filename>pml1_dk_sd_beg.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>drunk piss</ID>
+						<Animation>
+							<Filename>pml1_dk_sd_pswl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						<Sound>
+							<ID>ANI_PML1_PISSONWALL01</ID>
+							</Sound>
+						</Action>
+					<Action>
+						<ID>drunk vomit</ID>
+						<Animation>
+							<Filename>pml1_dk_sd_vom.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>bj get startle</ID>
+						<Animation>
+							<Filename>PML1_BS_BJ_Strtl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sex give startle</ID>
+						<Animation>
+							<Filename>PML1_BS_SX_Strtl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>sleep startled</ID>
+						<Animation>
+							<Filename>pml1_bs_sp_strtl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower startle</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_strtl_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>critical end</Name>
+								<Frame>50</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower startle b</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_strtl_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower startle c</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_strtl_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>cower startle d</ID>
+						<Animation>
+							<Filename>pml1_bs_cw_strtl_d.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>flip off</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_talk_cnf.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>compliment</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_talk_sub.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>Sitting Startled</ID>
+						<Animation>
+							<Filename>pml1_bs_st_strtl.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>surrender talk</ID>
+						<Animation>
+							<Filename>pml1_bs_su_talk.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>surrender stall A</ID>
+						<Animation>
+							<Filename>pml1_bs_su_stall_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>surrender stall B</ID>
+						<Animation>
+							<Filename>pml1_bs_su_stall_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>surrender open safe</ID>
+						<Animation>
+							<Filename>pml1_bs_su_opnsfe.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>open door</Name>
+								<Frame>100</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						<Sound>
+							<ID>ANI_SAFE_OPEN</ID>
+							</Sound>
+						</Action>
+					<Action>
+						<ID>stand shuffle left</ID>
+						<Animation>
+							<Filename>pml1_bs_sd_sttle_lft.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>stand shuffle right</ID>
+						<Animation>
+							<Filename>PML1_BS_SD_Sttle_Rgt.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>watermelon short</ID>
+						<Animation>
+							<Filename>PML1_Watermelon_Short.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>watermelon long</ID>
+						<Animation>
+							<Filename>PML1_Watermelon_Long.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					</Actions>
+				<group>Default</group>
+				</Group>
+			</Groups>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Parent_Skeleton>PML1</Parent_Skeleton>
+		</Skeleton_Set>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Skeleton_Set</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Skeleton Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Skeleton Name</Display_Name>
+		<Description>The unique name for the skeleton.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Parent_Skeleton</Name>
+		<Type>String</Type>
+		<Display_Name>Parent Skeleton</Display_Name>
+		<Description>The parent skeleton for this skeleton.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Groups</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Group</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>group</Name>
+				<Type>Reference</Type>
+				<Display_Name>Group</Display_Name>
+				<Unique>true</Unique>
+				<Reference>
+					<File>anim_groups.xtbl</File>
+					<Type>Anim_Group.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>States</Name>
+				<Type>Grid</Type>
+				<Description>The list of animation states for this skeleton.</Description>
+				<Element>
+					<Name>State</Name>
+					<Type>Element</Type>
+					<Description>An animation state for the skeleton.</Description>
+					<Element>
+						<Name>ID</Name>
+						<Type>Reference</Type>
+						<Description>The unique ID for this animation state.</Description>
+						<Reference>
+							<File>anim_states.xtbl</File>
+							<Type>State.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Animation</Name>
+						<Type>Filename</Type>
+						<Description>The animation filename for this animation state.</Description>
+						<Extension>animx</Extension>
+						<StartingPath>data\anim</StartingPath>
+						</Element>
+					<Element>
+						<Name>morph_set</Name>
+						<Type>Reference</Type>
+						<Display_Name>Morph Set</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>morphs.xtbl</File>
+							<Type>morph_set.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Triggers</Name>
+						<Type>Grid</Type>
+						<Description>The triggers for this animation state.</Description>
+						<Element>
+							<Name>Trigger</Name>
+							<Type>Element</Type>
+							<Description>A single trigger.</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for this trigger.</Description>
+								<Reference>
+									<File>anim_triggers.xtbl</File>
+									<Type>Trigger.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Description>The frame number for the trigger.</Description>
+								<Default>0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Reactions</Name>
+						<Type>Grid</Type>
+						<Description>The reactions for this animation state.</Description>
+						<Element>
+							<Name>Reaction</Name>
+							<Type>Element</Type>
+							<Description>A single reaction</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for the reaction.</Description>
+								<Reference>
+									<File>anim_reactions.xtbl</File>
+									<Type>Reaction.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Animation</Name>
+								<Type>Reference</Type>
+								<Description>The animation for this reaction.</Description>
+								<Reference>
+									<File>anim_actions.xtbl</File>
+									<Type>Action.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>IKs</Name>
+						<Type>Grid</Type>
+						<Element>
+							<Name>IK</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Enable</Name>
+								<Type>Selection</Type>
+								<Display_Name>Enable IK</Display_Name>
+								<Default>True</Default>
+								<Choice>True</Choice>
+								<Choice>False</Choice>
+								</Element>
+							<Element>
+								<Name>Location</Name>
+								<Type>Reference</Type>
+								<Default>Left Hand</Default>
+								<Reference>
+									<File>anim_ik_location.xtbl</File>
+									<Type>Location.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Default>0</Default>
+								</Element>
+							<Element>
+								<Name>Blend</Name>
+								<Type>Int</Type>
+								<Default>3</Default>
+								</Element>
+							<Element>
+								<Name>Situation</Name>
+								<Type>Reference</Type>
+								<Required>false</Required>
+								<Reference>
+									<File>anim_ik_situation.xtbl</File>
+									<Type>IK_Situation.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Props</Name>
+						<Type>Grid</Type>
+						<Description>Props to hold during the animation.</Description>
+						<Element>
+							<Name>Prop</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name of the item (from items_3d.xtbl)</Description>
+								<Reference>
+									<File>items_3d.xtbl</File>
+									<Type>Item.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>AttachPoint</Name>
+								<Type>Selection</Type>
+								<Display_Name>Attach Point</Display_Name>
+								<Choice>Right Hand</Choice>
+								<Choice>Left Hand</Choice>
+								</Element>
+							<Element>
+								<Name>StartFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>Start Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							<Element>
+								<Name>EndFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>End Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Sound</Name>
+						<Type>Element</Type>
+						<Description>The sound for this state.</Description>
+						<Required>false</Required>
+						<Element>
+							<Name>ID</Name>
+							<Type>Reference</Type>
+							<Description>The ID for the sound for this state (from foley.xtbl).</Description>
+							<Reference>
+								<File>anim_foley.xtbl</File>
+								<Type>AnimFoley.Name</Type>
+								</Reference>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Default_Emotion</Name>
+						<Type>Reference</Type>
+						<Display_Name>Default Emotion</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>emotions.xtbl</File>
+							<Type>Emotion.Name</Type>
+							</Reference>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Actions</Name>
+				<Type>Grid</Type>
+				<Description>The list of animation actions for this skeleton.</Description>
+				<Element>
+					<Name>Action</Name>
+					<Type>Element</Type>
+					<Description>An animation state for the skeleton.</Description>
+					<Element>
+						<Name>ID</Name>
+						<Type>Reference</Type>
+						<Description>The unique ID for this animation state.</Description>
+						<Reference>
+							<File>anim_actions.xtbl</File>
+							<Type>Action.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Animation</Name>
+						<Type>Filename</Type>
+						<Description>The animation filename for this animation state.</Description>
+						<Extension>animx</Extension>
+						<StartingPath>data\anim</StartingPath>
+						</Element>
+					<Element>
+						<Name>morph_set</Name>
+						<Type>Reference</Type>
+						<Display_Name>Morph Set</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>morphs.xtbl</File>
+							<Type>morph_set.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Triggers</Name>
+						<Type>Grid</Type>
+						<Description>The triggers for this animation state.</Description>
+						<Element>
+							<Name>Trigger</Name>
+							<Type>Element</Type>
+							<Description>A single trigger.</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for this trigger.</Description>
+								<Reference>
+									<File>anim_triggers.xtbl</File>
+									<Type>Trigger.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Description>The frame number for the trigger.</Description>
+								<Default>0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Reactions</Name>
+						<Type>Grid</Type>
+						<Description>The reactions for this animation state.</Description>
+						<Element>
+							<Name>Reaction</Name>
+							<Type>Element</Type>
+							<Description>A single reaction</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for the reaction.</Description>
+								<Reference>
+									<File>anim_reactions.xtbl</File>
+									<Type>Reaction.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Animation</Name>
+								<Type>Reference</Type>
+								<Description>The animation for this reaction.</Description>
+								<Reference>
+									<File>anim_actions.xtbl</File>
+									<Type>Action.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>IKs</Name>
+						<Type>Grid</Type>
+						<Element>
+							<Name>IK</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Enable</Name>
+								<Type>Selection</Type>
+								<Display_Name>Enable IK</Display_Name>
+								<Default>True</Default>
+								<Choice>True</Choice>
+								<Choice>False</Choice>
+								</Element>
+							<Element>
+								<Name>Location</Name>
+								<Type>Reference</Type>
+								<Default>Left Hand</Default>
+								<Reference>
+									<File>anim_ik_location.xtbl</File>
+									<Type>Location.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Default>0</Default>
+								</Element>
+							<Element>
+								<Name>Blend</Name>
+								<Type>Int</Type>
+								<Default>3</Default>
+								</Element>
+							<Element>
+								<Name>Situation</Name>
+								<Type>Reference</Type>
+								<Required>false</Required>
+								<Reference>
+									<File>anim_ik_situation.xtbl</File>
+									<Type>IK_Situation.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Props</Name>
+						<Type>Grid</Type>
+						<Description>Props to hold during the animation.</Description>
+						<Element>
+							<Name>Prop</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name of the item (from items_3d.xtbl)</Description>
+								<Reference>
+									<File>items_3d.xtbl</File>
+									<Type>Item.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>AttachPoint</Name>
+								<Type>Selection</Type>
+								<Display_Name>Attach Point</Display_Name>
+								<Choice>Right Hand</Choice>
+								<Choice>Left Hand</Choice>
+								</Element>
+							<Element>
+								<Name>StartFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>Start Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							<Element>
+								<Name>EndFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>End Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					<Element>
+						<Name>Sound</Name>
+						<Type>Element</Type>
+						<Description>The sound for this state.</Description>
+						<Required>false</Required>
+						<Element>
+							<Name>ID</Name>
+							<Type>Reference</Type>
+							<Description>The ID for the sound for this state (from foley.xtbl).</Description>
+							<Reference>
+								<File>anim_foley.xtbl</File>
+								<Type>AnimFoley.Name</Type>
+								</Reference>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Default_Emotion</Name>
+						<Type>Reference</Type>
+						<Display_Name>Default Emotion</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>emotions.xtbl</File>
+							<Type>Emotion.Name</Type>
+							</Reference>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

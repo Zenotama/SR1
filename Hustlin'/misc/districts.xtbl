@@ -1,0 +1,183 @@
+<root>
+<Table>
+	<District>
+		<Name>Rollerz</Name>
+		<Base_Income>100</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_ROLLERZ</DisplayName>
+		</District>
+	<District>
+		<Name>Saints Row</Name>
+		<Base_Income>200</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_SAINTS_ROW</DisplayName>
+		</District>
+	<District>
+		<Name>Los Carnales</Name>
+		<Base_Income>300</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_LOS_CARNALES</DisplayName>
+		</District>
+	<District>
+		<Name>Downtown</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_DOWNTOWN</DisplayName>
+		</District>
+	<District>
+		<Name>Museum</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_MUSEUM</DisplayName>
+		</District>
+	<District>
+		<Name>High End Retail</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_HIGH_END_RETAIL</DisplayName>
+		</District>
+	<District>
+		<Name>Projects</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_PROJECTS</DisplayName>
+		</District>
+	<District>
+		<Name>Red Light</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_RED_LIGHT</DisplayName>
+		</District>
+	<District>
+		<Name>Suburbs</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_SUBURBS</DisplayName>
+		</District>
+	<District>
+		<Name>Race Track</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_RACE_TRACK</DisplayName>
+		</District>
+	<District>
+		<Name>Apartments</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_APARTMENTS</DisplayName>
+		</District>
+	<District>
+		<Name>Chinatown</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_CHINATOWN</DisplayName>
+		</District>
+	<District>
+		<Name>Truck Yard</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_TRUCK_YARD</DisplayName>
+		</District>
+	<District>
+		<Name>Airport</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_AIRPORT</DisplayName>
+		</District>
+	<District>
+		<Name>Barrio</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_BARRIO</DisplayName>
+		</District>
+	<District>
+		<Name>Docks And Warehouses</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_DOCKS_AND_WAREHOUSES</DisplayName>
+		</District>
+	<District>
+		<Name>Factories</Name>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>DISTRICT_FACTORIES</DisplayName>
+		</District>
+	<District>
+		<Name>Train Yard</Name>
+		<DisplayName>DISTRICT_TRAIN_YARD</DisplayName>
+		<Base_Income>0</Base_Income>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</District>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>District</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the district.</Description>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\Hoods.xtbl</File>
+			<Type>Hoods_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Base_Income</Name>
+		<Type>Int</Type>
+		<Display_Name>Base Income</Display_Name>
+		<Description>Base income generatd by the district per day.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

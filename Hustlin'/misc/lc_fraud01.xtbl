@@ -1,0 +1,318 @@
+<root>
+<Table>
+	<Activity>
+		<Name>lc_fraud01</Name>
+		<Levels>
+			<Level>
+				<Goal>15000</Goal>
+				<Cash_Award>100</Cash_Award>
+				<Props_Award>700</Props_Award>
+				<Duration>180</Duration>
+				<Max_Spots>1</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>45000</Goal>
+				<Duration>210</Duration>
+				<Cash_Award>250</Cash_Award>
+				<Props_Award>800</Props_Award>
+				<Max_Spots>2</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>75000</Goal>
+				<Duration>240</Duration>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>900</Props_Award>
+				<Max_Spots>3</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>100000</Goal>
+				<Duration>270</Duration>
+				<Cash_Award>1000</Cash_Award>
+				<Props_Award>1000</Props_Award>
+				<Max_Spots>3</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>125000</Goal>
+				<Duration>300</Duration>
+				<Cash_Award>1500</Cash_Award>
+				<Props_Award>1100</Props_Award>
+				<Max_Spots>4</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>155000</Goal>
+				<Duration>330</Duration>
+				<Cash_Award>2000</Cash_Award>
+				<Props_Award>1200</Props_Award>
+				<Max_Spots>4</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>185000</Goal>
+				<Duration>360</Duration>
+				<Cash_Award>3000</Cash_Award>
+				<Props_Award>1300</Props_Award>
+				<Max_Spots>5</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			<Level>
+				<Goal>215000</Goal>
+				<Duration>390</Duration>
+				<Cash_Award>5000</Cash_Award>
+				<Props_Award>1400</Props_Award>
+				<Max_Spots>5</Max_Spots>
+				<Crazy_Chance>0.65</Crazy_Chance>
+				</Level>
+			</Levels>
+		<Max_Cash>0</Max_Cash>
+		<Max_Props>0</Max_Props>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>lc_fraud01_start_nav</Start_Location>
+		<Cutscene>insurance_barrio</Cutscene>
+		<Unlockables>
+			<Unlockable>lc_fraud</Unlockable>
+			</Unlockables>
+		<BonusSpots>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l1_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l2_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l3_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l4_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l5_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l6_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l7_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l8_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l9_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l10_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l11_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l12_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l13_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l14_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l15_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l16_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			<Spot>
+				<Bonus_Center>lc_fraud01_l17_bonus_spot</Bonus_Center>
+				<Bonus_Radius>100</Bonus_Radius>
+				</Spot>
+			</BonusSpots>
+		<Warp_Location>lc_fraud01_warp_nav</Warp_Location>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Description>Describes the activity</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>Where the activity will be started from</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\lc_fraud01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Warp_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Warp Location</Display_Name>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\lc_fraud01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Description>A list of the levels available in the region</Description>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Description>A description of a level</Description>
+			<Element>
+				<Name>Goal</Name>
+				<Type>Int</Type>
+				<Description>The goal money for the level.</Description>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Int</Type>
+				<Description>How much time is given (in sec)</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Max_Spots</Name>
+				<Type>Int</Type>
+				<Display_Name>Max Bonus Spots</Display_Name>
+				<Default>1</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Crazy_Chance</Name>
+				<Type>Float</Type>
+				<Display_Name>Crazy Car Chance</Display_Name>
+				<Description>Chance of spawning a crazy vehicle.</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Cash Award</Display_Name>
+				<Description>Cash given completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Props Award</Display_Name>
+				<Description>Props given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>BonusSpots</Name>
+		<Type>Grid</Type>
+		<Display_Name>Bonus Spots</Display_Name>
+		<Element>
+			<Name>Spot</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Bonus_Center</Name>
+				<Type>Reference</Type>
+				<Display_Name>Bonus Center</Display_Name>
+				<Description>The center of the bonus spot.</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\lc_fraud01_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Bonus_Radius</Name>
+				<Type>Float</Type>
+				<Display_Name>Bonus Radius</Display_Name>
+				<Description>The radius of the bonus area</Description>
+				<Default>25</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Max_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Level Cash Award</Display_Name>
+		<Description>Cash award for completing hte maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Level Props Award</Display_Name>
+		<Description>Props given for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Unlockables</Name>
+		<Type>Grid</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>Unlockable</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>unlockables.xtbl</File>
+				<Type>Unlockable.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

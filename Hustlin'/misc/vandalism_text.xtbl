@@ -1,0 +1,307 @@
+<root>
+<Table>
+	<String>
+		<Name>Vandalism</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>start</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_START_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start no district</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_START_NO_DISTRICT</DisplayText>
+				</Text>
+			<Text>
+				<Name>start 2</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_START_2_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start 3</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_START_3_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>success</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_SUCCESS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>time success</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TIME_SUCCESS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>time fail</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TIME_FAIL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>in district</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_IN_DISTRICT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>out of district</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_OUT_OF_DISTRICT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>team bonus</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TEAM_BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>team penalty</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TEAM_PENALTY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>vehicle bonus</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_VEHICLE_BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>vehicle penalty</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_VEHICLE_PENALTY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>weapon bonus</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_WEAPON_BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>weapon penalty</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_WEAPON_PENALTY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>bonus</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>penalty</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_PENALTY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>goal</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_GOAL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>combo</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_COMBO_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>combo breaker</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_COMBO_BREAKER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>bat</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_BAT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>knife</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_KNIFE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>launcher</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_LAUNCHER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>nightstick</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_NIGHTSTICK_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>pistol</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_PISTOL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>rifle</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_RIFLE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>shotgun</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_SHOTGUN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>smg</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_SMG_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>thrown</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_THROWN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>SUV</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_SUV_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Car - standard</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CAR_STANDARD_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Van/Minivan</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_VAN_MINIVAN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Truck - big (semi cab)</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TRUCK_BIG_SEMI_CAB_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Station Wagon</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_STATION_WAGON_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Truck - small (pickups)</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TRUCK_SMALL_PICKUPS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>cop car (old 4-door)</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_COP_CAR_OLD_4_DOOR_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Car - sports</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CAR_SPORTS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Car - big domestic</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CAR_BIG_DOMESTIC_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Car - compact</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CAR_COMPACT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Car - luxury</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CAR_LUXURY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Truck - trailer</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TRUCK_TRAILER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Trailers</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_TRAILERS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Helicopter</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_HELICOPTER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Los Carnales</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_LOS_CARNALES_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Rollerz</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_ROLLERZ_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Vice Lords</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_VICE_KINGS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Police</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_POLICE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>Civilian</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_VANDAL_CIVILIAN_MSG</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityVandal.xtbl</File>
+					<Type>ActVandal_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

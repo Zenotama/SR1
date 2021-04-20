@@ -1,0 +1,668 @@
+<root>
+<Table>
+	<Stat>
+		<Name>Time played</Name>
+		<DisplayName>STAT_TIME_PLAYED</DisplayName>
+		<Value_Type>time</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Total respect</Name>
+		<DisplayName>STAT_TOTAL_RESPECT</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Total money</Name>
+		<DisplayName>STAT_TOTAL_MONEY</DisplayName>
+		<Value_Type>money</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Loan shark earned</Name>
+		<DisplayName>STAT_LOAN_SHARK_MONEY</DisplayName>
+		<Value_Type>money</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Insurance fraud earned</Name>
+		<DisplayName>STAT_INSURANCE_FRAUD_EARNED</DisplayName>
+		<Value_Type>money</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Hospital bills</Name>
+		<DisplayName>STAT_HOSPITAL_BILLS</DisplayName>
+		<Value_Type>money</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Items purchased</Name>
+		<DisplayName>STAT_ITEMS_PURCHASED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Police notoriety time</Name>
+		<DisplayName>STAT_POLICE_NOTORIETY_TIME</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Enemy gang killed</Name>
+		<DisplayName>STAT_ENEMY_GANG_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>536870921</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>WR killed</Name>
+		<DisplayName>STAT_WR_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435466</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>LC killed</Name>
+		<DisplayName>STAT_LC_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435467</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>VK killed</Name>
+		<DisplayName>STAT_VK_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435468</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>Civilians killed</Name>
+		<DisplayName>STAT_CIVILIANS_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435469</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>Law enforcement killed</Name>
+		<DisplayName>STAT_LAW_ENFORCEMENT_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435471</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>Beat cops killed</Name>
+		<DisplayName>STAT_BEAT_COPS_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		<LivePropertyID>268435472</LivePropertyID>
+		<LiveLeaderboardID>1</LiveLeaderboardID>
+		</Stat>
+	<Stat>
+		<Name>People run over</Name>
+		<DisplayName>STAT_PEOPLE_RUN_OVER</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Arrests</Name>
+		<DisplayName>STAT_ARRESTS</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Bail money</Name>
+		<DisplayName>STAT_BAIL_MONEY</DisplayName>
+		<Value_Type>money</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Deaths</Name>
+		<DisplayName>STAT_DEATHS</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Homiez acquired</Name>
+		<DisplayName>STAT_HOMIEZ_ACQUIRED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Tags completed</Name>
+		<DisplayName>STAT_TAGS_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Activities completed</Name>
+		<DisplayName>STAT_ACTIVITIES_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Missions completed</Name>
+		<DisplayName>STAT_MISSIONS_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Miles on foot</Name>
+		<DisplayName>STAT_MILES_ON_FOOT</DisplayName>
+		<Value_Type>float</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Miles by vehicle</Name>
+		<DisplayName>STAT_MILES_BY_VEHICLE</DisplayName>
+		<Value_Type>float</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>CDs found</Name>
+		<DisplayName>STAT_CDS_FOUND</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Vehicles destroyed</Name>
+		<DisplayName>STAT_VEHICLES_DESTROYED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Number of unique vehicles</Name>
+		<DisplayName>STAT_NUMBER_OF_UNIQUE_VEHICLES</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Shots fired</Name>
+		<DisplayName>STAT_SHOTS_FIRED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Shot hit percentage</Name>
+		<DisplayName>STAT_SHOT_HIT_PERCENTAGE</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Rockets fired</Name>
+		<DisplayName>STAT_ROCKETS_FIRED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Rocket hit percentage</Name>
+		<DisplayName>STAT_ROCKET_HIT_PERCENTAGE</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Neighborhoods controlled</Name>
+		<DisplayName>STAT_NEIGHBORHOODS_CONTROLLED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Favorite weapon</Name>
+		<DisplayName>STAT_FAVORITE_WEAPON</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Most hated gang</Name>
+		<DisplayName>STAT_MOST_HATED_GANG</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Hostages taken</Name>
+		<DisplayName>STAT_HOSTAGES_TAKEN</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>false</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Narcotics trafficked</Name>
+		<DisplayName>STAT_NARCOTICS_TRAFFICKED</DisplayName>
+		<Value_Type>float</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>SWAT killed</Name>
+		<DisplayName>STAT_SWAT_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>FBI killed</Name>
+		<DisplayName>STAT_FBI_KILLED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Helicopters destroyed</Name>
+		<DisplayName>STAT_HELICOPTERS_DESTROYED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Cribs acquired</Name>
+		<DisplayName>STAT_CRIBS_ACQUIRED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Best dive</Name>
+		<DisplayName>STAT_BEST_DIVE</DisplayName>
+		<Value_Type>money</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Street lights dislodged</Name>
+		<DisplayName>STAT_STREET_LIGHTS_DISLODGED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>WR hoods</Name>
+		<DisplayName>STAT_WR_HOODS</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>VK Hoods</Name>
+		<DisplayName>STAT_VK_HOODS</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>LC hoods</Name>
+		<DisplayName>STAT_LC_HOODS</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>LC Strongholds Completed</Name>
+		<DisplayName>STAT_STRONG_COMPLETE_LC</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>VK Strongholds Completed</Name>
+		<DisplayName>STAT_STRONG_COMPLETE_VK</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>WR Strongholds Completed</Name>
+		<DisplayName>STAT_STRONG_COMPLETE_WR</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>true</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Demo Derbies Completed</Name>
+		<DisplayName>STAT_DEMO_DERBY_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Escorts Completed</Name>
+		<DisplayName>STAT_ESCORT_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Insurance Frauds Completed</Name>
+		<DisplayName>STAT_FRAUD_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Hijackings Completed</Name>
+		<DisplayName>STAT_HIJACKING_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Hits Completed</Name>
+		<DisplayName>STAT_HITMAN_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Snatches Completed</Name>
+		<DisplayName>STAT_PIMPING_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Races Completed</Name>
+		<DisplayName>STAT_RACING_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Drug Traffickings Completed</Name>
+		<DisplayName>STAT_TRAFFICKING_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Vandalisms Completed</Name>
+		<DisplayName>STAT_VANDALISM_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Thefts Completed</Name>
+		<DisplayName>STAT_THEFT_COMPLETED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Chop Shops Completed</Name>
+		<DisplayName>STAT_CHOPSHOP_COMPLETED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Num unique vehicles owned</Name>
+		<DisplayName>STAT_NUMBER_OF_UNIQUE_VEHICLES_OWNED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Civilians killed by melee</Name>
+		<DisplayName>STAT_CIVILIANS_KILLED_BY_MELEE</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>false</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Manually Awarded</Name>
+		<DisplayName>STAT_MANUALLY_AWARDED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<Display_Stat>false</Display_Stat>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Stat>
+	<Stat>
+		<Name>Customization Items Owned</Name>
+		<DisplayName>STAT_CUSTOM_ITEMS_OWNED</DisplayName>
+		<Value_Type>complex</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>false</Display_Stat>
+		</Stat>
+	<Stat>
+		<Name>Hostages extorted</Name>
+		<DisplayName>STAT_HOSTAGES_EXTORTED</DisplayName>
+		<Value_Type>integer</Value_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Display_Stat>true</Display_Stat>
+		</Stat>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Stat</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the stat.</Description>
+		<MaxLength>30</MaxLength>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>In game display name to use for this statistic.</Description>
+		<Reference>
+			<File>localized_exports\Stats_text.xtbl</File>
+			<Type>Stats_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Value_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Value Type</Display_Name>
+		<Description>How this statistic is stored.  Complex statistics require in game support for each statistic type (ie, favorite weapon).</Description>
+		<Default>integer</Default>
+		<Choice>integer</Choice>
+		<Choice>float</Choice>
+		<Choice>time</Choice>
+		<Choice>complex</Choice>
+		<Choice>money</Choice>
+		</Element>
+	<Element>
+		<Name>Display_Stat</Name>
+		<Type>Selection</Type>
+		<Display_Name>Display Stat</Display_Name>
+		<Description>Display this statistic in the stats screen.</Description>
+		<Default>true</Default>
+		<Choice>true</Choice>
+		<Choice>false</Choice>
+		</Element>
+	<Element>
+		<Name>LivePropertyID</Name>
+		<Type>Int</Type>
+		<Display_Name>Live Property ID</Display_Name>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>LiveLeaderboardID</Name>
+		<Type>Int</Type>
+		<Display_Name>Live Leaderboard ID</Display_Name>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

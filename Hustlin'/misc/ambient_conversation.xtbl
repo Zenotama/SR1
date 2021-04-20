@@ -1,0 +1,64 @@
+<root>
+<Table>
+	<Conversation>
+		<Name>Pimping</Name>
+		<Lines>
+			<LineElement>
+				<Persona>Civilian Black Male Pimp</Persona>
+				<Line>VOC_BMPMP_PIMPIDLE1</Line>
+				</LineElement>
+			<LineElement>
+				<Persona>Civilian White Female Ho</Persona>
+				</LineElement>
+			</Lines>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Conversation>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Conversation</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Lines</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LineElement</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Persona</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>persona.xtbl</File>
+					<Type>Persona.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Line</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>voice.xtbl</File>
+					<Type>Voice.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

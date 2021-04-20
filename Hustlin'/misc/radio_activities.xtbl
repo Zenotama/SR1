@@ -1,0 +1,101 @@
+<root>
+<Table>
+	<RadioActivities>
+		<Name>RadioActivities</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ChancesToPlay>
+			<ChanceToPlay>
+				<Name>Level 1</Name>
+				<Level>1</Level>
+				<Percentage>1</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 2</Name>
+				<Level>2</Level>
+				<Percentage>2</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 3</Name>
+				<Level>3</Level>
+				<Percentage>3</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 4</Name>
+				<Level>4</Level>
+				<Percentage>5</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 5</Name>
+				<Level>5</Level>
+				<Percentage>10</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 6</Name>
+				<Level>6</Level>
+				<Percentage>15</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 7</Name>
+				<Level>7</Level>
+				<Percentage>20</Percentage>
+				</ChanceToPlay>
+			<ChanceToPlay>
+				<Name>Level 8</Name>
+				<Level>8</Level>
+				<Percentage>25</Percentage>
+				</ChanceToPlay>
+			</ChancesToPlay>
+		</RadioActivities>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>RadioActivities</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>ChancesToPlay</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>ChanceToPlay</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Description>Currently unused.</Description>
+				<Default>Level</Default>
+				</Element>
+			<Element>
+				<Name>Level</Name>
+				<Type>Int</Type>
+				<Description>What level of an activity has just been completed?</Description>
+				<Default>1</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>8</MaxValue>
+				</Element>
+			<Element>
+				<Name>Percentage</Name>
+				<Type>Int</Type>
+				<Description>Chance to play an appropriate news flash.</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

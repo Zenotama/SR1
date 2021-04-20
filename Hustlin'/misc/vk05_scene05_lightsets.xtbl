@@ -1,0 +1,1360 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>800</StartTime>
+		<EndTime>1759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Daytime Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.718 0.781 0.832</Color>
+				<Multiplier>1.15</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.6507 2.55356 -2.91331</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.2 4.1</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Daytime Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.671 0.526 0.275</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.54896 2.62349 -3.28248</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.125 3.15</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Daytime Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.934 0.742</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.0250789 1.8351 -1.69464</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.225</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Daytime Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.738 0.753 0.663</Color>
+				<Multiplier>1.11</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-0.242464 2.75351 -4.97458</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.075 3.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Daytime Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.887 0.957 0.918</Color>
+				<Multiplier>0.82</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-1.75061 2.14412 0.663164</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 3.45</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Daytime Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.926 0.675 0.644</Color>
+				<Multiplier>0.88</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.54191 2.09496 1.57245</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>6.39591 0.849192 2.02426</Position>
+				<Orientation>0.428 -0.7186 -0.3861 0.3892</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.212058 0.754855</Hotspot>
+				<Attenuation>1.725 4.475</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni34</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.899 0.628</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-5.02858 2.51123 6.08687</Position>
+				<Orientation>0.0002 -0.9239 -0.0001 0.3827</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni35</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-15.7026 2.02279 6.90622</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni36</Name>
+				<Type>omni</Type>
+				<Color>0.867 0.871 0.844</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>0.278581 2.04223 -2.56798</Position>
+				<Orientation>0.0002 -1.0 0.0001 -0.0001</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni37</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.91543 2.22562 -1.0537</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni38</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.7922 2.22562 0.403423</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni39</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.78168 2.22562 -1.16622</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni45</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 0.729577 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni46</Name>
+				<Type>omni</Type>
+				<Color>0.91 0.832 0.514</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.693241 2.1283 5.67035</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.275 2.975</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni47</Name>
+				<Type>omni</Type>
+				<Color>0.33 0.714 0.655</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.5142 1.63153 -1.05747</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.825 2.575</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni48</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-11.9442 1.79663 1.52261</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni49</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 3.34793 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni50</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.765 0.71</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.904658 2.1283 -4.29852</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.675 2.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Level_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>67</R>
+					<G>67</G>
+					<B>67</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midday3</Name>
+		<StartTime>1800</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Sunset Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.804 0.718</Color>
+				<Multiplier>0.96</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.6507 2.55356 -2.91331</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.2 4.1</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Sunset Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.671 0.526 0.275</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.54896 2.62349 -3.28248</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.125 3.15</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Sunset Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.934 0.742</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.0250789 1.8351 -1.69464</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.225</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Sunset Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.718 0.746 0.659</Color>
+				<Multiplier>1.11</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-0.242464 2.75351 -4.97458</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.075 3.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Sunset Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.887 0.957 0.918</Color>
+				<Multiplier>0.82</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-1.75061 2.14412 0.663164</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 3.45</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Sunset Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.926 0.675 0.644</Color>
+				<Multiplier>0.88</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.54191 2.09496 1.57245</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>6.39591 0.849192 2.02426</Position>
+				<Orientation>0.428 -0.7186 -0.3861 0.3892</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.212058 0.754855</Hotspot>
+				<Attenuation>1.725 4.475</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni34</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.899 0.628</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-5.02858 2.51123 6.08687</Position>
+				<Orientation>0.0002 -0.9239 -0.0001 0.3827</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni35</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-15.7026 2.02279 6.90622</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni36</Name>
+				<Type>omni</Type>
+				<Color>0.867 0.871 0.844</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>0.278581 2.04223 -2.56798</Position>
+				<Orientation>0.0002 -1.0 0.0001 -0.0001</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni37</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.91543 2.22562 -1.0537</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni38</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.7922 2.22562 0.403423</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni39</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.78168 2.22562 -1.16622</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni45</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 0.729577 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni46</Name>
+				<Type>omni</Type>
+				<Color>0.91 0.832 0.514</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.693241 2.1283 5.67035</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.275 2.975</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni47</Name>
+				<Type>omni</Type>
+				<Color>0.33 0.714 0.655</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.5142 1.63153 -1.05747</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.825 2.575</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni48</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-11.9442 1.79663 1.52261</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni49</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 3.34793 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni50</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.765 0.71</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.904658 2.1283 -4.29852</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.675 2.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Level_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>67</R>
+					<G>67</G>
+					<B>67</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dawn2</Name>
+		<StartTime>0</StartTime>
+		<EndTime>759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dawn Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.804 0.718</Color>
+				<Multiplier>0.96</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.6507 2.17408 -2.91331</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.2 4.1</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.671 0.526 0.275</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.54896 2.62349 -3.28248</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.125 3.15</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni15</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.934 0.742</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.0250789 1.8351 -1.69464</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.225</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni16</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.73 0.659</Color>
+				<Multiplier>1.11</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-0.242464 2.75351 -4.97458</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.075 3.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni17</Name>
+				<Type>omni</Type>
+				<Color>0.887 0.957 0.918</Color>
+				<Multiplier>0.82</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-1.75061 2.14412 0.663164</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 3.45</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.926 0.675 0.644</Color>
+				<Multiplier>0.88</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.54191 2.09496 1.57245</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>6.39591 0.849192 2.02426</Position>
+				<Orientation>0.428 -0.7186 -0.3861 0.3892</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.212058 0.754855</Hotspot>
+				<Attenuation>1.725 4.475</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni34</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.899 0.628</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-5.02858 2.51123 6.08687</Position>
+				<Orientation>0.0002 -0.9239 -0.0001 0.3827</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni35</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-15.7026 2.02279 6.90622</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni36</Name>
+				<Type>omni</Type>
+				<Color>0.867 0.871 0.844</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>0.278581 2.04223 -2.56798</Position>
+				<Orientation>0.0002 -1.0 0.0001 -0.0001</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 7.375</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni37</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-9.91543 2.22562 -1.0537</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni38</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.7922 2.22562 0.403423</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni39</Name>
+				<Type>omni</Type>
+				<Color>0.848 0.71 0.165</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.78168 2.22562 -1.16622</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.324999 0.899998</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni45</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 0.729577 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni46</Name>
+				<Type>omni</Type>
+				<Color>0.91 0.832 0.514</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.693241 2.1283 5.67035</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.275 2.975</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni47</Name>
+				<Type>omni</Type>
+				<Color>0.33 0.714 0.655</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.5142 1.63153 -1.05747</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.825 2.575</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni48</Name>
+				<Type>omni</Type>
+				<Color>0.859 0.746 0.448</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-11.9442 1.79663 1.52261</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.499999 2.025</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni49</Name>
+				<Type>omni</Type>
+				<Color>0.165 0.663 0.895</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-16.6528 3.34793 1.31088</Position>
+				<Orientation>-0.6861 -0.1712 0.1712 0.6861</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.725 3.95</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>greens_Omni50</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.765 0.71</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.904658 2.1283 -4.29852</Position>
+				<Orientation>0.0001 -0.4426 0.0001 0.8968</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.675 2.925</Attenuation>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_anthony_2nd_fl</Slate_Name>
+				<Level_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>67</R>
+					<G>67</G>
+					<B>67</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

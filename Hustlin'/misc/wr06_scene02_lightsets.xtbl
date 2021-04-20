@@ -1,0 +1,493 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.761 0.506</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.54389 5.01012 -7.20417</Position>
+				<Orientation>-0.0103 -0.5877 -0.0142 0.8089</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.410152 0.761836</Hotspot>
+				<Attenuation>6.225 7.8</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.902 0.871 0.506</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>-6.30178 5.01012 0.859829</Position>
+				<Orientation>0.0 -0.5878 0.0 0.8091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.410152 0.626573</Hotspot>
+				<Attenuation>5.275 6.7</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.283 0.855 0.781</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>7.93422 6.35067 -3.44919</Position>
+				<Orientation>0.0759 -0.9967 0.0246 0.0185</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.453786 0.628319</Hotspot>
+				<Attenuation>6.55 8.375</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.902 0.871 0.506</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.19995 5.01012 6.53157</Position>
+				<Orientation>0.0425 -0.6934 0.044 0.718</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.410152 0.626573</Hotspot>
+				<Attenuation>5.275 6.7</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot109</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.902 0.871 0.506</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.857746 4.86207 1.58239</Position>
+				<Orientation>0.0309 -0.9478 0.0161 0.3172</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.165806 0.566359</Hotspot>
+				<Attenuation>5.6 7.025</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PH_OmniA-01</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.867 0.506</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.389086 3.8536 -14.2302</Position>
+				<Orientation>0.0 -0.5878 0.0 0.8091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.7 8.85001</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.789 0.722 0.62</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.66105 1.42409 2.05635</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.375 2.925</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List>TS_A_F_Lin</Exclude_List>
+				<Exclude_List_Original_Names>lin01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.722 0.801 0.589</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.62791 0.974366 -1.43081</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.375 2.925</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.714 0.75 0.573</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.38204 1.42409 -0.644321</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.375 3.425</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.401 0.499</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.218373 1.42409 2.54793</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.9 3.3</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List>TS_A_F_Lin</Exclude_List>
+				<Exclude_List_Original_Names>lin01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.797 0.518 0.295</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.62477 2.32574 1.31601</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.375 2.925</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.855 0.875 0.785</Color>
+				<Multiplier>0.72</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.10724 3.2364 1.33931</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.375 6.425</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Lin Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.824 0.832</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.132157 0.945355 0.232292</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.42076 2.68383</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List>cs_chair_wood_church #PLAYER# WR_X_M_Killa2-03 WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>chair01 player01 rollerz01 sharp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Allday Lin Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.812 0.804 0.757</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.00124 1.73663 0.478997</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.39793 2.66101</Attenuation>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Exclude_List>cs_chair_wood_church #PLAYER# WR_X_M_Killa2-03 WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>chair01 player01 rollerz01 sharp01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr_poolhall</Slate_Name>
+				<Level_Ambient>
+					<R>106</R>
+					<G>106</G>
+					<B>106</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>84</R>
+					<G>84</G>
+					<B>84</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

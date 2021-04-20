@@ -1,0 +1,249 @@
+<root>
+<Table>
+	<String>
+		<Name>Escort</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>limo</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_LIMO_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>stripper</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_STRIPPER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>new stripper</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_STRIPPER_SWITCH_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>client</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_CLIENT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>escorting</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_ESCORTING_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>news warning</Name>
+				<DisplayText>ACT_ESCORT_ESCORTING_2_MSG</DisplayText>
+				<Duration>4</Duration>
+				</Text>
+			<Text>
+				<Name>satisfied</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_SATISFIED_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>return</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_RETURN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>first footage</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_FIRST FOOTAGE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>footage warn</Name>
+				<DisplayText>ACT_ESCORT_ALMOST_LOSE_MSG</DisplayText>
+				<Duration>4</Duration>
+				</Text>
+			<Text>
+				<Name>spawned</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_SPAWNED_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>pi spawned</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_PI_SPAWNED</DisplayText>
+				</Text>
+			<Text>
+				<Name>spouse spawned</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_SPOUSE_SPAWNED</DisplayText>
+				</Text>
+			<Text>
+				<Name>irs spawned</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_IRS_SPAWNED</DisplayText>
+				</Text>
+			<Text>
+				<Name>roadblock</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_ROADBLOCK_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>getback</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_GETBACK_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>complete</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_COMPLETE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail client hit</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_CLIENT_RUNOVER</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail client dead</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_CLIENT_DEAD</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail stripper dead</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_STRIPPER_DEAD</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail car destroyed</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_CAR_DESTROYED</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail car underwater</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_CAR_SUBMERGED</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail footage</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_FOOTAGE</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail left car</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_ESCORT_FAIL_LEFT_CAR</DisplayText>
+				</Text>
+			<Text>
+				<Name>fast</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_FAST_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>stop</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_STOP_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>crash</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_CRASH_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>air</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_AIR_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>kill</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_KILL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: puke</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_PUKE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: club</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_CLUB_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: theater</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_THEATER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: motel</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_MOTEL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: brothel</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_BROTHEL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: shop</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_SHOP_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: river</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_RIVER_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trip: food</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_ESCORT_TRIP_FOOD_MSG</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityVices.xtbl</File>
+					<Type>ActVices_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,1530 @@
+<root>
+<Table>
+	<Situation_List>
+		<Situations>
+			<Situation>
+				<Type>combat - congratulate player</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>90</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>combat - congratulate self</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>80</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>combat - reload required</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>4000</Local_Delay>
+				<ChanceToPlay>60</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>cower - damage received (firearm)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>cower - damage received (melee)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>cower - danger</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>15000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>flee - burning car</Type>
+				<Global_Delay>6000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>flee - damage</Type>
+				<Global_Delay>6000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>flee - danger</Type>
+				<Global_Delay>6000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>group - dismiss confirm</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>750</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>group - recruit confirmed attempt</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>750</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>group - recruit denied attempt</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>750</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>group - recruit denied attempt phone</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>750</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - arrest ho</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - arrest pc</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - chopper leave</Type>
+				<Global_Delay>30000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Extreme</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - chopper phone</Type>
+				<Global_Delay>8000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Extreme</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - collision with pc</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - ho enters vehicle</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - ho propositions pedestrian</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - ho propositions vehicle</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - ho showcases self</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - ho touch self</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - loan give</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - pimp threaten ho</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - resuscitate</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - timeout</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - walk by ambient</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>7000</Local_Delay>
+				<ChanceToPlay>60</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>misc - walk by ambient (package)</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>7000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - accident</Type>
+				<Global_Delay>7000</Global_Delay>
+				<Local_Delay>20000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - accident (vehicles only)</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>20000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - ally killed</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>7000</Local_Delay>
+				<ChanceToPlay>80</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - body of dead</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - female</Type>
+				<Global_Delay>30000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Short</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - grenade incoming</Type>
+				<Global_Delay>500</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - melee combat</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>7000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (clothes not changed)</Type>
+				<Global_Delay>15000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (compliment rank 2)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (compliment rank 3)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (compliment rank 4)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (death insult)</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>1000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (flash gang sign rank 1)</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (flash gang sign rank 2)</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (flash gang sign rank 3)</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (flash gang sign rank 4)</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (flip off)</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>60</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (insult rank 2)</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>6000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (insult rank 3)</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>6000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (insult rank 4)</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>6000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - PC (insult)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>observe - wreckage</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - damage received (vehicle)</Type>
+				<Global_Delay>15000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - friendly fire warning</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - fleeing enemy</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>70</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - stuck in traffic</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>60</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - vehicle collision</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - vehicle hijacked</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>taunt - vehicle missed</Type>
+				<Global_Delay>6000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - alert (group attack)</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - alert (solo attack)</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - damage received (firearm)</Type>
+				<Global_Delay>500</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - damage received (melee)</Type>
+				<Global_Delay>500</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - damage received (vehicle)</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - driver extract</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - friendly fire attack</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - knocked down NPC/PC</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - vehicle collision</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - vehicle hijacked</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>threat - vehicle missed</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - cheer</Type>
+				<Global_Delay>500</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - death scream</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>750</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - fire scream (on fire)</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - pain shout</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - panicked scream</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - panting</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Short</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - startled line</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - startled shout</Type>
+				<Global_Delay>1000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>voice - whimper</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>10000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Short</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - arrest npc</Type>
+				<Global_Delay>30000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - arrested by cop</Type>
+				<Global_Delay>30000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - buy whore</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - confessional</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - counting cash</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - drink</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - drug cutting</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - drug dealing</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - drug doing</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - drug receiving</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - eating</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - game (play)</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - game (watch)</Type>
+				<Global_Delay>4000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - jackhammer</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - news</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - sleeping</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store customer browses</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store customer buy</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store customer idle</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store customer robs</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>3500</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner attack</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner browse reaction</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner buy reaction (pot)</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner buy reaction</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>80</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner farewell (no sale)</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner greet</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner held up</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner safe escort (aggro)</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner safe escort (cower)</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner safe opened</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - store owner safe reveal</Type>
+				<Global_Delay>250</Global_Delay>
+				<Local_Delay>250</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - suicide</Type>
+				<Global_Delay>2000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Extreme</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - watch tv</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>special - weed</Type>
+				<Global_Delay>3000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - drug cop kill</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - gang kill</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - grats pc</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>3000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - start</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - vehicle at 25</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - vehicle at 50</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - vehicle at 75</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - vehicle die</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>2000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>drug - new client</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - both react to cops</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - both react to climax</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - both react to exiting limo</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - both react to player leaving</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - both react to sex</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client chats with stripper</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client greets stripper</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client reacts to killing razzi</Type>
+				<Global_Delay>7000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>75</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client reacts to losing razzi</Type>
+				<Global_Delay>7000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>75</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client reacts to razzi photo</Type>
+				<Global_Delay>12000</Global_Delay>
+				<Local_Delay>12000</Local_Delay>
+				<ChanceToPlay>25</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - client reacts to seeing razzi</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication brothel</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication brothel end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication crash</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication crash end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication fast</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication fast end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication freckle</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication freckle end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication IRS</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication IRS end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication PI</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication PI end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication puke</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication puke end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication jump</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication jump end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication kill</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication kill end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication motel</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication motel end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication movie</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication movie end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication river</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication river end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication spouse</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication spouse end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication shop</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication shop end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication stop</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication stop end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication strip</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - complication strip end</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - razzi getting damaged</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - razzi getting footage</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>25</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - stripper reacts to hitting human</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>escort - stripper reacts to hitting vehicle</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - chased by pc</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - deb sees player</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - guard sees player</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - marcel sees player</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - mark spot player</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - phone call (ditch police)</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - phone call (kill witnesses)</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hitman - wong sees player</Type>
+				<Global_Delay>0</Global_Delay>
+				<Local_Delay>0</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Long</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - begin hostage activity</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - count down starts</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - count down stops</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - hostage escapes</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - hostage pays</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>hostage - random chatter</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>loan - pay back</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>loan - spot player (megaphone)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Extreme</Distance>
+				</Situation>
+			<Situation>
+				<Type>loan - spot player (normal)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>loan - take out</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>5000</Local_Delay>
+				<ChanceToPlay>50</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho attacked by pimp (foot)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho attacked by pimp (vehicle)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho cop chase reaction (foot)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho cop chase reaction (vehicle)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho damaged (foot)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho damaged (vehicle)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit fail (tss)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit fail (lc)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit fail (vk)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit fail (wr)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit success (tss)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit success (lc)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit success (vk)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho recruit success (wr)</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho vehicle collide with npc</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho vehicle collide with object</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - ho vehicle collide with vehicle</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - pimp attacked by pc</Type>
+				<Global_Delay>5000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - pimp attacks pc</Type>
+				<Global_Delay>30000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - pimp react to recruit fail</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			<Situation>
+				<Type>pimping - pimp react to recruit success</Type>
+				<Global_Delay>10000</Global_Delay>
+				<Local_Delay>30000</Local_Delay>
+				<ChanceToPlay>100</ChanceToPlay>
+				<Distance>Normal</Distance>
+				</Situation>
+			</Situations>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Name>Situation List</Name>
+		</Situation_List>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Situation_List</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Situation List</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Situations</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Situation</Name>
+			<Type>Element</Type>
+			<Description>Foley situations</Description>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Display_Name>Situation type</Display_Name>
+				<Description>Situation under which to play the foley</Description>
+				<Unique>true</Unique>
+				</Element>
+			<Element>
+				<Name>Global_Delay</Name>
+				<Type>Int</Type>
+				<Display_Name>Global Delay (ms)</Display_Name>
+				<Description>Time (in milliseconds) that must elapse before situation can activate again.</Description>
+				<Default>30000</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Local_Delay</Name>
+				<Type>Int</Type>
+				<Display_Name>Local Delay (ms)</Display_Name>
+				<Description>Time (in milliseconds) that must elapse before same human can say another line from this situation.</Description>
+				<Default>30000</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>ChanceToPlay</Name>
+				<Type>Int</Type>
+				<Display_Name>Chance To Play</Display_Name>
+				<Description>Percentage chance that the voice sound will play when the persona event occurs</Description>
+				<Default>100</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Distance</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>voice_distances.xtbl</File>
+					<Type>Voice_Distance_List.Voice_Distances.Voice_Distance.Distance_Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>40</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

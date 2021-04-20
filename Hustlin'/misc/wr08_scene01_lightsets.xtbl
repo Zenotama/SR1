@@ -1,0 +1,2064 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Early night</Name>
+		<StartTime>2000</StartTime>
+		<EndTime>2159</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Church Early Night PC Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.812 0.812 0.753</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.38815 1.24842 11.6748</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.425</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.593 0.75 0.981</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.82615 1.41802 11.3902</Position>
+				<Orientation>-0.5696 0.3198 -0.2487 0.7153</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>1.35 2.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Julius Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.906 0.918</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.5719 1.58901 9.38291</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.549995 1.725</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.804 1.0</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.98183 0.176908 9.77709</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.679 0.679</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.87959 2.27731 8.80952</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.8 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.793 0.804</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.37351 1.59983 8.47235</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Troy Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.785</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.16128 1.59983 8.99947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.6 1.55</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Walkaway Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.804 0.561</Color>
+				<Multiplier>0.49</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.43199 1.58901 8.07874</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174995 1.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early Night Mansion Price Rim Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>0.99</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>84.823 1.71171 3.23273</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.649995 2.89999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion DriveawayFreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.761 0.753 0.679</Color>
+				<Multiplier>1.13</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>50.428 5.36201 -7.17628</Position>
+				<Orientation>-0.0507 0.8564 0.0049 0.514</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.267035 0.62221</Hotspot>
+				<Attenuation>5.74999 7.5</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>83.5622 0.98014 3.19977</Position>
+				<Orientation>-0.4921 0.5008 -0.4247 0.5717</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.5102 1.61829 4.26559</Position>
+				<Orientation>-0.6248 0.2038 -0.1683 0.7348</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>3.0 15.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.848</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9362 0.700597 5.31705</Position>
+				<Orientation>-0.4817 -0.667 0.417 0.3864</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.523599 0.785398</Hotspot>
+				<Attenuation>4.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.6524 1.43808 7.42407</Position>
+				<Orientation>-0.5642 -0.3609 0.3244 0.6681</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice</Exclude_List>
+				<Exclude_List_Original_Names>price01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.84</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>82.4371 1.86803 3.36267</Position>
+				<Orientation>0.3096 -0.6302 0.5829 -0.4091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.201586 0.314159</Hotspot>
+				<Attenuation>2.54999 6.64999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.738 0.946</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9433 1.71171 -0.573819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Price Rim Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>87.5563 1.71171 2.28358</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.999996 2.74999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early Night Mansion Cars Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.683 0.777</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.7921 3.26906 5.36646</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.975 7.75</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice wr_x_m_thug1-01 wr_x_m_thug1-02 WR_X_M_Killa2-02</Exclude_List>
+				<Exclude_List_Original_Names>price01 rola01 rolb01 rolc01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>95</R>
+					<G>95</G>
+					<B>95</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Level_Ambient>
+					<R>75</R>
+					<G>75</G>
+					<B>75</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>87</R>
+					<G>87</G>
+					<B>87</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Early Morning</Name>
+		<StartTime>300</StartTime>
+		<EndTime>659</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Church Early AM FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.593 0.75 0.981</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.82615 1.41802 11.3902</Position>
+				<Orientation>-0.5696 0.3198 -0.2487 0.7153</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>1.35 2.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Julius Key Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.906 0.918</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.5719 1.58901 9.38291</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.549995 1.725</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.804 1.0</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.98183 0.176908 9.77709</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.679 0.679</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.87959 2.27731 8.80952</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.8 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.793 0.804</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.3017 1.59983 8.28175</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM PC Key Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.812 0.812 0.753</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.38815 1.24842 11.6748</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.425</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Troy Key Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.785</Color>
+				<Multiplier>0.98</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.16128 1.59983 8.99947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.6 2.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Early AM Walkaway Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.906 0.797</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.43199 1.58901 8.07874</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174995 1.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion Cars Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.683 0.777</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.7921 3.26906 5.36646</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.975 7.75</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice wr_x_m_thug1-01 wr_x_m_thug1-02 WR_X_M_Killa2-02</Exclude_List>
+				<Exclude_List_Original_Names>price01 rola01 rolb01 rolc01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion DriveawayFreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.761 0.753 0.679</Color>
+				<Multiplier>1.13</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>50.428 5.36201 -7.17628</Position>
+				<Orientation>-0.0507 0.8564 0.0049 0.514</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.267035 0.62221</Hotspot>
+				<Attenuation>5.74999 7.5</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion FreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>83.5622 0.98014 3.19977</Position>
+				<Orientation>-0.4921 0.5008 -0.4247 0.5717</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.5102 1.61829 4.26559</Position>
+				<Orientation>-0.6248 0.2038 -0.1683 0.7348</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>3.0 15.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.848</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9362 0.700597 5.31705</Position>
+				<Orientation>-0.4817 -0.667 0.417 0.3864</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.523599 0.785398</Hotspot>
+				<Attenuation>4.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.6524 1.43808 7.42407</Position>
+				<Orientation>-0.5642 -0.3609 0.3244 0.6681</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice</Exclude_List>
+				<Exclude_List_Original_Names>price01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.84</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>82.4371 1.86803 3.36267</Position>
+				<Orientation>0.3096 -0.6302 0.5829 -0.4091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.201586 0.314159</Hotspot>
+				<Attenuation>2.54999 6.64999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.738 0.946</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9433 1.71171 -0.573819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion Price Rim Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>87.5563 1.71171 2.28358</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.999996 2.74999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early AM Mansion Price Rim Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>0.99</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>84.823 1.71171 3.23273</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.649995 2.89999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>95</R>
+					<G>95</G>
+					<B>95</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Level_Ambient>
+					<R>94</R>
+					<G>94</G>
+					<B>94</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>101</R>
+					<G>101</G>
+					<B>101</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Late Night</Name>
+		<StartTime>2200</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Church Early Night PC Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.812 0.812 0.753</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.38815 1.24842 11.6748</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.425</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.593 0.75 0.981</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.82615 1.41802 11.3902</Position>
+				<Orientation>-0.5696 0.3198 -0.2487 0.7153</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>1.35 2.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Julius Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.906 0.918</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.5719 1.58901 9.38291</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.549995 1.725</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.804 1.0</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.98183 0.176908 9.77709</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.679 0.679</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.87959 2.27731 8.80952</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.8 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.793 0.804</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.37351 1.59983 8.47235</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Troy Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.785</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.16128 1.59983 8.99947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.6 1.55</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Walkaway Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.804 0.561</Color>
+				<Multiplier>0.49</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.43199 1.58901 8.07874</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174995 1.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early Night Mansion Cars Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.683 0.777</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.7921 3.26906 5.36646</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.975 7.75</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice wr_x_m_thug1-01 wr_x_m_thug1-02 WR_X_M_Killa2-02</Exclude_List>
+				<Exclude_List_Original_Names>price01 rola01 rolb01 rolc01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Early Night Mansion Price Rim Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>0.99</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>84.823 1.71171 3.23273</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.649995 2.89999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion DriveawayFreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.761 0.753 0.679</Color>
+				<Multiplier>1.13</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>50.428 5.36201 -7.17628</Position>
+				<Orientation>-0.0507 0.8564 0.0049 0.514</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.267035 0.62221</Hotspot>
+				<Attenuation>5.74999 7.5</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>83.5622 0.98014 3.19977</Position>
+				<Orientation>-0.4921 0.5008 -0.4247 0.5717</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.5102 1.61829 4.26559</Position>
+				<Orientation>-0.6248 0.2038 -0.1683 0.7348</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>3.0 15.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.848</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9362 0.700597 5.31705</Position>
+				<Orientation>-0.4817 -0.667 0.417 0.3864</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.523599 0.785398</Hotspot>
+				<Attenuation>4.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.6524 1.43808 7.42407</Position>
+				<Orientation>-0.5642 -0.3609 0.3244 0.6681</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice</Exclude_List>
+				<Exclude_List_Original_Names>price01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.84</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>82.4371 1.86803 3.36267</Position>
+				<Orientation>0.3096 -0.6302 0.5829 -0.4091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.201586 0.314159</Hotspot>
+				<Attenuation>2.54999 6.64999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.738 0.946</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9433 1.71171 -0.573819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Price Rim Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>87.5563 1.71171 2.28358</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.999996 2.74999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>95</R>
+					<G>95</G>
+					<B>95</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Level_Ambient>
+					<R>75</R>
+					<G>75</G>
+					<B>75</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>84</R>
+					<G>93</G>
+					<B>95</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Daytime</Name>
+		<StartTime>700</StartTime>
+		<EndTime>1959</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Day Mansion Cars Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.683 0.777</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.7921 3.26906 5.36646</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.975 7.75</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice wr_x_m_thug1-01 wr_x_m_thug1-02 WR_X_M_Killa2-02</Exclude_List>
+				<Exclude_List_Original_Names>price01 rola01 rolb01 rolc01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion DriveawayFreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.761 0.753 0.679</Color>
+				<Multiplier>1.13</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>50.428 5.36201 -7.17628</Position>
+				<Orientation>-0.0507 0.8564 0.0049 0.514</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.267035 0.62221</Hotspot>
+				<Attenuation>5.74999 7.5</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>83.5622 0.98014 3.19977</Position>
+				<Orientation>-0.4921 0.5008 -0.4247 0.5717</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.5102 1.61829 4.26559</Position>
+				<Orientation>-0.6248 0.2038 -0.1683 0.7348</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>3.0 15.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion FreeSpot21</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.848</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9362 0.700597 5.31705</Position>
+				<Orientation>-0.4817 -0.667 0.417 0.3864</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.523599 0.785398</Hotspot>
+				<Attenuation>4.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion FreeSpot22</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.6524 1.43808 7.42407</Position>
+				<Orientation>-0.5642 -0.3609 0.3244 0.6681</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice</Exclude_List>
+				<Exclude_List_Original_Names>price01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion FreeSpot23</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.84</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>82.4371 1.86803 3.36267</Position>
+				<Orientation>0.3096 -0.6302 0.5829 -0.4091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.201586 0.314159</Hotspot>
+				<Attenuation>2.54999 6.64999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.738 0.946</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9433 1.71171 -0.573819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion Price Rim Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>87.5563 1.71171 2.28358</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.999996 2.74999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Day Mansion Price Rim Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>0.56</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>84.823 1.71171 3.23273</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.649995 2.89999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.593 0.75 0.981</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.82615 1.41802 11.3902</Position>
+				<Orientation>-0.5696 0.3198 -0.2487 0.7153</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>1.35 2.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Julius Key Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.906 0.918</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.5719 1.58901 9.38291</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.549995 1.725</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.804 1.0</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.98183 0.176908 9.77709</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.679 0.679</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.87959 2.27731 8.80952</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.8 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.793 0.804</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.3017 1.59983 8.28175</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day PC Key Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.812 0.812 0.753</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.38815 1.24842 11.6748</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.425</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Troy Key Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.785</Color>
+				<Multiplier>0.98</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.16128 1.59983 8.99947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.6 2.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Walkaway Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.906 0.797</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.43199 1.58901 8.07874</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174995 1.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Day Player Fill Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.742 0.75 0.683</Color>
+				<Multiplier>1.38</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.24268 2.12326 9.20926</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.475 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Level_Ambient>
+					<R>74</R>
+					<G>74</G>
+					<B>74</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>121</R>
+					<G>121</G>
+					<B>121</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			<Ambient_Value>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Level_Ambient>
+					<R>74</R>
+					<G>74</G>
+					<B>74</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>109</R>
+					<G>109</G>
+					<B>109</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Late Night1</Name>
+		<StartTime>0</StartTime>
+		<EndTime>259</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Church Late Night FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.593 0.75 0.981</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.82615 1.41802 11.3902</Position>
+				<Orientation>-0.5696 0.3198 -0.2487 0.7153</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>1.35 2.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.804 1.0</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.98183 0.176908 9.77709</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.906 0.679 0.679</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.87959 2.27731 8.80952</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.8 5.0</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.746 0.793 0.804</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.37351 1.59983 8.47235</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 1.5</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Julius Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.906 0.918</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.5719 1.58901 9.38291</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.549995 1.725</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>#PLAYER# TS_W_M_Troy-01</Exclude_List>
+				<Exclude_List_Original_Names>player01 troy01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Walkaway Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.895 0.804 0.561</Color>
+				<Multiplier>0.49</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.43199 1.58901 8.07874</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174995 1.175</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Church Late Night Troy Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.785</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.16128 1.59983 8.99947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.6 1.55</Attenuation>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Exclude_List>TS_B_M_Julius TS_B_M_Julius #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>julius01 julius01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>83.5622 0.98014 3.19977</Position>
+				<Orientation>-0.4921 0.5008 -0.4247 0.5717</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>85.5102 1.61829 4.26559</Position>
+				<Orientation>-0.6248 0.2038 -0.1683 0.7348</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.523599</Hotspot>
+				<Attenuation>3.0 15.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.848</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9362 0.700597 5.31705</Position>
+				<Orientation>-0.4817 -0.667 0.417 0.3864</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.523599 0.785398</Hotspot>
+				<Attenuation>4.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.859 0.914 0.993</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.6524 1.43808 7.42407</Position>
+				<Orientation>-0.5642 -0.3609 0.3244 0.6681</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.610865</Hotspot>
+				<Attenuation>4.0 12.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>WR_W_M_JosephPrice</Exclude_List>
+				<Exclude_List_Original_Names>price01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.738 0.946</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>89.9433 1.71171 -0.573819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion Price Rim Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.824 0.769</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>87.5563 1.71171 2.28358</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.999996 2.74999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List>wr_x_m_thug1-01 cs_WR_4dr_sports wr_x_m_thug1-02 cs_WR_4dr_luxury WR_X_M_Killa2-02 cs_WR_4dr_standard</Exclude_List>
+				<Exclude_List_Original_Names>rola01 rolacar01 rolb01 rolbcar01 rolc01 rolccar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.84 0.84</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>82.4371 1.86803 3.36267</Position>
+				<Orientation>0.3096 -0.6302 0.5829 -0.4091</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.201586 0.314159</Hotspot>
+				<Attenuation>2.54999 6.64999</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Late Night Mansion DriveawayFreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.761 0.753 0.679</Color>
+				<Multiplier>1.13</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>50.428 5.36201 -7.17628</Position>
+				<Orientation>-0.0507 0.8564 0.0049 0.514</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.267035 0.62221</Hotspot>
+				<Attenuation>5.74999 7.5</Attenuation>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_chruch_yard</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>95</R>
+					<G>95</G>
+					<B>95</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_enter</Slate_Name>
+				<Level_Ambient>
+					<R>75</R>
+					<G>75</G>
+					<B>75</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>87</R>
+					<G>87</G>
+					<B>87</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,240 @@
+<root>
+<Table>
+	<Trigger>
+		<Name>crib clothing</Name>
+		<Effect>mission_clothes</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_CRIB CLOTHING_MSG</UseMessage>
+		</Trigger>
+	<Trigger>
+		<Name>crib weapons</Name>
+		<Effect>mission_gunstore</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_CRIB WEAPONS_MSG</UseMessage>
+		</Trigger>
+	<Trigger>
+		<Name>cash pickup</Name>
+		<Effect>mission_cash</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>HUD_TRIGGER_CASH_STASH</UseMessage>
+		</Trigger>
+	<Trigger>
+		<Name>liquor store</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_liqour</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_LIQUOR STORE_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>clothing store</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_clothing_low</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_CLOTHING STORE_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>music store</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_music</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_MUSIC STORE_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>weapon store</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_gun</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_WEAPON STORE_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>theatre</Name>
+		<Effect>mission_purchase</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_THEATER_MSG</UseMessage>
+		<Icon>map_store_movie</Icon>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>forgive and forget</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Icon>map_store_forgive</Icon>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>plastic surgeon</Name>
+		<Effect>mission_purchase</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Icon>map_store_surgeon</Icon>
+		<UseMessage>STORE_PLASTIC SURGEON_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>jewelry store</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_jewelry</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_JEWELRY_STORE_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>car mechanic</Name>
+		<Icon>map_store_mechanic</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_CAR_MECHANIC_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>tattoo parlor</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_tattoo</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_TATTOO_PARLOR_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>hair salon</Name>
+		<Effect>mission_purchase</Effect>
+		<Icon>map_store_hairsalon</Icon>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_HAIR_SALON_MSG</UseMessage>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>garage enter</Name>
+		<Effect>mission_purchase</Effect>
+		<UseMessage>STORE_GARAGE_MSG</UseMessage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>car dealership</Name>
+		<Effect>mission_purchase</Effect>
+		<UseMessage>STORE_CAR_DEALER_MSG</UseMessage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Icon>map_store_cardealer_high</Icon>
+		<IconType>Store</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>medic</Name>
+		<Effect>mission_purchase</Effect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<UseMessage>STORE_AMBULANCE_MSG</UseMessage>
+		</Trigger>
+	<Trigger>
+		<Name>save spot</Name>
+		<Effect>mission_save</Effect>
+		<UseMessage>TRIGGER_SAVE</UseMessage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Icon>map_other_save</Icon>
+		<IconType>Save</IconType>
+		</Trigger>
+	<Trigger>
+		<Name>freckle bitches</Name>
+		<Effect>mission_car_b</Effect>
+		<IconType>Store</IconType>
+		<UseMessage>TRIGGER_FOOD</UseMessage>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Icon>map_store_food</Icon>
+		</Trigger>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Trigger</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Trigger Type</Display_Name>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Effect</Name>
+		<Type>Reference</Type>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Icon</Name>
+		<Type>Reference</Type>
+		<Display_Name>Minimap Icon</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>bitmap_sheets.xtbl</File>
+			<Type>BitmapSheets.Images.Properties.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>IconType</Name>
+		<Type>Selection</Type>
+		<Display_Name>Icon Type</Display_Name>
+		<Description>What list does the icon go into.</Description>
+		<Required>false</Required>
+		<Default>Store</Default>
+		<Choice>Store</Choice>
+		<Choice>Save</Choice>
+		</Element>
+	<Element>
+		<Name>UseMessage</Name>
+		<Type>Reference</Type>
+		<Display_Name>Use Message</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>localized_exports\Stores_text.xtbl</File>
+			<Type>Stores_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

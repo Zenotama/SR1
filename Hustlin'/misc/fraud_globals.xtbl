@@ -1,0 +1,324 @@
+<root>
+<Table>
+	<Fraud_Values>
+		<Name>Default</Name>
+		<Damage_Multiplier>1.2</Damage_Multiplier>
+		<Money_Conversion>1.25</Money_Conversion>
+		<Min_Money>1</Min_Money>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Body_Multipliers>
+			<Body>
+				<Head>2.5</Head>
+				<Chest>1.5</Chest>
+				<Groin>2.5</Groin>
+				<Arm>1</Arm>
+				<Leg>1</Leg>
+				</Body>
+			</Body_Multipliers>
+		<Delay_Multiplier>2.0</Delay_Multiplier>
+		<Max_Delay>1000</Max_Delay>
+		<Vehicle_Multiplier>4</Vehicle_Multiplier>
+		<Vehicle_Max_Value>10000</Vehicle_Max_Value>
+		<Air_Multiplier>3</Air_Multiplier>
+		<Air_Max_Time>1700</Air_Max_Time>
+		<Witness_Multiplier>4</Witness_Multiplier>
+		<Witness_Max_People>7</Witness_Max_People>
+		<Cop_Multiplier>2</Cop_Multiplier>
+		<Mass_Min_Multiplier>2</Mass_Min_Multiplier>
+		<Mass_Min_Mass>500.0</Mass_Min_Mass>
+		<Mass_Max_Mass>6000.0</Mass_Max_Mass>
+		<Crush_Damage_Per_Speed>0.875</Crush_Damage_Per_Speed>
+		<Scrape_Damage_Per_Speed>0.025</Scrape_Damage_Per_Speed>
+		<Mass_Max_Multiplier>6</Mass_Max_Multiplier>
+		<Mass_Min_Speed>0.25</Mass_Min_Speed>
+		<Distance_Multiplier>4</Distance_Multiplier>
+		<Distance_Max_Distance>60</Distance_Max_Distance>
+		<Bonus_Area_Multiplier>1</Bonus_Area_Multiplier>
+		<Min_Combo_Money>10</Min_Combo_Money>
+		<Bonus_Area_Shift>1</Bonus_Area_Shift>
+		<Civil_Car_Multiplier>2</Civil_Car_Multiplier>
+		<Crazy_Car_Multiplier>1</Crazy_Car_Multiplier>
+		<Vehicle_Eject_Multiplier>5</Vehicle_Eject_Multiplier>
+		</Fraud_Values>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Fraud_Values</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Fraud Values</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Totally meaningless!</Description>
+		</Element>
+	<Element>
+		<Name>Damage_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Damage Multiplier</Display_Name>
+		<Description>A multiplier for how much damage the player recieves when they haven't caused a ragdoll.</Description>
+		<Default>0.5</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Crush_Damage_Per_Speed</Name>
+		<Type>Float</Type>
+		<Display_Name>Crushing Damage/Speed</Display_Name>
+		<Description>How much damage is given per m/s due to crushing.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Scrape_Damage_Per_Speed</Name>
+		<Type>Float</Type>
+		<Display_Name>Scraping Damage/Speed</Display_Name>
+		<Description>How much damage is given per m/s due to scraping.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Mass_Min_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Mass Bonus Min Multiplier</Display_Name>
+		<Description>The min multiplier for the bonus to damage from the object's mass.</Description>
+		<Default>1.0</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Mass_Max_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Mass Bonus Max Multiplier</Display_Name>
+		<Description>The min multiplier for the bonus to damage from the object's mass.</Description>
+		<Default>1.0</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Mass_Min_Mass</Name>
+		<Type>Float</Type>
+		<Display_Name>Mass Bonus Min Mass</Display_Name>
+		<Description>This value corresponds to 0% of the mass bonus multiplier.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Mass_Max_Mass</Name>
+		<Type>Float</Type>
+		<Display_Name>Mass Bonus Max Mass</Display_Name>
+		<Description>This value corresponds to 100% of the mass bonus multiplier.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Mass_Min_Speed</Name>
+		<Type>Float</Type>
+		<Display_Name>Mass Bonus Min Speed</Display_Name>
+		<Description>The minimum speed (m/s) of the object the player collides with to recieve a mass bonus.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Money_Conversion</Name>
+		<Type>Float</Type>
+		<Display_Name>Money/Damage Conversion</Display_Name>
+		<Description>A fraction conversion rate for money from damage.</Description>
+		<Default>1.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Min_Money</Name>
+		<Type>Float</Type>
+		<Display_Name>Min Base Money</Display_Name>
+		<Description>The minimum amount of base money (before bonus multipliers) to consider awarding to the player.</Description>
+		<Default>1</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Min_Combo_Money</Name>
+		<Type>Float</Type>
+		<Display_Name>Min Combo Money</Display_Name>
+		<Description>The minimum amount of base money (before bonus multipliers) to give a combo point for.</Description>
+		<Default>10</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Delay_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Delay Multiplier</Display_Name>
+		<Description>Bonus multiplier for having small delay between ragdoll and collision.  Scaled based on maximum delay time.</Description>
+		<Default>1.0</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Delay</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Delay Time (ms)</Display_Name>
+		<Description>How long before 0 bonus is given because the delay was too long.</Description>
+		<Default>1000</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Body_Multipliers</Name>
+		<Type>Grid</Type>
+		<Display_Name>Body Multipliers</Display_Name>
+		<Description>The multipliers for different body parts.</Description>
+		<Element>
+			<Name>Body</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Head</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Chest</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Groin</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Arm</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Leg</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Max_Children>1</Max_Children>
+		<Min_Children>1</Min_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Vehicle_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Vehicle Bonus Max Multiplier</Display_Name>
+		<Description>The maximum multiplier for the vehicle bonus.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Vehicle_Max_Value</Name>
+		<Type>Int</Type>
+		<Display_Name>Vehicle Bonus Max Value</Display_Name>
+		<Description>The vehicle value at which the max multiplier will be given.</Description>
+		<Default>5000</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Air_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Air Bonus Max Multiplier</Display_Name>
+		<Description>The maximum multiplier for the air time bonus.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Air_Max_Time</Name>
+		<Type>Int</Type>
+		<Display_Name>Air Bonus Max Time (ms)</Display_Name>
+		<Description>The air time (ms) at which the max multiplier will be given.</Description>
+		<Default>1000</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Witness_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Witness Bonus Max Multiplier</Display_Name>
+		<Description>The maximum multiplier for the witness bonus.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Witness_Max_People</Name>
+		<Type>Int</Type>
+		<Display_Name>Witness Bonus Max People</Display_Name>
+		<Description>The number of people at which the max multiplier will be given.</Description>
+		<Default>2</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Cop_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Cop Bonus Multiplier</Display_Name>
+		<Description>The bonus multiplier for having a cop witness.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Distance_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Distance Bonus Max Multiplier</Display_Name>
+		<Description>The maximum multiplier for the air time bonus.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Distance_Max_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>Distance Bonus Max Distance</Display_Name>
+		<Description>The distance at which the max multiplier will be given.</Description>
+		<Default>300</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Bonus_Area_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Bonus Area Multiplier</Display_Name>
+		<Description>The multiplier for the bonus area.</Description>
+		<Default>1</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>Bonus_Area_Shift</Name>
+		<Type>Float</Type>
+		<Display_Name>Shift To Next</Display_Name>
+		<Description>amount of time before shifting to the next bonus area (in minutes)</Description>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>Civil_Car_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Civil Vehicle Bonus Multiplier</Display_Name>
+		<Description>Bonus given for colliding with a government vehicle.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Crazy_Car_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Crazy Driver Bonus Multiplier</Display_Name>
+		<Description>Bonus given for colliding with a crazy driver.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Vehicle_Eject_Multiplier</Name>
+		<Type>Int</Type>
+		<Display_Name>Vehicle Eject Bonus Multiplier</Display_Name>
+		<Description>Bonus given for getting ejected from a vehicle.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

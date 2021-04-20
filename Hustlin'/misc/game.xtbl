@@ -1,0 +1,115 @@
+<root>
+<Table>
+	<Game>
+		<Name>Saint's Row</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<MenuCam>
+			<Cam>
+				<Pos>
+					<X>-627.1221</X>
+					<Y>-1.9867</Y>
+					<Z>-157.7234</Z>
+					</Pos>
+				<Angles>
+					<X>5.56</X>
+					<Y>0.0</Y>
+					<Z>-72.76</Z>
+					</Angles>
+				<FOV>60</FOV>
+				</Cam>
+			</MenuCam>
+		<CityFilename>sr_city</CityFilename>
+		</Game>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Game</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>CityFilename</Name>
+		<Type>String</Type>
+		<Display_Name>City Filename</Display_Name>
+		</Element>
+	<Element>
+		<Name>MenuCam</Name>
+		<Type>Grid</Type>
+		<Display_Name>Default Menu Cameras</Display_Name>
+		<Description>A list of locations the camera can be when in the main menu without an autoloaded crib.  Use the console command "show_camera_info" ingame to get these values.</Description>
+		<Element>
+			<Name>Cam</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Pos</Name>
+				<Type>Vector</Type>
+				<Description>World-space position of the camera.</Description>
+				<X>
+					<Name>X</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					</X>
+				<Y>
+					<Name>Y</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					</Y>
+				<Z>
+					<Name>Z</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					</Z>
+				</Element>
+			<Element>
+				<Name>Angles</Name>
+				<Type>Vector</Type>
+				<Description>Pitch, bank, heading for the camera.</Description>
+				<X>
+					<Name>X</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					<MinValue>-180</MinValue>
+					<MaxValue>180</MaxValue>
+					</X>
+				<Y>
+					<Name>Y</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					<MinValue>-180</MinValue>
+					<MaxValue>180</MaxValue>
+					</Y>
+				<Z>
+					<Name>Z</Name>
+					<Type>Float</Type>
+					<Default>0.0</Default>
+					<MinValue>-180</MinValue>
+					<MaxValue>180</MaxValue>
+					</Z>
+				</Element>
+			<Element>
+				<Name>FOV</Name>
+				<Type>Float</Type>
+				<Display_Name>FOV (deg)</Display_Name>
+				<Description>Horizontal FOV in degrees, assuming a 4:3 display.</Description>
+				<Default>60</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>179</MaxValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

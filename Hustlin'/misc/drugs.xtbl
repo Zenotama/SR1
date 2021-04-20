@@ -1,0 +1,463 @@
+<root>
+<Table>
+	<Drug>
+		<Name>spliff</Name>
+		<DisplayName>SPLIFF</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Bitmap>spliff</Bitmap>
+		<Static_Mesh>
+			<Filename>p_blunt.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>10</Cost>
+		<Points>20</Points>
+		<Description>SPLIFF_DESC</Description>
+		<Drug_Type>
+			<Weed>
+				<Damage_Reduction>25.0</Damage_Reduction>
+				<Health_Regen>0.0</Health_Regen>
+				</Weed>
+			</Drug_Type>
+		<Value>20</Value>
+		<Duration>60</Duration>
+		</Drug>
+	<Drug>
+		<Name>chicken_bazooms</Name>
+		<DisplayName>DRUG_CHICK_NAME</DisplayName>
+		<Description>DRUG_CHICK_DESC</Description>
+		<Bitmap>ui_hud_inv_chicken</Bitmap>
+		<Static_Mesh>
+			<Filename>bazoom.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>50</Cost>
+		<Duration>60</Duration>
+		<Points>20</Points>
+		<Value>100</Value>
+		<Drug_Type>
+			<Food>
+				<Health_Restore>60</Health_Restore>
+				</Food>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>blunt</Name>
+		<DisplayName>BLUNT</DisplayName>
+		<Description>BLUNT_DESC</Description>
+		<Bitmap>blunt</Bitmap>
+		<Static_Mesh>
+			<Filename>p_blunt.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>20</Cost>
+		<Duration>50</Duration>
+		<Points>40</Points>
+		<Value>40</Value>
+		<Drug_Type>
+			<Weed>
+				<Damage_Reduction>35.0</Damage_Reduction>
+				<Health_Regen>0.0</Health_Regen>
+				</Weed>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>pipe</Name>
+		<DisplayName>PIPE</DisplayName>
+		<Description>PIPE_DESC</Description>
+		<Bitmap>pipe</Bitmap>
+		<Static_Mesh>
+			<Filename>p_blunt.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>30</Cost>
+		<Duration>40</Duration>
+		<Points>50</Points>
+		<Value>50</Value>
+		<Drug_Type>
+			<Weed>
+				<Damage_Reduction>50.0</Damage_Reduction>
+				<Health_Regen>0.0</Health_Regen>
+				</Weed>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>bong</Name>
+		<DisplayName>BONG</DisplayName>
+		<Description>BONG_DESC</Description>
+		<Bitmap>bong</Bitmap>
+		<Static_Mesh>
+			<Filename>p_blunt.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>40</Cost>
+		<Duration>30.0</Duration>
+		<Points>80</Points>
+		<Value>80</Value>
+		<Drug_Type>
+			<Weed>
+				<Damage_Reduction>65.0</Damage_Reduction>
+				<Health_Regen>0.0</Health_Regen>
+				</Weed>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>40oz</Name>
+		<DisplayName>40OZ</DisplayName>
+		<Description>40OZ_DESC</Description>
+		<Bitmap>40oz</Bitmap>
+		<Static_Mesh>
+			<Filename>dolt45.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>10</Cost>
+		<Duration>60</Duration>
+		<Points>20</Points>
+		<Value>20</Value>
+		<Drug_Type>
+			<Booze>
+				<Health_Restore>0.0</Health_Restore>
+				<Beer_Muscles>300</Beer_Muscles>
+				<Melee_Boost>0.0</Melee_Boost>
+				</Booze>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>gin_n_juice</Name>
+		<DisplayName>GIN_N_JUICE</DisplayName>
+		<Description>GIN_N_JUICE_DESC</Description>
+		<Bitmap>ginjuice</Bitmap>
+		<Static_Mesh>
+			<Filename>ginjuice.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>20</Cost>
+		<Duration>50.0</Duration>
+		<Points>40</Points>
+		<Value>40</Value>
+		<Drug_Type>
+			<Booze>
+				<Health_Restore>0</Health_Restore>
+				<Beer_Muscles>300</Beer_Muscles>
+				<Melee_Boost>25.0</Melee_Boost>
+				</Booze>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>hennessy</Name>
+		<DisplayName>HENESSY</DisplayName>
+		<Description>HENESSY_DESC</Description>
+		<Bitmap>hennessy</Bitmap>
+		<Static_Mesh>
+			<Filename>cognac.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>30</Cost>
+		<Duration>40.0</Duration>
+		<Points>50</Points>
+		<Value>50</Value>
+		<Drug_Type>
+			<Booze>
+				<Health_Restore>0</Health_Restore>
+				<Beer_Muscles>300</Beer_Muscles>
+				<Melee_Boost>35.0</Melee_Boost>
+				</Booze>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>krystal</Name>
+		<DisplayName>KRYSTAL</DisplayName>
+		<Description>KRYSTAL_DESC</Description>
+		<Bitmap>krystal</Bitmap>
+		<Static_Mesh>
+			<Filename>krystal.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>40</Cost>
+		<Duration>30.0</Duration>
+		<Points>75</Points>
+		<Value>75</Value>
+		<Drug_Type>
+			<Booze>
+				<Health_Restore>0</Health_Restore>
+				<Beer_Muscles>300</Beer_Muscles>
+				<Melee_Boost>45.0</Melee_Boost>
+				</Booze>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>large_softdrink</Name>
+		<DisplayName>DRUG_SODA_NAME</DisplayName>
+		<Description>DRUG_SODA_DESC</Description>
+		<Bitmap>ui_hud_inv_soda</Bitmap>
+		<Static_Mesh>
+			<Filename>softdrink.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>20</Cost>
+		<Duration>60</Duration>
+		<Points>20</Points>
+		<Value>100</Value>
+		<Drug_Type>
+			<Drink>
+				<Health_Restore>20</Health_Restore>
+				<Melee_Boost>0.0</Melee_Boost>
+				<Beer_Muscles>0.0</Beer_Muscles>
+				</Drink>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>the_fist</Name>
+		<DisplayName>DRUG_FIST_NAME</DisplayName>
+		<Description>DRUG_FIST_DESC</Description>
+		<Bitmap>ui_hud_inv_burger</Bitmap>
+		<Static_Mesh>
+			<Filename>fistburger.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>150</Cost>
+		<Duration>60</Duration>
+		<Points>20</Points>
+		<Value>100</Value>
+		<Drug_Type>
+			<Food>
+				<Health_Restore>75</Health_Restore>
+				</Food>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	<Drug>
+		<Name>burgera</Name>
+		<DisplayName>DRUG_TWIN_NAME</DisplayName>
+		<Description>DRUG_TWIN_DESC</Description>
+		<Bitmap>ui_hud_inv_double</Bitmap>
+		<Static_Mesh>
+			<Filename>BurgerA.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Cost>100</Cost>
+		<Duration>60</Duration>
+		<Points>20</Points>
+		<Value>100</Value>
+		<Drug_Type>
+			<Food>
+				<Health_Restore>40</Health_Restore>
+				</Food>
+			</Drug_Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Drug>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Drug</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Drug Name</Display_Name>
+		<Description>The unique name of the drug in this table.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>The name by which this drug will be known in the game (in purchasing interfaces, etc.)</Description>
+		<Reference>
+			<File>localized_exports\Item_text.xtbl</File>
+			<Type>Items_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Description</Name>
+		<Type>Reference</Type>
+		<Description>The description for this drug, to be displayed in purchasing interfaces, etc.</Description>
+		<Reference>
+			<File>localized_exports\Item_text.xtbl</File>
+			<Type>Items_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Bitmap</Name>
+		<Type>Reference</Type>
+		<Display_Name>Interface Bitmap</Display_Name>
+		<Description>The bitmap to use in the inventory interface for this drug.</Description>
+		<Reference>
+			<File>bitmap_sheets.xtbl</File>
+			<Type>BitmapSheets.Images.Properties.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Static_Mesh</Name>
+		<Type>Filename</Type>
+		<Display_Name>Static Mesh</Display_Name>
+		<Description>The static mesh for this drug item.</Description>
+		<Extension>smeshx</Extension>
+		<StartingPath>data\models\Items</StartingPath>
+		</Element>
+	<Element>
+		<Name>Cost</Name>
+		<Type>Int</Type>
+		<Description>The cost of a single instance of this drug.</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Duration</Name>
+		<Type>Float</Type>
+		<Display_Name>Effect Duration</Display_Name>
+		<Description>How long the effects of this drug should last (in seconds)</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Points</Name>
+		<Type>Int</Type>
+		<Description>The amount of negative effect applied to the player from this drug.  As this value gets higher, negative effects begin to pile up until eventually the player passes out.</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Value</Name>
+		<Type>Int</Type>
+		<Description>The relative value of this drug.  When an item must be dropped from the drug inventory, the lowest-valued drug will be dropped.</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Drug_Type</Name>
+		<Type>ComboElement</Type>
+		<Display_Name>Drug Type</Display_Name>
+		<Description>The type of the drug (booze or "the vile weed" marijuana)</Description>
+		<Element>
+			<Name>Booze</Name>
+			<Type>Element</Type>
+			<Description>Turaluralura~
+I don't know the rest of the song~
+I've always been too drunk to care~</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Health_Restore</Name>
+				<Type>Float</Type>
+				<Display_Name>Health Restore %</Display_Name>
+				<Description>How much health using this form of booze should restore to the player (in %).</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Melee_Boost</Name>
+				<Type>Float</Type>
+				<Display_Name>Melee Boost %</Display_Name>
+				<Description>Melee attack strength will be increased by this percentage while this drug is in effect.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Beer_Muscles</Name>
+				<Type>Float</Type>
+				<Display_Name>Beer Muscles %</Display_Name>
+				<Description>Using this drug adds this percentage to the force applied to ragdolls by melee attacks.</Description>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Weed</Name>
+			<Type>Element</Type>
+			<Description>I..it's medicinal, man! Honest, for my glaucosephi-- gluesephila-- it's for my eyes, man! Wanna hit?</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Damage_Reduction</Name>
+				<Type>Float</Type>
+				<Display_Name>Damage Reduction %</Display_Name>
+				<Description>Any injury suffered by the player while using this drug will have its effect on hit points reduced by this percentage.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Health_Regen</Name>
+				<Type>Float</Type>
+				<Display_Name>Health Regen Rate</Display_Name>
+				<Description>While the player is under the effect of this drug, he regains health at this many hitpoints per second.</Description>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Food</Name>
+			<Type>Element</Type>
+			<Description>While you read this, millions of starving ants are looking at your rice crispies bar, plotting your inevitable demise.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Health_Restore</Name>
+				<Type>Float</Type>
+				<Display_Name>Health Restore %</Display_Name>
+				<Description>Bitch's Buns are Best. They always made me feel better, 
+anyways - by this percentage of max health.</Description>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Drink</Name>
+			<Type>Element</Type>
+			<Description>Voluminous quantities of carbonated swill.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Health_Restore</Name>
+				<Type>Float</Type>
+				<Display_Name>Health Restore %</Display_Name>
+				<Description>How much health using this form of syrupy, carbonated swill should restore to the player (in %).
+
+It's not a potion! Honest! ...</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Melee_Boost</Name>
+				<Type>Float</Type>
+				<Display_Name>Melee Boost %</Display_Name>
+				<Description>Caffeine jitter! Melee attack strength will be increased by this percentage while this flavored sugar water is in effect.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Beer_Muscles</Name>
+				<Type>Float</Type>
+				<Display_Name>Milk Bones %</Display_Name>
+				<Description>Milk. It does a body good. (Do you think legal would approve of a hybrid between the Kemps logo and Milk-bone logo?)</Description>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

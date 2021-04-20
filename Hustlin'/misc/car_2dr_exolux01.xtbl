@@ -1,0 +1,1205 @@
+<root>
+<Table>
+	<Mesh>
+		<Name>car_2dr_exolux01</Name>
+		<Variants>
+			<Variant>
+				<Name>Beater</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Tires</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>20</VID_list>
+								<Chance>100</Chance>
+								<Description>Whitewalls</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 22</VID_list>
+								<Chance>0</Chance>
+								<Description>Lowrider</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 23</VID_list>
+								<Chance>0</Chance>
+								<Description>Flashy</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims</Description>
+								<VID_list>21, 24</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims with Spinners</Description>
+								<VID_list>21, 24, 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood Ornaments</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>70</VID_list>
+								<Chance>33</Chance>
+								<Description>Spike</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>71</VID_list>
+								<Chance>0</Chance>
+								<Description>Cylinder</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>72</VID_list>
+								<Chance>0</Chance>
+								<Description>Wings</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Ho</Description>
+								<VID_list>83</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Trim</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>73</VID_list>
+								<Chance>45</Chance>
+								<Description>Trim</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheel Cover</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>80</VID_list>
+								<Chance>0</Chance>
+								<Description>Wheel Cover</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tire Cage</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>81</VID_list>
+								<Chance>15</Chance>
+								<Description>Spare Tire</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Convertible Top</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Hard Top with Window Covers</Description>
+								<VID_list>75 74</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hard Top</Description>
+								<VID_list>75</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Convertible</Description>
+								<VID_list>76</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Windshield Bar</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Windshield Bar</Description>
+								<VID_list>82</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Side Mirrors</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Side Mirrors</Description>
+								<VID_list>60</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard Bumpers</Description>
+								<VID_list>10 11</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Bumpers</Description>
+								<VID_list>12 13</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Base Paint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>(BasepaintA, BasepaintB, rimpaint)</Name>
+								<Chance>0</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(BasepaintA, BasepaintB), rimpaint</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(BasepaintA_Beater, BasepaintB_Beater), rimpaint</Name>
+								<Chance>100</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Interior</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>StandardB</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Trim</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Trim_Chrome</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>trim_dirty</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Glass</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Glass</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>glass_beater</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Rims</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Gold, whiteborder</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome, whiteborder</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>beater, whiteborder_beater</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>60</Weight>
+				<ParkingWeight>60</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Standard</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Tires</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>20</VID_list>
+								<Chance>100</Chance>
+								<Description>Whitewalls</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 22</VID_list>
+								<Chance>0</Chance>
+								<Description>Lowrider</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 23</VID_list>
+								<Chance>0</Chance>
+								<Description>Flashy</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims</Description>
+								<VID_list>21, 24</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims with Spinners</Description>
+								<VID_list>21, 24, 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood Ornaments</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>70</VID_list>
+								<Chance>100</Chance>
+								<Description>Spike</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>71</VID_list>
+								<Chance>0</Chance>
+								<Description>Cylinder</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>72</VID_list>
+								<Chance>0</Chance>
+								<Description>Wings</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Ho</Description>
+								<VID_list>83</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Trim</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>73</VID_list>
+								<Chance>0</Chance>
+								<Description>Trim</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheel Cover</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>80</VID_list>
+								<Chance>10</Chance>
+								<Description>Wheel Cover</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tire Cage</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>81</VID_list>
+								<Chance>0</Chance>
+								<Description>Spare Tire</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Convertible Top</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Hard Top with Window Covers</Description>
+								<VID_list>75 74</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hard Top</Description>
+								<VID_list>75</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Convertible</Description>
+								<VID_list>76</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Windshield Bar</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Windshield Bar</Description>
+								<VID_list>82</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Side Mirrors</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Side Mirrors</Description>
+								<VID_list>60</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard Bumpers</Description>
+								<VID_list>10 11</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Bumpers</Description>
+								<VID_list>12 13</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Base Paint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>(BasepaintA, BasepaintB, rimpaint)</Name>
+								<Chance>50</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(BasepaintA, BasepaintB), rimpaint</Name>
+								<Chance>50</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Interior</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>StandardB</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Trim</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>trim_dirty</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Trim_Chrome</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Glass</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Glass</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Rims</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Gold, whiteborder</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome, whiteborder</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>beater, whiteborder_beater</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>39</Weight>
+				<ParkingWeight>39</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Blinged</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Tires</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>20</VID_list>
+								<Chance>0</Chance>
+								<Description>Whitewalls</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 22</VID_list>
+								<Chance>50</Chance>
+								<Description>Lowrider</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 23</VID_list>
+								<Chance>50</Chance>
+								<Description>Flashy</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims</Description>
+								<VID_list>21, 24</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims with Spinners</Description>
+								<VID_list>21, 24, 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood Ornaments</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>70</VID_list>
+								<Chance>20</Chance>
+								<Description>Spike</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>71</VID_list>
+								<Chance>40</Chance>
+								<Description>Cylinder</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>72</VID_list>
+								<Chance>40</Chance>
+								<Description>Wings</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Ho</Description>
+								<VID_list>83</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Trim</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>73</VID_list>
+								<Chance>50</Chance>
+								<Description>Trim</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheel Cover</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>80</VID_list>
+								<Chance>50</Chance>
+								<Description>Wheel Cover</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tire Cage</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>81</VID_list>
+								<Chance>50</Chance>
+								<Description>Spare Tire</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Convertible Top</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Hard Top with Window Covers</Description>
+								<VID_list>75 74</VID_list>
+								<Chance>25</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hard Top</Description>
+								<VID_list>75</VID_list>
+								<Chance>25</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Convertible</Description>
+								<VID_list>76</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Windshield Bar</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Windshield Bar</Description>
+								<VID_list>82</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Side Mirrors</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Side Mirrors</Description>
+								<VID_list>60</VID_list>
+								<Chance>75</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard Bumpers</Description>
+								<VID_list>10 11</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Bumpers</Description>
+								<VID_list>12 13</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Base Paint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>(BasepaintA_Dcl, BasepaintB_Dcl, rimpaint)</Name>
+								<Chance>100</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(BasepaintA, BasepaintB), rimpaint</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Interior</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>StandardB</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Trim</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Trim_Gold</Name>
+								<Chance>50</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Trim_Chrome</Name>
+								<Chance>50</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>trim_dirty</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Glass</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Glass</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Rims</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Gold, whiteborder</Name>
+								<Chance>30</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome, whiteborder</Name>
+								<Chance>70</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>beater, whiteborder_beater</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>1</Weight>
+				<ParkingWeight>1</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Reward</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Tires</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>20</VID_list>
+								<Chance>0</Chance>
+								<Description>Whitewalls</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 22</VID_list>
+								<Chance>0</Chance>
+								<Description>Lowrider</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>21, 23</VID_list>
+								<Chance>0</Chance>
+								<Description>Flashy</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims</Description>
+								<VID_list>21, 24</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Rims with Spinners</Description>
+								<VID_list>21, 24, 25</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood Ornaments</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>70</VID_list>
+								<Chance>0</Chance>
+								<Description>Spike</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>71</VID_list>
+								<Chance>0</Chance>
+								<Description>Cylinder</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>72</VID_list>
+								<Chance>0</Chance>
+								<Description>Wings</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Ho</Description>
+								<VID_list>83</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Trim</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>73</VID_list>
+								<Chance>100</Chance>
+								<Description>Trim</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheel Cover</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>80</VID_list>
+								<Chance>100</Chance>
+								<Description>Wheel Cover</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tire Cage</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>81</VID_list>
+								<Chance>100</Chance>
+								<Description>Spare Tire</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Convertible Top</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Hard Top</Description>
+								<VID_list>75</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Convertible</Description>
+								<VID_list>76</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Windshield Bar</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Windshield Bar</Description>
+								<VID_list>82</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Side Mirrors</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Side Mirrors</Description>
+								<VID_list>60</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Standard Bumpers</Description>
+								<VID_list>10 11</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Pimpin' Bumpers</Description>
+								<VID_list>12 13</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Base Paint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>(BasepaintA_Reward, BasepaintB_Reward, rimpaint_reward)</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Interior</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>StandardB_Reward</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Trim</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>trim_dirty</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Trim_Gold</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Glass</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Glass_Reward</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Rims</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Gold, whiteborder</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome, whiteborder</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>beater, whiteborder_beater</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>0</Weight>
+				<ParkingWeight>0</ParkingWeight>
+				</Variant>
+			</Variants>
+		<_Editor>
+			<Category>Vehicles</Category>
+			</_Editor>
+		</Mesh>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Mesh</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Variants</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Variant</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Float</Type>
+				<Display_Name>Frequency Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>ParkingWeight</Name>
+				<Type>Float</Type>
+				<Display_Name>Parking Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned in parking spots. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Variant_IDs</Name>
+				<Type>Grid</Type>
+				<Display_Name>Variant ID's (VID)</Display_Name>
+				<Element>
+					<Name>Vid_group</Name>
+					<Type>Element</Type>
+					<Display_Name>VID Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Vid_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>VID Chances</Display_Name>
+						<Element>
+							<Name>Vid_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>VID Chance</Display_Name>
+							<Element>
+								<Name>Description</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>VID_list</Name>
+								<Type>String</Type>
+								<Display_Name>VID List</Display_Name>
+								<Description>List of VID's seperated by spaces</Description>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Props</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Prop_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Prop Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Prop_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Prop Chances</Display_Name>
+						<Element>
+							<Name>Prop_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>Prop Chance</Display_Name>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>Prop_points</Name>
+								<Type>Grid</Type>
+								<Display_Name>Prop Points</Display_Name>
+								<Element>
+									<Name>Prop_point</Name>
+									<Type>Element</Type>
+									<Display_Name>Prop Point</Display_Name>
+									<Element>
+										<Name>Name</Name>
+										<Type>String</Type>
+										<Default>0</Default>
+										</Element>
+									</Element>
+								<Num_Display_Rows>8</Num_Display_Rows>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Materials</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Material_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Material Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Material_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Material Chances</Display_Name>
+						<Element>
+							<Name>Material_chance</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>flags</Name>
+								<Type>Flags</Type>
+								<Flag>Sync Vars</Flag>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Vehicles</Name>
+		</Category>
+	</EntryCategories>
+</root>

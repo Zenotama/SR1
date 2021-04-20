@@ -1,0 +1,73 @@
+<root>
+<Table>
+	</Table>
+
+<TableTemplates>
+	<Activity>
+		<Name>Pimping</Name>
+		<Type>Pimping</Type>
+		<File>
+			<Filename>e3city_pimp01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>Escort</Name>
+		<Type>Escort</Type>
+		<File>
+			<Filename>e3city_escort01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>Racing 2</Name>
+		<Type>Racing</Type>
+		<File>
+			<Filename>e3city_race02.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Activity>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Choice>Fraud</Choice>
+		<Choice>Hijacking</Choice>
+		<Choice>Hitman</Choice>
+		<Choice>Pimping</Choice>
+		<Choice>Racing</Choice>
+		<Choice>Smuggling</Choice>
+		<Choice>Theft</Choice>
+		<Choice>Trafficking</Choice>
+		<Choice>Vandalism</Choice>
+		<Choice>Escort</Choice>
+		</Element>
+	<Element>
+		<Name>File</Name>
+		<Type>Filename</Type>
+		<Display_Name>Table File</Display_Name>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\levels\e3_redlight\activities</StartingPath>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

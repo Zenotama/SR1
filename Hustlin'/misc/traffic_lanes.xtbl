@@ -1,0 +1,76 @@
+<root>
+<Table>
+	<NewEntity>
+		<Name>Traffic Lanes</Name>
+		<LaneGrid>
+			<LaneSpeed>
+				<UID>1</UID>
+				<Description>Default</Description>
+				<Speed>10</Speed>
+				</LaneSpeed>
+			<LaneSpeed>
+				<UID>2</UID>
+				<Description>Highway</Description>
+				<Speed>20</Speed>
+				</LaneSpeed>
+			<LaneSpeed>
+				<UID>3</UID>
+				<Description>Regular Traffic</Description>
+				<Speed>10</Speed>
+				</LaneSpeed>
+			</LaneGrid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NewEntity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>NewEntity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>LaneGrid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Lane Speeds</Display_Name>
+		<Element>
+			<Name>LaneSpeed</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>UID</Name>
+				<Type>Int</Type>
+				<Display_Name>Lane UID</Display_Name>
+				<Unique>true</Unique>
+				<Default>1</Default>
+				<MaxCount>1</MaxCount>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Description</Name>
+				<Type>String</Type>
+				<Display_Name>Lane Description</Display_Name>
+				<Default>Lane</Default>
+				</Element>
+			<Element>
+				<Name>Speed</Name>
+				<Type>Int</Type>
+				<Display_Name>Lane Speed (m/s)</Display_Name>
+				<Default>15</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

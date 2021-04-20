@@ -1,0 +1,140 @@
+<root>
+<Table>
+	<NotorietyLevels>
+		<Name>Notoriety Levels</Name>
+		<NotorietyLevelsData>
+			<NotorietyLevelElement>
+				<NotorietyLevel>0</NotorietyLevel>
+				<NotorietyLevelLimit>0</NotorietyLevelLimit>
+				<NotorietyFirstDecay>15</NotorietyFirstDecay>
+				<NotorietyDecayRate>1</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>-1</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>-1</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			<NotorietyLevelElement>
+				<NotorietyLevel>1</NotorietyLevel>
+				<NotorietyLevelLimit>75</NotorietyLevelLimit>
+				<NotorietyFirstDecay>8</NotorietyFirstDecay>
+				<NotorietyDecayRate>3</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>-1</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>-1</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			<NotorietyLevelElement>
+				<NotorietyLevel>2</NotorietyLevel>
+				<NotorietyLevelLimit>300</NotorietyLevelLimit>
+				<NotorietyFirstDecay>8</NotorietyFirstDecay>
+				<NotorietyDecayRate>5</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>-1</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>-1</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			<NotorietyLevelElement>
+				<NotorietyLevel>3</NotorietyLevel>
+				<NotorietyLevelLimit>700</NotorietyLevelLimit>
+				<NotorietyFirstDecay>8</NotorietyFirstDecay>
+				<NotorietyDecayRate>5</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>15</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>30</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			<NotorietyLevelElement>
+				<NotorietyLevel>4</NotorietyLevel>
+				<NotorietyLevelLimit>1200</NotorietyLevelLimit>
+				<NotorietyFirstDecay>8</NotorietyFirstDecay>
+				<NotorietyDecayRate>5</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>10</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>20</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			<NotorietyLevelElement>
+				<NotorietyLevel>5</NotorietyLevel>
+				<NotorietyLevelLimit>2500</NotorietyLevelLimit>
+				<NotorietyFirstDecay>0</NotorietyFirstDecay>
+				<NotorietyDecayRate>0</NotorietyDecayRate>
+				<RoadblockSpawnTimeMin>10</RoadblockSpawnTimeMin>
+				<RoadblockSpawnTimeMax>20</RoadblockSpawnTimeMax>
+				</NotorietyLevelElement>
+			</NotorietyLevelsData>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NotorietyLevels>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>NotorietyLevels</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		<Default>Notoriety Levels</Default>
+		</Element>
+	<Element>
+		<Name>NotorietyLevelsData</Name>
+		<Type>Grid</Type>
+		<Display_Name>Notoriety Levels Data</Display_Name>
+		<Element>
+			<Name>NotorietyLevelElement</Name>
+			<Type>Element</Type>
+			<Display_Name>Notoriety Level Element</Display_Name>
+			<Element>
+				<Name>NotorietyLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety Level</Display_Name>
+				<Description>Notoriety level</Description>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>NotorietyLevelLimit</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety Level Limit</Display_Name>
+				<Description>Number of points to attain this notoriety level</Description>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>NotorietyDecayRate</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety Decay Rate</Display_Name>
+				<Description>Notoriety decay rate (in points per second)</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>NotorietyFirstDecay</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety First Decay Time</Display_Name>
+				<Description>Delay (in seconds) after a notoriety increase before notoriety begins to decay</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>RoadblockSpawnTimeMin</Name>
+				<Type>Int</Type>
+				<Display_Name>Roadblock Spawn Time (minimum)</Display_Name>
+				<Description>Minimum time (in seconds) between roadblocks spawns (-1 = no roadblock spawn)</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>RoadblockSpawnTimeMax</Name>
+				<Type>Int</Type>
+				<Display_Name>Roadblock Spawn Time (maximum)</Display_Name>
+				<Description>Maximum time (in seconds) between roadblocks spawns (-1 = no roadblock spawn)</Description>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

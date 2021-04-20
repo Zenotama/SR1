@@ -1,0 +1,82 @@
+<root>
+<Table>
+	<String>
+		<Name>Chop Shop</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>bring car</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_CHOP_BRING_CAR</DisplayText>
+				</Text>
+			<Text>
+				<Name>reject burning</Name>
+				<Duration>7</Duration>
+				<DisplayName>ACT_CHOP_SHOP_CARS_ON_MAP_MSG</DisplayName>
+				<DisplayText>ACT_CHOP_REJECT_BURNING</DisplayText>
+				</Text>
+			<Text>
+				<Name>not wanted</Name>
+				<Duration>7</Duration>
+				<DisplayName>ACT_CHOP_SHOP_APPROACH_CAR_MSG</DisplayName>
+				<DisplayText>ACT_CHOP_NOT_WANTED</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>localized_exports\ActivityCars.xtbl</File>
+					<Type>ActCars_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

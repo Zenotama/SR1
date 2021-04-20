@@ -1,0 +1,474 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>PentSpot51</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.887 0.644</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.57269 3.57328 -13.9973</Position>
+				<Orientation>-0.4058 -0.603 -0.1206 0.6763</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.413643 0.808087</Hotspot>
+				<Attenuation>6.725 9.95001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot50</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.981 0.879 0.604</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.12004 3.04167 -12.3784</Position>
+				<Orientation>-0.2369 -0.5613 0.0059 0.7931</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.255691 0.839503</Hotspot>
+				<Attenuation>5.975 6.125</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.957 0.985</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.38335 3.36633 -14.9752</Position>
+				<Orientation>-0.1447 -0.4513 -0.2689 0.8386</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.301942 0.653626</Hotspot>
+				<Attenuation>3.125 5.425</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpotPro03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.73 0.891 0.942</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>11.7485 2.0183 -3.54088</Position>
+				<Orientation>0.5066 -0.5523 -0.447 -0.4885</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.17366 0.218166</Hotspot>
+				<Attenuation>5.6 6.8</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.981 0.977 0.879</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.96966 3.2927 2.39655</Position>
+				<Orientation>0.0 -0.4867 0.0 0.8736</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.3 8.85001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot52</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.969 0.93</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>11.8052 4.85755 -11.5558</Position>
+				<Orientation>0.1517 -0.561 0.1955 0.7901</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.557633 0.628319</Hotspot>
+				<Attenuation>6.8 8.72501</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List>cs_blackphone VK_B_M_benjaminKing CS_VKchair</Exclude_List>
+				<Exclude_List_Original_Names>deskphone01 KING01 kingchair01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.957 0.891 0.691</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.27552 -0.735301 -7.43716</Position>
+				<Orientation>0.0 -0.4867 0.0 0.8736</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.825 7.05001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List>cs_blackphone VK_B_M_WWilliams</Exclude_List>
+				<Exclude_List_Original_Names>deskphone01 WRRN01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.887 0.644</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.39113 3.80642 -8.21755</Position>
+				<Orientation>0.0251 -0.4648 -0.2342 0.8536</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.413643 0.808087</Hotspot>
+				<Attenuation>6.725 9.95001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.887 0.644</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>4.48416 3.81178 -0.143343</Position>
+				<Orientation>-0.0244 -0.4737 0.0132 0.8803</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.413643 0.765327</Hotspot>
+				<Attenuation>6.725 9.95001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot53</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.887 0.644</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>9.82611 3.80642 -7.99585</Position>
+				<Orientation>-0.0815 -0.4557 -0.2255 0.8573</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.413643 0.765327</Hotspot>
+				<Attenuation>6.725 9.95001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List>VK_B_M_WWilliams</Exclude_List>
+				<Exclude_List_Original_Names>WRRN01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot54</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.887 0.644</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>4.48416 3.81178 -0.143343</Position>
+				<Orientation>-0.0244 -0.4737 0.0132 0.8803</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.413643 0.765327</Hotspot>
+				<Attenuation>6.725 9.95001</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot55</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.969 0.93</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.08496 4.85755 -12.1141</Position>
+				<Orientation>0.2998 -0.5656 0.0649 0.7656</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.171915 0.311541</Hotspot>
+				<Attenuation>4.975 5.525</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List>cs_blackphone CS_VKchair VK_B_M_WWilliams</Exclude_List>
+				<Exclude_List_Original_Names>deskphone01 kingchair01 WRRN01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>PentSpot56</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.969 0.93</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>13.6858 3.18433 -9.23062</Position>
+				<Orientation>0.0624 0.2987 0.4731 0.8266</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.171915 0.311541</Hotspot>
+				<Attenuation>4.975 5.525</Attenuation>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Exclude_List>cs_blackphone CS_VKchair VK_B_M_WWilliams</Exclude_List>
+				<Exclude_List_Original_Names>deskphone01 kingchair01 WRRN01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vkboardroom</Slate_Name>
+				<Level_Ambient>
+					<R>80</R>
+					<G>80</G>
+					<B>80</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>100</R>
+					<G>100</G>
+					<B>100</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

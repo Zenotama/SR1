@@ -1,0 +1,71 @@
+<root>
+<Table>
+	<veh_category>
+		<Name>junk</Name>
+		<Entries>
+			<Entry>
+				<vehicle_model>car_2dr_compact01</vehicle_model>
+				<variant_name>Trashed</variant_name>
+				<weight>1.0</weight>
+				</Entry>
+			<Entry>
+				<vehicle_model>car_2dr_standard02</vehicle_model>
+				<variant_name>Bling</variant_name>
+				<weight>1.0</weight>
+				</Entry>
+			<Entry>
+				<vehicle_model>car_4dr_lowrider01</vehicle_model>
+				<variant_name>Standard</variant_name>
+				<weight>1.0</weight>
+				</Entry>
+			</Entries>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</veh_category>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>veh_category</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Entries</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Entry</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>vehicle_model</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>variant_name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>weight</Name>
+				<Type>Float</Type>
+				<Default>1.0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

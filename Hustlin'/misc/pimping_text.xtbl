@@ -1,0 +1,126 @@
+<root>
+<Table>
+	<String>
+		<Name>Pimping</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>seek hos</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_PIMPING_SEEK HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>hos on map</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_PIMPING_HOS ON MAP_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>approach hos</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_APPROACH HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>defeat enemies</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_DEFEAT ENEMIES_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>recruit hos</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_RECRUIT HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>deliver hos</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_PIMPING_DELIVER HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>more hos</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_MORE HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail time</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_FAIL TIME_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail hos</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_FAIL HOS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>car capacity</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_PIMPING_CAR CAPACITY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>ho freak out</Name>
+				<Duration>7.0</Duration>
+				<DisplayText>ACT_PIMPING_HO FREAK OUT_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>pimp's car</Name>
+				<DisplayText>ACT_PIMPING_PIMP_CAR_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityVices.xtbl</File>
+					<Type>ActVices_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

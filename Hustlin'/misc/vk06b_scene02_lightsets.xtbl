@@ -1,0 +1,1132 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>500</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midnight Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.808 0.793 0.71</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-6.62389 1.62215 -0.476423</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.765 0.671</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.589967 2.28193 -0.735967</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.722 0.738 0.6</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.29941 1.91225 2.80568</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.651 0.773 0.816</Color>
+				<Multiplier>0.74</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.43615 2.28193 3.48489</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb CS_Detonator CS_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305 DetonatorProp01 VKCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.97245 9.22874 0.490355</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.603884 0.968658</Hotspot>
+				<Attenuation>8.47501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.42092 9.22874 0.483314</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.462512 0.623955</Hotspot>
+				<Attenuation>8.22501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.859 0.785</Color>
+				<Multiplier>1.19</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.19566 3.03604 0.887163</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 10.375</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.816 0.816 0.73</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.12539 2.28193 3.81725</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.777 0.679</Color>
+				<Multiplier>0.94</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.14569 1.40489 -0.163884</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.851 0.844 0.769</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.1595 4.82974 9.30099</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.636 0.616 0.487</Color>
+				<Multiplier>1.26</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.96311 2.90076 8.05773</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.975</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni08a</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.773 0.699</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.26978 3.66734 -8.73898</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 6.925</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.789 0.785 0.663</Color>
+				<Multiplier>1.14</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.156 4.82974 -6.78082</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.761 0.746 0.644</Color>
+				<Multiplier>0.97</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.76911 4.86755 -47.8831</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.55 15.675</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB MidnightLevel Omni22</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.836 0.785</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-20.4408 13.6712 12.3265</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.2 8.27501</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>74</R>
+					<G>74</G>
+					<B>74</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>86</R>
+					<G>86</G>
+					<B>86</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dawn2</Name>
+		<StartTime>501</StartTime>
+		<EndTime>1759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dawn Level Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.859 0.785</Color>
+				<Multiplier>1.19</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.19566 3.03604 0.887163</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 10.375</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni08a01</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.773 0.699</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.26978 3.66734 -8.73898</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 6.925</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.851 0.844 0.769</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.1595 4.82974 9.30099</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.636 0.616 0.487</Color>
+				<Multiplier>1.26</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.96311 2.90076 8.05773</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.975</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni15</Name>
+				<Type>omni</Type>
+				<Color>0.789 0.785 0.663</Color>
+				<Multiplier>1.14</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.156 4.82974 -6.78082</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni16</Name>
+				<Type>omni</Type>
+				<Color>0.761 0.746 0.644</Color>
+				<Multiplier>0.97</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.76911 4.86755 -47.8831</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.55 15.675</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni19</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.836 0.785</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-20.4408 13.6712 12.3265</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.2 8.27501</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.808 0.793 0.71</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-6.62389 1.62215 -0.476423</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.765 0.671</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.589967 2.28193 -0.735967</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.722 0.738 0.6</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.29941 1.91225 2.80568</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.651 0.773 0.816</Color>
+				<Multiplier>0.74</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.43615 2.28193 3.48489</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb CS_Detonator CS_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305 DetonatorProp01 VKCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.816 0.816 0.73</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.12539 2.28193 3.81725</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.777 0.679</Color>
+				<Multiplier>0.94</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.14569 1.40489 -0.163884</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.97245 9.22874 0.490355</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.603884 0.968658</Hotspot>
+				<Attenuation>8.47501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.42092 9.22874 0.483314</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.462512 0.623955</Hotspot>
+				<Attenuation>8.22501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb CS_Detonator CS_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305 DetonatorProp01 VKCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>74</R>
+					<G>74</G>
+					<B>74</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>86</R>
+					<G>86</G>
+					<B>86</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midday3</Name>
+		<StartTime>1800</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dusk Level Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.859 0.785</Color>
+				<Multiplier>1.19</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.19566 3.03604 0.887163</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 10.375</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni08a02</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.773 0.699</Color>
+				<Multiplier>1.36</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.26978 3.66734 -8.73898</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 6.925</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.851 0.844 0.769</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.1595 4.82974 9.30099</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni19</Name>
+				<Type>omni</Type>
+				<Color>0.636 0.616 0.487</Color>
+				<Multiplier>1.26</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.96311 2.90076 8.05773</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.975</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni20</Name>
+				<Type>omni</Type>
+				<Color>0.789 0.785 0.663</Color>
+				<Multiplier>1.14</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-12.156 4.82974 -6.78082</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 7.275</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni21</Name>
+				<Type>omni</Type>
+				<Color>0.761 0.746 0.644</Color>
+				<Multiplier>0.97</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.76911 4.86755 -47.8831</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.55 15.675</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.808 0.793 0.71</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-6.62389 1.62215 -0.476423</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.765 0.671</Color>
+				<Multiplier>1.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.589967 2.28193 -0.735967</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni15</Name>
+				<Type>omni</Type>
+				<Color>0.722 0.738 0.6</Color>
+				<Multiplier>1.25</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.29941 1.91225 2.80568</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni16</Name>
+				<Type>omni</Type>
+				<Color>0.651 0.773 0.816</Color>
+				<Multiplier>0.74</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.43615 2.28193 3.48489</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb CS_Detonator CS_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305 DetonatorProp01 VKCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni17</Name>
+				<Type>omni</Type>
+				<Color>0.816 0.816 0.73</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.12539 2.28193 3.81725</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.777 0.679</Color>
+				<Multiplier>0.94</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.14569 1.40489 -0.163884</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Shadowcast FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.97245 9.22874 0.490355</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.603884 0.968658</Hotspot>
+				<Attenuation>8.47501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Shadowcast FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.42092 9.22874 0.483314</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.462512 0.623955</Hotspot>
+				<Attenuation>8.22501 10.825</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List>cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb cs_vkbomb CS_Detonator CS_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>Bomb101 Bomb102 Bomb103 Bomb104 Bomb105 Bomb201 Bomb202 Bomb203 Bomb204 Bomb205 Bomb301 Bomb302 Bomb303 Bomb304 Bomb305 DetonatorProp01 VKCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Level Omni55</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.836 0.785</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-20.4408 13.6712 12.3265</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.2 8.27501</Attenuation>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vk06b_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>74</R>
+					<G>74</G>
+					<B>74</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>86</R>
+					<G>86</G>
+					<B>86</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

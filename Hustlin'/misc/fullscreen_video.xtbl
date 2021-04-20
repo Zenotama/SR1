@@ -1,0 +1,125 @@
+<root>
+<Table>
+	<FSV_Type>
+		<Name>Fullscreen</Name>
+		<Grid>
+			<Element>
+				<File>
+					<Filename>attract_mode.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			</Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</FSV_Type>
+	<FSV_Type>
+		<Name>Main Menu</Name>
+		<Grid>
+			<Element>
+				<File>
+					<Filename>sr_nite_01.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			<Element>
+				<File>
+					<Filename>bario_night.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			<Element>
+				<File>
+					<Filename>chinatown_02.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			<Element>
+				<File>
+					<Filename>SR_nite_02.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			<Element>
+				<File>
+					<Filename>SR_rain_01.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			</Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</FSV_Type>
+	<FSV_Type>
+		<Name>Theater</Name>
+		<Grid>
+			<Element>
+				<File>
+					<Filename>logo_volition_hd.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			</Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</FSV_Type>
+	<FSV_Type>
+		<Name>Attract</Name>
+		<Grid>
+			<Element>
+				<File>
+					<Filename>attract_mode.bik</Filename>
+					</File>
+				<Audio>False</Audio>
+				</Element>
+			</Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</FSV_Type>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>FSV_Type</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>File</Name>
+				<Type>Filename</Type>
+				<Extension>bik</Extension>
+				<StartingPath>videos</StartingPath>
+				</Element>
+			<Element>
+				<Name>Audio</Name>
+				<Type>Selection</Type>
+				<Display_Name>Has Audio</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

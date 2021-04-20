@@ -1,0 +1,72 @@
+<root>
+<Table>
+	<Object_Type>
+		<Name>Street Lights</Name>
+		<On_Time>1900</On_Time>
+		<Off_Time>700</Off_Time>
+		<Variation>10</Variation>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Object_Type>
+	<Object_Type>
+		<Name>Headlights</Name>
+		<On_Time>1900</On_Time>
+		<Off_Time>700</Off_Time>
+		<Variation>10</Variation>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Object_Type>
+	<Object_Type>
+		<Name>Doors</Name>
+		<On_Time>600</On_Time>
+		<Off_Time>2200</Off_Time>
+		<Variation>0</Variation>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Object_Type>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Object_Type</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Object Type</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>On_Time</Name>
+		<Type>Int</Type>
+		<Display_Name>On Time</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>2400</MaxValue>
+		</Element>
+	<Element>
+		<Name>Off_Time</Name>
+		<Type>Int</Type>
+		<Display_Name>Off Time</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>2400</MaxValue>
+		</Element>
+	<Element>
+		<Name>Variation</Name>
+		<Type>Int</Type>
+		<Display_Name>Variation (+/- in minutes)</Display_Name>
+		<Default>0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

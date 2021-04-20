@@ -1,0 +1,283 @@
+<root>
+<Table>
+	<Rank_tag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Name>Rank 0</Name>
+		<Rank>0</Rank>
+		<Detection>
+			<Detection_cone_length_far>40.0</Detection_cone_length_far>
+			<Detection_cone_angle_far>120</Detection_cone_angle_far>
+			<Detection_cone_length_near>8.0</Detection_cone_length_near>
+			<Detection_cone_angle_near>240</Detection_cone_angle_near>
+			</Detection>
+		<Firearms>
+			<Weapon_lock_on_constant>5</Weapon_lock_on_constant>
+			<Weapon_lock_on_time>6</Weapon_lock_on_time>
+			</Firearms>
+		<Melee>
+			<React_after_hits_min>1</React_after_hits_min>
+			<React_after_hits_max>2</React_after_hits_max>
+			<Combo_chance>0.3</Combo_chance>
+			<Block_to_attack_time_min>0.5</Block_to_attack_time_min>
+			<Block_to_attack_time_max>1.0</Block_to_attack_time_max>
+			<Hit_to_block_time_min>0.5</Hit_to_block_time_min>
+			<Hit_to_block_time_max>1.0</Hit_to_block_time_max>
+			<Hit_to_attack_time_min>0.5</Hit_to_attack_time_min>
+			<Hit_to_attack_time_max>1.0</Hit_to_attack_time_max>
+			</Melee>
+		</Rank_tag>
+	<Rank_tag>
+		<Name>Rank 1</Name>
+		<Rank>1</Rank>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Detection>
+			<Detection_cone_length_far>40.0</Detection_cone_length_far>
+			<Detection_cone_angle_far>120</Detection_cone_angle_far>
+			<Detection_cone_length_near>8.0</Detection_cone_length_near>
+			<Detection_cone_angle_near>240</Detection_cone_angle_near>
+			</Detection>
+		<Firearms>
+			<Weapon_lock_on_constant>4</Weapon_lock_on_constant>
+			<Weapon_lock_on_time>4</Weapon_lock_on_time>
+			</Firearms>
+		<Melee>
+			<React_after_hits_min>1</React_after_hits_min>
+			<React_after_hits_max>2</React_after_hits_max>
+			<Combo_chance>0.5</Combo_chance>
+			<Block_to_attack_time_min>0.4</Block_to_attack_time_min>
+			<Block_to_attack_time_max>0.8</Block_to_attack_time_max>
+			<Hit_to_block_time_min>0.4</Hit_to_block_time_min>
+			<Hit_to_block_time_max>0.8</Hit_to_block_time_max>
+			<Hit_to_attack_time_min>0.4</Hit_to_attack_time_min>
+			<Hit_to_attack_time_max>0.8</Hit_to_attack_time_max>
+			</Melee>
+		</Rank_tag>
+	<Rank_tag>
+		<Name>Rank 2</Name>
+		<Rank>2</Rank>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Detection>
+			<Detection_cone_length_far>40.0</Detection_cone_length_far>
+			<Detection_cone_angle_far>120</Detection_cone_angle_far>
+			<Detection_cone_length_near>8.0</Detection_cone_length_near>
+			<Detection_cone_angle_near>240</Detection_cone_angle_near>
+			</Detection>
+		<Firearms>
+			<Weapon_lock_on_constant>3</Weapon_lock_on_constant>
+			<Weapon_lock_on_time>3</Weapon_lock_on_time>
+			</Firearms>
+		<Melee>
+			<React_after_hits_min>1</React_after_hits_min>
+			<React_after_hits_max>2</React_after_hits_max>
+			<Combo_chance>0.6</Combo_chance>
+			<Block_to_attack_time_min>0.3</Block_to_attack_time_min>
+			<Block_to_attack_time_max>0.7</Block_to_attack_time_max>
+			<Hit_to_block_time_min>0.3</Hit_to_block_time_min>
+			<Hit_to_block_time_max>0.7</Hit_to_block_time_max>
+			<Hit_to_attack_time_min>0.3</Hit_to_attack_time_min>
+			<Hit_to_attack_time_max>0.7</Hit_to_attack_time_max>
+			</Melee>
+		</Rank_tag>
+	<Rank_tag>
+		<Name>Rank 3</Name>
+		<Rank>3</Rank>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Detection>
+			<Detection_cone_length_far>40.0</Detection_cone_length_far>
+			<Detection_cone_angle_far>120</Detection_cone_angle_far>
+			<Detection_cone_length_near>8.0</Detection_cone_length_near>
+			<Detection_cone_angle_near>240</Detection_cone_angle_near>
+			</Detection>
+		<Firearms>
+			<Weapon_lock_on_constant>2</Weapon_lock_on_constant>
+			<Weapon_lock_on_time>2</Weapon_lock_on_time>
+			</Firearms>
+		<Melee>
+			<React_after_hits_min>1</React_after_hits_min>
+			<React_after_hits_max>2</React_after_hits_max>
+			<Combo_chance>0.65</Combo_chance>
+			<Block_to_attack_time_min>0.3</Block_to_attack_time_min>
+			<Block_to_attack_time_max>0.7</Block_to_attack_time_max>
+			<Hit_to_block_time_min>0.3</Hit_to_block_time_min>
+			<Hit_to_block_time_max>0.7</Hit_to_block_time_max>
+			<Hit_to_attack_time_min>0.3</Hit_to_attack_time_min>
+			<Hit_to_attack_time_max>0.7</Hit_to_attack_time_max>
+			</Melee>
+		</Rank_tag>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Rank_tag</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Rank name</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Rank</Name>
+		<Type>Int</Type>
+		<Description>Numeric rank</Description>
+		<Unique>true</Unique>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>3</MaxValue>
+		</Element>
+	<Element>
+		<Name>Detection</Name>
+		<Type>Element</Type>
+		<Description>Detection parameters</Description>
+		<Element>
+			<Name>Detection_cone_length_far</Name>
+			<Type>Float</Type>
+			<Display_Name>Detection cone length (far)</Display_Name>
+			<Description>Length of far detection cone (in meters)</Description>
+			<Default>40.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Detection_cone_angle_far</Name>
+			<Type>Float</Type>
+			<Display_Name>Detection cone angle (far)</Display_Name>
+			<Description>Angle of far detection cone (in degrees)</Description>
+			<Default>90.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>360</MaxValue>
+			</Element>
+		<Element>
+			<Name>Detection_cone_length_near</Name>
+			<Type>Float</Type>
+			<Display_Name>Detection cone length (near)</Display_Name>
+			<Description>Length of near detection cone (in meters)</Description>
+			<Default>10.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Detection_cone_angle_near</Name>
+			<Type>Float</Type>
+			<Display_Name>Detection cone angle (near)</Display_Name>
+			<Description>Angle of near detection cone (in degrees)</Description>
+			<Default>180.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>360</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Firearms</Name>
+		<Type>Element</Type>
+		<Description>Firearm parameters</Description>
+		<Element>
+			<Name>Weapon_lock_on_constant</Name>
+			<Type>Float</Type>
+			<Display_Name>Weapon spread lock-on angle</Display_Name>
+			<Description>Weapon spread lock-on constant (in degrees)</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Weapon_lock_on_time</Name>
+			<Type>Float</Type>
+			<Display_Name>Weapon spread lock-on time</Display_Name>
+			<Description>Time (in seconds) for character to lock on to target</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Melee</Name>
+		<Type>Element</Type>
+		<Description>Melee parameters</Description>
+		<Element>
+			<Name>Block_to_attack_time_min</Name>
+			<Type>Float</Type>
+			<Display_Name>Block to attack time (min)</Display_Name>
+			<Description>Minimum time (in seconds) AI must be blocking for before switching to attack</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Block_to_attack_time_max</Name>
+			<Type>Float</Type>
+			<Display_Name>Block to attack time (max)</Display_Name>
+			<Description>Maximum time (in seconds) AI must be blocking for before switching to attack</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Hit_to_block_time_min</Name>
+			<Type>Float</Type>
+			<Display_Name>Hit to block time (min)</Display_Name>
+			<Description>Minimum time (in seconds) AI must be getting hit for before switching to block</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Hit_to_block_time_max</Name>
+			<Type>Float</Type>
+			<Display_Name>Hit to block time (max)</Display_Name>
+			<Description>Maximum time (in seconds) AI must be getting hit for before switching to block</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Hit_to_attack_time_min</Name>
+			<Type>Float</Type>
+			<Display_Name>Hit to attack time (min)</Display_Name>
+			<Description>Minimum time (in seconds) AI must be getting hit for before switching to attack</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Hit_to_attack_time_max</Name>
+			<Type>Float</Type>
+			<Display_Name>Hit to attack time max</Display_Name>
+			<Description>Maximum time (in seconds) AI must be getting hit for before switching to attack</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>React_after_hits_min</Name>
+			<Type>Int</Type>
+			<Display_Name>React after hits (min)</Display_Name>
+			<Description>Minimum number of hits before the AI reacts to a melee attack</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>React_after_hits_max</Name>
+			<Type>Int</Type>
+			<Display_Name>React after hits (max)</Display_Name>
+			<Description>Maximum number of hits before the AI reacts to a melee attack</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Combo_chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Combo chance</Display_Name>
+			<Description>Percentage chance of comboing into an additional hit after each hit</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,92 @@
+<root>
+<Table>
+	<CoopInfo>
+		<Name>Gauntlet</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SpawnInventory>
+			<InventoryItem>
+				<Name>baseball_bat</Name>
+				<Equip>false</Equip>
+				</InventoryItem>
+			<InventoryItem>
+				<Name>magnum</Name>
+				<Equip>false</Equip>
+				<ReserveAmmo>10</ReserveAmmo>
+				</InventoryItem>
+			<InventoryItem>
+				<Name>pump_action_shotgun</Name>
+				<Equip>false</Equip>
+				<ReserveAmmo>20</ReserveAmmo>
+				</InventoryItem>
+			<InventoryItem>
+				<Name>mac10</Name>
+				<Equip>true</Equip>
+				<ReserveAmmo>65</ReserveAmmo>
+				</InventoryItem>
+			<InventoryItem>
+				<Name>ak47</Name>
+				<Equip>false</Equip>
+				<ReserveAmmo>150</ReserveAmmo>
+				</InventoryItem>
+			<InventoryItem>
+				<Name>40oz</Name>
+				<Equip>false</Equip>
+				<ReserveAmmo>2</ReserveAmmo>
+				</InventoryItem>
+			</SpawnInventory>
+		</CoopInfo>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>CoopInfo</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>SpawnInventory</Name>
+		<Type>Grid</Type>
+		<Display_Name>Spawn Inventory</Display_Name>
+		<Element>
+			<Name>InventoryItem</Name>
+			<Type>Element</Type>
+			<Display_Name>Inventory Item</Display_Name>
+			<Element>
+				<Name>Name</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>items_inventory.xtbl</File>
+					<Type>Inventory_Item.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Equip</Name>
+				<Type>Selection</Type>
+				<Default>false</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>ReserveAmmo</Name>
+				<Type>Int</Type>
+				<Display_Name>Reserve Ammo</Display_Name>
+				<Required>false</Required>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

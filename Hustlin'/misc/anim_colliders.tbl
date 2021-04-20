@@ -1,0 +1,6024 @@
+Character Name:	"LC_H_M_Pimp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_AirportTable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_FoodTable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_FBitchesTable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ChurchPew"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_HiRezFries"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_HiRezBurger"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_AirportCouch"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_JohnnyTable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Martini"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CaseMoney"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_PumpShotGun"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_SlidePistol"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_AC_Tablecloth"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_BoardroomDoor"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ElevatorDoor"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_KidnapDoor"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Rag"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_EscortTableChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Stack100"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_PhotoManuel"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_dexdesk"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_100Bill"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_warehouseDoor"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_hitman_photo"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_wong_teacup"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_wong_chair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_wong_table"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_InsChinaChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_GayPorn"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_EscortBarChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_vk_dumpster"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_InsBarrioChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_X_X_christest"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_F_TanyaWinters"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_F_TanyaWinters-Cut"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_F_Vandilism-Girl"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_M_Chopshop-Dennis"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_M_Hitman-Wong"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_A_M_Hitman_Ser"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_Madame"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Hijacking-Sam"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Hitman-Marcel"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_ChopShop-Sampson"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Drugs-Marvin"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Fraud-Lee"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Fraud-Raymond"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Pimping-Will"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Racing-Tyrell"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Vandalism-Jack"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_B_M_Vandalism-Reno"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_F_Chopshop-Jenny"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_F_Madam-loreana"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_M_Chopshop-Miguel"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_M_Theft-Javier"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_M_Racing-Lorenzo"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_L_M_Vandalism-Rico"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Drugs-laura"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_escort-Jenna"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Hitman-Deborah"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_LC05-Salesgirl"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Racing-Libby"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Samantha"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Stripper"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_F_Vandalism-Mary"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Drugs-Tobias"
+Situation Name:	"Default"
+Head:               	0.085	1.55
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.120	0.05
+Spine1:             	0.155	1.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Drugs-Tobias-Game"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.155	0.70
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Hughes"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Loan_Dan"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Loan_Mike"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Paparrazi"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Theft-Morgan-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Theft-Matt"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Theft-Aiden"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Pimping-Brian"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_LoanShark_Vin"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Hijacking-Ralph"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Hijacking-Phil"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Fraud-Seth"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Escort-Papparraz"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Escort-Jack"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_W_M_Escort-Bruno"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_X_M_Columbians-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"AC_X_M_Columbians-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_F_Luz"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_F_Luz-Bikini"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_AngeloLopez-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_AngeloLopez-01-Game"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.140	-0.25
+Spine1:             	0.145	0.10
+Spine1_A:           	0.135	0.40
+Spine:              	0.155	-0.10
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_HectorLopez"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_HectorLopez-Game"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.140	-0.25
+Spine1:             	0.180	-0.15
+Spine1_A:           	0.135	0.40
+Spine:              	0.205	-0.05
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.140	0.05
+Right upper leg:    	0.140	0.05
+Left lower leg:     	0.130	0.10
+Right lower leg:    	0.130	0.10
+
+Character Name:	"LC_L_M_ManuelOrejuela"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_Pimp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_VictorRodriguez"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_L_M_VictorRodriguez-Game"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.090	-0.35
+Spine1:             	0.105	0.55
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.090	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_F_Thug1-01_A"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_F_Thug1-01_B"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_M_Killa1-01"
+Situation Name:	"Default"
+Head:               	0.080	1.20
+Neck:               	0.070	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.090	-0.99
+Spine1:             	0.115	0.35
+Spine1_A:           	0.170	0.15
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_M_Killa2-01"
+Situation Name:	"Default"
+Head:               	0.085	1.00
+Neck:               	0.075	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.060	-0.55
+Spine1:             	0.175	0.65
+Spine1_A:           	0.185	0.90
+Spine:              	0.185	-0.05
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_M_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.105	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.140	-0.30
+Spine1:             	0.115	0.35
+Spine1_A:           	0.135	1.10
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_M_Thug2-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.145	-0.20
+Spine1:             	0.190	1.20
+Spine1_A:           	0.185	0.90
+Spine:              	0.175	0.20
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LC_X_M_Thug2-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.200	-0.60
+Spine1:             	0.205	0.05
+Spine1_A:           	0.150	1.80
+Spine:              	0.180	0.20
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_F_EMT-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_F_FatMeterMaid-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_EMT-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"lw_w_m_swat01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_F_Officer"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.115	-0.25
+Spine1:             	0.165	-0.30
+Spine1_A:           	0.130	0.45
+Spine:              	0.160	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_FBI-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_IRS-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.110	0.60
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_Officer_01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.110	-0.45
+Spine1:             	0.195	0.30
+Spine1_A:           	0.165	0.60
+Spine:              	0.150	-0.20
+Spine_A:            	0.165	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_Officer_01b"
+Situation Name:	"Default"
+Head:               	0.065	1.45
+Neck:               	0.080	0.05
+Shoulders:          	0.085	0.25
+Spine2:             	0.080	-0.25
+Spine1:             	0.020	0.35
+Spine1_A:           	0.180	0.15
+Spine:              	0.025	0.05
+Spine_A:            	0.190	0.05
+Left upper leg:     	0.080	0.00
+Right upper leg:    	0.065	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"LW_X_M_Sec-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.35
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_B_F_Generic"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_B_M_Bouncer-01"
+Situation Name:	"Default"
+Head:               	0.095	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.120	-0.05
+Spine1:             	0.135	0.40
+Spine1_A:           	0.160	0.10
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.060	-0.10
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_F_Hippie-01"
+Situation Name:	"Default"
+Head:               	0.090	1.40
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.150	-0.25
+Spine1:             	0.190	-0.30
+Spine1_A:           	0.140	-0.05
+Spine:              	0.160	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.095	-0.10
+Right upper leg:    	0.095	-0.10
+Left lower leg:     	0.075	0.00
+Right lower leg:    	0.075	0.00
+
+Character Name:	"PD_W_F_HO-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_F_HO-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_M_Cowboy-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_M_Hippie-01"
+Situation Name:	"Default"
+Head:               	0.085	0.95
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.110	-0.30
+Spine1:             	0.155	0.45
+Spine1_A:           	0.155	0.20
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_M_Fatman"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_M_Mascot-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_W_M_Bum"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_Baglady-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.160	-0.15
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.090	0.00
+Right lower leg:    	0.090	0.00
+
+Character Name:	"PD_X_F_BigGeneric"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_BigHo-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_BusinessWoman-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.100	0.00
+Right upper leg:    	0.100	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_BusinessWoman-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_FatLady-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"pd_x_f_genericyoung-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_GenericYoung-02"
+Situation Name:	"Default"
+Head:               	0.080	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_GenericYoung-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_Jogger-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_OldWoman-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.100	0.00
+Right upper leg:    	0.100	0.00
+Left lower leg:     	0.110	0.10
+Right lower leg:    	0.110	0.10
+
+Character Name:	"PD_X_F_Poor-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_SkinnyHo"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_HO-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_MiddleAge-01"
+Situation Name:	"Default"
+Head:               	0.075	2.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.105	-0.15
+Right upper leg:    	0.105	-0.15
+Left lower leg:     	0.105	0.00
+Right lower leg:    	0.105	0.00
+
+Character Name:	"PD_X_F_MiddleAge-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_PoorHeavy-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_PoorTrash-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_F_Rollerskater-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_BusinessMan-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Chauffeur-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Construction-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Demolition-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Dockworker"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_FoodMascot-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.095	-0.20
+Right upper leg:    	0.095	-0.05
+Left lower leg:     	0.095	-0.05
+Right lower leg:    	0.095	-0.05
+
+Character Name:	"PD_X_M_Garbageman"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_GenericYoung-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_GenericYoung-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_HighIncome"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Hustler-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Jogger-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Jogger-01b"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Mailman-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_MiddleAge-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_MiddleAge-01b"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_MiddleAge-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_MiddleAge-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Trucker-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Trucker-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_OldMan-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Pimp-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.130	-0.25
+Spine1:             	0.185	-0.45
+Spine1_A:           	0.175	-0.65
+Spine:              	0.190	-0.45
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	-0.05
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Pimp-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.155	-0.25
+Spine1:             	0.165	0.40
+Spine1_A:           	0.170	-0.20
+Spine:              	0.185	0.05
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Poor-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Poor-01_B"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_PoorHeavy-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_PoorTrash_01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_sportsFan-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_UPS-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"PD_X_M_Utilityworker"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Stripper-Latina"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Stripper-Black"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Stripper-Asian"
+Situation Name:	"Default"
+Head:               	0.070	2.35
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Stripper-White"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_F_Lin"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.105	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_F_zombieLin"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_M_JohnnyGat"
+Situation Name:	"Default"
+Head:               	0.090	1.20
+Neck:               	0.085	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.125	0.40
+Spine1_A:           	0.085	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_M_JohnnyGatMecha"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.085	0.10
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_M_JohnnyGat_VKcut"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_B_M_Dex-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_B_M_Julius"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.125	-0.25
+Spine1:             	0.155	0.40
+Spine1_A:           	0.140	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_W_M_Troy-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.115	0.65
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_F_Thug-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_F_Thug-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_F_Thug-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_F_Thug-04"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Beerstein"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_CutsceneFat"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_CutsceneKilla"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Killa-A"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.155	-0.25
+Spine1:             	0.185	0.35
+Spine1_A:           	0.175	0.10
+Spine:              	0.150	0.20
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_KillaB"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.170	-0.20
+Spine1:             	0.210	0.40
+Spine1_A:           	0.185	0.95
+Spine:              	0.155	-0.30
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_KillaC"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.170	-0.30
+Spine1:             	0.170	1.10
+Spine1_A:           	0.170	1.20
+Spine:              	0.160	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Thug1-01b"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Thug2-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.165	-0.30
+Spine1:             	0.185	0.40
+Spine1_A:           	0.185	0.40
+Spine:              	0.180	0.05
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_X_M_Thug2-01b"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.170	-0.30
+Spine1:             	0.180	0.40
+Spine1_A:           	0.180	0.40
+Spine:              	0.175	0.10
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_B_F_Aisha"
+Situation Name:	"Default"
+Head:               	0.075	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.080	-0.35
+Spine1:             	0.150	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_B_F_Aisha-Disguise"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_B_M_AnthonyGreen"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.125	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.215	0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_B_M_benjaminKing"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_B_M_Pimp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.175	-0.95
+Spine1_A:           	0.145	0.40
+Spine:              	0.185	-0.15
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.100	0.00
+Right lower leg:    	0.100	0.00
+
+Character Name:	"VK_B_M_WWilliams"
+Situation Name:	"Default"
+Head:               	0.070	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.120	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.095	1.00
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_F_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_AK47"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_killa1-01"
+Situation Name:	"Default"
+Head:               	0.100	1.10
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.110	-0.20
+Spine1:             	0.130	0.40
+Spine1_A:           	0.175	0.05
+Spine:              	0.155	0.75
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Killa1-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.135	-0.55
+Spine1:             	0.180	1.50
+Spine1_A:           	0.155	1.60
+Spine:              	0.120	-0.05
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Killa1-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.195	0.75
+Spine1_A:           	0.175	1.10
+Spine:              	0.170	-0.45
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Killa1-04"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.135	-0.90
+Spine1:             	0.175	0.10
+Spine1_A:           	0.125	1.55
+Spine:              	0.150	0.50
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.120	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Pthug-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.050	1.35
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.075	-0.25
+Spine1:             	0.105	0.35
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Thug1-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.125	-0.35
+Spine1:             	0.180	0.10
+Spine1_A:           	0.180	0.10
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"VK_X_M_Thug2-02"
+Situation Name:	"Default"
+Head:               	0.100	0.40
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.075	-0.25
+Spine1:             	0.110	0.30
+Spine1_A:           	0.090	0.30
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_A_M_Donnie-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_W_M_JosephPrice"
+Situation Name:	"Default"
+Head:               	0.065	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.100	-0.60
+Spine1:             	0.135	0.40
+Spine1_A:           	0.055	4.45
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_W_M_Pimp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.135	-0.75
+Spine1:             	0.125	0.35
+Spine1_A:           	0.180	0.30
+Spine:              	0.165	0.10
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_W_M_Sharp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.075	0.00
+Right upper leg:    	0.080	-0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_F_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_F_Thug1-02"
+Situation Name:	"Default"
+Head:               	0.090	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.115	-0.70
+Spine1:             	0.120	1.20
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_F_Thug1-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_F_Thug1-04"
+Situation Name:	"Default"
+Head:               	0.075	1.15
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.110	-0.10
+Spine1:             	0.130	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Killa2-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.175	-0.25
+Spine1:             	0.200	0.40
+Spine1_A:           	0.185	0.95
+Spine:              	0.150	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Killa2-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.160	-0.60
+Spine1:             	0.185	0.40
+Spine1_A:           	0.185	0.40
+Spine:              	0.155	-0.20
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Killa2-03"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.170	-0.25
+Spine1:             	0.215	0.30
+Spine1_A:           	0.190	0.75
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Thug1-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.160	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.130	0.20
+Right upper leg:    	0.130	0.20
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Thug1-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.135	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.130	0.20
+Right upper leg:    	0.130	0.20
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Thug2-01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.170	-0.25
+Spine1:             	0.190	0.45
+Spine1_A:           	0.185	0.75
+Spine:              	0.165	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"WR_X_M_Thug2-02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.220	0.35
+Spine1_A:           	0.190	1.05
+Spine:              	0.200	-0.30
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.125	0.05
+Right upper leg:    	0.125	0.05
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"SDR_test_1"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP2"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP3"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP4"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP5"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP6"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP7"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP8"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Placeholder"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Placeholder VK"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Placeholder WR"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Placeholder LC"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"Placeholder Police"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP9"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP10"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP11"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"StyleTest_PC_MP12"
+Situation Name:	"Default"
+Head:               	0.060	1.20
+Neck:               	0.045	0.00
+Shoulders:          	0.095	-0.30
+Spine2:             	0.130	-0.70
+Spine1:             	0.125	0.50
+Spine1_A:           	0.155	-0.50
+Spine:              	0.130	-0.05
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.125	0.00
+Right upper leg:    	0.125	0.00
+Left lower leg:     	0.130	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Bling"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Hair"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Coat"
+Head:               	0.045	1.00
+Neck:               	0.105	0.10
+Shoulders:          	0.160	-0.20
+Spine2:             	0.155	-0.35
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.45
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+Situation Name:	"Overshirt"
+Head:               	0.065	1.25
+Neck:               	0.085	0.15
+Shoulders:          	0.110	-0.05
+Spine2:             	0.140	-0.55
+Spine1:             	0.135	0.40
+Spine1_A:           	0.155	-0.50
+Spine:              	0.120	0.00
+Spine_A:            	0.195	-0.15
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"testCar"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_reno_table"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_UmbTable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_LCChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_sunchair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_cargoShip"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_kingdomcome_doors"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Beerstein"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_loreana_chair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_spreadsheet"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_camera"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Map"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Table"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"csDowntownRacing"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"csCompact04"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"csCopCar"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs4drStd_vk"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_lc_gangcar"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_Angelo"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_WR_4dr_standard"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_WR_4dr_sports"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_WR_4dr_luxury"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_WR_2dr_compact"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_SUV_Donnie"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_Dex"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_2dr_Muscle_Saints"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Trailer_Price"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Truck_Mover"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_2dr_compact_Riced"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_2dr_exotic_Riced"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_2dr_sports_Riced"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_4dr_sports_Riced"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Van_News"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_Aisha"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_shotgun"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ChurchChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_cellphone"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_workBench"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"csDerbyV2a"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_VKchair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_SFalcon"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_wrench"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Bat"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Car_JPrice"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_cigarette01"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_burger"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_fries"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_napkin"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_VK-Lowrider"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_LinsCar"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_derbyCar02_b"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_derbyCar02_a"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_DerbyCar02va"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_derbyCar01_a"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_DerbyCar01va"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_VK_Tanya_Limo"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_4dr_std06"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Tech9"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_VK_Shirt"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_NotePad"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_LC_4dr_Std06"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Detonator"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_glassbrandy"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_deskphone"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_LinsTrunk"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_BeerBottle"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ShoppingBag"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_pricechair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_pricecouch"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CS_automag"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_joint"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CaseOWatches"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_PimpCup"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ashtray"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Magnum"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Mac10"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_blackbook"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_turbtable"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_strip_chair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_dollarbill20"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_lisplate"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_trailerchair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_rocketbox"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Switchblade"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_teapot"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_teacup"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_bra"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_envelope"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_lighter"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_AK47"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_LuzBag"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_chair_wood_church"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_chair_leather"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Truck_Price"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_Luz"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_King"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_Car_Julius"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CS_Pistol"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CS_cell02"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_keys"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_BeerCan"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_vk5chair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_blackphone"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_luggage"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_picframe"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_ashtray_white"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_Plane"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_vkbomb"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_big_container"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CanPyramid"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"CS_CS_ChurchChair"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"cs_lc03_std06"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Character Name:	"TS_A_M_JohnnyGat_TiedUp"
+Situation Name:	"Default"
+Head:               	0.100	1.20
+Neck:               	0.100	0.10
+Shoulders:          	0.085	-0.30
+Spine2:             	0.095	-0.25
+Spine1:             	0.135	0.40
+Spine1_A:           	0.135	0.40
+Spine:              	0.120	0.00
+Spine_A:            	0.120	0.00
+Left upper leg:     	0.115	0.00
+Right upper leg:    	0.115	0.00
+Left lower leg:     	0.125	0.00
+Right lower leg:    	0.125	0.00
+
+Fat_delta:
+Fat_start:		0.02
+Head:               	0.000	0.00
+Neck:               	0.000	0.00
+Shoulders:          	0.040	0.05
+Spine2:             	0.020	0.00
+Spine1:             	0.000	0.00
+Spine1_A:           	0.000	0.00
+Spine:              	0.000	0.00
+Spine_A:            	0.000	0.00
+Left upper leg:     	0.000	0.00
+Right upper leg:    	0.000	0.00
+Left lower leg:     	0.000	0.00
+Right lower leg:    	0.000	0.00
+
+Muscle_delta:
+Muscle_start:		0.02
+Head:               	0.000	0.00
+Neck:               	0.000	0.00
+Shoulders:          	0.025	0.00
+Spine2:             	0.025	0.00
+Spine1:             	0.000	0.00
+Spine1_A:           	0.000	0.00
+Spine:              	0.000	0.00
+Spine_A:            	0.000	0.00
+Left upper leg:     	0.000	0.00
+Right upper leg:    	0.000	0.00
+Left lower leg:     	0.000	0.00
+Right lower leg:    	0.000	0.00
+

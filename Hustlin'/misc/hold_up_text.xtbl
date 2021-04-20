@@ -1,0 +1,68 @@
+<root>
+<Table>
+	<String>
+		<Name>Shop Hold Up</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>start</Name>
+				<Duration>5</Duration>
+				<DisplayText>ACT_HOLDUP_START_MSG_1</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCrime.xtbl</File>
+					<Type>ActCrime_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Int</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>3</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,573 @@
+<root>
+<Table>
+	<Mesh>
+		<Name>car_2dr_compact05</Name>
+		<Variants>
+			<Variant>
+				<Name>Dirty</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								<Description>Hood</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hood</Description>
+								<VID_list>2</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hood</Description>
+								<VID_list>3</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>10</VID_list>
+								<Chance>80</Chance>
+								<Description>Bumper</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bumper2</Description>
+								<VID_list>11</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bumper3</Description>
+								<VID_list>12</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Mufflers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>40</VID_list>
+								<Chance>50</Chance>
+								<Description>Muffler</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>42</VID_list>
+								<Chance>50</Chance>
+								<Description>Muffler</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tail Lights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Tail Lights</Description>
+								<VID_list>71</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Tail Lights</Description>
+								<VID_list>72</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>20</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sharp</Description>
+								<VID_list>21 23</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hotrod</Description>
+								<VID_list>21 24</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling+Spin</Description>
+								<VID_list>21 22 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sharp+Spin</Description>
+								<VID_list>21 23 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hotrod+Spin</Description>
+								<VID_list>21 24 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Body</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Paint_Dirty, Paint_Dirtynodcl, trim_dirty, ChromeB_dirty, beater</Name>
+								<Chance>100</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Paint_Standard, Paint_Standard_dcl, trim, ChromeB</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Paint_Standard, Paint_Standardnodcl, trim, ChromeB</Name>
+								<Chance>0</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>80</Weight>
+				<ParkingWeight>80</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Standard</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								<Description>Hood</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hood</Description>
+								<VID_list>2</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hood</Description>
+								<VID_list>3</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>10</VID_list>
+								<Chance>80</Chance>
+								<Description>Bumper</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bumper2</Description>
+								<VID_list>11</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bumper3</Description>
+								<VID_list>12</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Mufflers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<VID_list>40</VID_list>
+								<Chance>50</Chance>
+								<Description>Muffler</Description>
+								</Vid_chance>
+							<Vid_chance>
+								<VID_list>42</VID_list>
+								<Chance>50</Chance>
+								<Description>Muffler</Description>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Tail Lights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Tail Lights</Description>
+								<VID_list>71</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Tail Lights</Description>
+								<VID_list>72</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>20</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sharp</Description>
+								<VID_list>21 23</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hotrod</Description>
+								<VID_list>21 24</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling+Spin</Description>
+								<VID_list>21 22 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sharp+Spin</Description>
+								<VID_list>21 23 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Hotrod+Spin</Description>
+								<VID_list>21 24 25</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Rack</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Travel</Description>
+								<VID_list>70</VID_list>
+								<Chance>2</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Rally 1</Description>
+								<VID_list>81</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Rally 2</Description>
+								<VID_list>70, 81</VID_list>
+								<Chance>0.0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Body</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Paint_Dirty, Paint_Dirtynodcl, trim_dirty, ChromeB_dirty</Name>
+								<Chance>0</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Paint_Standard, Paint_Standard_dcl</Name>
+								<Chance>25</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Paint_Standard, Paint_Standardnodcl</Name>
+								<Chance>75</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Wheels</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Gold</Name>
+								<Chance>0.0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whitemetal</Name>
+								<Chance>0.0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>darkmetal</Name>
+								<Chance>0.0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>beater</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Trim</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>trim, ChromeB</Name>
+								<Chance>100</Chance>
+								<flags>
+									<Flag>Sync Vars</Flag>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>20</Weight>
+				<ParkingWeight>20</ParkingWeight>
+				</Variant>
+			</Variants>
+		<_Editor>
+			<Category>Vehicles</Category>
+			</_Editor>
+		</Mesh>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Mesh</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Variants</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Variant</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Float</Type>
+				<Display_Name>Frequency Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>ParkingWeight</Name>
+				<Type>Float</Type>
+				<Display_Name>Parking Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned in parking spots. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Variant_IDs</Name>
+				<Type>Grid</Type>
+				<Display_Name>Variant ID's (VID)</Display_Name>
+				<Element>
+					<Name>Vid_group</Name>
+					<Type>Element</Type>
+					<Display_Name>VID Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Vid_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>VID Chances</Display_Name>
+						<Element>
+							<Name>Vid_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>VID Chance</Display_Name>
+							<Element>
+								<Name>Description</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>VID_list</Name>
+								<Type>String</Type>
+								<Display_Name>VID List</Display_Name>
+								<Description>List of VID's seperated by spaces</Description>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Props</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Prop_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Prop Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Prop_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Prop Chances</Display_Name>
+						<Element>
+							<Name>Prop_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>Prop Chance</Display_Name>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>Prop_points</Name>
+								<Type>Grid</Type>
+								<Display_Name>Prop Points</Display_Name>
+								<Element>
+									<Name>Prop_point</Name>
+									<Type>Element</Type>
+									<Display_Name>Prop Point</Display_Name>
+									<Element>
+										<Name>Name</Name>
+										<Type>String</Type>
+										<Default>0</Default>
+										</Element>
+									</Element>
+								<Num_Display_Rows>8</Num_Display_Rows>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Materials</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Material_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Material Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Material_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Material Chances</Display_Name>
+						<Element>
+							<Name>Material_chance</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>flags</Name>
+								<Type>Flags</Type>
+								<Flag>Sync Vars</Flag>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Vehicles</Name>
+		</Category>
+	</EntryCategories>
+</root>

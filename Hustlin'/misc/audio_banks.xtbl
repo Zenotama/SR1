@@ -1,0 +1,345 @@
+<root>
+<Table>
+	<AudioBanks>
+		<Name>Animation</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Movement</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Weapons</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Vehicle Loops InMemory</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Other InMemory</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Vehicle Sfx InMemory</Name>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		<Streaming>
+			<SectorRead>48</SectorRead>
+			</Streaming>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Vehicle Sfx Streaming</Name>
+		<Streaming>
+			<SectorRead>64</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Vehicle Loops Streaming</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Other Streaming</Name>
+		<Streaming>
+			<SectorRead>64</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Foley</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Ambients</Name>
+		<_Editor>
+			<Category>Ambients</Category>
+			</_Editor>
+		<Streaming>
+			<SectorRead>96</SectorRead>
+			</Streaming>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>CUTSCENES</Name>
+		<Streaming>
+			<SectorRead>288</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_BF</Name>
+		<Streaming>
+			<SectorRead>48</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_BM</Name>
+		<Streaming>
+			<SectorRead>48</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_WF</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_WM</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_HF</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_HM</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_AF</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_AM</Name>
+		<Streaming>
+			<SectorRead>32</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>VOC_SP</Name>
+		<Streaming>
+			<SectorRead>96</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Voice</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Other</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Sizzurp</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Ezzzy</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Boom</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music GenX</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Rhyme</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Shared</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music K12</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music 420</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Faction</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Kronic</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Krunch</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Rock</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Klassic 1</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	<AudioBanks>
+		<Name>Music Klassic 2</Name>
+		<Streaming>
+			<SectorRead>256</SectorRead>
+			</Streaming>
+		<_Editor>
+			<Category>Music</Category>
+			</_Editor>
+		</AudioBanks>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>AudioBanks</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Audio Banks</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Bank Names</Display_Name>
+		</Element>
+	<Element>
+		<Name>Streaming</Name>
+		<Type>Element</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>SectorRead</Name>
+			<Type>Int</Type>
+			<Display_Name>Sector Read</Display_Name>
+			<Description>The size of a DVD sector is 2048 bytes. The optimal DVD size is a multiple of 16 (1 DVD block = 16 DVD sectors).</Description>
+			<Default>16</Default>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Ambients</Name>
+		</Category>
+	<Category>
+		<Name>Foley</Name>
+		</Category>
+	<Category>
+		<Name>Music</Name>
+		</Category>
+	<Category>
+		<Name>Voice</Name>
+		</Category>
+	</EntryCategories>
+</root>

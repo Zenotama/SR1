@@ -1,0 +1,289 @@
+<root>
+<Table>
+	<Chop_Shop>
+		<Name>wr_chop01</Name>
+		<DisplayName>ACT_CHOP_WR_CHOP01</DisplayName>
+		<Wanted>
+			<Vehicle>
+				<Type>truck_2dr_semi01</Type>
+				<DebugText>Peterliner</DebugText>
+				<Cash>1000</Cash>
+				<Respect>700</Respect>
+				<Display_District>Freeway</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>truck_2dr_airport01</Type>
+				<DebugText>Airport Emergency</DebugText>
+				<Cash>1000</Cash>
+				<Respect>800</Respect>
+				<Display_District>Airport</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>car_2dr_compact04</Type>
+				<DebugText>Beeb LX</DebugText>
+				<Cash>500</Cash>
+				<Respect>900</Respect>
+				<Display_District>Apartments</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>minivan_4dr_01</Type>
+				<DebugText>Westbury</DebugText>
+				<Cash>500</Cash>
+				<Respect>1000</Respect>
+				<Slot>Rims</Slot>
+				<Component>Muscle</Component>
+				<DisplayText1>CHOP_MUSCLE_RIMS</DisplayText1>
+				<Display_District>Suburbs</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>truck_2dr_pickup02</Type>
+				<DebugText>Mondo</DebugText>
+				<Cash>500</Cash>
+				<Respect>1100</Respect>
+				<Slot>Grill</Slot>
+				<Component>Street</Component>
+				<DisplayText1>CHOP_STREET_GRILL</DisplayText1>
+				<Display_District>Apartments</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>car_2dr_sports03</Type>
+				<DebugText>Riced Cobra</DebugText>
+				<Cash>2000</Cash>
+				<Respect>1200</Respect>
+				<Slot>Exhaust</Slot>
+				<Component>Racing</Component>
+				<DisplayText1>CHOP_RACING_EXHAUST</DisplayText1>
+				<Display_District>Race Track</Display_District>
+				</Vehicle>
+			<Vehicle>
+				<Type>car_2dr_exoticsports01</Type>
+				<DebugText>Attrazione</DebugText>
+				<Cash>3000</Cash>
+				<Respect>1300</Respect>
+				<Slot>Front Bumper</Slot>
+				<Component>Sport</Component>
+				<Slot2>Roof</Slot2>
+				<Component2>Convertible</Component2>
+				<DisplayText1>CHOP_SPORT_FRONT_BUMPER</DisplayText1>
+				<DisplayText2>CHOP_CONVERTIBLE_ROOF</DisplayText2>
+				</Vehicle>
+			<Vehicle>
+				<Type>car_2dr_exoticsports03</Type>
+				<DebugText>Zenith</DebugText>
+				<Cash>3000</Cash>
+				<Respect>1400</Respect>
+				<Slot>Exhaust</Slot>
+				<Component>Racing</Component>
+				<Slot2>Roof</Slot2>
+				<Component2>Racing Convertible</Component2>
+				<DisplayText1>CHOP_RACING_EXHAUST</DisplayText1>
+				<DisplayText2>CHOP_RACING_CONVERTIBLE_ROOF</DisplayText2>
+				</Vehicle>
+			</Wanted>
+		<Cash>0</Cash>
+		<Respect>0</Respect>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>wr_chop01_start</Start_Location>
+		<Delivery_Location>wr_chop01_delivery</Delivery_Location>
+		<Cutscene>chopshop_chinatown</Cutscene>
+		<Unlockable>wr_chop</Unlockable>
+		<ShopIndex>3</ShopIndex>
+		</Chop_Shop>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Chop_Shop</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Chop Shop</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>ShopIndex</Name>
+		<Type>Int</Type>
+		<Description>shop id / bitmap id 1..3</Description>
+		<Default>0</Default>
+		<MinValue>1</MinValue>
+		<MaxValue>3</MaxValue>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>The display name for the chop shop.</Description>
+		<Reference>
+			<File>localized_exports\ActivityCars.xtbl</File>
+			<Type>ActCars_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cutscene to play before unlocking the chop shop.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>The start location for the chop shop.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\wr_chop01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Delivery_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Delivery Location</Display_Name>
+		<Description>Where vehicles should get delivered.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\wr_chop01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Wanted</Name>
+		<Type>Grid</Type>
+		<Display_Name>Wanted List</Display_Name>
+		<Description>The list of vehicles wanted by the shop.</Description>
+		<Element>
+			<Name>Vehicle</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Type</Name>
+				<Type>Reference</Type>
+				<Description>The type of vehicle.</Description>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>DebugText</Name>
+				<Type>String</Type>
+				<Description>(unused now)</Description>
+				</Element>
+			<Element>
+				<Name>Display_District</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>districts.xtbl</File>
+					<Type>District.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Slot</Name>
+				<Type>Reference</Type>
+				<Description>The slot for the first option on the vehicle.</Description>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_cust.xtbl</File>
+					<Type>Custom_vehicle_properties.Slots.Slot.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Component</Name>
+				<Type>Reference</Type>
+				<Description>The component for the first option on the vehicle.</Description>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_cust.xtbl</File>
+					<Type>Custom_vehicle_properties.Slots.Slot.Components.Component.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>DisplayText1</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Slot2</Name>
+				<Type>Reference</Type>
+				<Display_Name>Slot 2</Display_Name>
+				<Description>The slot for the second option on the vehicle.</Description>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_cust.xtbl</File>
+					<Type>Custom_vehicle_properties.Slots.Slot.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Component2</Name>
+				<Type>Reference</Type>
+				<Display_Name>Component 2</Display_Name>
+				<Description>The component for the second option on the vehicle.</Description>
+				<Required>false</Required>
+				<Reference>
+					<File>vehicle_cust.xtbl</File>
+					<Type>Custom_vehicle_properties.Slots.Slot.Components.Component.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>DisplayText2</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Cash</Name>
+				<Type>Int</Type>
+				<Description>Cash given for turning in the vehicle.</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Respect</Name>
+				<Type>Int</Type>
+				<Description>Respect given for turning in the vehicle.</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>25</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Cash Award</Display_Name>
+		<Description>Cash given for collecting all of the vehicles on the list.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Respect</Name>
+		<Type>Int</Type>
+		<Display_Name>Respect Award</Display_Name>
+		<Description>Respect given for collecting all of the vehicles on the list.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Unlockable</Name>
+		<Type>Reference</Type>
+		<Description>The item that gets unlocked when the all vehicles have been delivered.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>unlockables.xtbl</File>
+			<Type>Unlockable.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

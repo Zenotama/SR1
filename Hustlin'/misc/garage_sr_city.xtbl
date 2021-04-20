@@ -1,0 +1,334 @@
+<root>
+<Table>
+	<Garages>
+		<Name>Saints Row</Name>
+		<Outside_Trigger>garage_sr_city_sr_crib_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_sr_crib_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_sr_crib_inside</Inside_Trigger>
+		<Type>crib</Type>
+		<Garage_Door>garage_sr_city_sr_crib_door</Garage_Door>
+		<Garage_Lift_Navpoint>garage_sr_city_sr_crib_lift</Garage_Lift_Navpoint>
+		</Garages>
+	<Garages>
+		<Name>Saints Row Mechanic (District 5)</Name>
+		<Outside_Trigger>garage_sr_city_sr_mech_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_sr_mech_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_sr_mech_inside</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_sr_mech_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_sr_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_sr_mech_lift</Garage_Lift_Navpoint>
+		<Shop>Saint's Row Mechanic</Shop>
+		<Light_Set>
+			<Filename>custom_sr_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Factories Mechanic (District 18)</Name>
+		<Outside_Trigger>garage_sr_city_fact_mech_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_fact_mech_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_fact_mech_inside</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_fact_mech_door</Garage_Door>
+		<Shop>Factory Mechanic</Shop>
+		<Garage_Lift>garage_sr_city_fact_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_fact_mech_lift</Garage_Lift_Navpoint>
+		<Light_Set>
+			<Filename>custom_factory_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Downtown</Name>
+		<Outside_Trigger>garage_sr_city_down_crib_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_down_crib_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_down_crib_inside</Inside_Trigger>
+		<Type>crib</Type>
+		<Garage_Door>garage_sr_city_down_crib_door</Garage_Door>
+		<Garage_Lift_Navpoint>garage_sr_city_down_crib_lift</Garage_Lift_Navpoint>
+		<Light_Set>
+			<Filename>custom_vkcribmech_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Truckyard Mechanic</Name>
+		<Outside_Trigger>garage_sr_city_truck_mech_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_truck_mech_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_truck_mech_inside</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_truck_mech_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_truck_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_truck_mech_lift</Garage_Lift_Navpoint>
+		<Shop>Truckyard Mechanic</Shop>
+		<Light_Set>
+			<Filename>custom_truckyard_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Chinatown Mechanic</Name>
+		<Outside_Trigger>garage_sr_city_china_mech_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_china_mech_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_china_mech_inside</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_china_mech_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_china_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_china_mech_lift</Garage_Lift_Navpoint>
+		<Shop>Chinatown Mechanic</Shop>
+		<Light_Set>
+			<Filename>custom_china_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Arena Mechanic</Name>
+		<Outside_Trigger>garage_sr_city_arena_mech_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_arena_mech_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_arena_mech_inside</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_arena_mech_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_arena_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_arena_mech_lift</Garage_Lift_Navpoint>
+		<Shop>Arena Mechanic</Shop>
+		<Light_Set>
+			<Filename>custom_arena_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>WR Suburb Mechanic1</Name>
+		<Outside_Trigger>garage_sr_city_wrsub_mech1_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_wrsub_mech1_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_wrsub_mech1_insid</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_wrsub_mech1_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_wrsub_mech1_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_wrsub_mech1_lift</Garage_Lift_Navpoint>
+		<Shop>Suburbs Mechanic1</Shop>
+		<Light_Set>
+			<Filename>custom_wr_mechanic01_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>WR Suburbs Mechanic2</Name>
+		<Outside_Trigger>garage_sr_city_wrsub_mech2_outside</Outside_Trigger>
+		<Foot_Trigger>garage_sr_city_wrsub_mech2_foot</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Inside_Trigger>garage_sr_city_wrsub_mech2_insid</Inside_Trigger>
+		<Type>mechanic</Type>
+		<Garage_Door>garage_sr_city_wrsub_mech2_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_wrsub_mech2_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_wrsub_mech2_lift</Garage_Lift_Navpoint>
+		<Shop>Suburbs Mechanic2</Shop>
+		<Light_Set>
+			<Filename>custom_wr_mechanic02_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Barrio Mansion</Name>
+		<Type>crib</Type>
+		<Outside_Trigger>garage_sr_city_bar_crib_outside</Outside_Trigger>
+		<Inside_Trigger>garage_sr_city_bar_crib_inside</Inside_Trigger>
+		<Foot_Trigger>garage_sr_city_bar_crib_foot</Foot_Trigger>
+		<Garage_Door>garage_sr_city_bar_crib_door</Garage_Door>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage_Lift_Navpoint>garage_sr_city_bar_crib_lift</Garage_Lift_Navpoint>
+		<Camera_Navpoint>garage_sr_city_$bar_crib_camera</Camera_Navpoint>
+		</Garages>
+	<Garages>
+		<Name>Suburbs Mansion</Name>
+		<Type>crib</Type>
+		<Outside_Trigger>garage_sr_city_wrsub_crib_outside</Outside_Trigger>
+		<Inside_Trigger>garage_sr_city_wrsub_crib_inside</Inside_Trigger>
+		<Foot_Trigger>garage_sr_city_wrsub_crib_foot</Foot_Trigger>
+		<Garage_Door>garage_sr_city_wrsub_crib_door</Garage_Door>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage_Lift_Navpoint>garage_sr_city_wrsub_crib_lift</Garage_Lift_Navpoint>
+		<Light_Set>
+			<Filename>custom_price_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	<Garages>
+		<Name>Barrio Mechanic</Name>
+		<Type>mechanic</Type>
+		<Outside_Trigger>garage_sr_city_$bar_mech_out</Outside_Trigger>
+		<Inside_Trigger>garage_sr_city_$bar_mech_int</Inside_Trigger>
+		<Foot_Trigger>garage_sr_city_$bar_mech_foot</Foot_Trigger>
+		<Garage_Door>garage_sr_city_bar_mech_door</Garage_Door>
+		<Garage_Lift>garage_sr_city_bar_mech_lift</Garage_Lift>
+		<Garage_Lift_Navpoint>garage_sr_city_$bar_mech_lift</Garage_Lift_Navpoint>
+		<Shop>Barrio Mechanic</Shop>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Light_Set>
+			<Filename>custom_barrio_mechanic_lightsets.xtbl</Filename>
+			</Light_Set>
+		</Garages>
+	</Table>
+
+<TableTemplates>
+	<Garages>
+		<Name>Test_Garage</Name>
+		<Outside_Trigger>saintsrow_crib_garage_enter</Outside_Trigger>
+		<Foot_Trigger>saintsrow_garage_player_enter</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage_Door>MeshMover01</Garage_Door>
+		<Inside_Trigger>saintsrow_crib_garage_int</Inside_Trigger>
+		<Type>crib</Type>
+		</Garages>
+	<Garages>
+		<Name>Test_Garage1</Name>
+		<Outside_Trigger>test_garage_$save vehicle001</Outside_Trigger>
+		<Foot_Trigger>test_garage_$garage foot001</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage_Door>GDr_MeshMover01</Garage_Door>
+		<Inside_Trigger>test_garage_$garage interior002</Inside_Trigger>
+		<Type>mechanic</Type>
+		</Garages>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Garages</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the garage</Description>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Description>Type of crib.</Description>
+		<Default>crib</Default>
+		<Choice>crib</Choice>
+		<Choice>mechanic</Choice>
+		</Element>
+	<Element>
+		<Name>Outside_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Outside Trigger</Display_Name>
+		<Description>Trigger area defining the outside of the garage.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Inside_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Inside Trigger</Display_Name>
+		<Description>Trigger area defining the inside of the garage.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Foot_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Foot Trigger</Display_Name>
+		<Description>Trigger for entering the garage on foot to retrieve a car.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Door</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Door</Display_Name>
+		<Description>Name of the mover for the garage door.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_movers.xtbl</File>
+			<Type>Mover.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Lift</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Lift</Display_Name>
+		<Description>Name of the mesh mover for the garage lift.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_movers.xtbl</File>
+			<Type>Mover.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Lift_Navpoint</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Lift Navpoint</Display_Name>
+		<Description>Name of the navpoint to place the vehicle at before the lift begins to move.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Shop</Name>
+		<Type>Reference</Type>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\shops_sr_city.xtbl</File>
+			<Type>Shop.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Camera_Navpoint</Name>
+		<Type>Reference</Type>
+		<Description>Where the camera should be during the car retrieval interface.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Light_Set</Name>
+		<Type>Filename</Type>
+		<Display_Name>Light Set</Display_Name>
+		<Required>false</Required>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\tables\cutscene_light_sets</StartingPath>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

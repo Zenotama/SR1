@@ -1,0 +1,54 @@
+<root>
+<Table>
+<MultiplayerLuaFiles>
+		<Name>mp_ptp_01</Name>
+		<Filename>mp_ptp_01</Filename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MultiplayerLuaFiles>
+	<MultiplayerLuaFiles>
+		<Name>mp_coop_delivery</Name>
+		<Filename>mp_coop_delivery</Filename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MultiplayerLuaFiles>
+	<MultiplayerLuaFiles>
+		<Name>mp_coop_stayinalive</Name>
+		<Filename>mp_coop_stayinalive</Filename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MultiplayerLuaFiles>
+	<MultiplayerLuaFiles>
+		<Name>mp_coop_gauntlet</Name>
+		<Filename>mp_coop_gauntlet</Filename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MultiplayerLuaFiles>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>MultiplayerLuaFiles</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Filename</Name>
+		<Type>String</Type>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

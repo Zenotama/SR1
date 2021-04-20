@@ -1,0 +1,138 @@
+<root>
+<Table>
+	<TaggingCombos>
+		<Name>Combo</Name>
+		<Combos>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Full Circle D CC</Combo_Element>
+					<Combo_Element>Full Circle D CW</Combo_Element>
+					<Combo_Element>Full Circle D CC</Combo_Element>
+					<Combo_Element>Full Circle D CW</Combo_Element>
+					<Combo_Element>A</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Full Circle U CW</Combo_Element>
+					<Combo_Element>Half Circle U CC</Combo_Element>
+					<Combo_Element>Half Circle D CW</Combo_Element>
+					<Combo_Element>Qtr Circle U CC</Combo_Element>
+					<Combo_Element>B</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Half Circle L CC</Combo_Element>
+					<Combo_Element>Full Circle R CW</Combo_Element>
+					<Combo_Element>Qtr Circle R CC</Combo_Element>
+					<Combo_Element>Full Circle U CW</Combo_Element>
+					<Combo_Element>X</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Qtr Circle L CW</Combo_Element>
+					<Combo_Element>Full Circle U CC</Combo_Element>
+					<Combo_Element>Half Circle U CW</Combo_Element>
+					<Combo_Element>Qtr Circle D CC</Combo_Element>
+					<Combo_Element>Y</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Half Circle D CW</Combo_Element>
+					<Combo_Element>Qtr Circle U CC</Combo_Element>
+					<Combo_Element>Half Circle L CW</Combo_Element>
+					<Combo_Element>Full Circle R CC</Combo_Element>
+					<Combo_Element>A</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			<Combo>
+				<Combo_Elements>
+					<Combo_Element>Full Circle U CW</Combo_Element>
+					<Combo_Element>Full Circle U CC</Combo_Element>
+					<Combo_Element>Qtr Circle U CW</Combo_Element>
+					<Combo_Element>Half Circle R CC</Combo_Element>
+					<Combo_Element>X</Combo_Element>
+					</Combo_Elements>
+				</Combo>
+			</Combos>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</TaggingCombos>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>TaggingCombos</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Unused.</Description>
+		</Element>
+	<Element>
+		<Name>Combos</Name>
+		<Type>List</Type>
+		<Element>
+			<Name>Combo</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Combo_Elements</Name>
+				<Type>Grid</Type>
+				<Display_Name>Combo Elements</Display_Name>
+				<Element>
+					<Name>Combo_Element</Name>
+					<Type>Selection</Type>
+					<Display_Name>Combo Element</Display_Name>
+					<Default>A</Default>
+					<Choice>A</Choice>
+					<Choice>B</Choice>
+					<Choice>X</Choice>
+					<Choice>Y</Choice>
+					<Choice>Left</Choice>
+					<Choice>Right</Choice>
+					<Choice>Up</Choice>
+					<Choice>Down</Choice>
+					<Choice>Full Circle U CW</Choice>
+					<Choice>Full Circle U CC</Choice>
+					<Choice>Full Circle R CW</Choice>
+					<Choice>Full Circle R CC</Choice>
+					<Choice>Full Circle D CW</Choice>
+					<Choice>Full Circle D CC</Choice>
+					<Choice>Full Circle L CW</Choice>
+					<Choice>Full Circle L CC</Choice>
+					<Choice>Half Circle U CW</Choice>
+					<Choice>Half Circle U CC</Choice>
+					<Choice>Half Circle R CW</Choice>
+					<Choice>Half Circle R CC</Choice>
+					<Choice>Half Circle D CW</Choice>
+					<Choice>Half Circle D CC</Choice>
+					<Choice>Half Circle L CW</Choice>
+					<Choice>Half Circle L CC</Choice>
+					<Choice>Qtr Circle U CW</Choice>
+					<Choice>Qtr Circle U CC</Choice>
+					<Choice>Qtr Circle R CW</Choice>
+					<Choice>Qtr Circle R CC</Choice>
+					<Choice>Qtr Circle D CW</Choice>
+					<Choice>Qtr Circle D CC</Choice>
+					<Choice>Qtr Circle L CW</Choice>
+					<Choice>Qtr Circle L CC</Choice>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

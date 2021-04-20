@@ -1,0 +1,196 @@
+<root>
+<Table>
+	<feedback_events>
+		<Name>Feedback Events</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<null_event>Null_Feedback</null_event>
+		<ragdoll_hurt>Null_Feedback</ragdoll_hurt>
+		<vehicle_scrape>IV_IMP_Car_Scrape</vehicle_scrape>
+		<vehicle_crash>IV_IMP_Car_Crash</vehicle_crash>
+		<vehicle_big_crash>IV_IMP_Car_Crash_Big</vehicle_big_crash>
+		<cellphone>Cellphone</cellphone>
+		<landing>OF_IMP_Landing</landing>
+		<menu>Menu_feedback</menu>
+		<vehicular_homicide>IV_IMP_Strike_Human</vehicular_homicide>
+		<melee_hard>OF_WF_BS__Default_Hard</melee_hard>
+		<melee_soft>OF_WF_BS__Default_Soft</melee_soft>
+		<hit_by_bullet_on_foot>OF_IMP_Bullet_Hit</hit_by_bullet_on_foot>
+		<hit_by_bullet_in_vehicle>Null_Feedback</hit_by_bullet_in_vehicle>
+		<hit_by_melee_on_foot>OF_IMP_Melee_Hit</hit_by_melee_on_foot>
+		<hit_by_melee_in_vehicle>Null_Feedback</hit_by_melee_in_vehicle>
+		</feedback_events>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>feedback_events</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Feedback Events</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>null_event</Name>
+		<Type>Reference</Type>
+		<Display_Name>Null Event</Display_Name>
+		<Description>Event of playing "nothing". Should refer to whatever feedback is being used throughout the other tables to represent "no feedback".</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>ragdoll_hurt</Name>
+		<Type>Reference</Type>
+		<Display_Name>Ragdoll Got Hurt</Display_Name>
+		<Description>The... uh... player's ragdoll... you know... got hurt.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>vehicle_scrape</Name>
+		<Type>Reference</Type>
+		<Display_Name>Vehicle Scraped Something</Display_Name>
+		<Description>A very light impact/the player's vehicle scraped something.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>vehicle_crash</Name>
+		<Type>Reference</Type>
+		<Display_Name>Vehicle Crash</Display_Name>
+		<Description>The player's vehicle crashed.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>vehicle_big_crash</Name>
+		<Type>Reference</Type>
+		<Display_Name>Big Vehicle Crash</Display_Name>
+		<Description>The player's vehicle crashed into something... really hard.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>cellphone</Name>
+		<Type>Reference</Type>
+		<Display_Name>Cellphone Rang</Display_Name>
+		<Description>The player's cellphone rang.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>landing</Name>
+		<Type>Reference</Type>
+		<Display_Name>Player Landed</Display_Name>
+		<Description>The player landed from a fall</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>menu</Name>
+		<Type>Reference</Type>
+		<Display_Name>Menu Feedback</Display_Name>
+		<Description>The feedback the menu should play to indicate "hey, you just turned on your feedback".</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>vehicular_homicide</Name>
+		<Type>Reference</Type>
+		<Display_Name>Vehicular Homicide</Display_Name>
+		<Description>A.K.A. Hit-and-run. "Use the bumper, that's what it's for." "I told you, people are a RENEWABLE resource!"
+
+...basically the player hit a human. With a car.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>melee_hard</Name>
+		<Type>Reference</Type>
+		<Display_Name>Melee Hard Hit</Display_Name>
+		<Description>Melee with fists struck something really hard (stone, metal, etc)</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>melee_soft</Name>
+		<Type>Reference</Type>
+		<Display_Name>Melee Hit Soft</Display_Name>
+		<Description>Melee with fists struck something soft and fleshy (like Stefan).</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>hit_by_bullet_on_foot</Name>
+		<Type>Reference</Type>
+		<Display_Name>Hit By Bullet (On Foot)</Display_Name>
+		<Description>Playa' just got shot.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>hit_by_bullet_in_vehicle</Name>
+		<Type>Reference</Type>
+		<Display_Name>Hit By Bullet (In Vehicle)</Display_Name>
+		<Description>Playa's vehicle just got shot with him in it.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>hit_by_melee_on_foot</Name>
+		<Type>Reference</Type>
+		<Display_Name>Hit By Melee (On Foot)</Display_Name>
+		<Description>Playa' just got smacked.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>hit_by_melee_in_vehicle</Name>
+		<Type>Reference</Type>
+		<Display_Name>Hit By Melee (In Vehicle)</Display_Name>
+		<Description>Playa's car just got smacked with the Playa' in it.</Description>
+		<Reference>
+			<File>feedback.xtbl</File>
+			<Type>Feedback.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

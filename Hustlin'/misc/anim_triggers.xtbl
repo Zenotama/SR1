@@ -1,0 +1,240 @@
+<root>
+<Table>
+	<Trigger>
+		<Name>start combo</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>no interrupt</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>left-foot</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>right-foot</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>critical end</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>combo window start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>combo window end</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>impact start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>ragdoll start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>tag start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>tag end</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>interruptable</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>impact end</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>clip on</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>clip off</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>throw item</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>close door</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>open door</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>ragdoll grab</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>ragdoll release</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>jump takeoff</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>head start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>weapon raised</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>eject brass</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>apply drug</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>head stop</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>vehicle scale start</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>vehicle scale end</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>carry grab</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>dynamic crouch on</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>dynamic crouch off</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>left-foot2</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>right-foot2</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>human entered vehicle</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>human exited vehicle</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	<Trigger>
+		<Name>swim effect</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Trigger>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Trigger</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Trigger Name</Display_Name>
+		<Unique>true</Unique>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,267 @@
+<root>
+<Table>
+	<RadioGroups>
+		<Name>MUS_KSURP_A</Name>
+		<Single>
+			<Track>MUS_KSURP_A</Track>
+			<Offset>-1.0</Offset>
+			<Ducking>1</Ducking>
+			</Single>
+		<_Editor>
+			<Category>101.69 SIZZURP FM</Category>
+			</_Editor>
+		</RadioGroups>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>RadioGroups</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Single</Name>
+		<Type>Element</Type>
+		<Description>Sweeper, song, or that is not special or linked to another file.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Track</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>music_demo.xtbl</File>
+				<Type>Music_Set.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Offset</Name>
+			<Type>Float</Type>
+			<Display_Name>Offset From End of Prev Outro</Display_Name>
+			<Description>Offset, in seconds, into the previous outro from the end at which the song will start playing.</Description>
+			<Default>-1.0</Default>
+			<MinValue>-1</MinValue>
+			</Element>
+		<Element>
+			<Name>Ducking</Name>
+			<Type>Float</Type>
+			<Display_Name>Volume Ducking</Display_Name>
+			<Default>1.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			<UseSlider>True</UseSlider>
+			</Element>
+		</Element>
+	<Element>
+		<Name>IntroSong</Name>
+		<Type>Element</Type>
+		<Display_Name>Intro + Song</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Intro</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>IntroSet</Name>
+				<Type>Element</Type>
+				<Display_Name>Intro</Display_Name>
+				<Element>
+					<Name>Track</Name>
+					<Type>Reference</Type>
+					<Display_Name>Intro Track</Display_Name>
+					<Reference>
+						<File>music_demo.xtbl</File>
+						<Type>Music_Set.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Offset</Name>
+					<Type>Float</Type>
+					<Display_Name>Offset From End of Previous Song</Display_Name>
+					<Description>Offset, in seconds, into the previous song from the end at which the intro will start playing.</Description>
+					<Default>10.0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				</Element>
+			<Min_Children>1</Min_Children>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		<Element>
+			<Name>Song</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Track</Name>
+				<Type>Reference</Type>
+				<Display_Name>Song Track</Display_Name>
+				<Reference>
+					<File>music_demo.xtbl</File>
+					<Type>Music_Set.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Offset</Name>
+				<Type>Float</Type>
+				<Display_Name>Offset From End of Intro</Display_Name>
+				<Description>Offset, in seconds, into the intro from the end at which the song will start playing. Anything less than zero will start this song immediately after the previous song.</Description>
+				<Default>10.0</Default>
+				<MinValue>-1</MinValue>
+				</Element>
+			<Element>
+				<Name>Ducking</Name>
+				<Type>Float</Type>
+				<Display_Name>Volume Ducking</Display_Name>
+				<Description>Volume Level</Description>
+				<Default>0.5</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				<UseSlider>True</UseSlider>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>SongOutro</Name>
+		<Type>Element</Type>
+		<Display_Name>Song + Outro</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Song</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Track</Name>
+				<Type>Reference</Type>
+				<Display_Name>Song Track</Display_Name>
+				<Reference>
+					<File>music_demo.xtbl</File>
+					<Type>Music_Set.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Offset</Name>
+				<Type>Float</Type>
+				<Display_Name>Offset From End of Prev Outro</Display_Name>
+				<Description>Offset, in seconds, into the previous outro/id from the end at which the song will start playing.</Description>
+				<Default>10.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Ducking</Name>
+				<Type>Float</Type>
+				<Display_Name>Volume Ducking</Display_Name>
+				<Description>Volume Level</Description>
+				<Default>0.5</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				<UseSlider>True</UseSlider>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Outro</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Track</Name>
+				<Type>Reference</Type>
+				<Display_Name>Outro Track</Display_Name>
+				<Reference>
+					<File>music_demo.xtbl</File>
+					<Type>Music_Set.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Offset</Name>
+				<Type>Float</Type>
+				<Display_Name>Offset From End of Song</Display_Name>
+				<Description>Offset, in seconds, into the previous song from the end at which the intro will start playing.</Description>
+				<Default>10.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Weather</Name>
+		<Type>Element</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>Conditions</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Cond</Name>
+				<Type>Element</Type>
+				<Default>0.0</Default>
+				<Element>
+					<Name>Weather</Name>
+					<Type>Reference</Type>
+					<Default>Sunny</Default>
+					<Reference>
+						<File>weather.xtbl</File>
+						<Type>Weather_Stage.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>ToDStart</Name>
+					<Type>Int</Type>
+					<Display_Name>ToD Start</Display_Name>
+					<Default>0</Default>
+					</Element>
+				<Element>
+					<Name>ToDEnd</Name>
+					<Type>Int</Type>
+					<Display_Name>ToD End</Display_Name>
+					<Default>0</Default>
+					</Element>
+				<Element>
+					<Name>PlayOrder</Name>
+					<Type>Selection</Type>
+					<Display_Name>Play Order</Display_Name>
+					<Default>Temp-Weather</Default>
+					<Choice>Weather-Temp</Choice>
+					<Choice>Temp-Weather</Choice>
+					</Element>
+				<Element>
+					<Name>Track</Name>
+					<Type>Reference</Type>
+					<Display_Name>Weather Track</Display_Name>
+					<Reference>
+						<File>music_demo.xtbl</File>
+						<Type>Music_Set.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>TemperatureTrack</Name>
+					<Type>Reference</Type>
+					<Display_Name>Temperature Track</Display_Name>
+					<Reference>
+						<File>music_demo.xtbl</File>
+						<Type>Music_Set.Name</Type>
+						</Reference>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ComEvent</Name>
+		<Type>Selection</Type>
+		<Display_Name>Commercial Event</Display_Name>
+		<Required>false</Required>
+		<Default>Any - Not News</Default>
+		<Choice>Any - Not News</Choice>
+		</Element>
+	<Element>
+		<Name>NewsEvent</Name>
+		<Type>Reference</Type>
+		<Display_Name>News Event</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>music_demo.xtbl</File>
+			<Type>Music_Set.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>101.69 SIZZURP FM</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,97 @@
+<root>
+<Table>
+	<TaggingGlobals>
+		<Name>Defaults</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Levels>
+			<Level>
+				<Inputs>3</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			<Level>
+				<Inputs>4</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			<Level>
+				<Inputs>5</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			<Level>
+				<Inputs>6</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			<Level>
+				<Inputs>7</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			<Level>
+				<Inputs>8</Inputs>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Rate>8</Rate>
+				</Level>
+			</Levels>
+		</TaggingGlobals>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>TaggingGlobals</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Unused.</Description>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Display_Name>Difficulty Levels</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Display_Name>Difficulty Level</Display_Name>
+			<Element>
+				<Name>Inputs</Name>
+				<Type>Int</Type>
+				<Description>How many inputs must be successfully performed.</Description>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>8</MaxValue>
+				</Element>
+			<Element>
+				<Name>Max_Notoriety</Name>
+				<Type>Int</Type>
+				<Display_Name>Max Notoriety</Display_Name>
+				<Description>The maximum notoriet to reach from tagging.</Description>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>Rate</Name>
+				<Type>Int</Type>
+				<Display_Name>Notoriety Rate (/sec)</Display_Name>
+				<Description>How fast notoriety should accrue (points/sec).</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,972 @@
+<root>
+<Table>
+	<Activity>
+		<Name>vk_escort01</Name>
+		<Levels>
+			<Level>
+				<Num_Spawns>1</Num_Spawns>
+				<Respawn_Rate>25</Respawn_Rate>
+				<Satisfaction_Time>45</Satisfaction_Time>
+				<Footage_Limit>50</Footage_Limit>
+				<Cash_Award>100</Cash_Award>
+				<Props_Award>700</Props_Award>
+				<Min_Roadblock_Spawn_Time>700</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>700</Max_Roadblock_Spawn_Time>
+				<Num_Complications>0</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>2</Num_Spawns>
+				<Respawn_Rate>25</Respawn_Rate>
+				<Satisfaction_Time>50</Satisfaction_Time>
+				<Footage_Limit>50</Footage_Limit>
+				<Cash_Award>250</Cash_Award>
+				<Props_Award>800</Props_Award>
+				<Min_Roadblock_Spawn_Time>700</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>700</Max_Roadblock_Spawn_Time>
+				<Num_Complications>0</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>2</Num_Spawns>
+				<Respawn_Rate>20</Respawn_Rate>
+				<Satisfaction_Time>55</Satisfaction_Time>
+				<Footage_Limit>50</Footage_Limit>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>900</Props_Award>
+				<Min_Roadblock_Spawn_Time>40</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>55</Max_Roadblock_Spawn_Time>
+				<Num_Complications>1</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>3</Num_Spawns>
+				<Respawn_Rate>20</Respawn_Rate>
+				<Satisfaction_Time>65</Satisfaction_Time>
+				<Footage_Limit>50</Footage_Limit>
+				<Cash_Award>1000</Cash_Award>
+				<Props_Award>1000</Props_Award>
+				<Min_Roadblock_Spawn_Time>35</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>50</Max_Roadblock_Spawn_Time>
+				<Num_Complications>2</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>3</Num_Spawns>
+				<Respawn_Rate>17</Respawn_Rate>
+				<Satisfaction_Time>70</Satisfaction_Time>
+				<Footage_Limit>45</Footage_Limit>
+				<Cash_Award>1500</Cash_Award>
+				<Props_Award>1100</Props_Award>
+				<Min_Roadblock_Spawn_Time>35</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>45</Max_Roadblock_Spawn_Time>
+				<Num_Complications>2</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>3</Num_Spawns>
+				<Respawn_Rate>17</Respawn_Rate>
+				<Satisfaction_Time>80</Satisfaction_Time>
+				<Footage_Limit>45</Footage_Limit>
+				<Cash_Award>2000</Cash_Award>
+				<Props_Award>1200</Props_Award>
+				<Min_Roadblock_Spawn_Time>30</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>45</Max_Roadblock_Spawn_Time>
+				<Num_Complications>2</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>4</Num_Spawns>
+				<Respawn_Rate>15</Respawn_Rate>
+				<Satisfaction_Time>90</Satisfaction_Time>
+				<Footage_Limit>45</Footage_Limit>
+				<Cash_Award>3000</Cash_Award>
+				<Props_Award>1300</Props_Award>
+				<Min_Roadblock_Spawn_Time>25</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>35</Max_Roadblock_Spawn_Time>
+				<Num_Complications>3</Num_Complications>
+				</Level>
+			<Level>
+				<Num_Spawns>4</Num_Spawns>
+				<Respawn_Rate>15</Respawn_Rate>
+				<Satisfaction_Time>100</Satisfaction_Time>
+				<Footage_Limit>45</Footage_Limit>
+				<Cash_Award>5000</Cash_Award>
+				<Props_Award>1400</Props_Award>
+				<Min_Roadblock_Spawn_Time>15</Min_Roadblock_Spawn_Time>
+				<Max_Roadblock_Spawn_Time>30</Max_Roadblock_Spawn_Time>
+				<Num_Complications>3</Num_Complications>
+				</Level>
+			</Levels>
+		<Max_Cash>0</Max_Cash>
+		<Max_Props>0</Max_Props>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>vk_escort01$start</Start_Location>
+		<Stripper_Characters>
+			<Character_Name>Stripper-Black</Character_Name>
+			<Character_Name>Stripper-White</Character_Name>
+			<Character_Name>Stripper-Asian</Character_Name>
+			<Character_Name>Stripper-Latina</Character_Name>
+			</Stripper_Characters>
+		<Client_Personas>
+			<Persona_Name>HM_BIZ</Persona_Name>
+			<Persona_Name>HF_BIZ</Persona_Name>
+			<Persona_Name>BM_MID</Persona_Name>
+			<Persona_Name>BM_BIZ</Persona_Name>
+			<Persona_Name>BM_YNG</Persona_Name>
+			<Persona_Name>BM_ATHL</Persona_Name>
+			<Persona_Name>BF_YNG</Persona_Name>
+			<Persona_Name>AM_RICH</Persona_Name>
+			<Persona_Name>AF_YNG</Persona_Name>
+			<Persona_Name>WM_MID</Persona_Name>
+			<Persona_Name>WM_SPRT</Persona_Name>
+			<Persona_Name>WM_COW</Persona_Name>
+			<Persona_Name>WM_BIZ</Persona_Name>
+			<Persona_Name>WM_RICH</Persona_Name>
+			<Persona_Name>WF_FAT</Persona_Name>
+			<Persona_Name>AM_ELD</Persona_Name>
+			<Persona_Name>BM_ELD</Persona_Name>
+			<Persona_Name>WM_COP</Persona_Name>
+			<Persona_Name>BM_FBI</Persona_Name>
+			</Client_Personas>
+		<Limo>vk_escort01_car</Limo>
+		<Client>vk_escort01_client</Client>
+		<Stripper>vk_escort01_stripper</Stripper>
+		<Pickup_Navpoints>vk_escort01_pickup_</Pickup_Navpoints>
+		<Dropoff_Navpoints>vk_escort01_drop_</Dropoff_Navpoints>
+		<Warp_Location>vk_escort01_$warp</Warp_Location>
+		<Enemies>
+			<Enemy>
+				<Vehicle_Name>car_4dr_standard02</Vehicle_Name>
+				<Character_Name>PD_X_M_MiddleAge-02</Character_Name>
+				<Type>PI</Type>
+				<Level>3</Level>
+				<Spawn_Chance>.4</Spawn_Chance>
+				<Num_Passengers>1</Num_Passengers>
+				<Reaction>escort - complication PI</Reaction>
+				<Kill_Reaction>escort - complication PI end</Kill_Reaction>
+				</Enemy>
+			<Enemy>
+				<Vehicle_Name>car_4dr_luxury03</Vehicle_Name>
+				<Character_Name>PD_X_F_MiddleAge-01</Character_Name>
+				<Type>Spouse</Type>
+				<Level>5</Level>
+				<Spawn_Chance>.3</Spawn_Chance>
+				<Num_Passengers>1</Num_Passengers>
+				<Reaction>escort - complication spouse</Reaction>
+				<Kill_Reaction>escort - complication spouse end</Kill_Reaction>
+				</Enemy>
+			<Enemy>
+				<Vehicle_Name>car_4dr_irs01</Vehicle_Name>
+				<Character_Name>LW_X_M_IRS-01</Character_Name>
+				<Type>IRS</Type>
+				<Level>7</Level>
+				<Spawn_Chance>.2</Spawn_Chance>
+				<Num_Passengers>4</Num_Passengers>
+				<Reaction>escort - complication IRS</Reaction>
+				<Kill_Reaction>escort - complication IRS end</Kill_Reaction>
+				</Enemy>
+			<Enemy>
+				<Vehicle_Name>van_4dr_news01</Vehicle_Name>
+				<Character_Name>AC_W_M_Escort-Papparraz</Character_Name>
+				<Type>News</Type>
+				<Level>1</Level>
+				<Spawn_Chance>1</Spawn_Chance>
+				<Num_Passengers>1</Num_Passengers>
+				<Reaction>escort - client reacts to seeing razzi</Reaction>
+				<Kill_Reaction>escort - client reacts to killing razzi</Kill_Reaction>
+				<Lost_Reaction>escort - client reacts to losing razzi</Lost_Reaction>
+				</Enemy>
+			</Enemies>
+		<Drive_Fast>
+			<Level>6</Level>
+			<Seconds>4</Seconds>
+			<Speed>55</Speed>
+			<Chance>0.4</Chance>
+			<Start_Line>escort - complication fast</Start_Line>
+			<End_Line>escort - complication fast end</End_Line>
+			<Help>fast</Help>
+			</Drive_Fast>
+		<Stop>
+			<Level>99</Level>
+			<Seconds>3</Seconds>
+			<Chance>0.6</Chance>
+			<Start_Line>escort - complication stop</Start_Line>
+			<End_Line>escort - complication stop end</End_Line>
+			<Help>stop</Help>
+			</Stop>
+		<Crash>
+			<Level>4</Level>
+			<Damage>1000</Damage>
+			<Chance>0.4</Chance>
+			<Start_Line>escort - complication crash</Start_Line>
+			<End_Line>escort - complication crash end</End_Line>
+			<Help>crash</Help>
+			</Crash>
+		<Air>
+			<Level>5</Level>
+			<Seconds>2</Seconds>
+			<Chance>0.4</Chance>
+			<Start_Line>escort - complication jump</Start_Line>
+			<End_Line>escort - complication jump end</End_Line>
+			<Help>air</Help>
+			</Air>
+		<Drive_By>
+			<Level>3</Level>
+			<Kills>4</Kills>
+			<Chance>0.2</Chance>
+			<Start_Line>escort - complication kill</Start_Line>
+			<End_Line>escort - complication kill end</End_Line>
+			<Help>kill</Help>
+			</Drive_By>
+		<Trip>
+			<Trips>
+				<Trip>
+					<Help>trip: brothel</Help>
+					<Navpoint_prefix>escort_sr_city_$n_brothel</Navpoint_prefix>
+					<Level>4</Level>
+					<Start_Line>escort - complication brothel</Start_Line>
+					<Chance>0.3</Chance>
+					<End_Line>escort - complication brothel end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: club</Help>
+					<Navpoint_prefix>escort_sr_city_$n_strip_club</Navpoint_prefix>
+					<Level>3</Level>
+					<Start_Line>escort - complication strip</Start_Line>
+					<Chance>0.3</Chance>
+					<End_Line>escort - complication strip end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: food</Help>
+					<Navpoint_prefix>escort_sr_city_$n_food</Navpoint_prefix>
+					<Level>4</Level>
+					<Chance>0.4</Chance>
+					<Start_Line>escort - complication freckle</Start_Line>
+					<End_Line>escort - complication freckle end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: motel</Help>
+					<Navpoint_prefix>escort_sr_city_$n_motel</Navpoint_prefix>
+					<Level>2</Level>
+					<Chance>0.2</Chance>
+					<Start_Line>escort - complication motel</Start_Line>
+					<End_Line>escort - complication motel end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: puke</Help>
+					<Navpoint_prefix>escort_sr_city_$n_puke</Navpoint_prefix>
+					<Level>3</Level>
+					<Start_Line>escort - complication puke</Start_Line>
+					<Chance>0.4</Chance>
+					<End_Line>escort - complication puke end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: river</Help>
+					<Navpoint_prefix>escort_sr_city_$n_river</Navpoint_prefix>
+					<Level>4</Level>
+					<Start_Line>escort - complication river</Start_Line>
+					<Chance>0.4</Chance>
+					<End_Line>escort - complication river end</End_Line>
+					<Ho_exits>true</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: shop</Help>
+					<Navpoint_prefix>escort_sr_city_$n_sex_shop</Navpoint_prefix>
+					<Level>2</Level>
+					<Start_Line>escort - complication shop</Start_Line>
+					<Chance>0.2</Chance>
+					<End_Line>escort - complication shop end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				<Trip>
+					<Help>trip: theater</Help>
+					<Navpoint_prefix>escort_sr_city_$n_theater</Navpoint_prefix>
+					<Level>3</Level>
+					<Start_Line>escort - complication movie</Start_Line>
+					<Chance>0.2</Chance>
+					<End_Line>escort - complication movie end</End_Line>
+					<Ho_exits>false</Ho_exits>
+					</Trip>
+				</Trips>
+			<Chance>0.95</Chance>
+			</Trip>
+		<Cutscene>escort_redlight</Cutscene>
+		<Client_Characters>
+			<Character_Name>PD_X_F_BusinessWoman-02</Character_Name>
+			<Character_Name>PD_X_F_GenericYoung-03</Character_Name>
+			<Character_Name>PD_B_M_Bouncer-01</Character_Name>
+			<Character_Name>pd_x_f_genericyoung-01</Character_Name>
+			<Character_Name>PD_X_F_BusinessWoman-01</Character_Name>
+			<Character_Name>PD_X_F_GenericYoung-02</Character_Name>
+			<Character_Name>PD_X_F_Jogger-01</Character_Name>
+			<Character_Name>PD_X_F_MiddleAge-01</Character_Name>
+			<Character_Name>PD_X_F_Poor-01</Character_Name>
+			<Character_Name>PD_X_M_GenericYoung-01</Character_Name>
+			<Character_Name>PD_X_M_GenericYoung-02</Character_Name>
+			<Character_Name>PD_X_M_MiddleAge-02</Character_Name>
+			<Character_Name>PD_W_M_Bum</Character_Name>
+			<Character_Name>PD_X_F_Baglady-01</Character_Name>
+			<Character_Name>PD_X_M_Poor-01</Character_Name>
+			<Character_Name>PD_W_F_Hippie-01</Character_Name>
+			<Character_Name>PD_X_F_BigGeneric</Character_Name>
+			<Character_Name>PD_X_F_FatLady-01</Character_Name>
+			<Character_Name>PD_X_M_HighIncome</Character_Name>
+			<Character_Name>PD_B_F_Generic</Character_Name>
+			<Character_Name>PD_W_M_Cowboy-01</Character_Name>
+			<Character_Name>PD_X_M_Trucker-01</Character_Name>
+			<Character_Name>PD_X_M_Pimp-02</Character_Name>
+			<Character_Name>PD_X_M_Pimp-03</Character_Name>
+			<Character_Name>PD_X_F_SkinnyHo</Character_Name>
+			<Character_Name>LW_X_M_FBI-01</Character_Name>
+			<Character_Name>LW_X_M_Officer_01</Character_Name>
+			</Client_Characters>
+		<Unlockables>
+			<Unlockable>vk_escort</Unlockable>
+			</Unlockables>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Description>Describes the activity</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Start Location</Display_Name>
+		<Description>Where the activity will be started from</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\vk_escort01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Warp_Location</Name>
+		<Type>Reference</Type>
+		<Display_Name>Warp Location</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\vk_escort01_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Max_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Level Props Award</Display_Name>
+		<Description>Props given for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Max_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Max Level Cash Award</Display_Name>
+		<Description>Cash award for completing hte maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Description>A list of the levels available in the region</Description>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Description>A description of a level</Description>
+			<Element>
+				<Name>Num_Spawns</Name>
+				<Type>Int</Type>
+				<Display_Name>Num Spawns</Display_Name>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Respawn_Rate</Name>
+				<Type>Int</Type>
+				<Display_Name>Respawn Rate</Display_Name>
+				<Description>How much time between  news van respawning (in sec)</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Satisfaction_Time</Name>
+				<Type>Int</Type>
+				<Display_Name>Satisfaction Time</Display_Name>
+				<Description>Time to fill satisfaction meter to full (in seconds)</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Footage_Limit</Name>
+				<Type>Int</Type>
+				<Display_Name>Footage Limit</Display_Name>
+				<Description>The number of seconds of footage taken that will fail the activity</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Cash Award</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Props Award</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Min_Roadblock_Spawn_Time</Name>
+				<Type>Int</Type>
+				<Display_Name>Min Roadblock Spawn Time</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Max_Roadblock_Spawn_Time</Name>
+				<Type>Int</Type>
+				<Display_Name>Max Roadblock Spawn Time</Display_Name>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Num_Complications</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Enemies</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Enemy</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Vehicle_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Vehicle Name</Display_Name>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Character_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Character Name</Display_Name>
+				<Reference>
+					<File>character.xtbl</File>
+					<Type>Character.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>Selection</Type>
+				<Display_Name>Behavior Type</Display_Name>
+				<Choice>IRS</Choice>
+				<Choice>PI</Choice>
+				<Choice>Spouse</Choice>
+				<Choice>News</Choice>
+				</Element>
+			<Element>
+				<Name>Level</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Spawn_Chance</Name>
+				<Type>Float</Type>
+				<Display_Name>Spawn Chance</Display_Name>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Num_Passengers</Name>
+				<Type>Int</Type>
+				<Display_Name>Number of Passengers</Display_Name>
+				<Default>1</Default>
+				</Element>
+			<Element>
+				<Name>Reaction</Name>
+				<Type>Reference</Type>
+				<Display_Name>Enemy Spotted Reaction</Display_Name>
+				<Reference>
+					<File>persona_situations.xtbl</File>
+					<Type>Situation_List.Situations.Situation.Type</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Kill_Reaction</Name>
+				<Type>Reference</Type>
+				<Display_Name>Enemy Killed Reaction</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>persona_situations.xtbl</File>
+					<Type>Situation_List.Situations.Situation.Type</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Lost_Reaction</Name>
+				<Type>Reference</Type>
+				<Display_Name>Enemy Lost Reaction</Display_Name>
+				<Required>false</Required>
+				<Reference>
+					<File>persona_situations.xtbl</File>
+					<Type>Situation_List.Situations.Situation.Type</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Drive_By</Name>
+		<Type>Element</Type>
+		<Display_Name>Drive By Complication</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Kills</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Start_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>Start Situation Line</Display_Name>
+			<Default>0</Default>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>End_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>End Situation Line</Display_Name>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Help</Name>
+			<Type>Reference</Type>
+			<Display_Name>Help Text</Display_Name>
+			<Reference>
+				<File>escort_text.xtbl</File>
+				<Type>String.Texts.Text.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Crash</Name>
+		<Type>Element</Type>
+		<Display_Name>Crash Complication</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Damage</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Start_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>Start Situation Line</Display_Name>
+			<Default>0</Default>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>End_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>End Situation Line</Display_Name>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Help</Name>
+			<Type>Reference</Type>
+			<Display_Name>Help Text</Display_Name>
+			<Reference>
+				<File>escort_text.xtbl</File>
+				<Type>String.Texts.Text.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Air</Name>
+		<Type>Element</Type>
+		<Display_Name>Air Complication</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Seconds</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Start_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>Start Situation Line</Display_Name>
+			<Default>0</Default>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>End_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>End Situation Line</Display_Name>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Help</Name>
+			<Type>Reference</Type>
+			<Display_Name>Help Text</Display_Name>
+			<Reference>
+				<File>escort_text.xtbl</File>
+				<Type>String.Texts.Text.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Drive_Fast</Name>
+		<Type>Element</Type>
+		<Display_Name>Drive Fast Complication</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Seconds</Name>
+			<Type>Int</Type>
+			<Display_Name>Num Seconds</Display_Name>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Speed</Name>
+			<Type>Float</Type>
+			<Display_Name>Speed Limit</Display_Name>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Start_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>Start Situation Line</Display_Name>
+			<Default>0</Default>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>End_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>End Situation Line</Display_Name>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Help</Name>
+			<Type>Reference</Type>
+			<Display_Name>Help Text</Display_Name>
+			<Reference>
+				<File>escort_text.xtbl</File>
+				<Type>String.Texts.Text.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Stop</Name>
+		<Type>Element</Type>
+		<Display_Name>Stop Complication</Display_Name>
+		<Element>
+			<Name>Level</Name>
+			<Type>Int</Type>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Seconds</Name>
+			<Type>Int</Type>
+			<Display_Name>Num Seconds</Display_Name>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Start_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>Start Situation Line</Display_Name>
+			<Default>0</Default>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>End_Line</Name>
+			<Type>Reference</Type>
+			<Display_Name>End Situation Line</Display_Name>
+			<Reference>
+				<File>persona_situations.xtbl</File>
+				<Type>Situation_List.Situations.Situation.Type</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Help</Name>
+			<Type>Reference</Type>
+			<Display_Name>Help Text</Display_Name>
+			<Reference>
+				<File>escort_text.xtbl</File>
+				<Type>String.Texts.Text.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Trip</Name>
+		<Type>Element</Type>
+		<Display_Name>Sidetrip Complication</Display_Name>
+		<Element>
+			<Name>Trips</Name>
+			<Type>Grid</Type>
+			<Display_Name>Sidetrips</Display_Name>
+			<Element>
+				<Name>Trip</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Help</Name>
+					<Type>Reference</Type>
+					<Display_Name>Help Text</Display_Name>
+					<Reference>
+						<File>escort_text.xtbl</File>
+						<Type>String.Texts.Text.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Navpoint_prefix</Name>
+					<Type>String</Type>
+					<Display_Name>Navpoint prefix</Display_Name>
+					</Element>
+				<Element>
+					<Name>Level</Name>
+					<Type>Int</Type>
+					<Default>0</Default>
+					</Element>
+				<Element>
+					<Name>Chance</Name>
+					<Type>Float</Type>
+					<Default>0.5</Default>
+					</Element>
+				<Element>
+					<Name>Start_Line</Name>
+					<Type>Reference</Type>
+					<Display_Name>Start Situation Line</Display_Name>
+					<Default>0</Default>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>End_Line</Name>
+					<Type>Reference</Type>
+					<Display_Name>End Situation Line</Display_Name>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Ho_exits</Name>
+					<Type>Selection</Type>
+					<Display_Name>Ho exits car</Display_Name>
+					<Default>false</Default>
+					<Choice>true</Choice>
+					<Choice>false</Choice>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Select Chance</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Stripper_Characters</Name>
+		<Type>List</Type>
+		<Display_Name>Stripper Characters</Display_Name>
+		<Element>
+			<Name>Character_Name</Name>
+			<Type>Reference</Type>
+			<Display_Name>Character Name</Display_Name>
+			<Reference>
+				<File>character.xtbl</File>
+				<Type>Character.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Character_Name</Element_Name>
+		</Element>
+	<Element>
+		<Name>Client_Characters</Name>
+		<Type>List</Type>
+		<Display_Name>Client Characters</Display_Name>
+		<Element>
+			<Name>Character_Name</Name>
+			<Type>Reference</Type>
+			<Display_Name>Character Name</Display_Name>
+			<Reference>
+				<File>character.xtbl</File>
+				<Type>Character.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Character_Name</Element_Name>
+		</Element>
+	<Element>
+		<Name>Client_Personas</Name>
+		<Type>List</Type>
+		<Display_Name>Client Personas</Display_Name>
+		<Element>
+			<Name>Persona_Name</Name>
+			<Type>Reference</Type>
+			<Display_Name>Persona Name</Display_Name>
+			<Reference>
+				<File>persona.xtbl</File>
+				<Type>Persona.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Persona_Name</Element_Name>
+		</Element>
+	<Element>
+		<Name>Limo</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\vk_escort01_vehicles.xtbl</File>
+			<Type>VehicleReference.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Client</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\vk_escort01_npcs.xtbl</File>
+			<Type>NPCReference.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Stripper</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\vk_escort01_npcs.xtbl</File>
+			<Type>NPCReference.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Pickup_Navpoints</Name>
+		<Type>String</Type>
+		<Display_Name>Pickup Navpoint Prefix</Display_Name>
+		</Element>
+	<Element>
+		<Name>Dropoff_Navpoints</Name>
+		<Type>String</Type>
+		<Display_Name>Dropoff Navpoint Prefix</Display_Name>
+		</Element>
+	<Element>
+		<Name>Unlockables</Name>
+		<Type>Grid</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>Unlockable</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>unlockables.xtbl</File>
+				<Type>Unlockable.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,117 @@
+<root>
+<Table>
+	<Table>
+		<Name>despawn info</Name>
+		<in_view_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>3</num_cars>
+				<time>30</time>
+				</abandon_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>4</num_cars>
+				<time>20</time>
+				</abandon_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>5</num_cars>
+				<time>10</time>
+				</abandon_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>6</num_cars>
+				<time>0</time>
+				</abandon_despawn_info>
+			</in_view_despawn_info>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<abandon_despawn_delay>10</abandon_despawn_delay>
+		<out_of_view_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>3</num_cars>
+				<time>10</time>
+				</abandon_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>4</num_cars>
+				<time>5</time>
+				</abandon_despawn_info>
+			<abandon_despawn_info>
+				<num_cars>5</num_cars>
+				<time>0</time>
+				</abandon_despawn_info>
+			</out_of_view_despawn_info>
+		<in_view_min_despawn_delay>5</in_view_min_despawn_delay>
+		</Table>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Table</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>in_view_despawn_info</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>abandon_despawn_info</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>num_cars</Name>
+				<Type>Int</Type>
+				<Description>number of abandoned cars</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>time</Name>
+				<Type>Int</Type>
+				<Description>time since too many abandoned vehicles to despawn (sec)</Description>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>out_of_view_despawn_info</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>abandon_despawn_info</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>num_cars</Name>
+				<Type>Int</Type>
+				<Description>number of abandoned cars</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>time</Name>
+				<Type>Int</Type>
+				<Description>time since too many abandoned vehicles to despawn (sec)</Description>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>abandon_despawn_delay</Name>
+		<Type>Int</Type>
+		<Description>minimum time from abandonment until vehicle can be despawned (sec)</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>in_view_min_despawn_delay</Name>
+		<Type>Int</Type>
+		<Description>minimum time between despawns for on screen vehicles(sec)</Description>
+		<Default>0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,1258 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>500</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.557 0.848 0.985</Color>
+				<Multiplier>0.84</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.81274 5.91367 -9.9214</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List>cs_warehousedoor</Exclude_List>
+				<Exclude_List_Original_Names>Door01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.506 0.671 0.969</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.92989 3.63025 0.281633</Position>
+				<Orientation>0.1703 -0.2478 0.5403 0.7861</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.55 12.275</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.07217 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.718 0.84 0.977</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.67407 2.75355 9.77002</Position>
+				<Orientation>-0.5175 0.1543 -0.0955 0.8363</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>7.87501 9.8</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.746 0.977</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.01611 1.03654 -2.05549</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni08</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.0 0.071</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.92757 0.269064 4.85844</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.424998 1.075</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight PC Fill Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.746 0.977</Color>
+				<Multiplier>0.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.08752 0.477716 -3.75662</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 3.05</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.58</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.521 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.557 0.848 0.985</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.87453 6.35329 -9.8553</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.521 3.41755</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Moon Set5</Name>
+		<StartTime>501</StartTime>
+		<EndTime>759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.765 0.922</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.92989 3.63025 0.281633</Position>
+				<Orientation>0.1703 -0.2478 0.5403 0.7861</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.55 12.275</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.07217 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.785 0.542</Color>
+				<Multiplier>0.54</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.26168 2.75355 10.4726</Position>
+				<Orientation>-0.5263 -0.0044 0.0027 0.8504</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>7.87501 9.8</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.81274 5.91367 -9.9214</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List>cs_warehousedoor</Exclude_List>
+				<Exclude_List_Original_Names>Door01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.961 0.836 0.561</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.01611 1.03654 -2.05549</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Omni04</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.0 0.071</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.92757 0.269064 4.85844</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.424998 1.075</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset PC Fill Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.961 0.836 0.561</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.39122 0.444546 -3.6415</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Shadowcast FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.68</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.4185 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Shadowcast FreeSpot11</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>0.81</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.86042 6.2529 -9.87039</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Shadowcast FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.45</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.4185 4.66599</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midday3</Name>
+		<StartTime>1800</StartTime>
+		<EndTime>2059</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midday FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.765 0.922</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.92989 3.63025 0.281633</Position>
+				<Orientation>0.1703 -0.2478 0.5403 0.7861</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.55 12.275</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.85</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.07217 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.785 0.542</Color>
+				<Multiplier>0.42</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.26168 2.75355 10.4726</Position>
+				<Orientation>-0.5263 -0.0044 0.0027 0.8504</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>7.87501 9.8</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.81274 5.91367 -9.9214</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List>cs_warehousedoor</Exclude_List>
+				<Exclude_List_Original_Names>Door01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.961 0.836 0.561</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.01611 1.03654 -2.05549</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Omni08</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.0 0.071</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.92757 0.269064 4.85844</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.424998 1.075</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Shadowcast FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.53</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.61169 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Shadowcast FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>0.69</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.88701 6.44212 -9.84194</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Shadowcast FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.61169 2.65071</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>100</R>
+					<G>100</G>
+					<B>100</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dusk3</Name>
+		<StartTime>2100</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.557 0.848 0.985</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.81274 5.91367 -9.9214</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List>cs_warehousedoor</Exclude_List>
+				<Exclude_List_Original_Names>Door01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.506 0.671 0.969</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.92989 3.63025 0.281633</Position>
+				<Orientation>0.1703 -0.2478 0.5403 0.7861</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.55 12.275</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.07217 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.718 0.84 0.977</Color>
+				<Multiplier>0.59</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.67407 2.75355 9.77002</Position>
+				<Orientation>-0.5175 0.1543 -0.0955 0.8363</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>7.87501 9.8</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.746 0.977</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.01611 1.03654 -2.05549</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni08</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.0 0.071</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.92757 0.269064 4.85844</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.424998 1.075</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Shadowcast FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.557 0.848 0.985</Color>
+				<Multiplier>0.69</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.86736 6.30229 -9.86297</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Shadowcast FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.46893 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Shadowcast FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.989 0.718</Color>
+				<Multiplier>0.48</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.46893 4.7732</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk PC Fill Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.702 0.914 0.965</Color>
+				<Multiplier>0.22</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.04029 0.674872 -4.08572</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>85</R>
+					<G>85</G>
+					<B>85</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dawn3</Name>
+		<StartTime>800</StartTime>
+		<EndTime>1759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.33</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.07217 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.738 0.938 0.969</Color>
+				<Multiplier>0.27</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.26168 2.75355 10.4726</Position>
+				<Orientation>-0.5263 -0.0044 0.0027 0.8504</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>7.87501 9.8</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.81274 5.91367 -9.9214</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List>cs_warehousedoor</Exclude_List>
+				<Exclude_List_Original_Names>Door01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.953 0.961</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.92989 3.63025 0.281633</Position>
+				<Orientation>0.1703 -0.2478 0.5403 0.7861</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>10.55 12.275</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.961 0.836 0.561</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.01611 1.03654 -2.05549</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni08</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.0 0.071</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.92757 0.269064 4.85844</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.424998 1.075</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn PC Fill Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.961 0.836 0.561</Color>
+				<Multiplier>0.41</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-2.27491 1.1187 -4.16117</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.525</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.33</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.05468 6.4319 -3.09147</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.765 0.922 0.993</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.86226 6.26602 -9.86842</Position>
+				<Orientation>-0.0737 -0.0052 -0.0696 0.9949</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.341212 0.579449</Hotspot>
+				<Attenuation>11.575 11.575</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.946 0.989</Color>
+				<Multiplier>0.21</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.13237 6.4319 4.02396</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.548033 0.598648</Hotspot>
+				<Attenuation>12.425 13.5</Attenuation>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_wr03_scene02</Slate_Name>
+				<Level_Ambient>
+					<R>100</R>
+					<G>100</G>
+					<B>100</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>100</R>
+					<G>100</G>
+					<B>100</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

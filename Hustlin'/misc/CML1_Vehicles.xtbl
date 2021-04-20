@@ -1,0 +1,1076 @@
+<root>
+<Table>
+	<Skeleton_Set>
+		<Name>CML1_Vehicles</Name>
+		<Groups>
+			<Group>
+				<group>Default</group>
+				<States>
+					<State>
+						<ID>driving forward</ID>
+						<Animation>
+							<Filename>cml1_dr_dr.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving forward left</ID>
+						<Animation>
+							<Filename>cml1_dr_dr_ster_lft.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving forward right</ID>
+						<Animation>
+							<Filename>cml1_dr_dr_ster_rgt.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving reverse</ID>
+						<Animation>
+							<Filename>cml1_dr_rv.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving reverse left</ID>
+						<Animation>
+							<Filename>cml1_dr_rv_ster_lft.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving reverse right</ID>
+						<Animation>
+							<Filename>cml1_dr_rv_ster_rgt.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>riding l ready</ID>
+						<Animation>
+							<Filename>cml1_dp_dr.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>riding ready</ID>
+						<Animation>
+							<Filename>cml1_pa_dr.animx</Filename>
+							<Preload>true</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>driving open door</ID>
+						<Animation>
+							<Filename>gml1_dr_open_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>passenger open door</ID>
+						<Animation>
+							<Filename>gml1_dr_open_sd.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>riding l ready na</ID>
+						<Animation>
+							<Filename>cml1_dp_dr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					<State>
+						<ID>riding ready na</ID>
+						<Animation>
+							<Filename>cml1_pa_dr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</State>
+					</States>
+				<Actions>
+					<Action>
+						<ID>vehicle driver to passenger</ID>
+						<Animation>
+							<Filename>gml1_dr_to_pa.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle passenger to driver</ID>
+						<Animation>
+							<Filename>gml1_pa_to_dr.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>driver angry</ID>
+						<Animation>
+							<Filename>gml1_dr_ang.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>passenger angry</ID>
+						<Animation>
+							<Filename>gml1_pa_ang.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>driver passenger angry</ID>
+						<Animation>
+							<Filename>gml1_dp_ang.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled normal driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_a.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>21</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>30</Frame>
+								<Blend>5</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>40</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>44</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled bash driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_b.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>48</Frame>
+								<Blend>8</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>51</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>56</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>65</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled punch driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_c.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>42</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>46</Frame>
+								<Blend>5</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>56</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>56</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled convert driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_conv.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>37</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>47</Frame>
+								<Blend>5</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>63</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>63</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled pistol fire driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_f.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>33</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>35</Frame>
+								<Blend>8</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>66</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>66</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled resist driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_g.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>31</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>43</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>80</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>85</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled fail A driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_h.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>33</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>37</Frame>
+								<Blend>5</Blend>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Right Hand</Location>
+								<Frame>80</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>85</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled fail B driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_i.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>28</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>61</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle pulled fail C driver</ID>
+						<Animation>
+							<Filename>gml1_dr_pdout_j.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>25</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>69</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle close door inside d</ID>
+						<Animation>
+							<Filename>gml1_dr_close_in.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>0</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>True</Enable>
+								<Location>Left Hand</Location>
+								<Frame>26</Frame>
+								<Blend>5</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>stun flinch</ID>
+						<Animation>
+							<Filename>GML1_BS_Flnch_Stun.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers>
+							<Trigger>
+								<Name>ragdoll start</Name>
+								<Frame>14</Frame>
+								</Trigger>
+							</Triggers>
+						<Reactions></Reactions>
+						<IKs></IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle exit driver fast f</ID>
+						<Animation>
+							<Filename>cml1_dr_gtotf_med_f.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>0</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>0</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>0</Frame>
+								<Blend>4</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>0</Frame>
+								<Blend>4</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle exit pass fast f</ID>
+						<Animation>
+							<Filename>cml1_pa_gtotf_med_f.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					<Action>
+						<ID>vehicle exit rear driver fast f</ID>
+						<Animation>
+							<Filename>cml1_dr_gtotf_med_f.animx</Filename>
+							<Preload>True</Preload>
+							</Animation>
+						<Triggers></Triggers>
+						<Reactions></Reactions>
+						<IKs>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Hand</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Hand</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Left Foot</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							<IK>
+								<Enable>False</Enable>
+								<Location>Right Foot</Location>
+								<Frame>0</Frame>
+								<Blend>3</Blend>
+								</IK>
+							</IKs>
+						<Props></Props>
+						</Action>
+					</Actions>
+				</Group>
+			</Groups>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Parent_Skeleton>GML1_Vehicles</Parent_Skeleton>
+		</Skeleton_Set>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Skeleton_Set</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Skeleton Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Skeleton Name</Display_Name>
+		<Description>The unique name for the skeleton.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Parent_Skeleton</Name>
+		<Type>String</Type>
+		<Display_Name>Parent Skeleton</Display_Name>
+		<Description>The parent skeleton for this skeleton.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Groups</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Group</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>group</Name>
+				<Type>Reference</Type>
+				<Display_Name>Group</Display_Name>
+				<Unique>true</Unique>
+				<Reference>
+					<File>anim_groups.xtbl</File>
+					<Type>Anim_Group.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>States</Name>
+				<Type>Grid</Type>
+				<Description>The list of animation states for this skeleton.</Description>
+				<Element>
+					<Name>State</Name>
+					<Type>Element</Type>
+					<Description>An animation state for the skeleton.</Description>
+					<Element>
+						<Name>ID</Name>
+						<Type>Reference</Type>
+						<Description>The unique ID for this animation state.</Description>
+						<Reference>
+							<File>anim_states.xtbl</File>
+							<Type>State.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Animation</Name>
+						<Type>Filename</Type>
+						<Description>The animation filename for this animation state.</Description>
+						<Extension>animx</Extension>
+						<StartingPath>data\anim</StartingPath>
+						</Element>
+					<Element>
+						<Name>morph_set</Name>
+						<Type>Reference</Type>
+						<Display_Name>Morph Set</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>morphs.xtbl</File>
+							<Type>morph_set.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Triggers</Name>
+						<Type>Grid</Type>
+						<Description>The triggers for this animation state.</Description>
+						<Element>
+							<Name>Trigger</Name>
+							<Type>Element</Type>
+							<Description>A single trigger.</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for this trigger.</Description>
+								<Reference>
+									<File>anim_triggers.xtbl</File>
+									<Type>Trigger.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Description>The frame number for the trigger.</Description>
+								<Default>0</Default>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Reactions</Name>
+						<Type>Grid</Type>
+						<Description>The reactions for this animation state.</Description>
+						<Element>
+							<Name>Reaction</Name>
+							<Type>Element</Type>
+							<Description>A single reaction</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for the reaction.</Description>
+								<Reference>
+									<File>anim_reactions.xtbl</File>
+									<Type>Reaction.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Animation</Name>
+								<Type>Reference</Type>
+								<Description>The animation for this reaction.</Description>
+								<Reference>
+									<File>anim_actions.xtbl</File>
+									<Type>Action.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>IKs</Name>
+						<Type>Grid</Type>
+						<Element>
+							<Name>IK</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Enable</Name>
+								<Type>Selection</Type>
+								<Display_Name>Enable IK</Display_Name>
+								<Default>True</Default>
+								<Choice>True</Choice>
+								<Choice>False</Choice>
+								</Element>
+							<Element>
+								<Name>Location</Name>
+								<Type>Reference</Type>
+								<Default>Left Hand</Default>
+								<Reference>
+									<File>anim_ik_location.xtbl</File>
+									<Type>Location.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Default>0</Default>
+								</Element>
+							<Element>
+								<Name>Blend</Name>
+								<Type>Int</Type>
+								<Default>3</Default>
+								</Element>
+							<Element>
+								<Name>Situation</Name>
+								<Type>Reference</Type>
+								<Required>false</Required>
+								<Reference>
+									<File>anim_ik_situation.xtbl</File>
+									<Type>IK_Situation.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Props</Name>
+						<Type>Grid</Type>
+						<Description>Props to hold during the animation.</Description>
+						<Element>
+							<Name>Prop</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name of the item (from items_3d.xtbl)</Description>
+								<Reference>
+									<File>items_3d.xtbl</File>
+									<Type>Item.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>AttachPoint</Name>
+								<Type>Selection</Type>
+								<Display_Name>Attach Point</Display_Name>
+								<Choice>Right Hand</Choice>
+								<Choice>Left Hand</Choice>
+								</Element>
+							<Element>
+								<Name>StartFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>Start Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							<Element>
+								<Name>EndFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>End Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Sound</Name>
+						<Type>Element</Type>
+						<Description>The sound for this state.</Description>
+						<Required>false</Required>
+						<Element>
+							<Name>ID</Name>
+							<Type>Reference</Type>
+							<Description>The ID for the sound for this state (from foley.xtbl).</Description>
+							<Reference>
+								<File>anim_foley.xtbl</File>
+								<Type>AnimFoley.Name</Type>
+								</Reference>
+							</Element>
+						</Element>
+					</Element>
+				</Element>
+			<Element>
+				<Name>Actions</Name>
+				<Type>Grid</Type>
+				<Description>The list of animation actions for this skeleton.</Description>
+				<Element>
+					<Name>Action</Name>
+					<Type>Element</Type>
+					<Description>An animation state for the skeleton.</Description>
+					<Element>
+						<Name>ID</Name>
+						<Type>Reference</Type>
+						<Description>The unique ID for this animation state.</Description>
+						<Reference>
+							<File>anim_actions.xtbl</File>
+							<Type>Action.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Animation</Name>
+						<Type>Filename</Type>
+						<Description>The animation filename for this animation state.</Description>
+						<Extension>animx</Extension>
+						<StartingPath>data\anim</StartingPath>
+						</Element>
+					<Element>
+						<Name>morph_set</Name>
+						<Type>Reference</Type>
+						<Display_Name>Morph Set</Display_Name>
+						<Required>false</Required>
+						<Reference>
+							<File>morphs.xtbl</File>
+							<Type>morph_set.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Triggers</Name>
+						<Type>Grid</Type>
+						<Description>The triggers for this animation state.</Description>
+						<Element>
+							<Name>Trigger</Name>
+							<Type>Element</Type>
+							<Description>A single trigger.</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for this trigger.</Description>
+								<Reference>
+									<File>anim_triggers.xtbl</File>
+									<Type>Trigger.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Description>The frame number for the trigger.</Description>
+								<Default>0</Default>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Reactions</Name>
+						<Type>Grid</Type>
+						<Description>The reactions for this animation state.</Description>
+						<Element>
+							<Name>Reaction</Name>
+							<Type>Element</Type>
+							<Description>A single reaction</Description>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name for the reaction.</Description>
+								<Reference>
+									<File>anim_reactions.xtbl</File>
+									<Type>Reaction.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Animation</Name>
+								<Type>Reference</Type>
+								<Description>The animation for this reaction.</Description>
+								<Reference>
+									<File>anim_actions.xtbl</File>
+									<Type>Action.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>IKs</Name>
+						<Type>Grid</Type>
+						<Element>
+							<Name>IK</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Enable</Name>
+								<Type>Selection</Type>
+								<Display_Name>Enable IK</Display_Name>
+								<Default>True</Default>
+								<Choice>True</Choice>
+								<Choice>False</Choice>
+								</Element>
+							<Element>
+								<Name>Location</Name>
+								<Type>Reference</Type>
+								<Default>Left Hand</Default>
+								<Reference>
+									<File>anim_ik_location.xtbl</File>
+									<Type>Location.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>Frame</Name>
+								<Type>Int</Type>
+								<Default>0</Default>
+								</Element>
+							<Element>
+								<Name>Blend</Name>
+								<Type>Int</Type>
+								<Default>3</Default>
+								</Element>
+							<Element>
+								<Name>Situation</Name>
+								<Type>Reference</Type>
+								<Required>false</Required>
+								<Reference>
+									<File>anim_ik_situation.xtbl</File>
+									<Type>IK_Situation.Name</Type>
+									</Reference>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Props</Name>
+						<Type>Grid</Type>
+						<Description>Props to hold during the animation.</Description>
+						<Element>
+							<Name>Prop</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>Reference</Type>
+								<Description>The name of the item (from items_3d.xtbl)</Description>
+								<Reference>
+									<File>items_3d.xtbl</File>
+									<Type>Item.Name</Type>
+									</Reference>
+								</Element>
+							<Element>
+								<Name>AttachPoint</Name>
+								<Type>Selection</Type>
+								<Display_Name>Attach Point</Display_Name>
+								<Choice>Right Hand</Choice>
+								<Choice>Left Hand</Choice>
+								</Element>
+							<Element>
+								<Name>StartFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>Start Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							<Element>
+								<Name>EndFrame</Name>
+								<Type>Int</Type>
+								<Display_Name>End Frame</Display_Name>
+								<Default>0</Default>
+								<MinValue>0</MinValue>
+								</Element>
+							</Element>
+						</Element>
+					<Element>
+						<Name>Sound</Name>
+						<Type>Element</Type>
+						<Description>The sound for this state.</Description>
+						<Required>false</Required>
+						<Element>
+							<Name>ID</Name>
+							<Type>Reference</Type>
+							<Description>The ID for the sound for this state (from foley.xtbl).</Description>
+							<Reference>
+								<File>anim_foley.xtbl</File>
+								<Type>AnimFoley.Name</Type>
+								</Reference>
+							</Element>
+						</Element>
+					</Element>
+				</Element>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

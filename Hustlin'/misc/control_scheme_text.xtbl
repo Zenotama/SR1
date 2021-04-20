@@ -1,0 +1,904 @@
+<root>
+<Table>
+	<ControlScheme>
+		<Name>Scheme A - On Foot</Name>
+		<Controls>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<LocDesc>Change Audio Track</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Secondary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Reload/Grab Weapon</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Move</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(click) Crouch</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Sprint</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Jump</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Enter Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<Control2>R2</Control2>
+				<LocDesc>Block</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Kick</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Taunt 1</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Heal (Drugs)</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	<ControlScheme>
+		<Name>Scheme A - Driving</Name>
+		<Controls>
+			<Control>
+				<Control1>L1</Control1>
+				<LocDesc>Look Left</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Handbrake</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Look Right</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>R1</Control2>
+				<LocDesc>Look Back</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Pause/Multi</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Steer</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(Click) Hydraulics</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>(Click) Nitrous</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Change Radio Station</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Accelerate</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Brake/Reverse</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Exit Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	<ControlScheme>
+		<Name>Scheme B - On Foot</Name>
+		<Controls>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Secondary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Sprint</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<Control2>R2</Control2>
+				<LocDesc>Block</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Kick</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+						<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Pause/Multi</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Reload/Grab Weapon</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Jump</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Enter Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Move</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(click) Crouch</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<LocDesc>Change Audio Track</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Heal (Drugs)</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Taunt 1</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	<ControlScheme>
+		<Name>Scheme B - Driving</Name>
+		<Controls>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Steer</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(Click) Hydraulics</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>(Click) Nitrous</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Handbrake</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Exit Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<LocDesc>Change Radio Station</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<LocDesc>Look Left</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Brake/Reverse</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Look Right</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Accelerate</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>R1</Control2>
+				<LocDesc>Look Back</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+						<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Pause/Multi</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	<ControlScheme>
+		<Name>Scheme C - On Foot</Name>
+		<Controls>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Move</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(click) Crouch</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Sprint</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Reload/Grab Weapon</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Jump</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Enter Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<LocDesc>Change Audio Track</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Secondary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Kick</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<Control2>R2</Control2>
+				<LocDesc>Block</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+					<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Pause/Multi</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Taunt 1</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Heal (Drugs)</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	<ControlScheme>
+		<Name>Scheme C - Driving</Name>
+		<Controls>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>Steer</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog left</Control1>
+				<LocDesc>(Click) Hydraulics</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<LocDesc>Move Camera</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Weapon Switch</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>button a</Control1>
+				<LocDesc>Accelerate</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button b</Control1>
+				<LocDesc>Nitrous</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>button x</Control1>
+				<LocDesc>Brake/Reverse</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>button y</Control1>
+				<LocDesc>Action/Exit Car</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad down</Control1>
+				<LocDesc>Cancel Activity</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad left/right</Control1>
+				<LocDesc>Change Radio Station</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<LocDesc>Recruit Gang Members</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>dpad up</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Dismiss Gang Members</LocDesc>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>L2</Control1>
+				<LocDesc>Handbrake</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R1</Control1>
+				<LocDesc>Radial Menu</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>R2</Control1>
+				<LocDesc>Primary Attack</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>All</Mode>
+				</Control>
+			<Control>
+				<Control1>analog right</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Toggle Camera</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+					<Control>
+				<Control1>start</Control1>
+				<LocDesc>Pause/Map</LocDesc>
+				<Control2>Not Used</Control2>
+				<Mode>Single</Mode>
+				</Control>
+			<Control>
+				<Control1>start</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Pause/Multi</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+
+			<Control>
+				<Control1>back</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Scoreboard</LocDesc>
+				<Mode>Multi</Mode>
+				</Control>
+			<Control>
+				<Control1>L1</Control1>
+				<Control2>Not Used</Control2>
+				<LocDesc>Hold Toggle Cam</LocDesc>
+				<Mode>All</Mode>
+				</Control>
+			</Controls>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</ControlScheme>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>ControlScheme</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Controls</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Control</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Control1</Name>
+				<Type>Selection</Type>
+				<Choice>start</Choice>
+				<Choice>back</Choice>
+				<Choice>L1</Choice>
+				<Choice>R1</Choice>
+				<Choice>L2</Choice>
+				<Choice>R2</Choice>
+				<Choice>dpad up</Choice>
+				<Choice>dpad down</Choice>
+				<Choice>dpad left</Choice>
+				<Choice>dpad right</Choice>
+				<Choice>analog left</Choice>
+				<Choice>analog right</Choice>
+				<Choice>button a</Choice>
+				<Choice>button b</Choice>
+				<Choice>button x</Choice>
+				<Choice>button y</Choice>
+				<Choice>dpad left/right</Choice>
+				</Element>
+			<Element>
+				<Name>Control2</Name>
+				<Type>Selection</Type>
+				<Default>Not Used</Default>
+				<Choice>Not Used</Choice>
+				<Choice>start</Choice>
+				<Choice>back</Choice>
+				<Choice>L1</Choice>
+				<Choice>R1</Choice>
+				<Choice>L2</Choice>
+				<Choice>R2</Choice>
+				<Choice>dpad up</Choice>
+				<Choice>dpad down</Choice>
+				<Choice>dpad left</Choice>
+				<Choice>dpad right</Choice>
+				<Choice>analog left</Choice>
+				<Choice>analog right</Choice>
+				<Choice>button a</Choice>
+				<Choice>button b</Choice>
+				<Choice>button x</Choice>
+				<Choice>button y</Choice>
+				<Choice>dpad left/right</Choice>
+				</Element>
+			<Element>
+				<Name>LocDesc</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>control_scheme_loc.xtbl</File>
+					<Type>SchemeLocalization.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Mode</Name>
+				<Type>Selection</Type>
+				<Default>All</Default>
+				<Choice>Single</Choice>
+				<Choice>Multi</Choice>
+				<Choice>All</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

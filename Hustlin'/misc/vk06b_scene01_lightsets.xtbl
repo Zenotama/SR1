@@ -1,0 +1,1037 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>500</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.957 0.891 0.891</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.272911 1.4929 -2.92428</Position>
+				<Orientation>0.6993 -0.0498 -0.0489 0.7116</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.148353 0.174533</Hotspot>
+				<Attenuation>4.5 6.2</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.875 0.934</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.01465 1.7115 1.81692</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha cs_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 JohnnysCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.918 0.957</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.69025 1.7115 1.10511</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 3.5</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.828 0.828</Color>
+				<Multiplier>0.72</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.56945 2.12569 1.86305</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.5 6.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni07</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.765 0.765</Color>
+				<Multiplier>1.31</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.0456771 1.97313 4.00871</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 3.25</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>cs_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>JohnnysCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Shadowcast FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.828 0.742 0.651</Color>
+				<Multiplier>0.71</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.03008 6.1841 1.16083</Position>
+				<Orientation>0.0272 -0.0698 -0.0019 0.9972</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.754855 0.990474</Hotspot>
+				<Attenuation>6.2 7.525</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Johnny Rim Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.801 0.812</Color>
+				<Multiplier>1.19</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.839608 1.7115 -0.68252</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.775 2.725</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>TS_B_M_Dex-01 cs_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>dex01 JohnnysCar01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Dex Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.824 0.851</Color>
+				<Multiplier>1.29</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.13022 1.72975 1.93684</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.675 1.15</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha cs_4dr_std06 #PLAYER# cs_rocketbox</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 JohnnysCar01 Player01 RocketBox01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.742 0.699</Color>
+				<Multiplier>0.94</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.3382 1.7115 -3.19316</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.9</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-8.8986 2.50794 -0.718289</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 5.675</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.662092 2.50794 -22.669</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.125 7.37501</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-32.7067 2.50794 -20.0836</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.65 7.40001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Level Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>20.5639 2.44309 -18.7973</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 7.70001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Level_Ambient>
+					<R>67</R>
+					<G>67</G>
+					<B>67</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Moon Set5</Name>
+		<StartTime>501</StartTime>
+		<EndTime>1416</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dawn Dex Key Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.824 0.851</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.13022 1.72975 1.93684</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.675 1.15</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha cs_4dr_std06 #PLAYER# cs_rocketbox</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 JohnnysCar01 Player01 RocketBox01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.957 0.891 0.891</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.272911 1.4929 -2.92428</Position>
+				<Orientation>0.6993 -0.0498 -0.0489 0.7116</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.148353 0.174533</Hotspot>
+				<Attenuation>4.55 6.175</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Johnny Rim Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.801 0.812</Color>
+				<Multiplier>0.92</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.839608 1.7115 -0.68252</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.775 2.725</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>TS_B_M_Dex-01 cs_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>dex01 JohnnysCar01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.742 0.699</Color>
+				<Multiplier>0.81</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.3382 1.7115 -3.19316</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.9</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-8.8986 2.50794 -0.718289</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 5.675</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni15</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.662092 2.50794 -22.669</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.125 7.37501</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni16</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-32.7067 2.50794 -20.0836</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.65 7.40001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Level Omni17</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>20.5639 2.44309 -18.7973</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 7.70001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.875 0.934</Color>
+				<Multiplier>0.39</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.01465 1.7115 1.81692</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha cs_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 JohnnysCar01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.918 0.957</Color>
+				<Multiplier>0.45</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.69025 1.7115 1.10511</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.5 3.5</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.828 0.828</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.56945 2.12569 1.86305</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.5 6.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni11</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.765 0.765</Color>
+				<Multiplier>1.34</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.0456771 1.97313 4.00871</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 3.25</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>cs_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>JohnnysCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Shadowcast FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.828 0.742 0.651</Color>
+				<Multiplier>0.71</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.03008 6.1841 1.16083</Position>
+				<Orientation>0.0272 -0.0698 -0.0019 0.9972</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.754855 0.990474</Hotspot>
+				<Attenuation>6.2 7.525</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Level_Ambient>
+					<R>97</R>
+					<G>97</G>
+					<B>97</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midday1</Name>
+		<StartTime>1417</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Afternoon Dex Key Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.824 0.851</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.13022 1.72975 1.93684</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.675 1.15</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha cs_4dr_std06 #PLAYER# cs_rocketbox</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 JohnnysCar01 Player01 RocketBox01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.957 0.891 0.891</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.272911 1.4929 -2.92428</Position>
+				<Orientation>0.6993 -0.0498 -0.0489 0.7116</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.148353 0.174533</Hotspot>
+				<Attenuation>4.5 5.5</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>cs_rocketbox</Exclude_List>
+				<Exclude_List_Original_Names>RocketBox01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Johnny Rim Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.769 0.801 0.812</Color>
+				<Multiplier>1.2</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.37453 1.7115 -0.677106</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.775 2.725</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>TS_B_M_Dex-01 cs_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>dex01 JohnnysCar01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Level Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.742 0.699</Color>
+				<Multiplier>0.81</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.3382 1.7115 -3.19316</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.875 3.9</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Level Omni19</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-8.8986 2.50794 -0.718289</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 5.675</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Level Omni20</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.662092 2.50794 -22.669</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.125 7.37501</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Level Omni21</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-32.7067 2.50794 -20.0836</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.65 7.40001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Level Omni22</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.777 0.738</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>20.5639 2.44309 -18.7973</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.7 7.70001</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.875 0.934</Color>
+				<Multiplier>0.39</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.01465 1.7115 1.81692</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>cs_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>JohnnysCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.918 0.957</Color>
+				<Multiplier>0.45</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.80953 1.7115 1.4136</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.775 3.5</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.914 0.828 0.828</Color>
+				<Multiplier>0.55</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.56945 2.12569 1.86305</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.5 6.0</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>ts_a_m_johnnygatmecha #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>johnny01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Omni15</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.765 0.765</Color>
+				<Multiplier>1.63</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.0456771 1.97313 4.00871</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 3.25</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List>cs_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>JohnnysCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Shadowcast FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.828 0.742 0.651</Color>
+				<Multiplier>0.71</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.03008 6.1841 1.16083</Position>
+				<Orientation>0.0272 -0.0698 -0.0019 0.9972</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.754855 0.990474</Hotspot>
+				<Attenuation>6.2 7.525</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Afternoon Johnny Key GetIn FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.824 0.816 0.777</Color>
+				<Multiplier>0.71</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.79975 2.14993 2.68843</Position>
+				<Orientation>-0.4848 -0.1659 0.278 0.8126</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.261799 0.436332</Hotspot>
+				<Attenuation>2.675 3.825</Attenuation>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_johnny_apartment</Slate_Name>
+				<Level_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

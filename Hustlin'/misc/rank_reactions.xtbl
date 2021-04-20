@@ -1,0 +1,302 @@
+<root>
+<Table>
+	<NPCGroup>
+		<Name>Civilian</Name>
+		<Reactions>
+			<ReactionPercentages>
+				<PlayerRank>Rank 1 - Thug</PlayerRank>
+				<Ignore>2</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>30</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>68</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 2 - Killa</PlayerRank>
+				<Ignore>2</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>10</FlipOff>
+				<Compliment>30</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>58</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 3 - Gangsta</PlayerRank>
+				<Ignore>2</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>5</FlipOff>
+				<Compliment>45</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>48</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 4 - Kingpin</PlayerRank>
+				<Ignore>2</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>60</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>38</SayAmbient>
+				</ReactionPercentages>
+			</Reactions>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NPCGroup>
+	<NPCGroup>
+		<Name>Gang, Enemy</Name>
+		<Reactions>
+			<ReactionPercentages>
+				<PlayerRank>Rank 1 - Thug</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>70</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>20</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 2 - Killa</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>60</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>30</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 3 - Gangsta</PlayerRank>
+				<Ignore>5</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>50</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>45</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 4 - Kingpin</PlayerRank>
+				<Ignore>5</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>45</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>50</SayAmbient>
+				</ReactionPercentages>
+			</Reactions>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NPCGroup>
+	<NPCGroup>
+		<Name>Gang, Friendly</Name>
+		<Reactions>
+			<ReactionPercentages>
+				<PlayerRank>Rank 1 - Thug</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>60</GangSign>
+				<SayAmbient>30</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 2 - Killa</PlayerRank>
+				<Ignore>5</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>30</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>35</GangSign>
+				<SayAmbient>30</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 3 - Gangsta</PlayerRank>
+				<Ignore>5</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>40</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>45</GangSign>
+				<SayAmbient>10</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 4 - Kingpin</PlayerRank>
+				<Ignore>0</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>50</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>40</GangSign>
+				<SayAmbient>10</SayAmbient>
+				</ReactionPercentages>
+			</Reactions>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NPCGroup>
+	<NPCGroup>
+		<Name>Police</Name>
+		<Reactions>
+			<ReactionPercentages>
+				<PlayerRank>Rank 1 - Thug</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>0</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>90</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 2 - Killa</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>40</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>50</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 3 - Gangsta</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>70</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>20</SayAmbient>
+				</ReactionPercentages>
+			<ReactionPercentages>
+				<PlayerRank>Rank 4 - Kingpin</PlayerRank>
+				<Ignore>10</Ignore>
+				<Avoid>0</Avoid>
+				<FlipOff>0</FlipOff>
+				<Compliment>0</Compliment>
+				<Threaten>80</Threaten>
+				<GangSign>0</GangSign>
+				<SayAmbient>10</SayAmbient>
+				</ReactionPercentages>
+			</Reactions>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</NPCGroup>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>NPCGroup</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>NPC Group</Display_Name>
+	<Description>NPC group name</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>Selection</Type>
+		<Description>Name</Description>
+		<Default>Civilian</Default>
+		<Choice>Civilian</Choice>
+		<Choice>Gang, Enemy</Choice>
+		<Choice>Gang, Friendly</Choice>
+		<Choice>Police</Choice>
+		</Element>
+	<Element>
+		<Name>Reactions</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>ReactionPercentages</Name>
+			<Type>Element</Type>
+			<Display_Name>Reaction Percentages</Display_Name>
+			<Element>
+				<Name>PlayerRank</Name>
+				<Type>Selection</Type>
+				<Display_Name>Player Rank</Display_Name>
+				<Description>Player Rank</Description>
+				<Choice>Rank 1 - Thug</Choice>
+				<Choice>Rank 2 - Killa</Choice>
+				<Choice>Rank 3 - Gangsta</Choice>
+				<Choice>Rank 4 - Kingpin</Choice>
+				</Element>
+			<Element>
+				<Name>Ignore</Name>
+				<Type>Int</Type>
+				<Description>Ignore player percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Avoid</Name>
+				<Type>Int</Type>
+				<Description>Avoid player percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Compliment</Name>
+				<Type>Int</Type>
+				<Description>Compliment player percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>FlipOff</Name>
+				<Type>Int</Type>
+				<Display_Name>Flip Off</Display_Name>
+				<Description>Flip-off player percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>GangSign</Name>
+				<Type>Int</Type>
+				<Display_Name>Gang Sign</Display_Name>
+				<Description>Flash gang sign percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>SayAmbient</Name>
+				<Type>Int</Type>
+				<Display_Name>Say Ambient</Display_Name>
+				<Description>Say ambient line percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>Threaten</Name>
+				<Type>Int</Type>
+				<Description>Threaten player percentage chance</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			</Element>
+		<Max_Children>4</Max_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

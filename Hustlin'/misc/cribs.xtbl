@@ -1,0 +1,225 @@
+<root>
+<Table>
+	<Cribs>
+		<Name>King Penthouse</Name>
+		<CribSave>
+			<SaveNavpoint>downtown_$reload-player</SaveNavpoint>
+			<Respawns></Respawns>
+			</CribSave>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Clothing>downtown_$crib_clothing000</Clothing>
+		<Locked>true</Locked>
+		<CribIcon>downtown_$crib_cribicon000</CribIcon>
+		<CribWeapon>downtown_$crib_weapon000</CribWeapon>
+		<Cash_Navpoint>downtown_$crib_cash000</Cash_Navpoint>
+		<Garage>Downtown</Garage>
+		<ClothingLS>
+			<Filename>custom_vkcrib_lightsets.xtbl</Filename>
+			</ClothingLS>
+		<DisplayName>CRIB_VK_NAME</DisplayName>
+		</Cribs>
+	<Cribs>
+		<Name>Saints Row Loft</Name>
+		<Locked>true</Locked>
+		<CribSave>
+			<SaveNavpoint>saintsrow_$player_start</SaveNavpoint>
+			<Respawns></Respawns>
+			</CribSave>
+		<Clothing>saintsrow_$crib clothing001</Clothing>
+		<Cash_Navpoint>saintsrow_$cash pickup001</Cash_Navpoint>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage>Saints Row</Garage>
+		<CribIcon>saintsrow_$crib_icon</CribIcon>
+		<CribWeapon>saintsrow_$crib weapons001</CribWeapon>
+		<Doors>
+			<DoorName>MeshMoverCrib01</DoorName>
+			</Doors>
+		<ClothingLS>
+			<Filename>custom_srcribcloth_lightsets.xtbl</Filename>
+			</ClothingLS>
+		<DisplayName>CRIB_SR_NAME</DisplayName>
+		</Cribs>
+	<Cribs>
+		<Name>Lopez Mansion</Name>
+		<CribSave>
+			<SaveNavpoint>barrio_$reload-player</SaveNavpoint>
+			<Respawns></Respawns>
+			</CribSave>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Clothing>barrio_$crib_clothing000</Clothing>
+		<Locked>true</Locked>
+		<CribIcon>barrio_$crib_cribicon000</CribIcon>
+		<CribWeapon>barrio_$crib_weapons000</CribWeapon>
+		<Cash_Navpoint>barrio_$crib_cash000</Cash_Navpoint>
+		<WeaponLS>
+			<Filename>custom_lmansion_lightsets.xtbl</Filename>
+			</WeaponLS>
+		<ClothingLS>
+			<Filename>custom_lmansion_lightsets.xtbl</Filename>
+			</ClothingLS>
+		<Doors>
+			<DoorName>lpz_backdoorMM01</DoorName>
+			<DoorName>lpz_backdoorMM02</DoorName>
+			<DoorName>lpz_backdoorMM03</DoorName>
+			<DoorName>lpz_backdoorMM04</DoorName>
+			<DoorName>lpz_backdoorMM06</DoorName>
+			<DoorName>lpz_backdoorMM07</DoorName>
+			<DoorName>lpz_frntdoorMM01</DoorName>
+			<DoorName>lpz_frntdoorMM02</DoorName>
+			<DoorName>lpz_frntdoorMM04</DoorName>
+			<DoorName>lpz_frntdoorMM05</DoorName>
+			<DoorName>lpz_frntdoorMM06</DoorName>
+			<DoorName>lpz_frntdoorMM07</DoorName>
+			<DoorName>lpz_frntdoorMM08</DoorName>
+			</Doors>
+		<Garage>Barrio Mansion</Garage>
+		<DisplayName>CRIB_LC_NAME</DisplayName>
+		</Cribs>
+	<Cribs>
+		<Name>Price Mansion</Name>
+		<CribSave>
+			<SaveNavpoint>wrsuburb_$reload-player</SaveNavpoint>
+			<Respawns></Respawns>
+			</CribSave>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Clothing>wrsuburb_$crib_clothing000</Clothing>
+		<Locked>true</Locked>
+		<CribIcon>wrsuburb_$crib_cribicon000</CribIcon>
+		<CribWeapon>wrsuburb_$crib_weapons000</CribWeapon>
+		<Cash_Navpoint>wrsuburb_$crib_cash000</Cash_Navpoint>
+		<Doors>
+			<DoorName>ManMeshMover01</DoorName>
+			<DoorName>ManMeshMover02</DoorName>
+			<DoorName>ManMeshMover03</DoorName>
+			<DoorName>ManMeshMover04</DoorName>
+			</Doors>
+		<Garage>Suburbs Mansion</Garage>
+		<DisplayName>CRIB_WR_NAME</DisplayName>
+		<ClothingLS>
+			<Filename>custom_price_cloth_lightsets.xtbl</Filename>
+			</ClothingLS>
+		</Cribs>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Cribs</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Locked</Name>
+		<Type>Selection</Type>
+		<Default>true</Default>
+		<Choice>true</Choice>
+		<Choice>false</Choice>
+		</Element>
+	<Element>
+		<Name>CribIcon</Name>
+		<Type>String</Type>
+		<Display_Name>Crib Icon Navpoint</Display_Name>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>CribSave</Name>
+		<Type>Element</Type>
+		<Display_Name>Crib Save</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>SaveNavpoint</Name>
+			<Type>String</Type>
+			<Display_Name>Save Navpoint</Display_Name>
+			</Element>
+		<Element>
+			<Name>Respawns</Name>
+			<Type>List</Type>
+			<Element>
+				<Name>Element</Name>
+				<Type>String</Type>
+				<Display_Name>Spawn Navpoint</Display_Name>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			<Element_Name>Spawn</Element_Name>
+			</Element>
+		</Element>
+	<Element>
+		<Name>CribWeapon</Name>
+		<Type>String</Type>
+		<Display_Name>Weapon Trigger</Display_Name>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>WeaponLS</Name>
+		<Type>Filename</Type>
+		<Display_Name>Weapon Light Set</Display_Name>
+		<Required>false</Required>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\tables\cutscene_light_sets</StartingPath>
+		</Element>
+	<Element>
+		<Name>Clothing</Name>
+		<Type>String</Type>
+		<Display_Name>Clothing Trigger</Display_Name>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>ClothingLS</Name>
+		<Type>Filename</Type>
+		<Display_Name>Clothing Light Set</Display_Name>
+		<Required>false</Required>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\tables\cutscene_light_sets</StartingPath>
+		</Element>
+	<Element>
+		<Name>Cash_Navpoint</Name>
+		<Type>String</Type>
+		<Display_Name>Cash Trigger</Display_Name>
+		<Description>Navpoint where cash is deposited from hustlin' income.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Garage</Name>
+		<Type>Reference</Type>
+		<Description>Garage associated with this crib.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\garage_sr_city.xtbl</File>
+			<Type>Garages.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Doors</Name>
+		<Type>Grid</Type>
+		<Description>The doors associated with this crib.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>DoorName</Name>
+			<Type>String</Type>
+			<Description>A door associated with a crib.</Description>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

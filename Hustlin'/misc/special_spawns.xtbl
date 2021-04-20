@@ -1,0 +1,1971 @@
+<root>
+<Table>
+	<Special_Spawn>
+		<Name>Bum at fire</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>1.0</Min_anim_delay>
+					<Max_anim_delay>5.0</Max_anim_delay>
+					<Display_name>Guy at fire</Display_name>
+					<Model_List>
+						<Model>PD_W_M_Bum</Model>
+						<Model>PD_X_F_Baglady-01</Model>
+						</Model_List>
+					<Anim_states>
+						<State>Warm Hands</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>21</Time_of_day_start>
+			<Time_of_day_end>5</Time_of_day_end>
+			<Spawn_chance>0.6</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sleeping</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - sleeping</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sleeping</Display_name>
+					<Model_List>
+						<Model>PD_W_M_Bum</Model>
+						<Model>PD_X_F_Baglady-01</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>sleep idle</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sleep</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>0.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>12.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Reading news</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - news</Persona_situation>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>1.0</Max_anim_delay>
+					<Display_name>Standing at magazine rack</Display_name>
+					<Team>Civilian</Team>
+					<Anim_states>
+						<State>magazine stand</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>14</Time_of_day_end>
+			<Spawn_chance>.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Convert_to_ped_min_delay>30</Convert_to_ped_min_delay>
+			<Convert_to_ped_max_delay>240</Convert_to_ped_max_delay>
+			<Capture_peds>true</Capture_peds>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>3</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Store browse</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - store customer browses</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Browsing a shelf</Display_name>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>6</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.50</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting drugs</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - drug doing</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting shooting up</Display_name>
+					<Anim_states>
+						<State>drug</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>22</Time_of_day_start>
+			<Time_of_day_end>2</Time_of_day_end>
+			<Spawn_chance>0.15</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Drinking 40</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - drink</Persona_situation>
+					<Prop>40oz</Prop>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Gang member standing with a 40</Display_name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>drink action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>forty drinking</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>10</Time_of_day_start>
+			<Time_of_day_end>21</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Bouncer</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>A bouncer</Display_name>
+					<Model_List>
+						<Model>PD_B_M_Bouncer-01</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Request_resources>true</Request_resources>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Jackhammering</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Standing and jackhammering</Display_name>
+					<Model_List>
+						<Model>PD_X_M_Construction-01</Model>
+						</Model_List>
+					<Prop>jackhammer</Prop>
+					<Char_Name>sspawn_jackhammer</Char_Name>
+					<Anim_states>
+						<State>Jackhammer</State>
+						</Anim_states>
+					<Persona_situation>special - jackhammer</Persona_situation>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>17</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>50</Trigger_distance>
+			<Lua_script>sspawn_jackhammer</Lua_script>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Just sitting</Display_name>
+					<Team>Civilian</Team>
+					<Startle_anim>Sitting Startled</Startle_anim>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>9</Time_of_day_start>
+			<Time_of_day_end>19</Time_of_day_end>
+			<Spawn_chance>.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Convert_to_ped_min_delay>20</Convert_to_ped_min_delay>
+			<Convert_to_ped_max_delay>60</Convert_to_ped_max_delay>
+			<Capture_peds>true</Capture_peds>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>5.0</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting reading</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting with a book</Display_name>
+					<Team>Civilian</Team>
+					<Prop>magazine</Prop>
+					<Anim_Actions>
+						<Action>Sitting Book</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>19</Time_of_day_end>
+			<Spawn_chance>0.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Convert_to_ped_min_delay>20</Convert_to_ped_min_delay>
+			<Convert_to_ped_max_delay>40</Convert_to_ped_max_delay>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Suicide</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - suicide</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_suicide</Char_Name>
+					<Display_name>Jumping off a ledge</Display_name>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>5</Time_of_day_start>
+			<Time_of_day_end>19</Time_of_day_end>
+			<Spawn_chance>.75</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Lua_script>sspawn_suicide</Lua_script>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting eating</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - eating</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting with food</Display_name>
+					<Team>Civilian</Team>
+					<Anim_Actions>
+						<Action>Sitting Eating</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>11</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Fountain</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Prop>coin</Prop>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Tossing coin into fountain</Display_name>
+					<Char_Name>sspawn_fountain</Char_Name>
+					<Anim_Actions>
+						<Action>Toss coin</Action>
+						</Anim_Actions>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Notes>Should have lua script to return to ambient</Notes>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gravesite</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Kneeling at a grave</Display_name>
+					<Team>Civilian</Team>
+					<Anim_states>
+						<State>mourn</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.90</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting paper</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting with newspaper</Display_name>
+					<Prop>newspapera</Prop>
+					<Team>Civilian</Team>
+					<Anim_Actions>
+						<Action>Sitting Paper</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>7</Time_of_day_start>
+			<Time_of_day_end>18</Time_of_day_end>
+			<Spawn_chance>0.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Convert_to_ped_min_delay>20</Convert_to_ped_min_delay>
+			<Convert_to_ped_max_delay>40</Convert_to_ped_max_delay>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Beatdown</Name>
+		<Spawn>
+			<Time_of_day_start>22</Time_of_day_start>
+			<Time_of_day_end>4</Time_of_day_end>
+			<Spawn_chance>0</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Lua_script>sspawn_beatdown</Lua_script>
+			<Char_List>
+				<Character>
+					<Display_name>Victim</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_beatdown_victim</Char_Name>
+					<Team>Civilian</Team>
+					</Character>
+				<Character>
+					<Display_name>Attacker</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_beatdown_attack1</Char_Name>
+					<Team>Gang</Team>
+					</Character>
+				<Character>
+					<Display_name>Attacker</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_beatdown_attack2</Char_Name>
+					<Team>Gang</Team>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dead body</Name>
+		<Spawn>
+			<Time_of_day_start>21</Time_of_day_start>
+			<Time_of_day_end>6</Time_of_day_end>
+			<Spawn_chance>0.30</Spawn_chance>
+			<Trigger_distance>40</Trigger_distance>
+			<Lua_script>sspawn_dead_body</Lua_script>
+			<Char_List>
+				<Character>
+					<Display_name>A corpse</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Persona_situation>voice - death scream</Persona_situation>
+					<Char_Name>sspawn_corpse</Char_Name>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Drunk vomit</Name>
+		<Spawn>
+			<Time_of_day_start>22</Time_of_day_start>
+			<Time_of_day_end>1</Time_of_day_end>
+			<Spawn_chance>0.40</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Drunk</Display_name>
+					<Min_anim_delay>60.0</Min_anim_delay>
+					<Max_anim_delay>120.0</Max_anim_delay>
+					<Prop>40oz</Prop>
+					<Char_Name>sspawn_drunk</Char_Name>
+					<Anim_states>
+						<State>drunk stand</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>NPC busted</Name>
+		<Spawn>
+			<Time_of_day_start>14</Time_of_day_start>
+			<Time_of_day_end>2</Time_of_day_end>
+			<Spawn_chance>0.25</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Being arrested</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_arrested</Char_Name>
+					<Team>Civilian</Team>
+					<Anim_Actions>
+						<Action>arrested a</Action>
+						</Anim_Actions>
+					</Character>
+				<Character>
+					<Display_name>Policeman</Display_name>
+					<Min_anim_delay>600.0</Min_anim_delay>
+					<Max_anim_delay>600.0</Max_anim_delay>
+					<Persona_situation>special - arrest npc</Persona_situation>
+					<Char_Name>sspawn_arrestor</Char_Name>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gang Sitting</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Just sitting</Display_name>
+					<Team>Gang</Team>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gang Standing</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>0.90</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Gang standing</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Team>Gang</Team>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Smoking Weed</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - weed</Persona_situation>
+					<Prop>spliff</Prop>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Gang member with blunt</Display_name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>smoke action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>blunt smoking</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>10</Time_of_day_start>
+			<Time_of_day_end>21</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Drinking fearlessly</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - eating</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting with drink</Display_name>
+					<Team>Civilian</Team>
+					<Fearless>true</Fearless>
+					<Anim_Actions>
+						<Action>Sitting Drink</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>11</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Eating fearlessly</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - eating</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting at a bench</Display_name>
+					<Team>Civilian</Team>
+					<Fearless>true</Fearless>
+					<Anim_Actions>
+						<Action>Sitting Eating</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>11</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Notes>Will not react unless injured.</Notes>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gang Cluster</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>0.90</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Gang standing</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Team>Gang</Team>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					</Character>
+				<Character>
+					<Display_name>Gang with 40</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_40</Char_Name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>drink action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>forty drinking</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Gang standing 2</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					<Team>Gang</Team>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gang Cluster2</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>0.90</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Gang standing</Display_name>
+					<Min_anim_delay>3.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					<Team>Gang</Team>
+					</Character>
+				<Character>
+					<Display_name>Gang with 40</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_40</Char_Name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>drink action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>forty drinking</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Gang with weed</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_weed</Char_Name>
+					<Team>Gang</Team>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Ped Dance Cluster</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1.0</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer</Display_name>
+					<Min_anim_delay>3.0</Min_anim_delay>
+					<Max_anim_delay>5.0</Max_anim_delay>
+					<Char_Name>sspawn_pedgroup_dancer</Char_Name>
+					<Team>Civilian</Team>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>breakdancer backspin</Action>
+						<Action>breakdancer poplock</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>breakdancer stand</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Ped Cheer 1</Display_name>
+					<Min_anim_delay>3.0</Min_anim_delay>
+					<Max_anim_delay>6.0</Max_anim_delay>
+					<Char_Name>sspawn_ped_cheer1</Char_Name>
+					<Team>Civilian</Team>
+					<Anim_Actions>
+						<Action>react applause</Action>
+						</Anim_Actions>
+					</Character>
+				<Character>
+					<Display_name>Ped Cheer 2</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_ped_cheer2</Char_Name>
+					<Team>Civilian</Team>
+					<Model_List>
+						<Model>PD_X_F_OldWoman-01</Model>
+						<Model>PD_X_M_OldMan-01</Model>
+						</Model_List>
+					<Anim_states>
+						<State>tour Take Pictures</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Ped Cheer 3</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Persona_situation>voice - cheer</Persona_situation>
+					<Char_Name>sspawn_ped_cheer3</Char_Name>
+					<Team>Civilian</Team>
+					</Character>
+				</Char_List>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>0.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Pole Dancer</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>6</Min_anim_delay>
+					<Max_anim_delay>15</Max_anim_delay>
+					<Display_name>Pole dancer</Display_name>
+					<Model_List>
+						<Model>Stripper-Asian</Model>
+						<Model>Stripper-White</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>pole dance a</Action>
+						<Action>pole dance b</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>pole stand</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>30.0</Trigger_distance>
+			<Request_resources>true</Request_resources>
+			<Min_spacing>0.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Pole Dancer B</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>6.0</Min_anim_delay>
+					<Max_anim_delay>15.0</Max_anim_delay>
+					<Display_name>Pole dancer</Display_name>
+					<Model_List>
+						<Model>Stripper-Asian</Model>
+						<Model>Stripper-White</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>pole dance a</Action>
+						<Action>pole dance b</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>pole stand</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>30.0</Trigger_distance>
+			<Request_resources>true</Request_resources>
+			<Min_spacing>0.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Stripper and fans</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>4.0</Min_anim_delay>
+					<Max_anim_delay>8.0</Max_anim_delay>
+					<Display_name>Stripper without a pole</Display_name>
+					<Model_List>
+						<Model>Stripper-Asian</Model>
+						<Model>Stripper-White</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>stage dance a</Action>
+						<Action>stage dance b</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>stage stand</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Audience 1</Display_name>
+					<Anim_Actions>
+						<Action>react applause</Action>
+						</Anim_Actions>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						<Model>PD_X_M_sportsFan-01</Model>
+						</Model_List>
+					<Sex>male</Sex>
+					</Character>
+				<Character>
+					<Display_name>Audience 2</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Sex>male</Sex>
+					<Anim_Actions>
+						<Action>react applause</Action>
+						</Anim_Actions>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						<Model>PD_X_M_sportsFan-01</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1.0</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Request_resources>true</Request_resources>
+			<Min_spacing>0.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Store browse gun</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - store customer browses</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Browsing a shelf</Display_name>
+					<Char_Name>sspawn_gun_browser</Char_Name>
+					<Prop>beretta</Prop>
+					<Anim_states>
+						<State>browse gun</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>6</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.50</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Store browse bling</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - store customer browses</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Browsing a shelf</Display_name>
+					<Char_Name>sspawn_bling_browser</Char_Name>
+					<Anim_states>
+						<State>browse jewelry</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>6</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.50</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Store browse wine</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - store customer browses</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Browsing a shelf</Display_name>
+					<Char_Name>sspawn_wine_browser</Char_Name>
+					<Team>Civilian</Team>
+					<Prop>40oz</Prop>
+					<Anim_states>
+						<State>browse jewelry</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>6</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.50</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Leaning</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>1.0</Max_anim_delay>
+					<Display_name>Leaning on a wall</Display_name>
+					<Anim_states>
+						<State>Lean</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Lounge</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>1.0</Max_anim_delay>
+					<Display_name>Lounging around</Display_name>
+					<Anim_states>
+						<State>Lounge</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Sitting barstool</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Sitting on a stool</Display_name>
+					<Team>Civilian</Team>
+					<Anim_states>
+						<State>barstool sit</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>9</Time_of_day_start>
+			<Time_of_day_end>19</Time_of_day_end>
+			<Spawn_chance>.8</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Peeing</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>0.25</Max_anim_delay>
+					<Display_name>Pissing in an alley</Display_name>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						<Model>PD_X_M_Trucker-01</Model>
+						<Model>PD_X_M_Poor-01</Model>
+						</Model_List>
+					<Anim_Actions>
+						<Action>sit Peeing</Action>
+						</Anim_Actions>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.4</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Gang Leaning</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>1.0</Max_anim_delay>
+					<Display_name>Leaning on a wall</Display_name>
+					<Team>Gang</Team>
+					<Anim_states>
+						<State>Lean</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>14</Time_of_day_start>
+			<Time_of_day_end>3</Time_of_day_end>
+			<Spawn_chance>0.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Store clothes</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - store customer browses</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Browsing a shelf</Display_name>
+					<Char_Name>sspawn_clothes_browser</Char_Name>
+					<Team>Civilian</Team>
+					<Anim_states>
+						<State>browse clothing</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>6</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>.50</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Food Mascot</Name>
+		<Spawn>
+			<Time_of_day_start>8</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.5</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Food Mascot</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Model_List>
+						<Model>PD_X_M_FoodMascot-01</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Freckle Bitch cust</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Persona_situation>special - eating</Persona_situation>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Eating at a bench</Display_name>
+					<Team>Civilian</Team>
+					<Startle_anim>Eating Startle</Startle_anim>
+					<Never_cower>true</Never_cower>
+					<Anim_Actions>
+						<Action>Sitting Eating</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>eating</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>11</Time_of_day_start>
+			<Time_of_day_end>20</Time_of_day_end>
+			<Spawn_chance>0.7</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Outdoor_spawn>true</Outdoor_spawn>
+			<Min_spacing>7.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>SH Gang Cluster</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Gang standing</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Team>Saints</Team>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					</Character>
+				<Character>
+					<Display_name>Gang with 40</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_40</Char_Name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>drink action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>forty drinking</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Gang standing 2</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					<Team>Saints</Team>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>SH Gang Leaning</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>0</Min_anim_delay>
+					<Max_anim_delay>1.0</Max_anim_delay>
+					<Display_name>Leaning on a wall</Display_name>
+					<Team>Saints</Team>
+					<Anim_states>
+						<State>Lean</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>14</Time_of_day_start>
+			<Time_of_day_end>3</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>SH Gang Cluster2</Name>
+		<Spawn>
+			<Time_of_day_start>1</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>10.0</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Gang standing</Display_name>
+					<Min_anim_delay>3.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_stand</Char_Name>
+					<Team>Saints</Team>
+					</Character>
+				<Character>
+					<Display_name>Gang with 40</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_40</Char_Name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>drink action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>forty drinking</State>
+						</Anim_states>
+					</Character>
+				<Character>
+					<Display_name>Gang with weed</Display_name>
+					<Min_anim_delay>15.0</Min_anim_delay>
+					<Max_anim_delay>30.0</Max_anim_delay>
+					<Char_Name>sspawn_ganggroup_weed</Char_Name>
+					<Team>Gang</Team>
+					<Anim_Actions>
+						<Action>smoke action</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>blunt smoking</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>SH Gang Sitting</Name>
+		<Spawn>
+			<Char_List>
+				<Character>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Display_name>Just sitting</Display_name>
+					<Team>Saints</Team>
+					<Anim_states>
+						<State>sitting</State>
+						</Anim_states>
+					</Character>
+				</Char_List>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>6.0</Trigger_distance>
+			<Min_spacing>1.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Beer Stand</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>6</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Beer Stand</Display_name>
+					<Min_anim_delay>5.0</Min_anim_delay>
+					<Max_anim_delay>10.0</Max_anim_delay>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						<Model>PD_X_M_sportsFan-01</Model>
+						</Model_List>
+					<Anim_states>
+						<State>Beer Stand</State>
+						</Anim_states>
+					<Sex>male</Sex>
+					<Anim_Actions>
+						<Action>Beer Drink</Action>
+						</Anim_Actions>
+					</Character>
+				</Char_List>
+			<Capture_peds>true</Capture_peds>
+			<Request_resources>true</Request_resources>
+			<Min_spacing>0.5</Min_spacing>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Beer Chat</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>7</Trigger_distance>
+			<Char_List>
+				<Character>
+					<Display_name>Beer Chat</Display_name>
+					<Min_anim_delay>5</Min_anim_delay>
+					<Max_anim_delay>10</Max_anim_delay>
+					<Anim_Actions>
+						<Action>Beer Talk A</Action>
+						<Action>Beer Drink</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>Beer Stand</State>
+						</Anim_states>
+					<Sex>male</Sex>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				<Character>
+					<Display_name>Beer Chat 2</Display_name>
+					<Min_anim_delay>5</Min_anim_delay>
+					<Max_anim_delay>10</Max_anim_delay>
+					<Anim_Actions>
+						<Action>Beer Talk A</Action>
+						<Action>Beer Drink</Action>
+						</Anim_Actions>
+					<Anim_states>
+						<State>Beer Stand</State>
+						</Anim_states>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					<Sex>male</Sex>
+					</Character>
+				</Char_List>
+			<Capture_peds>true</Capture_peds>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dancer</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>25</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer</Display_name>
+					<Anim_states>
+						<State>dance a</State>
+						<State>dance b</State>
+						<State>dance c</State>
+						<State>dance d</State>
+						</Anim_states>
+					<Min_anim_delay>10.0</Min_anim_delay>
+					<Max_anim_delay>20.0</Max_anim_delay>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						<Model>pd_x_f_genericyoung-01</Model>
+						<Model>PD_X_F_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dance pair</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>25</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer (M)</Display_name>
+					<Anim_states>
+						<State>pair dance a</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>male</Sex>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				<Character>
+					<Display_name>Dancer (F)</Display_name>
+					<Anim_states>
+						<State>pair dance a</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>female</Sex>
+					<Model_List>
+						<Model>pd_x_f_genericyoung-01</Model>
+						<Model>PD_X_F_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dance pair B</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>25</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer (M)</Display_name>
+					<Anim_states>
+						<State>pair dance b</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>male</Sex>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				<Character>
+					<Display_name>Dancer (F)</Display_name>
+					<Anim_states>
+						<State>pair dance b</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>female</Sex>
+					<Model_List>
+						<Model>pd_x_f_genericyoung-01</Model>
+						<Model>PD_X_F_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dance pair C</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>25</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer (M)</Display_name>
+					<Anim_states>
+						<State>pair dance c</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>male</Sex>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				<Character>
+					<Display_name>Dancer (F)</Display_name>
+					<Anim_states>
+						<State>pair dance c</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>female</Sex>
+					<Model_List>
+						<Model>pd_x_f_genericyoung-01</Model>
+						<Model>PD_X_F_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	<Special_Spawn>
+		<Name>Dance pair D</Name>
+		<Spawn>
+			<Time_of_day_start>0</Time_of_day_start>
+			<Time_of_day_end>24</Time_of_day_end>
+			<Spawn_chance>1</Spawn_chance>
+			<Trigger_distance>25</Trigger_distance>
+			<Capture_peds>true</Capture_peds>
+			<Char_List>
+				<Character>
+					<Display_name>Dancer (M)</Display_name>
+					<Anim_states>
+						<State>pair dance d</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>male</Sex>
+					<Model_List>
+						<Model>PD_X_M_GenericYoung-01</Model>
+						<Model>PD_X_M_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				<Character>
+					<Display_name>Dancer (F)</Display_name>
+					<Anim_states>
+						<State>pair dance d</State>
+						</Anim_states>
+					<Min_anim_delay>0.0</Min_anim_delay>
+					<Max_anim_delay>0.0</Max_anim_delay>
+					<Sex>female</Sex>
+					<Model_List>
+						<Model>pd_x_f_genericyoung-01</Model>
+						<Model>PD_X_F_GenericYoung-02</Model>
+						</Model_List>
+					</Character>
+				</Char_List>
+			<Min_spacing>0.5</Min_spacing>
+			<Request_resources>true</Request_resources>
+			</Spawn>
+		<_Editor>
+			<Category>Special spawns (simple)</Category>
+			</_Editor>
+		</Special_Spawn>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Special_Spawn</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Special Spawn</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		<MaxLength>20</MaxLength>
+		</Element>
+	<Element>
+		<Name>Spawn</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Time_of_day_start</Name>
+			<Type>Int</Type>
+			<Display_Name>Time of day (start)</Display_Name>
+			<Description>What hour this spawn should become active, on a 24-hour clock (0 = midnight, 23 = 11pm).</Description>
+			<Default>8</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>24</MaxValue>
+			</Element>
+		<Element>
+			<Name>Time_of_day_end</Name>
+			<Type>Int</Type>
+			<Display_Name>Time of day (end)</Display_Name>
+			<Description>What hour this spawn should stop being active, on a 24-hour clock (0 = midnight, 23 = 11pm).</Description>
+			<Default>20</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>24</MaxValue>
+			</Element>
+		<Element>
+			<Name>Min_spacing</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum spacing</Display_Name>
+			<Description>Each point in the special spawn must be at least this far from other peds before it will spawn.</Description>
+			<Default>1.5</Default>
+			<MinValue>0.5</MinValue>
+			</Element>
+		<Element>
+			<Name>Spawn_chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Spawn chance</Display_Name>
+			<Description>Between 0 and 1, how often this special spawn should be triggered.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Trigger_distance</Name>
+			<Type>Float</Type>
+			<Display_Name>Trigger distance</Display_Name>
+			<Description>Distance in meters from the player to trigger this special spawn script or persona lines.</Description>
+			<Default>10.0</Default>
+			<MinValue>1</MinValue>
+			<MaxValue>50</MaxValue>
+			</Element>
+		<Element>
+			<Name>Lua_script</Name>
+			<Type>String</Type>
+			<Display_Name>Lua script</Display_Name>
+			<Description>For more complex special spawns, name of a script that can handle inter-NPC</Description>
+			<Required>false</Required>
+			<MaxLength>63</MaxLength>
+			</Element>
+		<Element>
+			<Name>Outdoor_spawn</Name>
+			<Type>Selection</Type>
+			<Display_Name>Outdoor spawn</Display_Name>
+			<Description>This spawn is outdoors and will not be used if it's raining.</Description>
+			<Required>false</Required>
+			<Default>true</Default>
+			<Choice>true</Choice>
+			<Choice>false</Choice>
+			</Element>
+		<Element>
+			<Name>Capture_peds</Name>
+			<Type>Selection</Type>
+			<Display_Name>Capture peds</Display_Name>
+			<Description>If true, this special spawn will attract nearby peds</Description>
+			<Required>false</Required>
+			<Default>true</Default>
+			<Choice>true</Choice>
+			<Choice>false</Choice>
+			</Element>
+		<Element>
+			<Name>Request_resources</Name>
+			<Type>Selection</Type>
+			<Display_Name>Allow resource requests</Display_Name>
+			<Required>false</Required>
+			<Default>true</Default>
+			<Choice>true</Choice>
+			<Choice>false</Choice>
+			</Element>
+		<Element>
+			<Name>Mutexed</Name>
+			<Type>Selection</Type>
+			<Display_Name>Mutually exclusive</Display_Name>
+			<Description>If set, then exactly one of the characters in the list will spawn when this special spawn is triggered.</Description>
+			<Required>false</Required>
+			<Default>false</Default>
+			<Choice>false</Choice>
+			<Choice>true</Choice>
+			</Element>
+		<Element>
+			<Name>Char_List</Name>
+			<Type>List</Type>
+			<Display_Name>Character List</Display_Name>
+			<Description>All the characters involved in this special spawn.</Description>
+			<Element>
+				<Name>Character</Name>
+				<Type>Element</Type>
+				<Description>One of the characters used in this spawn.</Description>
+				<Element>
+					<Name>Display_name</Name>
+					<Type>String</Type>
+					<Display_Name>Display Name</Display_Name>
+					<Description>Used for the special spawn editor.</Description>
+					<MaxLength>32</MaxLength>
+					</Element>
+				<Element>
+					<Name>Anim_Actions</Name>
+					<Type>Grid</Type>
+					<Display_Name>Animations</Display_Name>
+					<Required>false</Required>
+					<Element>
+						<Name>Action</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>anim_actions.xtbl</File>
+							<Type>Action.Name</Type>
+							</Reference>
+						</Element>
+					<Max_Children>4</Max_Children>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				<Element>
+					<Name>Anim_states</Name>
+					<Type>Grid</Type>
+					<Display_Name>Animation states</Display_Name>
+					<Required>false</Required>
+					<Element>
+						<Name>State</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>anim_states.xtbl</File>
+							<Type>State.Name</Type>
+							</Reference>
+						</Element>
+					<Max_Children>4</Max_Children>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				<Element>
+					<Name>Enter_anim</Name>
+					<Type>Reference</Type>
+					<Display_Name>Enter animation</Display_Name>
+					<Description>Animation that will be played when a pedestrian enters this special spawn.</Description>
+					<Required>false</Required>
+					<Reference>
+						<File>anim_actions.xtbl</File>
+						<Type>Action.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Startle_anim</Name>
+					<Type>Reference</Type>
+					<Display_Name>Startle animation</Display_Name>
+					<Description>Will override normal animation action when the character is startled by gunfire, etc.</Description>
+					<Required>false</Required>
+					<Reference>
+						<File>anim_actions.xtbl</File>
+						<Type>Action.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Min_anim_delay</Name>
+					<Type>Float</Type>
+					<Display_Name>Min animation delay</Display_Name>
+					<Description>Minimum time that will elapse before a selected animation is played again.</Description>
+					<Default>5.0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>Max_anim_delay</Name>
+					<Type>Float</Type>
+					<Display_Name>Max animation delay</Display_Name>
+					<Description>Maximum time that will elapse before a selected animation is played again.</Description>
+					<Default>10.0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>Persona_situation</Name>
+					<Type>Reference</Type>
+					<Display_Name>Persona situation</Display_Name>
+					<Description>Determines the set of lines this special spawn character will play when triggered.</Description>
+					<Required>false</Required>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Model_List</Name>
+					<Type>Grid</Type>
+					<Display_Name>Model List</Display_Name>
+					<Required>false</Required>
+					<MaxCount>4</MaxCount>
+					<Element>
+						<Name>Model</Name>
+						<Type>Reference</Type>
+						<Reference>
+							<File>character.xtbl</File>
+							<Type>Character.Name</Type>
+							</Reference>
+						</Element>
+					<Num_Display_Rows>4</Num_Display_Rows>
+					</Element>
+				<Element>
+					<Name>Sex</Name>
+					<Type>Selection</Type>
+					<Required>false</Required>
+					<Default>male</Default>
+					<Choice>male</Choice>
+					<Choice>female</Choice>
+					</Element>
+				<Element>
+					<Name>Prop</Name>
+					<Type>Reference</Type>
+					<Required>false</Required>
+					<Reference>
+						<File>items_3d.xtbl</File>
+						<Type>Item.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Char_Name</Name>
+					<Type>String</Type>
+					<Display_Name>Character Name</Display_Name>
+					<Description>The npc will be referred to by this name in any Lua scripts affecting its behavior.</Description>
+					<Required>false</Required>
+					<Default>sspawn_type</Default>
+					<MaxLength>24</MaxLength>
+					</Element>
+				<Element>
+					<Name>Team</Name>
+					<Type>Selection</Type>
+					<Required>false</Required>
+					<Choice>Police</Choice>
+					<Choice>Civilian</Choice>
+					<Choice>Gang</Choice>
+					<Choice>Saints</Choice>
+					</Element>
+				<Element>
+					<Name>Fearless</Name>
+					<Type>Selection</Type>
+					<Description>Makes the special spawn not do anything AI-related until they are injured.</Description>
+					<Required>false</Required>
+					<Default>true</Default>
+					<Choice>false</Choice>
+					<Choice>true</Choice>
+					</Element>
+				<Element>
+					<Name>Never_cower</Name>
+					<Type>Selection</Type>
+					<Description>When startled, the spawn npc will always flee instead of cowering.</Description>
+					<Required>false</Required>
+					<Default>true</Default>
+					<Choice>true</Choice>
+					<Choice>false</Choice>
+					</Element>
+				</Element>
+			<Max_Children>4</Max_Children>
+			<Min_Children>1</Min_Children>
+			<Visible_Elements>4</Visible_Elements>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			<Element_Name>Character.Display_name</Element_Name>
+			</Element>
+		<Element>
+			<Name>Convert_to_ped_min_delay</Name>
+			<Type>Int</Type>
+			<Display_Name>Min lifespan</Display_Name>
+			<Description>Minimum delay before this character will convert to a sidewalk-strolling ped.</Description>
+			<Required>false</Required>
+			<Default>0</Default>
+			<MinValue>5</MinValue>
+			</Element>
+		<Element>
+			<Name>Convert_to_ped_max_delay</Name>
+			<Type>Int</Type>
+			<Display_Name>Max lifespan</Display_Name>
+			<Description>Maximum delay before this character will convert to a sidewalk-strolling ped.</Description>
+			<Required>false</Required>
+			<Default>0</Default>
+			<MinValue>5</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Special spawns (simple)</Name>
+		</Category>
+	</EntryCategories>
+</root>

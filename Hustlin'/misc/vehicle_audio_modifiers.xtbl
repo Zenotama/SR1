@@ -1,0 +1,148 @@
+<root>
+<Table>
+	<Modifiers>
+		<Name>Vehicle Damage</Name>
+		<Damage>
+			<ModifierList>
+				<Modifier>
+					<Foley>CAR_ENGINE_KNOCK</Foley>
+					<MinSpeed>800</MinSpeed>
+					<MaxSpeed>7000</MaxSpeed>
+					<MinVol>0.25</MinVol>
+					<MaxVol>0.8</MaxVol>
+					</Modifier>
+				</ModifierList>
+			<Health>0.50</Health>
+			</Damage>
+		<_Editor>
+			<Category>Vehicle Audio Modifiers</Category>
+			</_Editor>
+		</Modifiers>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Modifiers</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the vehicle audio mod group.</Description>
+		</Element>
+	<Element>
+		<Name>Damage</Name>
+		<Type>Element</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>ModifierList</Name>
+			<Type>List</Type>
+			<Display_Name>Modifier List</Display_Name>
+			<Element>
+				<Name>Modifier</Name>
+				<Type>Element</Type>
+				<Description>Foley to play</Description>
+				<Element>
+					<Name>Foley</Name>
+					<Type>Reference</Type>
+					<Reference>
+						<File>foley.xtbl</File>
+						<Type>Foley.Name</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>MinSpeed</Name>
+					<Type>Int</Type>
+					<Display_Name>Min RPM</Display_Name>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>MaxSpeed</Name>
+					<Type>Int</Type>
+					<Display_Name>Max RPM</Display_Name>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>MinVol</Name>
+					<Type>Float</Type>
+					<Display_Name>Volume at Min RPM</Display_Name>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				<Element>
+					<Name>MaxVol</Name>
+					<Type>Float</Type>
+					<Display_Name>Volume at Max RPM</Display_Name>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				</Element>
+			<Max_Children>3</Max_Children>
+			<Min_Children>1</Min_Children>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			<Element_Name>Modifier.Foley</Element_Name>
+			</Element>
+		<Element>
+			<Name>Health</Name>
+			<Type>Float</Type>
+			<Display_Name>Active on % of Health Left</Display_Name>
+			<Description>Percentage of health left for damage sounds to be active.</Description>
+			<Default>0.5</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>HighSpeed</Name>
+		<Type>Element</Type>
+		<Display_Name>High Speed</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Foley</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>MinSpeed</Name>
+			<Type>Int</Type>
+			<Display_Name>Min Speed</Display_Name>
+			<Description>Speed at which volume is zero</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>120</MaxValue>
+			</Element>
+		<Element>
+			<Name>MaxSpeed</Name>
+			<Type>Int</Type>
+			<Display_Name>Max Speed</Display_Name>
+			<Description>Speed at which volume is full.</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>120</MaxValue>
+			</Element>
+		<Element>
+			<Name>Health</Name>
+			<Type>Float</Type>
+			<Display_Name>Active on % of Health Left</Display_Name>
+			<Description>Percentage of health left for high speed rattle to be active.</Description>
+			<Default>0.5</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Vehicle Audio Modifiers</Name>
+		</Category>
+	</EntryCategories>
+</root>

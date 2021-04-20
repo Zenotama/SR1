@@ -1,0 +1,124 @@
+<root>
+<Table>
+	<Slot_Default>
+		<Name>undershirt</Name>
+		<Slot>undershirt</Slot>
+		<Item>t-shirts</Item>
+		<Mesh>cUndS_tShirt_TH.cmeshx</Mesh>
+		<Variant>tshirt_black</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>pants</Name>
+		<Slot>pants</Slot>
+		<Item>baggy jeans</Item>
+		<Mesh>cBotm_casBagyPant_NH.cmeshx</Mesh>
+		<Variant>jeans_darkblue</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>boxers</Name>
+		<Slot>underwear</Slot>
+		<Item>boxers</Item>
+		<Mesh>cUndW_boxers.cmeshx</Mesh>
+		<Variant>gray</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>shoes</Name>
+		<Slot>shoes</Slot>
+		<Item>sneakers</Item>
+		<Mesh>cShoe_sneakers.cmeshx</Mesh>
+		<Variant>sneakers_red</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>socks</Name>
+		<Slot>socks</Slot>
+		<Item>short socks</Item>
+		<Mesh>cSock_low.cmeshx</Mesh>
+		<Variant>sm_white</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>overshirt</Name>
+		<Slot>overshirt</Slot>
+		<Item>long sleeve casual shirts</Item>
+		<Mesh>cOvrS_casButtonLS_Op.cmeshx</Mesh>
+		<Variant>black</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	<Slot_Default>
+		<Name>coat</Name>
+		<Slot>coat</Slot>
+		<Item>denim jackets</Item>
+		<Mesh>cCoat_denim_NO.cmeshx</Mesh>
+		<Variant>lightblue_red</Variant>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Slot_Default>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Slot_Default</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Slot</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>player_cust.xtbl</File>
+			<Type>Custom_player_slot.Slot</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Item</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>customization_items.xtbl</File>
+			<Type>Customization_Item.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Mesh</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>customization_items.xtbl</File>
+			<Type>Customization_Item.Wear_Options.Wear_Option.Mesh_Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Variant</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>customization_items.xtbl</File>
+			<Type>Customization_Item.Variants.Variant.Variant_Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

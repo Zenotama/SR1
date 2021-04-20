@@ -1,0 +1,134 @@
+<root>
+<Table>
+	<String>
+		<Name>Theft</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>get car</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_GET CAR_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>hurry</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_HURRY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>park break in</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_PARK BREAK IN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>alarm</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_ALARM_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>take box to car</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_TAKE BOX TO CAR_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>car loaded</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_CAR LOADED_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>deliver goods</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_DELIVER GOODS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>box lost</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_BOX LOST_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>daytime</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_DAYTIME_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>guards</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_GUARDS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>rival thief</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_RIVAL THIEF_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>come back</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_COME BACK_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>lose police</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_LOSE POLICE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>goods respawned</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_THEFT_GOODS_RESPAWNED_MSG</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCrime.xtbl</File>
+					<Type>ActCrime_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>3</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

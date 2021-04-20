@@ -1,0 +1,7917 @@
+<root>
+<Table>
+	<Action>
+		<Name>stun flinch</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ride l to aim</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>ride to aim</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>drive to aim</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle Climb driver no door</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drunk piss</Name>
+		<_Editor>
+			<Category>Base:Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pulled normal driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled normal passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled High driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail A passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled normal rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled bash driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled bash passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled bash rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled punch driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled punch passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled punch rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled pistol fire driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled pistol fire passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled pistol fire rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled resist driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled resist passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled resist rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail A driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail A rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail B driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail B passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit side</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit overturned</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit jump van</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver low</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass low</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver low</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver med</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle open door inside d</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>idle</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 1</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup blunt</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup blunt move</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup liquor</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Crouch</Name>
+		<_Editor>
+			<Category>Base:Crouch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Crouch to Stand</Name>
+		<_Editor>
+			<Category>Base:Crouch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Surrender to Stand</Name>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Surrender</Name>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand Turn Right</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand Turn Left</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand Vomit</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Skid to Stop</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Avoid Car</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Avoid Person</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Wave</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Surprised</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Inspect Body</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>heard sound</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>search right</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>search left</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>look around</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>call backup</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>search around</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flip off</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>compliment</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign stand 1</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign stand 2</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign stand 3</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign stand 4</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign move 1</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign move 2</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign move 3</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>interaction gang sign move 4</Name>
+		<_Editor>
+			<Category>Base:Gang Signs</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit React Drugs</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Deal Drugs</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk yes</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk no</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk dunno</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk short</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk long</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk confrontational</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk disrespect</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk submissive</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk with respect</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk yell</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run 180</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run stop</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand 180</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk stop</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>tagging</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch test</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>custom</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>morph1</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>death</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drink action</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>gun end turn right</Name>
+		<_Editor>
+			<Category>Turning</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>gun end turn left</Name>
+		<_Editor>
+			<Category>Turning</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>end turn right</Name>
+		<_Editor>
+			<Category>Turning</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>end turn left</Name>
+		<_Editor>
+			<Category>Turning</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>affect item low</Name>
+		<_Editor>
+			<Category>Affect Item</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>affect item mid</Name>
+		<_Editor>
+			<Category>Affect Item</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>affect item high</Name>
+		<_Editor>
+			<Category>Affect Item</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item drive back</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item drive right</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item drive left</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item drive</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>crouch flinch body</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>combat to stand</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>impact from back</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>impact from front</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>fwd nudge by car</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>falldown behind</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>fwd getup</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>fwd falldown</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>back getup</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>back falldown</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone kick short</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stomp short</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch move r</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch move l</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish L 4</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish L 3</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish L 2</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish L 1</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish R 4</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish R 3</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish R 2</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>finish R 1</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch L 2</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch R 2</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch L 1</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch R 1</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>punch ready</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>dive</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand ready shuffle right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand ready shuffle left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand shuffle right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand shuffle left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand crouch shuffle right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand crouch shuffle left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>land slam</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>land hard</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>land run</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>land normal</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>calm fall run</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>calm fall</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run jump start</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand jump start</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Hit on Girl</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Play Craps</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Pimp Slap</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Pimp SlapMove</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Jeer</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Dust Off</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Sell Shady</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Buy Shady</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Buy Item</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Sell Item</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans MC Ready to Stand</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans MC Stand to Ready</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door inside d</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle close door inside p</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside d</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door inside p</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle open door outside d</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door outside p</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside p</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door inside rd</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle open door outside rd</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door slap p</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door slap d</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door inside rd</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside rd</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside fast d</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass med</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver med</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver conv</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass conv</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver conv</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive driver</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive pass</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>unique A</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique B</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique D</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique E</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique F</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique G</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique H</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle driver to passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Slide Across</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle passenger to driver</Name>
+		<_Editor>
+			<Category>Vehicle:Slide Across</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver low</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver med</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver high</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout normal driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout normal passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout normal rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout bash driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout pistol fire passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout bash passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout bash rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout punch driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout punch passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout punch rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk fire left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk fire right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run fire back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run fire left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run fire right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch walk fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch walk fire back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch walk fire right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch walk fire left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drive fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive fire l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive fire r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive fire b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride fire l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride fire r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l fire</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l fire l</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride fire b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l fire r</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l fire r b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l fire b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>crouch shuffle left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch shuffle right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready shuffle left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready shuffle right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>look left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>look right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch walk reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>melee</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>melee moving</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch melee</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch melee moving</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>running turn right</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>running turn left</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>running turn back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Turn Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter rear driver low</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter rear driver med</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter rear driver high</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter rear driver conv</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver conv</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter pass low</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter pass med</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter pass high</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter pass conv</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver bus</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver high</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass high</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver high</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>prone kick med</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone kick long</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stomp med</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stomp long</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver angry</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>passenger angry</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>driver passenger angry</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>passenger killed</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>driver killed</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>driver passenger killed</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>sleep idle</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sleep to stand</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to sleep</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Sitting</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Sitting to Stand</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Phone</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Eating</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Birds</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Paper</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Book</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react horrified</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react melee watch</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Spit</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Peeing</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Pray</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Cringe</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Grovel</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Fetal</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Talk</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Cower</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Dive</Name>
+		<_Editor>
+			<Category>Base:Jumping</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item back</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item back move</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand talk long</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand talk short</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand idle a</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand idle b</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand gang sign a</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand gang sign b</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand gang sign c</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand gang sign d</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand whip</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ready whip</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ready whip move</Name>
+		<_Editor>
+			<Category>Weapon:Actions</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ready to stand</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ready to crouch</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch to ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch to stand</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Crouch Turn Left</Name>
+		<_Editor>
+			<Category>Base:Crouch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Crouch Turn Right</Name>
+		<_Editor>
+			<Category>Base:Crouch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Counting Money</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Drugs</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Smoke</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Laugh</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Point</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready to crouch</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to crouch</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch to crouch ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ready to crouch ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready to ready</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk fire back</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item move</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>toss item</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Run Fall</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower Trip</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Frisk</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sit Jimmy Door</Name>
+		<_Editor>
+			<Category>Base:Siuational</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk move A</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk move B</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>talk move C</Name>
+		<_Editor>
+			<Category>Base:Talking</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrest b</Name>
+		<_Editor>
+			<Category>Base:Arrest</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrest c</Name>
+		<_Editor>
+			<Category>Base:Arrest</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrested a</Name>
+		<_Editor>
+			<Category>Base:Arrest</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrested b</Name>
+		<_Editor>
+			<Category>Base:Arrest</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrested c</Name>
+		<_Editor>
+			<Category>Base:Arrest</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to jump</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump to grip low</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump to grip med</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump to grip high</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to flip low</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to flip med</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to flip high</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to flip air</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to stand low</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to stand med</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to stand high</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Startle</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Startle Run</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch bullet front</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch bullet right</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch bullet back</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch bullet left</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee back high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee back low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee left high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee left low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee right high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee right low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front right high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front right low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front left high</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch melee front left low</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup liquor move</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump Air</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Jump Anim</Flag>
+			<Flag>Allow Swimming</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run air</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Jump Anim</Flag>
+			<Flag>Allow Swimming</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>kick door</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cell phone hangup</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>smoke action</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle eat donut</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>idle Greet</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle Greet Move</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle adjustCrotch</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle adjustCrotch Move</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle scratchAss</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle scratchAss Move</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle tie Shoe</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside fast rd</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle close door outside fast p</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>hold to grip low</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>hold to grip med</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>hold to grip high</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>runJump to hold</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react pour out</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip to stand air</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdoll driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdoll passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdoll rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout pistol fire driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout pistol fire rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout resist driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout resist passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout resist rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail A driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail A passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail A rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail B driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail B passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail B rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle Fix Hair</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle Stretching</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react Surprised Heart</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans read to stand</Name>
+		<_Editor>
+			<Category>Base:Magazine Reader</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans stand to read</Name>
+		<_Editor>
+			<Category>Base:Magazine Reader</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Talk Short</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Talk Long</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone kick</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone attack</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>move attack b</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>move attack a</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch attack</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>attack a</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>attack b</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>attack c</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>attack d</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle sucker</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle flirt</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle touchself</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle showcase</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle looknails</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle twirl hair</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique slapfight</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react cheer</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react oh hell no</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react applause</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>react angry</Name>
+		<_Editor>
+			<Category>Base:Reactions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Car Lean to Stand</Name>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Lean</Name>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>fall fence</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch front</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch back</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch left</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>flinch right</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand B</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand C</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand D</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Cower B</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Cower C</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Cower D</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stage dance a</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stage dance b</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pole dance a</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pole dance b</Name>
+		<_Editor>
+			<Category>Stripper</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Jogger Idle</Name>
+		<_Editor>
+			<Category>Base:Jogger</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans sunbather to stand</Name>
+		<_Editor>
+			<Category>Base:Sunbather</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans stand to sunbather</Name>
+		<_Editor>
+			<Category>Base:Sunbather</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run to sprint left</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>breakdancer poplock</Name>
+		<_Editor>
+			<Category>Base:Breakdancer</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>arrest a</Name>
+		<_Editor>
+			<Category>Base:Breakdancer</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>breakdancer backspin</Name>
+		<_Editor>
+			<Category>Base:Breakdancer</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drunk vomit</Name>
+		<_Editor>
+			<Category>Base:Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drunk beg</Name>
+		<_Editor>
+			<Category>Base:Drunk</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 2</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 3</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 4</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 5</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 6</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 7</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>idle variant 8</Name>
+		<_Editor>
+			<Category>Base:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Idle Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>bj get startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>bj give startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sex give startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sex get startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail C rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail C passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout fail C driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pullout Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail B rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail C driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail C passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled fail C rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Failed Pulled Out Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>trans Stand to Car Lean</Name>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Lean to Stand</Name>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sleep startled</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>head give startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>head get startle</Name>
+		<_Editor>
+			<Category>Base:Sex</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump start</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run start</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump land</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run land</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump start back</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump start left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump start right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run start left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run start right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run start back</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump land left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump land right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump land back</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run land left</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run land right</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run land back</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Takeoff/Land Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump air to fall</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Allow Swimming</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdollA rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdollA passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdollA driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door slap rd</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door fail d</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door fail p</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door fail rd</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver bus</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>sleep to stand b</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to sleep b</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>fwd getup fire</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>back getup fire</Name>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch flinch front</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch flinch back</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch flinch left</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch flinch right</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready flinch front</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready flinch back</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready flinch left</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch ready flinch right</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ho flinch</Name>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>driver idle a</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver idle b</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver idle c</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver idle d</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver idle e</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass idle d</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver idle d</Name>
+		<_Editor>
+			<Category>Vehicle:Idle</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver flinch front</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver flinch back</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver flinch left</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>driver flinch right</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass flinch front</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass flinch left</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass flinch right</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver flinch left</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver flinch right</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver flinch back</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver flinch front</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass flinch back</Name>
+		<_Editor>
+			<Category>Vehicle:Flinch</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass hostage a</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass hostage b</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>pass hostage c</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver hostage a</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver hostage b</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>rear driver hostage c</Name>
+		<_Editor>
+			<Category>Vehicle:Hostage</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sleep startled b</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>jump run air to fall</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Allow Swimming</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run to sprint right</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run to sprint back</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sprint to run left</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sprint to run right</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>sprint to run back</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower startle</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower startle b</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower startle c</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>cower startle d</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stab A</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stab B</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>prone stab C</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>MC ready to stand</Name>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>ride fire l b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled convert driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pullout convert driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pulled convert rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pulled convert passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pullout convert rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout convert passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand Cough</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Sitting Startled</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast low f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast high f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast swimming</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast high l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast low b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast high b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast low f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast high f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast low l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast high l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast low b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast high b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast low f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast high f</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast low l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast high l</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast low b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit rear driver fast high b</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>pant to stand</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand to pant</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>heli passflr rdy fire</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli dpassflr rdy fire</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heil passflr reload</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heil dpassflr reload</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli driver flinch</Name>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>heli passflr flinch</Name>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>heli dpassflr flinch</Name>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>heli passback flinch</Name>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli dpassback flinch</Name>
+		<Anim_Flags>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli passflr exit</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli dpassflr exit</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli passback exit</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli dpassback exit</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli passback to flr</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>heli dpassback to flr</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Helicopter</Category>
+			</_Editor>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>calm fall to panic</Name>
+		<_Editor>
+			<Category>Jumping/Landing</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Taunt 1</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Taunt</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Taunt 2</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Taunt</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Taunt 3</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Taunt</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>surrender talk</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>surrender stall A</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>surrender stall B</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>surrender open safe</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Surrender</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>stand to carry</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item ride right</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride left</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride l back</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride l right</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride l left</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride l</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>throw item ride back</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>dpassenger reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>dpassenger reload window</Name>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>passenger reload</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>passenger reload window</Name>
+		<Anim_Flags>
+			<Flag>Reload Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>tag a</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>tag b</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>tag c</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>tag messup</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup bong</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup pipe</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch blunt</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch liquor</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch pipe</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>crouch bong</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup bong move</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup pipe move</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unlock door</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Lounge To Stand</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lounge</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>trans Stand To Lounge</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lounge</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Play Games</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lounge</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>trans Stand To Lean</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Lean</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Sitting Drink</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand cover fire</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>door open push</Name>
+		<Anim_Flags>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>stand shldr fire</Name>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>walk shldr fire</Name>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle single seat passenger to driver</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Slide Across</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle single seat driver to passenger</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Slide Across</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pulled driver nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pulled pass nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pullout driver nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pullout pass nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pullout driver extreme</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>throw item drive right trucks</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>cell phone answer</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>phone answer</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>phone hangup</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>dive to swim</Name>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>racer start</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>bomb plant</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Mute Footsteps</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>watermelon long</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>watermelon short</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Toss coin</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Warm hands</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>stand fire b</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>stand fire c</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Fire Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle enter driver extreme</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle Climb driver door</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pulled driver extreme</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle enter pass extreme</Name>
+		<_Editor>
+			<Category>Vehicle:Enter</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout pass extreme</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pulled pass extreme</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle Climb pass no door</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle Climb pass door</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle driver locked</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdoll driver extreme</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout ragdoll passenger extreme</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Pimp Slap MP</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Pimp SlapMove MP</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>on fire</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>multi blunt a</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>multi blunt c</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>multi blunt crouch a</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand fast</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand B fast</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand C fast</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Cower to Stand D fast</Name>
+		<_Editor>
+			<Category>Base:Cower</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>kick</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>tackle</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>multi blunt crouch c</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle close gullwing inside d</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle close gullwing inside p</Name>
+		<_Editor>
+			<Category>Vehicle:Close Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle pullout High driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout High passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout High rear driver</Name>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pulled High passenger</Name>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>tackle back</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>tackle left</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>tackle right</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>Choose Rings</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Chain</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Glasses</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Hair Facial</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Hair Short</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose HatA</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose HatB</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose HatC</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose HatD</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Jacket</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Pants</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Shirt</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Shoes</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Bandana</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Wrist</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans mc stand to block</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Combat</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>block flinch front</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>block flinch left</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>block flinch right</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>block flinch back</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Flinch Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Flinches</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>aim to drive</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>aim to ride l</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>aim to ride</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>crouch food</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup food</Name>
+		<Anim_Flags>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup food move</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup drink</Name>
+		<Anim_Flags>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>crouch drink</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup drink move</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>crouch spliff</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup spliff</Name>
+		<Anim_Flags>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>powerup spliff move</Name>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>swim start fall transition</Name>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Swim</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>swim start ragdoll forward transition</Name>
+		<Anim_Flags>
+			<Flag>Allow Swimming</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base:Swim</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>drive sit to aim</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive sit to aim left</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive sit to aim back</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive aim out to right</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive aim right to out</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride sit to aim</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride sit to aim left</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride sit to aim right</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride sit to aim back</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim out to alt left</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim alt left to out</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l sit to aim</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l sit to aim left</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l sit to aim right</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l sit to aim back</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim out to alt right</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim alt right to out</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>Open Safe</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>swim to jump</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>drive aim to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive aim left to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>drive aim back to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim left to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim right to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride aim back to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim left to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim right to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>ride l aim back to sit</Name>
+		<_Editor>
+			<Category>Vehicle:Action</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>Eating Startle</Name>
+		<_Editor>
+			<Category>Base:Sex:Sitting</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>tag d</Name>
+		<_Editor>
+			<Category>Base:Tagging</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle passenger locked</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>bed startled</Name>
+		<_Editor>
+			<Category>Base:Sleep</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>grip hop low</Name>
+		<_Editor>
+			<Category>Base:Fence Animations</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Stand to Zombie Eat</Name>
+		<_Editor>
+			<Category>Zombie</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>trans Zombie Eat to Stand</Name>
+		<_Editor>
+			<Category>Zombie</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>unique Pimp Slap Low</Name>
+		<_Editor>
+			<Category>Base:Unique Motions</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle pullout rear driver nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Vehicle:Pullout</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle pulled rear driver nodoor</Name>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		<_Editor>
+			<Category>Vehicle:Pulled Out</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>throw item move left</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Choose Wrist L</Name>
+		<_Editor>
+			<Category>Cust</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Beer Drink</Name>
+		<_Editor>
+			<Category>Beer</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Beer Talk A</Name>
+		<_Editor>
+			<Category>Beer</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>Beer Talk B</Name>
+		<_Editor>
+			<Category>Beer</Category>
+			</_Editor>
+		<Anim_Flags>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup Gin N Juice</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>powerup Gin N Juice move</Name>
+		<_Editor>
+			<Category>Base:PowerUps</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Drug Use Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>throw item left</Name>
+		<_Editor>
+			<Category>Throw</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Throw Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door golwing outside d</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle open door golwing outside p</Name>
+		<_Editor>
+			<Category>Vehicle:Open Door</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Controller Block Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>walk to stop</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>run to stop</Name>
+		<Anim_Flags>
+			</Anim_Flags>
+		<_Editor>
+			<Category>Base</Category>
+			</_Editor>
+		</Action>
+	<Action>
+		<Name>vehicle exit swim</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>run 180 pimp</Name>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Turn Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		</Action>
+	<Action>
+		<Name>vehicle exit pass fast water</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit driver fast water</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			<Flag>Disable State IK Triggers</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive rear driver water</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Rear Driver</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive pass water</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Passenger</Vehicle_Anim_Seat>
+		</Action>
+	<Action>
+		<Name>vehicle exit dive driver water</Name>
+		<_Editor>
+			<Category>Vehicle:Exit</Category>
+			</_Editor>
+		<Anim_Flags>
+			<Flag>Blocking Anim</Flag>
+			</Anim_Flags>
+		<Vehicle_Anim_Seat>Driver</Vehicle_Anim_Seat>
+		</Action>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Action</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Animation Action</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Action Name</Display_Name>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Anim_Flags</Name>
+		<Type>Flags</Type>
+		<Display_Name>Animation Flags</Display_Name>
+		<Flag>Blocking Anim</Flag>
+		<Flag>Controller Block Anim</Flag>
+		<Flag>Ready Anim</Flag>
+		<Flag>Idle Anim</Flag>
+		<Flag>Flinch Anim</Flag>
+		<Flag>Turn Anim</Flag>
+		<Flag>Throw Anim</Flag>
+		<Flag>Fire Anim</Flag>
+		<Flag>Reload Anim</Flag>
+		<Flag>Drug Use Anim</Flag>
+		<Flag>Jump Anim</Flag>
+		<Flag>Takeoff/Land Anim</Flag>
+		<Flag>Failed Pulled Out Anim</Flag>
+		<Flag>Non-Strafe Variation</Flag>
+		<Flag>Mute Footsteps</Flag>
+		<Flag>Failed Pullout Anim</Flag>
+		<Flag>Allow Swimming</Flag>
+		<Flag>Disable State IK Triggers</Flag>
+		</Element>
+	<Element>
+		<Name>Vehicle_Anim_Seat</Name>
+		<Type>Selection</Type>
+		<Display_Name>Vehicle Animation</Display_Name>
+		<Required>false</Required>
+		<Choice>Driver</Choice>
+		<Choice>Passenger</Choice>
+		<Choice>Rear Driver</Choice>
+		</Element>
+	<ReferencedBy>GML1.xtbl</ReferencedBy>
+	<ReferencedBy>GML3.xtbl</ReferencedBy>
+	<ReferencedBy>GML4.xtbl</ReferencedBy>
+	<ReferencedBy>PML1.xtbl</ReferencedBy>
+	<ReferencedBy>PFL1.xtbl</ReferencedBy>
+	<ReferencedBy>CML1.xtbl</ReferencedBy>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Affect Item</Name>
+		</Category>
+	<Category>
+		<Name>Base</Name>
+		<Category>
+			<Name>Arrest</Name>
+			</Category>
+		<Category>
+			<Name>Breakdancer</Name>
+			</Category>
+		<Category>
+			<Name>Cower</Name>
+			</Category>
+		<Category>
+			<Name>Crouch</Name>
+			</Category>
+		<Category>
+			<Name>Drunk</Name>
+			</Category>
+		<Category>
+			<Name>Fence Animations</Name>
+			</Category>
+		<Category>
+			<Name>Gang Signs</Name>
+			</Category>
+		<Category>
+			<Name>Idle</Name>
+			</Category>
+		<Category>
+			<Name>Jogger</Name>
+			</Category>
+		<Category>
+			<Name>Jumping</Name>
+			</Category>
+		<Category>
+			<Name>Lean</Name>
+			</Category>
+		<Category>
+			<Name>Lean</Name>
+			</Category>
+		<Category>
+			<Name>Lounge</Name>
+			</Category>
+		<Category>
+			<Name>Magazine Reader</Name>
+			</Category>
+		<Category>
+			<Name>PowerUps</Name>
+			</Category>
+		<Category>
+			<Name>Preacher</Name>
+			</Category>
+		<Category>
+			<Name>Reactions</Name>
+			</Category>
+		<Category>
+			<Name>Sex</Name>
+			<Category>
+				<Name>Sitting</Name>
+				</Category>
+			</Category>
+		<Category>
+			<Name>Siuational</Name>
+			</Category>
+		<Category>
+			<Name>Sleep</Name>
+			</Category>
+		<Category>
+			<Name>Sunbather</Name>
+			</Category>
+		<Category>
+			<Name>Surrender</Name>
+			</Category>
+		<Category>
+			<Name>Swim</Name>
+			</Category>
+		<Category>
+			<Name>Tagging</Name>
+			</Category>
+		<Category>
+			<Name>Talking</Name>
+			</Category>
+		<Category>
+			<Name>Taunt</Name>
+			</Category>
+		<Category>
+			<Name>Unique Motions</Name>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Beer</Name>
+		</Category>
+	<Category>
+		<Name>Combat</Name>
+		</Category>
+	<Category>
+		<Name>Cust</Name>
+		</Category>
+	<Category>
+		<Name>Flinches</Name>
+		</Category>
+	<Category>
+		<Name>Helicopter</Name>
+		</Category>
+	<Category>
+		<Name>Jumping/Landing</Name>
+		</Category>
+	<Category>
+		<Name>Melee</Name>
+		</Category>
+	<Category>
+		<Name>Other</Name>
+		</Category>
+	<Category>
+		<Name>Stripper</Name>
+		</Category>
+	<Category>
+		<Name>Throw</Name>
+		</Category>
+	<Category>
+		<Name>Turning</Name>
+		</Category>
+	<Category>
+		<Name>Vehicle</Name>
+		<Category>
+			<Name>Action</Name>
+			</Category>
+		<Category>
+			<Name>Close Door</Name>
+			</Category>
+		<Category>
+			<Name>Enter</Name>
+			</Category>
+		<Category>
+			<Name>Exit</Name>
+			</Category>
+		<Category>
+			<Name>Flinch</Name>
+			</Category>
+		<Category>
+			<Name>Hostage</Name>
+			</Category>
+		<Category>
+			<Name>Idle</Name>
+			</Category>
+		<Category>
+			<Name>Open Door</Name>
+			</Category>
+		<Category>
+			<Name>Pulled Out</Name>
+			</Category>
+		<Category>
+			<Name>Pullout</Name>
+			</Category>
+		<Category>
+			<Name>Slide Across</Name>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Weapon</Name>
+		<Category>
+			<Name>Actions</Name>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Zombie</Name>
+		</Category>
+	</EntryCategories>
+</root>

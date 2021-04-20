@@ -1,0 +1,128 @@
+<root>
+<Table>
+	<Wind_Stage>
+		<Name>Calm</Name>
+		<Display_Name>WIND_CALM</Display_Name>
+		<Stage_Settings>
+			<Chance>50</Chance>
+			<Average_Duration>14400</Average_Duration>
+			<Variance>0.5</Variance>
+			</Stage_Settings>
+		<Wind_Settings>
+			<Average_Intensity>0</Average_Intensity>
+			</Wind_Settings>
+		<Next_Stage_List>
+			<Next_Stage>Calm</Next_Stage>
+			<Next_Stage>Light Wind</Next_Stage>
+			</Next_Stage_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Wind_Stage>
+	<Wind_Stage>
+		<Name>Light Wind</Name>
+		<Display_Name>WIND_LIGHT</Display_Name>
+		<Stage_Settings>
+			<Chance>50</Chance>
+			<Average_Duration>14400</Average_Duration>
+			<Variance>0.5</Variance>
+			</Stage_Settings>
+		<Wind_Settings>
+			<Average_Intensity>0.3</Average_Intensity>
+			</Wind_Settings>
+		<Next_Stage_List>
+			<Next_Stage>Calm</Next_Stage>
+			<Next_Stage>Light Wind</Next_Stage>
+			</Next_Stage_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Wind_Stage>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Wind_Stage</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Wind Stage</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Reference>
+			<File>localized_exports\Weather_text.xtbl</File>
+			<Type>Weather_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Stage_Settings</Name>
+		<Type>Element</Type>
+		<Display_Name>Stage Settings</Display_Name>
+		<Element>
+			<Name>Chance</Name>
+			<Type>Float</Type>
+			<Description>The chance relative to all other stages that this stage will happen in a given time period.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Average_Duration</Name>
+			<Type>Float</Type>
+			<Display_Name>Average Duration</Display_Name>
+			<Description>Average Duration in seconds</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Variance</Name>
+			<Type>Float</Type>
+			<Display_Name>Duration Variance</Display_Name>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Wind_Settings</Name>
+		<Type>Element</Type>
+		<Display_Name>Wind Settings</Display_Name>
+		<Element>
+			<Name>Average_Intensity</Name>
+			<Type>Float</Type>
+			<Display_Name>Average Intensity</Display_Name>
+			<Description>The average wind intensity for this stage (0.0 = no wind, 1.0 = full strength)</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			<UseSlider>True</UseSlider>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Next_Stage_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Possible Next Stage</Display_Name>
+		<Element>
+			<Name>Next_Stage</Name>
+			<Type>Reference</Type>
+			<Display_Name>Next Stage</Display_Name>
+			<Reference>
+				<File>wind.xtbl</File>
+				<Type>Wind_Stage.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

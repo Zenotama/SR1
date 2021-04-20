@@ -1,0 +1,258 @@
+<root>
+   <Table></Table>
+
+   <TableTemplates>
+   </TableTemplates>
+
+   <TableDescription>
+      <Name>Region</Name>
+      <Type>TableDescription</Type>
+      <Element>
+         <Name>Name</Name>
+         <Type>String</Type>
+      </Element>
+      <Element>
+         <Name>Levels</Name>
+         <Type>List</Type>
+         <Description>All of the levels available in the region.</Description>
+         <Element>
+            <Name>Level</Name>
+            <Type>Element</Type>
+            <Description>The description of the level.</Description>
+            <Element>
+               <Name>Required_Weapon</Name>
+               <Type>Element</Type>
+               <Display_Name>Required Weapon</Display_Name>
+               <Description>Information about the required weapon, if any.</Description>
+               <Required>false</Required>
+               <Element>
+                  <Name>Type</Name>
+                  <Type>Reference</Type>
+                  <Description>The type of weapon.</Description>
+                  <Reference>
+                     <File>weapons.xtbl</File>
+                     <Type>Weapon.Name</Type>
+                  </Reference>
+               </Element>
+               <Element>
+                  <Name>Quantity</Name>
+                  <Type>Int</Type>
+                  <Display_Name>Weapon Quantity</Display_Name>
+                  <Description>For guns, the number of magazines.  For thrown, the quantity.  For melee, ignored.</Description>
+                  <Default>1</Default>
+                  <MinValue>1</MinValue>
+               </Element>
+            </Element>
+            <Element>
+               <Name>Kill_In_Vehicle</Name>
+               <Type>Selection</Type>
+               <Display_Name>Must Kill In Vehicle</Display_Name>
+               <Description>Whether the player must kill the marks from a vehicle.</Description>
+               <Default>false</Default>
+               <Choice>true</Choice>
+               <Choice>false</Choice>
+            </Element>
+            <Element>
+               <Name>Time</Name>
+               <Type>Int</Type>
+               <Description>The amount of time, in seconds, to complete the level.</Description>
+               <Default>120</Default>
+               <MinValue>1</MinValue>
+            </Element>
+            <Element>
+               <Name>Marks</Name>
+               <Type>List</Type>
+               <Description>All the Marks the must be killed in order to complete the level.</Description>
+               <Element>
+                  <Name>Mark</Name>
+                  <Type>Element</Type>
+                  <Description>Description of a mark.</Description>
+                  <Element>
+                     <Name>Character</Name>
+                     <Type>Reference</Type>
+                     <Description>The character the mark will use.</Description>
+                     <Reference>
+                        <File>character.xtbl</File>
+                        <Type>Character.Name</Type>
+                     </Reference>
+                  </Element>
+                  <Element>
+                     <Name>Movement</Name>
+                     <Type>ComboElement</Type>
+                     <Description>How the mark is moving.</Description>
+                     <Element>
+                        <Name>Standing</Name>
+                        <Type>Reference</Type>
+                        <Description>Where the mark is standing.</Description>
+                        <Required>false</Required>
+                        <Reference>
+                           <File>template_navpoints.xtbl</File>
+                           <Type>Navpoint.Name</Type>
+                        </Reference>
+                     </Element>
+                     <Element>
+                        <Name>Foot</Name>
+                        <Type>Reference</Type>
+                        <Display_Name>On Foot</Display_Name>
+                        <Description>The path that the mark will follow.</Description>
+                        <Required>false</Required>
+                        <Reference>
+                           <File>template_hitman.xtbl</File>
+                           <Type>Region.Levels.Level.Paths.Path.Name</Type>
+                        </Reference>
+                     </Element>
+                     <Element>
+                        <Name>Vehicle</Name>
+                        <Type>Reference</Type>
+                        <Display_Name>In Vehicle</Display_Name>
+                        <Description>The vehicle the mark is in.</Description>
+                        <Required>false</Required>
+                        <Reference>
+                           <File>template_hitman.xtbl</File>
+                           <Type>Region.Levels.Level.Vehicles.Vehicle.Name</Type>
+                        </Reference>
+                     </Element>
+                  </Element>
+               </Element>
+               <Max_Children>5</Max_Children>
+               <Min_Children>1</Min_Children>
+            </Element>
+            <Element>
+               <Name>Vehicles</Name>
+               <Type>List</Type>
+               <Description>All of the vehicles that will be used in the level.</Description>
+               <Element>
+                  <Name>Vehicle</Name>
+                  <Type>Element</Type>
+                  <Element>
+                     <Name>Name</Name>
+                     <Type>String</Type>
+                     <Description>Used only for identifying the vehicle.</Description>
+                     <Unique>true</Unique>
+                  </Element>
+                  <Element>
+                     <Name>Type</Name>
+                     <Type>Reference</Type>
+                     <Description>The type of vehicle.</Description>
+                     <Reference>
+                        <File>vehicles.xtbl</File>
+                        <Type>Vehicle.Name</Type>
+                     </Reference>
+                  </Element>
+                  <Element>
+                     <Name>Movement</Name>
+                     <Type>ComboElement</Type>
+                     <Element>
+                        <Name>Parked</Name>
+                        <Type>Reference</Type>
+                        <Description>Where the vehicle is parked</Description>
+                        <Required>false</Required>
+                        <Reference>
+                           <File>template_navpoints.xtbl</File>
+                           <Type>Navpoint.Name</Type>
+                        </Reference>
+                     </Element>
+                     <Element>
+                        <Name>Driving</Name>
+                        <Type>Reference</Type>
+                        <Description>The path the vehicle is following.</Description>
+                        <Required>false</Required>
+                        <Reference>
+                           <File>template_hitman.xtbl</File>
+                           <Type>Region.Levels.Level.Paths.Path.Name</Type>
+                        </Reference>
+                     </Element>
+                  </Element>
+               </Element>
+               <Max_Children>5</Max_Children>
+               <Element_Name>Vehicle.Name</Element_Name>
+            </Element>
+            <Element>
+               <Name>Paths</Name>
+               <Type>List</Type>
+               <Description>All of the paths used by vehicles or marks.</Description>
+               <Element>
+                  <Name>Path</Name>
+                  <Type>Element</Type>
+                  <Description>A path.</Description>
+                  <Element>
+                     <Name>Name</Name>
+                     <Type>String</Type>
+                     <Description>Used only for identifying the path.</Description>
+                     <Unique>true</Unique>
+                  </Element>
+                  <Element>
+                     <Name>Locations</Name>
+                     <Type>List</Type>
+                     <Description>The locations in the path.  Assumed to be looping.</Description>
+                     <Element>
+                        <Name>Location</Name>
+                        <Type>Reference</Type>
+                        <Description>A location in the path.</Description>
+                        <Reference>
+                           <File>\template_navpoints.xtbl</File>
+                           <Type>Navpoint.Name</Type>
+                        </Reference>
+                     </Element>
+                     <Max_Children>20</Max_Children>
+                     <Min_Children>2</Min_Children>
+                     <Element_Name>Location</Element_Name>
+                  </Element>
+               </Element>
+               <Max_Children>5</Max_Children>
+               <Element_Name>Path.Name</Element_Name>
+            </Element>
+            <Element>
+               <Name>Cash_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Cash Award</Display_Name>
+               <Description>Cash to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Props_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Props Award</Display_Name>
+               <Description>Props to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+         </Element>
+         <Max_Children>8</Max_Children>
+         <Min_Children>1</Min_Children>
+      </Element>
+      <Element>
+         <Name>Return_Location</Name>
+         <Type>Reference</Type>
+         <Display_Name>Return Location</Display_Name>
+         <Description>Where the player must return to after killing the marks.</Description>
+         <Reference>
+            <File>template_navpoints.xtbl</File>
+            <Type>Navpoint.Name</Type>
+         </Reference>
+      </Element>
+      <Element>
+         <Name>Max_Cash</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Cash Award</Display_Name>
+         <Description>Cash award for completing the maximum level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Max_Props</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Props Award</Display_Name>
+         <Description>Props to be given for completing the last level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+   </TableDescription>
+
+   <EntryCategories>
+      <Category>
+         <Name>Entries</Name>
+      </Category>
+   </EntryCategories>
+</root>

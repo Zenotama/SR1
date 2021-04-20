@@ -1,0 +1,205 @@
+<root>
+   <Table></Table>
+
+   <TableTemplates>
+   </TableTemplates>
+
+   <TableDescription>
+      <Name>Region</Name>
+      <Type>TableDescription</Type>
+      <Description>A description of a pimping region</Description>
+      <Element>
+         <Name>Name</Name>
+         <Type>String</Type>
+         <Description>Name of the pimping region</Description>
+      </Element>
+      <Element>
+         <Name>Levels</Name>
+         <Type>List</Type>
+         <Description>A list of all the levels in the activity</Description>
+         <Element>
+            <Name>Level</Name>
+            <Type>Element</Type>
+            <Description>A level description</Description>
+            <Element>
+               <Name>Goal</Name>
+               <Type>Int</Type>
+               <Display_Name>Ho Goal</Display_Name>
+               <Description>Number of hos you must deliver to complete the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>18</MaxValue>
+            </Element>
+            <Element>
+               <Name>Ho_Count</Name>
+               <Type>Int</Type>
+               <Display_Name>Ho Count</Display_Name>
+               <Description>(CURRENTLY IGNORED) How many hos to spawn</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Thug_Count</Name>
+               <Type>Int</Type>
+               <Display_Name>Thug Count</Display_Name>
+               <Description>(CURRENTLY IGNORED) How many thugs to spawn</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Location_Count</Name>
+               <Type>Int</Type>
+               <Display_Name>Location Count</Display_Name>
+               <Description>Number of locations to spawn peeps at</Description>
+               <Default>1</Default>
+               <MinValue>1</MinValue>
+            </Element>
+            <Element>
+               <Name>Locations</Name>
+               <Type>List</Type>
+               <Description>A list of the locations used by the level</Description>
+               <Element>
+                  <Name>Location</Name>
+                  <Type>Reference</Type>
+                  <Description>A location reference</Description>
+                  <Reference>
+                     <File>template_pimping.xtbl</File>
+                     <Type>Region.Locations.Location.Location_Name</Type>
+                  </Reference>
+               </Element>
+               <Max_Children>6</Max_Children>
+               <Element_Name>Location</Element_Name>
+            </Element>
+            <Element>
+               <Name>Props</Name>
+               <Type>Int</Type>
+               <Display_Name>Props Award</Display_Name>
+               <Description>The props award for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+         </Element>
+         <Max_Children>8</Max_Children>
+      </Element>
+      <Element>
+         <Name>Locations</Name>
+         <Type>List</Type>
+         <Description>A list of the available locations</Description>
+         <Element>
+            <Name>Location</Name>
+            <Type>Element</Type>
+            <Description>A description of a location</Description>
+            <Element>
+               <Name>Location_Name</Name>
+               <Type>String</Type>
+               <Display_Name>Location Name</Display_Name>
+               <Description>The unique name of the location</Description>
+               <Unique>true</Unique>
+            </Element>
+            <Element>
+               <Name>Ho_Spawns</Name>
+               <Type>List</Type>
+               <Display_Name>Ho Spawn Locations</Display_Name>
+               <Description>A list of places to spawn hos</Description>
+               <Element>
+                  <Name>Ho_Spawn</Name>
+                  <Type>Reference</Type>
+                  <Display_Name>Ho Spawn Location</Display_Name>
+                  <Description>A place to spawn a ho</Description>
+                  <Reference>
+                     <File>template_navpoints.xtbl</File>
+                     <Type>Navpoint.Name</Type>
+                  </Reference>
+               </Element>
+               <Max_Children>8</Max_Children>
+               <Element_Name>Ho_Spawn</Element_Name>
+            </Element>
+            <Element>
+               <Name>Pimp_Spawn</Name>
+               <Type>Reference</Type>
+               <Display_Name>Pimp Spawn Location</Display_Name>
+               <Description>Where to spawn the pimp</Description>
+               <Reference>
+                  <File>template_navpoints.xtbl</File>
+                  <Type>Navpoint.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Thug_Spawns</Name>
+               <Type>List</Type>
+               <Display_Name>Thug Spawn Locations</Display_Name>
+               <Description>A list of places to spawn thugs</Description>
+               <Element>
+                  <Name>Thug_Spawn</Name>
+                  <Type>Reference</Type>
+                  <Display_Name>Thug Spawn Locations</Display_Name>
+                  <Description>A place to spawn a thug</Description>
+                  <Reference>
+                     <File>template_navpoints.xtbl</File>
+                     <Type>Navpoint.Name</Type>
+                  </Reference>
+               </Element>
+               <Max_Children>8</Max_Children>
+               <Element_Name>Thug_Spawn</Element_Name>
+            </Element>
+         </Element>
+         <Max_Children>6</Max_Children>
+         <Element_Name>Location</Element_Name>
+      </Element>
+      <Element>
+         <Name>Ho_Drop</Name>
+         <Type>Reference</Type>
+         <Display_Name>Ho Dropoff Location</Display_Name>
+         <Description>Location to drop off the hos at</Description>
+         <Reference>
+            <File>template_navpoints.xtbl</File>
+            <Type>Navpoint.Name</Type>
+         </Reference>
+      </Element>
+      <Element>
+         <Name>Quota</Name>
+         <Type>Int</Type>
+         <Description>Number of hos recruited to complete the activity</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Quota_Props</Name>
+         <Type>Int</Type>
+         <Display_Name>Quota Props Award</Display_Name>
+         <Description>Number of props given for completing the quota</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Quota_Cash</Name>
+         <Type>Int</Type>
+         <Display_Name>Quota Cash Award</Display_Name>
+         <Description>Money given for completing the quota</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Level_Props</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Level Props Award</Display_Name>
+         <Description>Props award given for completing the maximum difficulty level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Level_Cash</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Level Cash Award</Display_Name>
+         <Description>Cash given for completing the maximum difficulty level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+   </TableDescription>
+
+   <EntryCategories>
+      <Category>
+         <Name>Entries</Name>
+      </Category>
+   </EntryCategories>
+</root>

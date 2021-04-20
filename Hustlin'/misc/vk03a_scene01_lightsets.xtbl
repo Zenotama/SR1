@@ -1,0 +1,973 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Dawn3</Name>
+		<StartTime>800</StartTime>
+		<EndTime>1759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.965 0.969 0.757</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.9778 2.09376 1.09569</Position>
+				<Orientation>-0.1469 -0.1881 -0.5979 0.7653</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10821 0.171042</Hotspot>
+				<Attenuation>3.625 4.325</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.875 0.95 0.977</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.826024 4.13469 -4.06761</Position>
+				<Orientation>0.4689 -0.1347 -0.0657 0.8706</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0776671 0.0951204</Hotspot>
+				<Attenuation>4.975 5.225</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.863 0.969 0.981</Color>
+				<Multiplier>0.25</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.38397 3.18023 3.29559</Position>
+				<Orientation>-0.4523 -0.4347 0.269 0.7309</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.150971 0.262672</Hotspot>
+				<Attenuation>5.25 5.425</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.867 0.977 0.981</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.8089 4.38849 -4.26868</Position>
+				<Orientation>0.4512 0.311 0.1714 0.8189</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0541052 0.0733038</Hotspot>
+				<Attenuation>6.675 6.875</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.91 0.953 0.985</Color>
+				<Multiplier>0.37</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.49037 2.88745 -0.962383</Position>
+				<Orientation>0.4995 -0.4456 -0.3358 0.6629</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.102102 0.149226</Hotspot>
+				<Attenuation>7.225 8.2</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.989 0.965 0.867</Color>
+				<Multiplier>0.44</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.232163 1.19025 0.651639</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dawn Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.997 0.738 0.738</Color>
+				<Multiplier>0.2</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.25482 1.79639 0.135628</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Level_Ambient>
+					<R>106</R>
+					<G>106</G>
+					<B>106</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midday3</Name>
+		<StartTime>1800</StartTime>
+		<EndTime>2059</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midday FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.989 0.902 0.75</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.9778 2.09376 1.09569</Position>
+				<Orientation>-0.1469 -0.1881 -0.5979 0.7653</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10821 0.171042</Hotspot>
+				<Attenuation>3.625 4.325</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.938 0.84 0.71</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.826024 4.13469 -4.06761</Position>
+				<Orientation>0.4689 -0.1347 -0.0657 0.8706</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0776671 0.0951204</Hotspot>
+				<Attenuation>4.975 5.225</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.953 0.801 0.467</Color>
+				<Multiplier>0.69</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.38397 3.18023 3.29559</Position>
+				<Orientation>-0.4523 -0.4347 0.269 0.7309</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.150971 0.262672</Hotspot>
+				<Attenuation>5.25 5.425</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.953 0.797 0.671</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.8089 4.38849 -4.26868</Position>
+				<Orientation>0.4512 0.311 0.1714 0.8189</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0541052 0.0733038</Hotspot>
+				<Attenuation>6.675 6.875</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.879 0.804</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.49037 2.88745 -0.962383</Position>
+				<Orientation>0.4995 -0.4456 -0.3358 0.6629</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.102102 0.149226</Hotspot>
+				<Attenuation>7.225 8.2</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.981 0.906 0.71</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.232163 1.19025 0.651639</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midday PC Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.981 0.906 0.71</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.51312 1.62727 -0.374906</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List>vk_b_f_aisha-disguise cs_hirezburger cs_foodtable cs_hirezfries TS_A_M_JohnnyGat cs_fbitchestable cs_fbitchestable</Exclude_List>
+				<Exclude_List_Original_Names>Aisha01 burger01 FoodTable01 fries01 johnny01 Table101 Table201</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Level_Ambient>
+					<R>107</R>
+					<G>107</G>
+					<B>107</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dusk3</Name>
+		<StartTime>2100</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.985 0.801 0.401</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.826024 4.13469 -4.06761</Position>
+				<Orientation>0.4689 -0.1347 -0.0657 0.8706</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0776671 0.0951204</Hotspot>
+				<Attenuation>4.975 5.225</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.726 0.726 0.726</Color>
+				<Multiplier>0.19</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.38397 3.18023 3.29559</Position>
+				<Orientation>-0.4523 -0.4347 0.269 0.7309</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.150971 0.262672</Hotspot>
+				<Attenuation>5.25 5.425</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.455 0.687 0.946</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.8089 4.38849 -4.26868</Position>
+				<Orientation>0.4512 0.311 0.1714 0.8189</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0541052 0.0733038</Hotspot>
+				<Attenuation>6.675 6.875</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.973 0.812</Color>
+				<Multiplier>1.14</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.69515 2.88745 -0.880474</Position>
+				<Orientation>0.5097 -0.4249 -0.3202 0.6763</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.349066 0.610865</Hotspot>
+				<Attenuation>7.225 8.2</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.977 0.844</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.9778 2.09376 1.09569</Position>
+				<Orientation>-0.1469 -0.1881 -0.5979 0.7653</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10821 0.171042</Hotspot>
+				<Attenuation>3.625 4.325</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.808 0.95</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.548529 1.19025 0.526185</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Dusk PC Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.867 0.871 0.844</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.64147 1.19025 -1.14326</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List>vk_b_f_aisha-disguise cs_hirezburger cs_foodtable cs_hirezfries TS_A_M_JohnnyGat cs_fbitchestable cs_fbitchestable</Exclude_List>
+				<Exclude_List_Original_Names>Aisha01 burger01 FoodTable01 fries01 johnny01 Table101 Table201</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Level_Ambient>
+					<R>84</R>
+					<G>84</G>
+					<B>84</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>39</R>
+					<G>39</G>
+					<B>39</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>500</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.985 0.801 0.401</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.826024 4.13469 -4.06761</Position>
+				<Orientation>0.4689 -0.1347 -0.0657 0.8706</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0776671 0.0951204</Hotspot>
+				<Attenuation>4.975 5.225</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.726 0.726 0.726</Color>
+				<Multiplier>0.19</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.38397 3.18023 3.29559</Position>
+				<Orientation>-0.4523 -0.4347 0.269 0.7309</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.150971 0.262672</Hotspot>
+				<Attenuation>5.25 5.425</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.455 0.687 0.946</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.8089 4.38849 -4.26868</Position>
+				<Orientation>0.4512 0.311 0.1714 0.8189</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0541052 0.0733038</Hotspot>
+				<Attenuation>6.675 6.875</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.997 0.973 0.812</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.69515 2.88745 -0.880474</Position>
+				<Orientation>0.5097 -0.4249 -0.3202 0.6763</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.349066 0.610865</Hotspot>
+				<Attenuation>7.225 8.2</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.977 0.844</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.9778 2.09376 1.09569</Position>
+				<Orientation>-0.1469 -0.1881 -0.5979 0.7653</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10821 0.171042</Hotspot>
+				<Attenuation>3.625 4.325</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.808 0.95</Color>
+				<Multiplier>0.35</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.548529 1.19025 0.526185</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Midnight PC Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.867 0.871 0.844</Color>
+				<Multiplier>0.57</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.91845 1.19025 -1.31009</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List>vk_b_f_aisha-disguise cs_hirezburger cs_foodtable cs_hirezfries TS_A_M_JohnnyGat cs_fbitchestable cs_fbitchestable</Exclude_List>
+				<Exclude_List_Original_Names>Aisha01 burger01 FoodTable01 fries01 johnny01 Table101 Table201</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Level_Ambient>
+					<R>90</R>
+					<G>90</G>
+					<B>90</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Moon Set5</Name>
+		<StartTime>501</StartTime>
+		<EndTime>759</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.82 0.546</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.9778 2.09376 1.09569</Position>
+				<Orientation>-0.1469 -0.1881 -0.5979 0.7653</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10821 0.171042</Hotspot>
+				<Attenuation>3.625 4.325</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.938 0.84 0.71</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.826024 4.13469 -4.06761</Position>
+				<Orientation>0.4689 -0.1347 -0.0657 0.8706</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0776671 0.0951204</Hotspot>
+				<Attenuation>4.975 5.225</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.953 0.801 0.467</Color>
+				<Multiplier>0.96</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.38397 3.18023 3.29559</Position>
+				<Orientation>-0.4523 -0.4347 0.269 0.7309</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.150971 0.262672</Hotspot>
+				<Attenuation>5.25 5.425</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.953 0.797 0.671</Color>
+				<Multiplier>1.01</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.8089 4.38849 -4.26868</Position>
+				<Orientation>0.4512 0.311 0.1714 0.8189</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.0541052 0.0733038</Hotspot>
+				<Attenuation>6.675 6.875</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset FreeSpot20</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.973 0.879 0.804</Color>
+				<Multiplier>0.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.49037 2.88745 -0.962383</Position>
+				<Orientation>0.4995 -0.4456 -0.3358 0.6629</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.102102 0.149226</Hotspot>
+				<Attenuation>7.225 8.2</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Moonset Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.981 0.906 0.71</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.232163 1.19025 0.651639</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.0 5.0</Attenuation>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_freckle_bitches</Slate_Name>
+				<Level_Ambient>
+					<R>104</R>
+					<G>104</G>
+					<B>104</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,332 @@
+<root>
+<Table>
+	<Camera>
+		<Name>Camera</Name>
+		<panning_group>
+			<fast_pan_horizontal_multiplier>7.5</fast_pan_horizontal_multiplier>
+			<fast_pan_vertical_multiplier>4</fast_pan_vertical_multiplier>
+			<slow_pan_horizontal_multiplier>0.7</slow_pan_horizontal_multiplier>
+			<slow_pan_vertical_multiplier>0.6</slow_pan_vertical_multiplier>
+			<zoom_scale>0.25</zoom_scale>
+			<fast_pan_input_threshold>0.50</fast_pan_input_threshold>
+			<Notes>The idea is to try to divide panning into a fine-aiming circle and a fast movement circle. Within the fine aiming circle, the slow-pan constants are used. Within the fast movement circle, the fast-pan constants are used. To make this seem smoother for the user, we adjust the equations involved so that the user input  at the maximum amount of slow-panning speed gives us the same desired speed as the minimum amount of fast-panning speed.</Notes>
+			<accel_scale>.75</accel_scale>
+			<decel_scale>10.0</decel_scale>
+			<hpan_threshold>0.15</hpan_threshold>
+			<vpan_threshold>0.20</vpan_threshold>
+			</panning_group>
+		<asvct_group>
+			<default_time>3.0</default_time>
+			<stationary_time>0.5</stationary_time>
+			<stationary_threshold>1.0</stationary_threshold>
+			</asvct_group>
+		<crouch_group>
+			<crouch_y_offset>0.45</crouch_y_offset>
+			<crouch_damping>0.25</crouch_damping>
+			<dead_crouch_damping>0.75</dead_crouch_damping>
+			<crouch_max_accel>3.0</crouch_max_accel>
+			<Notes>In any given frame of processing, we're trying to approach the desired crouch amount by the difference between our current value and our desired multiplied by crouch_damping. So at .25, we're trying to approach the ideal crouch offset by 1/4th of the difference between where we are and where we want to be. This effect is capped by the crouch_max_vel. So while damping effects how badly we _want_ to be there, the max_vel effects how quickly we _can_ be there.</Notes>
+			</crouch_group>
+		<follow_aggression_group>
+			<default_swing_rate>0.02526</default_swing_rate>
+			<Notes>ALTER THIS VALUE AT YOUR OWN RISK!
+
+This will scale all follow aggression effects in the game, and the math is very sensitive...</Notes>
+			</follow_aggression_group>
+		<hill_tracking_group>
+			<default_aggression>0.95</default_aggression>
+			</hill_tracking_group>
+		<miscellany_group>
+			<pitch_reset_time>1.3</pitch_reset_time>
+			<backaway_speed>3.0</backaway_speed>
+			</miscellany_group>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Camera>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Camera</Name>
+	<Type>TableDescription</Type>
+	<Description>Everything we can expose (so far) regarding camera 
+behaviors.</Description>
+	<Unique>true</Unique>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		<Default>Camera</Default>
+		<MaxLength>6</MaxLength>
+		</Element>
+	<Element>
+		<Name>panning_group</Name>
+		<Type>Element</Type>
+		<Description>Variables concerning the panning behavior of the 
+camera.</Description>
+		<Element>
+			<Name>fast_pan_horizontal_multiplier</Name>
+			<Type>Float</Type>
+			<Description>When the stick is pegged, multiply horizontal movement 
+by this amount.</Description>
+			<Default>8.0</Default>
+			</Element>
+		<Element>
+			<Name>fast_pan_vertical_multiplier</Name>
+			<Type>Float</Type>
+			<Description>When the stick is pegged, multiply vertical movement by 
+this amount.</Description>
+			<Default>4.0</Default>
+			</Element>
+		<Element>
+			<Name>slow_pan_horizontal_multiplier</Name>
+			<Type>Float</Type>
+			<Description>Multiply horizontal movement by this amount.</Description>
+			<Default>0.3</Default>
+			</Element>
+		<Element>
+			<Name>slow_pan_vertical_multiplier</Name>
+			<Type>Float</Type>
+			<Description>Multiply vertical movement by this amount.</Description>
+			<Default>0.7</Default>
+			</Element>
+		<Element>
+			<Name>zoom_scale</Name>
+			<Type>Float</Type>
+			<Description>When zoomed, multiply all movement by this amount.</Description>
+			<Default>0.4</Default>
+			</Element>
+		<Element>
+			<Name>fast_pan_input_threshold</Name>
+			<Type>Float</Type>
+			<Description>How far off-center must the stick be before it is considered 
+"pegged"?</Description>
+			<Default>0.75</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>accel_scale</Name>
+			<Type>Float</Type>
+			<Description>Radians/sec/sec to accelerate the camera's 
+movement by when in the "fast-pan" zone. Maximum 
+speed will still be capped by the fast-pan multipliers.</Description>
+			<Default>6.0</Default>
+			</Element>
+		<Element>
+			<Name>decel_scale</Name>
+			<Type>Float</Type>
+			<Description>Radians/sec/sec to decelerate the camera by 
+when in the fast-pan zone. (There is a small region of 
+movement in the fast-pan zone, but this is mostly a relic 
+from when all camera movement was based in 
+acceleration/deceleration.)</Description>
+			<Default>10.0</Default>
+			</Element>
+		<Element>
+			<Name>hpan_threshold</Name>
+			<Type>Float</Type>
+			<Display_Name>pegged_horizontal_deadzone</Display_Name>
+			<Description>If the stick is pegged, it must have at least this much 
+horizontal input for the camera to move horizontally. 
+
+Think of it like a plus-sign you can make with the stick which 
+only allows either vertical or horizontal movement - outside 
+of this plus sign you get both horizontal and vertical, but 
+within this plus sign you only get one or the other. This 
+value sets the width of the up-down bar of the plus-sign 
+where there will only be vertical movement.</Description>
+			<Default>0.04</Default>
+			</Element>
+		<Element>
+			<Name>vpan_threshold</Name>
+			<Type>Float</Type>
+			<Display_Name>pegged_vertical_deadzone</Display_Name>
+			<Description>If the stick is pegged, it must have at least this much 
+vertical input for the camera to move vertically.
+
+Picking up from the description of the 
+pegged_horizontal_deadzone, this value adjusts the height of 
+the left-right bar of the plus-sign where there will only 
+be horizontal movement.</Description>
+			<Default>0.04</Default>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>asvct_group</Name>
+		<Type>Element</Type>
+		<Description>Variables concerning the Alvan's Special Vehicle 
+Camera Timestamp, one of our worst-named variables ever, 
+and the timestamp that is responsible for determining 
+how long we make the camera "stick" in a position 
+relative to the vehicle after it has been moved by the user.</Description>
+		<Element>
+			<Name>default_time</Name>
+			<Type>Float</Type>
+			<Description>The default time (seconds) that we stick the camera 
+in-place after the user has moved it.</Description>
+			<Default>3.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>stationary_time</Name>
+			<Type>Float</Type>
+			<Description>Time (seconds) that we stick the camera in-place when the 
+user moves it around a stationary vehicle.</Description>
+			<Default>0.5</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>stationary_threshold</Name>
+			<Type>Float</Type>
+			<Description>Maxmimum velocity (meters/second) squared at 
+which a vehicle is considered stationary for the sake of 
+choosing how long to stick the camera in place after the user 
+has moved it around the
+vehicle.</Description>
+			<Default>1.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>crouch_group</Name>
+		<Type>Element</Type>
+		<Description>Variables concerning the camera following the player as 
+they crouch.</Description>
+		<Element>
+			<Name>crouch_y_offset</Name>
+			<Type>Float</Type>
+			<Description>Maximum amount will we drop the camera by when it's at 
+100% crouch.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>crouch_damping</Name>
+			<Type>Float</Type>
+			<Description>Damping constant for crouch offset. Larger values make us 
+try to crouch faster.</Description>
+			<Default>0.25</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>dead_crouch_damping</Name>
+			<Type>Float</Type>
+			<Description>Damping constant for crouching, like above but this one is used when the target is 
+dead.</Description>
+			<Default>0.75</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>crouch_max_accel</Name>
+			<Type>Float</Type>
+			<Display_Name>crouch_max_vel</Display_Name>
+			<Description>The maximum amount we're allowed to move towards the 
+goal crouch amount per second. This applies to the 
+percentage towards the new value, not the value itself, so a 
+value of 1 allows us to move fully to crouch over a minimum 
+of 1 second, a value of 3 allows us to move fully to 
+crouch over a minimum of 1/3 of a second, etc.</Description>
+			<Default>3.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>follow_aggression_group</Name>
+		<Type>Element</Type>
+		<Description>Variables concerning Flavin's follow aggression system.</Description>
+		<Element>
+			<Name>default_swing_rate</Name>
+			<Type>Float</Type>
+			<Description>The default swing rate of the camera as it tries to follow the 
+target according to the follow aggression system.
+
+Basically, this scales the efffects of the follow 
+aggression system.</Description>
+			<Default>0.02526</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>hill_tracking_group</Name>
+		<Type>Element</Type>
+		<Description>Variables concerning hill-tracking when the player is 
+in a vehicle.</Description>
+		<Element>
+			<Name>default_aggression</Name>
+			<Type>Float</Type>
+			<Description>Default hill tracking aggression. Larger values 
+make the camera try harder to follow the slope of a hill, 
+smaller values make the camera more lenient.</Description>
+			<Default>0.95</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>miscellany_group</Name>
+		<Type>Element</Type>
+		<Description>Miscellaneous values.</Description>
+		<Element>
+			<Name>pitch_reset_time</Name>
+			<Type>Float</Type>
+			<Description>Time (seconds) for the camera to spend resetting its pitch 
+from an arbitrary value.</Description>
+			<Default>1.3</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>backaway_speed</Name>
+			<Type>Float</Type>
+			<Description>Speed (meters/sec) that the camera will try to back away from a target when an obstruction forced it to come closer to the target than the angle's ideal distance suggested.</Description>
+			<Default>3.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Description>Notes about the variables here.</Description>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

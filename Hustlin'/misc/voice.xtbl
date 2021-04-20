@@ -1,0 +1,87 @@
+<root>
+<Table></Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Voice</Name>
+	<Type>TableDescription</Type>
+	<Description>A sound or sound set.</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Voice Name</Display_Name>
+		<Description>Name of the foley set.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>AudioBanks</Name>
+		<Type>Reference</Type>
+		<Display_Name>Audio Banks</Display_Name>
+		<Reference>
+			<File>audio_banks.xtbl</File>
+			<Type>AudioBanks.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Focused</Name>
+		<Type>Reference</Type>
+		<Required>false</Required>
+		<Default>50</Default>
+		<Reference>
+			<File>focused_audio.xtbl</File>
+			<Type>FocusedAudio.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>SphereProperties</Name>
+		<Type>Element</Type>
+		<Display_Name>Sphere Properties</Display_Name>
+		<Element>
+			<Name>MinRadius</Name>
+			<Type>Float</Type>
+			<Display_Name>Min Radius</Display_Name>
+			<Default>2.0</Default>
+			</Element>
+		<Element>
+			<Name>MaxRadius</Name>
+			<Type>Float</Type>
+			<Display_Name>Max Radius</Display_Name>
+			<Default>20.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Variations</Name>
+		<Type>Grid</Type>
+		<Description>The different variations on this voice line.</Description>
+		<Element>
+			<Name>Variation</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Var</Name>
+				<Type>Filename</Type>
+				<Display_Name>Variation</Display_Name>
+				<Extension>wav</Extension>
+				<StartingPath>data\audio\GENERAL</StartingPath>
+				</Element>
+			<Element>
+				<Name>Emotion</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>emotions.xtbl</File>
+					<Type>Emotion.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Voice</Name>
+		</Category>
+	</EntryCategories>
+</root>

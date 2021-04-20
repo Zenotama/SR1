@@ -1,0 +1,52 @@
+<root>
+<Table>
+	<Activity>
+		<Name>phasefive_racing</Name>
+		<Type>Racing</Type>
+		<File>
+			<Filename>p5_racing_activity.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Choice>Fraud</Choice>
+		<Choice>Hijacking</Choice>
+		<Choice>Hitman</Choice>
+		<Choice>Pimping</Choice>
+		<Choice>Racing</Choice>
+		<Choice>Smuggling</Choice>
+		<Choice>Theft</Choice>
+		<Choice>Trafficking</Choice>
+		<Choice>Vandalism</Choice>
+		</Element>
+	<Element>
+		<Name>File</Name>
+		<Type>Filename</Type>
+		<Display_Name>Table File</Display_Name>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\levels\PhaseFive\activities</StartingPath>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

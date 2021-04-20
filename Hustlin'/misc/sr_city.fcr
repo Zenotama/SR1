@@ -1,0 +1,165 @@
+$Region: "fcr_01_01"
+$Zone: 279 41 280
+
+$Region: "fcr_03_01"
+$Zone: 264 93 300
+
+$Region: "fcr_03_02"
+$Zone: 207 84 400
+
+$Region: "fcr_03_03"
+$Zone: 163 70 500
+
+$Region: "fcr_01_02"
+$Zone: 279 36 370
+
+$Region: "sr_chunk02_fcr01"
+$Zone: 327 42 460
+$Zone: 13 50 490
+$Zone: 68 59 401
+$Zone: 162 130 265
+$Zone: 267 79 500
+
+$Region: "sr_chunk02_fcr02"
+$Zone: 247 56 150
+$Zone: 152 70 220
+$Zone: 339 54 480
+$Zone: 66 51 350
+
+$Region: "sr_chunk02_fcr03"
+$Zone: 331 70 550
+$Zone: 240 80 250
+$Zone: 151 80 450
+$Zone: 60 100 340
+
+$Region: "sr_chunk02_fcr04"
+$Zone: 241 70 300
+$Zone: 326 80 400
+$Zone: 59 90 200
+$Zone: 150 80 250
+
+$Region: "fcr_03_04"
+$Zone: 220 80 500
+
+$Region: "fcr_02_01"
+$Zone: 260 90 290
+
+$Region: "fcr_04_01"
+$Zone: 270 40 200
+$Zone: 350 20 1000
+
+$Region: "fcr_04b_01"
+$Zone: 340 50 280
+
+$Region: "fcr_04_02"
+$Zone: 90 160 30
+$Zone: 270 200 670
+
+$Region: "fcr_02_liq_01"
+$Zone: 344 166 20
+$Zone: 78 22 20
+$Zone: 194 133 200
+$Zone: 21 86 20
+$Zone: 239 187 143
+
+$Region: "fcr_02_gun_01"
+$Zone: 240 50 23
+$Zone: 88 96 130
+$Zone: 176 79 20
+$Zone: 333 135 15
+
+$Region: "fcr_02_gun_02"
+$Zone: 60 70 225
+$Zone: 240 290 15
+
+$Region: "fcr_02_gun_03"
+$Zone: 63 205 13
+$Zone: 243 155 200
+
+$Region: "fcr_02_gun_04"
+$Zone: 240 45 200
+$Zone: 60 315 10
+
+$Region: "fcr_02_church_01"
+$Zone: 350 360 200
+
+$Region: "fcr_08_police_01"
+$Zone: 179 360 396
+
+$Region: "fcr_08_police_02"
+$Zone: 350 360 70
+
+$Region: "fcr_05_mech_01"
+$Zone: 358 167 300
+$Zone: 178 193 20
+$Zone: 350 20 1000
+
+$Region: "fcr_05_mech_02"
+$Zone: 350 80 320
+$Zone: 170 280 15
+
+$Region: "fcr_05_mech_03"
+$Zone: 357 240 300
+$Zone: 177 120 20
+
+$Region: "fcr_04b_crib_01"
+$Zone: 320 180 300
+$Zone: 140 180 12
+
+$Region: "fcr_04b_crib_02"
+$Zone: 316 170 200
+$Zone: 136 190 20
+
+$Region: "fcr_04_plastic_01"
+$Zone: 6 200 300
+$Zone: 186 160 12
+
+$Region: "fcr_04_plastic_02"
+$Zone: 70 110 280
+$Zone: 250 250 16
+
+$Region: "fcr_03_liquor_01"
+$Zone: 340 200 750
+$Zone: 160 160 20
+
+$Region: "fcr_03_liquor_02"
+$Zone: 350 360 19
+
+$Region: "fcr_03_liquor_03"
+$Zone: 159 360 50
+
+$Region: "fcr_21_lc05_bldgs"
+$Zone: 201 102 963
+
+$Region: "fcr_02_gun_05"
+$Zone: 68 180 300
+$Zone: 248 180 25
+
+$Region: "fcr_04_03"
+$Zone: 308 178 680
+$Zone: 110 120 25
+
+$Region: "fcr_02_liq_01"
+
+$Region: "fcr_02_liq_03"
+$Zone: 245 360 20
+
+$Region: "fcr_04_eltracks04"
+
+$Region: "fcr_04_eltracks03"
+
+$Region: "fcr_04_eltracks02"
+
+$Region: "fcr_04_eltracks01"
+
+$Region: "fcr_02_02"
+$Zone: 250 60 420
+
+$Region: "fcr_04b_02"
+$Zone: 320 50 400
+
+$Region: "fcr_03_05"
+$Zone: 250 60 400
+
+
+

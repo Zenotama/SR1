@@ -1,0 +1,383 @@
+<root>
+<Table>
+	<SpeedTree>
+		<Name>Apple Tree 1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SpeedTreeFilename>
+			<Filename>apple_tree_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Apple Tree 2</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SpeedTreeFilename>
+			<Filename>apple_tree_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Apple Tree 3</Name>
+		<SpeedTreeFilename>
+			<Filename>apple_tree_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Black Gum 1</Name>
+		<SpeedTreeFilename>
+			<Filename>black_gum_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Black Gum 2</Name>
+		<SpeedTreeFilename>
+			<Filename>black_gum_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Black Gum 3</Name>
+		<SpeedTreeFilename>
+			<Filename>black_gum_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Blue Spruce 1</Name>
+		<SpeedTreeFilename>
+			<Filename>blue_spruce_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Blue Spruce 2</Name>
+		<SpeedTreeFilename>
+			<Filename>blue_spruce_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Blue Spruce 3</Name>
+		<SpeedTreeFilename>
+			<Filename>blue_spruce_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>European Aspen 1</Name>
+		<SpeedTreeFilename>
+			<Filename>european_aspen_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Death_Effect>dth_tree_sapling</Death_Effect>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>10</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>European Aspen 2</Name>
+		<SpeedTreeFilename>
+			<Filename>european_aspen_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Death_Effect>dth_tree_sapling</Death_Effect>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>10</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>European Aspen 3</Name>
+		<SpeedTreeFilename>
+			<Filename>european_aspen_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Death_Effect>dth_tree_sapling</Death_Effect>
+		<Flags>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>10</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Grey Poplar 1</Name>
+		<SpeedTreeFilename>
+			<Filename>grey_poplar_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Grey Poplar 2</Name>
+		<SpeedTreeFilename>
+			<Filename>grey_poplar_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Grey Poplar 3</Name>
+		<SpeedTreeFilename>
+			<Filename>grey_poplar_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Live Oak 1</Name>
+		<SpeedTreeFilename>
+			<Filename>live_oak_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Live Oak 2</Name>
+		<SpeedTreeFilename>
+			<Filename>live_oak_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Live Oak 3</Name>
+		<SpeedTreeFilename>
+			<Filename>live_oak_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>Camera Collide</Flag>
+			<Flag>Casts Shadows</Flag>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>American Boxwood 1</Name>
+		<SpeedTreeFilename>
+			<Filename>american_boxwood_1.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>American Boxwood 2</Name>
+		<SpeedTreeFilename>
+			<Filename>american_boxwood_2.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>American Boxwood 3</Name>
+		<SpeedTreeFilename>
+			<Filename>american_boxwood_3.spt</Filename>
+			<Preload>true</Preload>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Burford Holly 1</Name>
+		<SpeedTreeFilename>
+			<Filename>burford_holly_1.spt</Filename>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	<SpeedTree>
+		<Name>Burford Holly 2</Name>
+		<SpeedTreeFilename>
+			<Filename>burford_holly_2.spt</Filename>
+			</SpeedTreeFilename>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<MaxDestHeight>0.0</MaxDestHeight>
+		</SpeedTree>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>SpeedTree</Name>
+	<Type>TableDescription</Type>
+	<Required>false</Required>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>SpeedTreeFilename</Name>
+		<Type>Filename</Type>
+		<Extension>spt</Extension>
+		<StartingPath>data\models</StartingPath>
+		</Element>
+	<Element>
+		<Name>MaxDestHeight</Name>
+		<Type>Float</Type>
+		<Display_Name>Maximum Destroyable Height</Display_Name>
+		<Description>The maximum height that a tree of this type can be and still be destructible. If 0, no trees of this type are destructible.</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Death_Effect</Name>
+		<Type>Reference</Type>
+		<Display_Name>Death Effect</Display_Name>
+		<Description>Effect to play when the tree is destroyed (if it's destroyable).</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>Camera Collide</Flag>
+		<Flag>Casts Shadows</Flag>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

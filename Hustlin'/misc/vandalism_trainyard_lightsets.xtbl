@@ -1,0 +1,626 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.977 0.879 0.663</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.77795 3.34189 -1.9373</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.755728 0.94335</Hotspot>
+				<Attenuation>1.95 3.625</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.82 0.824 0.632</Color>
+				<Multiplier>1.21</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.35841 2.17685 -4.2382</Position>
+				<Orientation>0.5813 0.1839 0.1388 0.7805</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.39968 0.515745</Hotspot>
+				<Attenuation>3.025 5.075</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth</Exclude_List>
+				<Exclude_List_Original_Names>Table01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.946 0.534 0.534</Color>
+				<Multiplier>1.54</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-4.44588 0.868858 -1.79196</Position>
+				<Orientation>0.628 -0.4013 -0.4119 0.5245</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.286234 0.349066</Hotspot>
+				<Attenuation>3.7 5.175</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.804 0.965 0.965</Color>
+				<Multiplier>0.77</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.0718816 1.51343 -3.5886</Position>
+				<Orientation>0.522 -0.315 -0.4943 0.6198</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.39968 0.515745</Hotspot>
+				<Attenuation>2.775 3.5</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth</Exclude_List>
+				<Exclude_List_Original_Names>Table01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.851 0.495</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.46722 1.7411 -2.2183</Position>
+				<Orientation>0.3948 0.4646 0.5323 0.5875</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.39968 0.515745</Hotspot>
+				<Attenuation>2.8 3.5</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.801 0.793 0.726</Color>
+				<Multiplier>0.95</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.8442 0.977375 -0.900604</Position>
+				<Orientation>0.1943 0.6003 0.6737 0.3849</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.39968 0.515745</Hotspot>
+				<Attenuation>2.0 2.775</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth</Exclude_List>
+				<Exclude_List_Original_Names>Table01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.922 0.902 0.855</Color>
+				<Multiplier>0.96</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.97906 2.09707 0.401629</Position>
+				<Orientation>0.2644 0.5926 0.5223 0.5535</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.217293 0.237365</Hotspot>
+				<Attenuation>3.725 4.275</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth</Exclude_List>
+				<Exclude_List_Original_Names>Table01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB AllDay FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.922 0.902 0.855</Color>
+				<Multiplier>1.18</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.23785 2.46396 -4.98489</Position>
+				<Orientation>0.4647 -0.1516 0.1807 0.8535</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.299324 0.319395</Hotspot>
+				<Attenuation>2.675 3.075</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>#PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>PC01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.997 0.836 0.985</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.49688 0.953684 -2.1947</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.4 2.65</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth #PLAYER# AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 PC01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni02</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.691 0.691</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.07873 1.11661 -1.32365</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.175 2.275</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth #PLAYER# AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 PC01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.801 0.977</Color>
+				<Multiplier>0.77</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.01978 1.44552 -2.90503</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.175 2.275</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth #PLAYER# AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 PC01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB shadowcast Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.801 0.977</Color>
+				<Multiplier>0.82</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.3733 2.61754 -1.85218</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.05 3.8</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.816 0.632 0.581</Color>
+				<Multiplier>0.94</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.38301 1.44552 0.913235</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.025 4.525</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth AC_L_M_Vandalism-Rico AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 Rico01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.659 0.753 0.797</Color>
+				<Multiplier>0.69</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>10.5201 3.49437 5.6305</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.325 5.3</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.855 0.859 0.62</Color>
+				<Multiplier>0.89</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.82515 3.49437 5.6305</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.35 5.525</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.597 0.899 0.942</Color>
+				<Multiplier>0.97</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>11.0306 3.60777 -7.31565</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.775 4.475</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.985 0.793 0.487</Color>
+				<Multiplier>0.54</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>20.0201 3.42595 -4.83083</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.475 4.55</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.644 0.73 0.495</Color>
+				<Multiplier>0.97</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.77938 3.60777 -6.99718</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.775 4.475</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.985 0.408 0.408</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.87711 2.37944 -3.31784</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.825 4.425</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth #PLAYER# AC_A_F_Vandilism-Girl AC_L_M_Vandalism-Rico</Exclude_List>
+				<Exclude_List_Original_Names>Table01 PC01 Woman01 Rico01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.726 0.73 0.64</Color>
+				<Multiplier>0.74</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.83184 2.28467 2.52634</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.35 5.525</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB allday key player Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.926 0.785 0.765</Color>
+				<Multiplier>0.49</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.66899 1.44552 -1.57588</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.175 1.575</Attenuation>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Exclude_List>cs_ac_tablecloth AC_L_M_Vandalism-Rico AC_A_F_Vandilism-Girl</Exclude_List>
+				<Exclude_List_Original_Names>Table01 Rico01 Woman01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_vand_train</Slate_Name>
+				<Level_Ambient>
+					<R>45</R>
+					<G>45</G>
+					<B>45</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>34</R>
+					<G>34</G>
+					<B>34</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,146 @@
+<root>
+<Table>
+	<String>
+		<Name>Racing</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>start trigger</Name>
+				<DisplayText>ACT_RACING_START_TRIGGER_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>go to start</Name>
+				<DisplayText>ACT_RACING_GO_TO_START_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>vehicle class</Name>
+				<DisplayText>ACT_RACING_VEHICLE_CLASS_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>drive to barrels</Name>
+				<DisplayText>ACT_RACING_DRIVE_TO_BARRELS_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>wrong class</Name>
+				<DisplayText>ACT_RACING_WRONG_CLASS_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>return to restart</Name>
+				<DisplayText>ACT_RACING_RETURN_TO_RESTART_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>won race</Name>
+				<DisplayText>ACT_RACING_WON_RACE_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>completed circuit</Name>
+				<DisplayText>ACT_RACING_COMPLETED_CIRCUIT_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>return to choose</Name>
+				<DisplayText>ACT_RACING_RETURN_TO_CHOOSE_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>lead changed you</Name>
+				<DisplayText>ACT_RACING_LEAD_CHANGED_YOU</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>lead changed other</Name>
+				<DisplayText>ACT_RACING_LEAD_CHANGED_OTHER</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>not in vehicle</Name>
+				<DisplayText>ACT_RACING_NOT_IN_VEHICLE_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>vehicle dead</Name>
+				<DisplayText>ACT_RACING_VEHICLE_DEAD_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>time expired</Name>
+				<DisplayText>ACT_RACING_TIME_EXPIRED_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>vehicle on fire</Name>
+				<DisplayText>ACT_RACING_VEHICLE_ON_FIRE_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>fail ai won</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_RACING_BEATEN</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCars.xtbl</File>
+					<Type>ActCars_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

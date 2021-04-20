@@ -1,0 +1,140 @@
+<root>
+<Table>
+	<Garages>
+		<Name>Garage</Name>
+		<Outside_Trigger>mp_bor_02_$multiplayer chop shop000</Outside_Trigger>
+		<Foot_Trigger>mp_bor_02_$multiplayer chop shop000</Foot_Trigger>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Garage_Door>mp_bor_02_garage_door</Garage_Door>
+		<Inside_Trigger>mp_bor_02_$garage_outside</Inside_Trigger>
+		<Type>crib</Type>
+		<Camera_Position>
+			<x>18.5</x>
+			<y>3</y>
+			<z>156</z>
+			</Camera_Position>
+		</Garages>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Garages</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the garage</Description>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Description>Type of crib.</Description>
+		<Default>crib</Default>
+		<Choice>crib</Choice>
+		<Choice>mechanic</Choice>
+		</Element>
+	<Element>
+		<Name>Outside_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Outside Trigger</Display_Name>
+		<Description>Trigger area defining the outside of the garage.</Description>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Inside_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Inside Trigger</Display_Name>
+		<Description>Trigger area defining the inside of the garage.</Description>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Foot_Trigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Foot Trigger</Display_Name>
+		<Description>Trigger for entering the garage on foot to retrieve a car.</Description>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Door</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Door</Display_Name>
+		<Description>Name of the mover for the garage door.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_movers.xtbl</File>
+			<Type>Mover.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Lift</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Lift</Display_Name>
+		<Description>Name of the mesh mover for the garage lift.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_movers.xtbl</File>
+			<Type>Mover.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Garage_Lift_Navpoint</Name>
+		<Type>Reference</Type>
+		<Display_Name>Garage Lift Navpoint</Display_Name>
+		<Description>Name of the navpoint to place the vehicle at before the lift begins to move.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\mp_bor_02\mp_bor_02_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Shop</Name>
+		<Type>Reference</Type>
+		<Required>false</Required>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\shops_sr_city.xtbl</File>
+			<Type>Shop.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Camera_Position</Name>
+		<Type>Element</Type>
+		<Display_Name>Camera Position</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>x</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>z</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

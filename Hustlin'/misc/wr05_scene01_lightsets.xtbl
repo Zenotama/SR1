@@ -1,0 +1,721 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.863 0.859 0.828</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.0297089 4.03906 -6.84196</Position>
+				<Orientation>-0.0714 0.3546 0.1674 0.9172</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.301942 0.619592</Hotspot>
+				<Attenuation>5.1 5.35</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.973 0.828</Color>
+				<Multiplier>0.4</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>19.8512 4.43452 10.9019</Position>
+				<Orientation>0.1459 -0.8525 0.3249 -0.3828</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.15708 0.593412</Hotspot>
+				<Attenuation>8.85 10.325</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.973 0.851 0.663</Color>
+				<Multiplier>0.75</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.70325 3.12602 0.779582</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.225 6.70001</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.73 0.742 0.62</Color>
+				<Multiplier>1.04</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.40063 1.18727 -1.28092</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.0</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.62 0.859 0.95</Color>
+				<Multiplier>0.48</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>11.3841 2.74905 5.84111</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.475 5.625</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.62 0.859 0.95</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>1</ShadowLevel>
+				<Position>4.37729 1.32573 -0.0874399</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.5 4.0</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>TS_A_F_Lin</Exclude_List>
+				<Exclude_List_Original_Names>lin01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.969 0.879 0.636</Color>
+				<Multiplier>1.19</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.15117 2.03906 4.46199</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.474999 4.725</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni11</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.965 0.718</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>17.1387 1.67289 -1.5513</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.15 4.0</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni12</Name>
+				<Type>omni</Type>
+				<Color>0.804 0.855 0.855</Color>
+				<Multiplier>0.65</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.88431 0.627577 -1.3909</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.0</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.973 0.828</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.09167 3.88758 -7.07423</Position>
+				<Orientation>-0.0001 -0.9123 -0.0001 -0.4097</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.42237 0.841249</Hotspot>
+				<Attenuation>5.15 5.275</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.738</Color>
+				<Multiplier>1.06</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.00725 2.8487 -7.63795</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.574999 3.375</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni13</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.832 0.785</Color>
+				<Multiplier>1.15</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.42522 3.4106 -3.48872</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.1 5.375</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Shadowcast FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 0.973 0.828</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>1</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.73579 5.88653 0.499683</Position>
+				<Orientation>-0.0001 -0.9123 -0.0001 -0.4097</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.10472 0.932878</Hotspot>
+				<Attenuation>6.15 8.1</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni14</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.781</Color>
+				<Multiplier>0.92</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.37386 3.27723 -9.99425</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.574999 3.375</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni15</Name>
+				<Type>omni</Type>
+				<Color>0.765 0.769 0.671</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.76107 2.8487 1.3394</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.574999 4.625</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni16</Name>
+				<Type>omni</Type>
+				<Color>0.824 0.828 0.781</Color>
+				<Multiplier>0.9</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>9.93498 3.27723 -6.0773</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.574999 3.375</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni17</Name>
+				<Type>omni</Type>
+				<Color>0.969 0.879 0.636</Color>
+				<Multiplier>1.07</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.19037 1.95394 3.64111</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.974999 3.375</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch TS_A_F_Lin WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 lin01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Lin Donnie key Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.863 0.816</Color>
+				<Multiplier>1.61</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.09394 2.03396 1.04893</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.249999 2.1</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Lin CU key Omni19</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.863 0.816</Color>
+				<Multiplier>0.76</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.67139 1.77904 0.708584</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.0 1.425</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_A_M_Donnie-01 WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 donn01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Price Key Omni20</Name>
+				<Type>omni</Type>
+				<Color>0.891 0.891 0.863</Color>
+				<Multiplier>1.16</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.49276 1.85917 1.0671</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174999 3.075</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_A_M_Donnie-01 TS_A_F_Lin WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 donn01 lin01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.836 0.824 0.757</Color>
+				<Multiplier>1.11</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.03511 3.17705 6.60595</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.85 3.775</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Price Walkaway Fill</Name>
+				<Type>omni</Type>
+				<Color>0.785 0.773 0.71</Color>
+				<Multiplier>0.93</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.53214 1.93952 2.43008</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.925 1.6</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_A_M_Donnie-01 TS_A_F_Lin WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 donn01 lin01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Chair Couch Omni21</Name>
+				<Type>omni</Type>
+				<Color>0.891 0.891 0.863</Color>
+				<Multiplier>0.84</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.70651 2.15522 1.26661</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.174999 3.075</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy WR_A_M_Donnie-01 TS_A_F_Lin WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 donn01 lin01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Donnie key Omni18</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.863 0.816</Color>
+				<Multiplier>0.78</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.82652 1.90072 1.44222</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.249999 2.1</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch TS_A_F_Lin WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 lin01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Lin Flat Key FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.797 0.769 0.71</Color>
+				<Multiplier>0.58</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.51662 1.90242 -0.202441</Position>
+				<Orientation>0.4951 -0.0813 -0.4408 0.7444</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.276635 0.436332</Hotspot>
+				<Attenuation>2.425 5.275</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_A_M_Donnie-01 WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 donn01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Lin Walkaway Fill01</Name>
+				<Type>omni</Type>
+				<Color>0.785 0.773 0.71</Color>
+				<Multiplier>0.93</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.53214 1.85219 2.43008</Position>
+				<Orientation>0.0001 0.3668 -0.0001 0.9304</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>0.925 1.6</Attenuation>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Exclude_List>cs_cs_automag cs_glassbrandy cs_pricechair cs_pricechair cs_pricecouch WR_A_M_Donnie-01 WR_W_M_JosephPrice WR_W_M_Sharp</Exclude_List>
+				<Exclude_List_Original_Names>AutoMag01 Brandy01 Chair01 ChairB01 Couch01 donn01 prce01 shrp01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_smansion_living</Slate_Name>
+				<Level_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>82</R>
+					<G>82</G>
+					<B>82</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

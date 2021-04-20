@@ -1,0 +1,106 @@
+<root>
+<Table>
+	<String>
+		<Name>Fraud</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>start</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_FRAUD_GO_GET_HURT</DisplayText>
+				</Text>
+			<Text>
+				<Name>go score</Name>
+				<DisplayText>ACT_FRAUD_GO_SCORING_AREA</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>goal</Name>
+				<DisplayText>ACT_FRAUD_GOAL</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>bonus</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_FRAUD_BONUSES</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail time</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_FRAUD_NO_TIME</DisplayText>
+				</Text>
+			<Text>
+				<Name>in area</Name>
+				<DisplayText>ACT_FRAUD_IN_AREA</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>no score</Name>
+				<DisplayText>ACT_FRAUD_NO_SCORE</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>new area</Name>
+				<DisplayText>ACT_FRAUD_CHANGE_LOCATION</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCrime.xtbl</File>
+					<Type>ActCrime_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,1201 @@
+<root>
+<Table>
+	<Mesh>
+		<Name>car_4dr_std01</Name>
+		<Variants>
+			<Variant>
+				<Name>Standard</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Luggage Carrier</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Luggage Carrier</Description>
+								<VID_list>70</VID_list>
+								<Chance>5</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Headlights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>83</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>81</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Taillights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>84</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>82</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Exhaust</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Tailpipes</Description>
+								<VID_list>40</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Hood</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>13</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Window Slats</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Window Slats</Description>
+								<VID_list>71</VID_list>
+								<Chance>20</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Carpaint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>CarPaint_Body, (Trim_Bottom, Trim), Luggage_Carrier, Trim_Plastic, Windows</Name>
+								<Chance>25</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(CarPaint_Body, CarPaint_Body_Bottom) Trim, Luggage_Carrier, Trim_Plastic, Windows</Name>
+								<Chance>75</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Chrome</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome, Rims, Badges_Clean</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Gold, Rims_Gold, Badges_clean</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Dull, Rims_Dull,Badges_Clean</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>40</Weight>
+				<ParkingWeight>40</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Beater</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Luggage Carrier</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Luggage Carrier</Description>
+								<VID_list>70</VID_list>
+								<Chance>5</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Beater Tires</Description>
+								<VID_list>20</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Headlights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>83</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>81</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Taillights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>84</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>82</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Exhaust</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Tailpipes</Description>
+								<VID_list>40</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Hood</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bumpers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>13</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Window Slats</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Window Slats</Description>
+								<VID_list>71</VID_list>
+								<Chance>25</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Carpaint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>(CarPaint_Body_Beater, CarPaint_Bottom_Beater, Luggage_Carrier_Dirty, Trim_Plastic_Beater, Windows_Dirty, Trim_Beater)</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Chrome</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome, Rims</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Gold, Rims_Gold</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Dull, Rims_Rusty, Badges_Dirt</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>59</Weight>
+				<ParkingWeight>59</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Bling</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Beater Tires</Description>
+								<VID_list>20</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport Rims</Description>
+								<VID_list>21 23</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy Rims</Description>
+								<VID_list>21 24</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock with Spinners</Description>
+								<VID_list>21 22 25</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport with Spinners</Description>
+								<VID_list>21 23 25</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy with Spinners</Description>
+								<VID_list>21 24 25</VID_list>
+								<Chance>20</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bodykits</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>13</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sports</Description>
+								<VID_list>11 14 16</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>12 15 17</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Roof Intake</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Roof Intake</Description>
+								<VID_list>80</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Top Spoiler</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Top Spoiler</Description>
+								<VID_list>33</VID_list>
+								<Chance>20</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Rear Spoilers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>30</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>31</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Race</Description>
+								<VID_list>32</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Exhaust</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Tailpipes</Description>
+								<VID_list>40</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Fat Pipes</Description>
+								<VID_list>41</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Dual Pipes</Description>
+								<VID_list>42</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Headlights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>83</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>81</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Taillights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>84</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>82</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>1</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>2</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>3</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Window Slats</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Window Slats</Description>
+								<VID_list>71</VID_list>
+								<Chance>25</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Carpaint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>CarPaint_Body, (Trim_Bottom, Trim), Trim_Plastic, Windows</Name>
+								<Chance>75</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(CarPaint_Body, CarPaint_Body_Bottom) Trim, Trim_Plastic, Windows</Name>
+								<Chance>25</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Chrome</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome, Rims, badges_clean</Name>
+								<Chance>80</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Gold, Rims_Gold,badges_clean</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>1</Weight>
+				<ParkingWeight>1</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>Gang_VK</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Beater Tires</Description>
+								<VID_list>20</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport Rims</Description>
+								<VID_list>21 23</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy Rims</Description>
+								<VID_list>21 24</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock with Spinners</Description>
+								<VID_list>21 22 25</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport with Spinners</Description>
+								<VID_list>21 23 25</VID_list>
+								<Chance>10</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy with Spinners</Description>
+								<VID_list>21 24 25</VID_list>
+								<Chance>20</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bodykits</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>13</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sports</Description>
+								<VID_list>11 14 16</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>12 15 17</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Roof Intake</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Roof Intake</Description>
+								<VID_list>80</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Top Spoiler</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Top Spoiler</Description>
+								<VID_list>33</VID_list>
+								<Chance>20</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Rear Spoilers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>30</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>31</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Race</Description>
+								<VID_list>32</VID_list>
+								<Chance>15</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Exhaust</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Tailpipes</Description>
+								<VID_list>40</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Fat Pipes</Description>
+								<VID_list>41</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Dual Pipes</Description>
+								<VID_list>42</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Headlights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>83</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>81</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Taillights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>84</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>82</VID_list>
+								<Chance>50</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>1</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>2</VID_list>
+								<Chance>30</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>3</VID_list>
+								<Chance>40</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Window Slats</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Window Slats</Description>
+								<VID_list>71</VID_list>
+								<Chance>25</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Carpaint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>CarPaint_VK, (Trim_Bottom, Trim), Trim_Plastic, Windows</Name>
+								<Chance>75</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(CarPaint_VK, CarPaint_VK_Bottom) Trim, Trim_Plastic, Windows</Name>
+								<Chance>25</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Chrome</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome, Rims, badges_Clean</Name>
+								<Chance>70</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Gold, Rims_Gold,badges_clean</Name>
+								<Chance>30</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>0</Weight>
+				<ParkingWeight>0</ParkingWeight>
+				</Variant>
+			<Variant>
+				<Name>vk01</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>Wheels</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Beater Tires</Description>
+								<VID_list>20</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>21 22</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport Rims</Description>
+								<VID_list>21 23</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy Rims</Description>
+								<VID_list>21 24</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Stock with Spinners</Description>
+								<VID_list>21 22 25</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport with Spinners</Description>
+								<VID_list>21 23 25</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Flashy with Spinners</Description>
+								<VID_list>21 24 25</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Bodykits</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>13</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sports</Description>
+								<VID_list>11 14 16</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>12 15 17</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Roof Intake</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Roof Intake</Description>
+								<VID_list>80</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Top Spoiler</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Top Spoiler</Description>
+								<VID_list>33</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Rear Spoilers</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>30</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>31</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Race</Description>
+								<VID_list>32</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Exhaust</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock Tailpipes</Description>
+								<VID_list>40</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Fat Pipes</Description>
+								<VID_list>41</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Dual Pipes</Description>
+								<VID_list>42</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Headlights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>83</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>81</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Taillights</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>84</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>82</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Hood</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Stock</Description>
+								<VID_list>1</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Sport</Description>
+								<VID_list>2</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							<Vid_chance>
+								<Description>Bling</Description>
+								<VID_list>3</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					<Vid_group>
+						<Name>Window Slats</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>Window Slats</Description>
+								<VID_list>71</VID_list>
+								<Chance>0</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>Carpaint</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>CarPaint_VK, (Trim_Bottom, Trim), Trim_Plastic, Windows</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>(CarPaint_VK, CarPaint_VK_Bottom) Trim_vk01, Trim_Plastic, Windows</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Chrome</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>Chrome, Rims, badges_Clean</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Dull, Rims_Dull,Badges_Clean</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>Chrome_Gold, Rims_Gold,badges_clean</Name>
+								<Chance>0</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>Plates</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>PlateA,PlateB,PlateC,PlateD,PlateE,PlateF,PlateG</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>0</Weight>
+				<ParkingWeight>0</ParkingWeight>
+				</Variant>
+			</Variants>
+		<_Editor>
+			<Category>Vehicles</Category>
+			</_Editor>
+		</Mesh>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Mesh</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Variants</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Variant</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Float</Type>
+				<Display_Name>Frequency Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>ParkingWeight</Name>
+				<Type>Float</Type>
+				<Display_Name>Parking Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned in parking spots. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Variant_IDs</Name>
+				<Type>Grid</Type>
+				<Display_Name>Variant ID's (VID)</Display_Name>
+				<Element>
+					<Name>Vid_group</Name>
+					<Type>Element</Type>
+					<Display_Name>VID Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Vid_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>VID Chances</Display_Name>
+						<Element>
+							<Name>Vid_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>VID Chance</Display_Name>
+							<Element>
+								<Name>Description</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>VID_list</Name>
+								<Type>String</Type>
+								<Display_Name>VID List</Display_Name>
+								<Description>List of VID's seperated by spaces</Description>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Props</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Prop_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Prop Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Prop_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Prop Chances</Display_Name>
+						<Element>
+							<Name>Prop_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>Prop Chance</Display_Name>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>Prop_points</Name>
+								<Type>Grid</Type>
+								<Display_Name>Prop Points</Display_Name>
+								<Element>
+									<Name>Prop_point</Name>
+									<Type>Element</Type>
+									<Display_Name>Prop Point</Display_Name>
+									<Element>
+										<Name>Name</Name>
+										<Type>String</Type>
+										<Default>0</Default>
+										</Element>
+									</Element>
+								<Num_Display_Rows>8</Num_Display_Rows>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Materials</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Material_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Material Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Material_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Material Chances</Display_Name>
+						<Element>
+							<Name>Material_chance</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>flags</Name>
+								<Type>Flags</Type>
+								<Flag>Sync Vars</Flag>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Vehicles</Name>
+		</Category>
+	</EntryCategories>
+</root>

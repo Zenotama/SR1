@@ -1,0 +1,75 @@
+<root>
+<Table>
+	<Shell>
+		<Name>Handgun</Name>
+		<Static_Mesh>
+			<Filename>shell.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Collision_Foley>HANDGUN_SHELLS</Collision_Foley>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Shell>
+	<Shell>
+		<Name>Rifle</Name>
+		<Static_Mesh>
+			<Filename>shell.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Collision_Foley>RIFLE_SHELLS</Collision_Foley>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Shell>
+	<Shell>
+		<Name>Shotgun</Name>
+		<Static_Mesh>
+			<Filename>shell_shot.smeshx</Filename>
+			<Preload>true</Preload>
+			</Static_Mesh>
+		<Collision_Foley>SHOTGUN_SHELLS</Collision_Foley>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Shell>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Shell</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the shell type.</Description>
+		</Element>
+	<Element>
+		<Name>Static_Mesh</Name>
+		<Type>Filename</Type>
+		<Display_Name>Static Mesh</Display_Name>
+		<Description>Static mesh used for brass (shell casings) of the weapon.</Description>
+		<Extension>smeshx</Extension>
+		<StartingPath>data\models\Items</StartingPath>
+		</Element>
+	<Element>
+		<Name>Collision_Foley</Name>
+		<Type>Reference</Type>
+		<Display_Name>Collision Foley</Display_Name>
+		<Description>Foley to be used for when the brass collides with the ground.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

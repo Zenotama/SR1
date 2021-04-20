@@ -1,0 +1,94 @@
+<root>
+<Table>
+	<Confessional>
+		<Name>Confessional</Name>
+		<Confessors>
+			<Confessor>
+				<Trigger>saintsrow_confessional</Trigger>
+				<Character>saintsrow_confessor</Character>
+				</Confessor>
+			</Confessors>
+		<Costs>
+			<Level>
+				<Gang>100</Gang>
+				<Police>100</Police>
+				</Level>
+			<Level>
+				<Gang>200</Gang>
+				<Police>200</Police>
+				</Level>
+			<Level>
+				<Gang>300</Gang>
+				<Police>300</Police>
+				</Level>
+			<Level>
+				<Gang>400</Gang>
+				<Police>400</Police>
+				</Level>
+			<Level>
+				<Gang>500</Gang>
+				<Police>500</Police>
+				</Level>
+			</Costs>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Confessional>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Confessional</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Confessors</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Confessor</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Trigger</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Character</Name>
+				<Type>String</Type>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Costs</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Gang</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Police</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Max_Children>5</Max_Children>
+		<Min_Children>5</Min_Children>
+		<Num_Display_Rows>5</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

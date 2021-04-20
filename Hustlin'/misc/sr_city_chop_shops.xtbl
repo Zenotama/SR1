@@ -1,0 +1,57 @@
+<root>
+<Table>
+	<Chop_Shop>
+		<Name>lc_chop01</Name>
+		<File>
+			<Filename>lc_chop01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Chop_Shop>
+	<Chop_Shop>
+		<Name>vk_chop01</Name>
+		<File>
+			<Filename>vk_chop01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Chop_Shop>
+	<Chop_Shop>
+		<Name>wr_chop01</Name>
+		<File>
+			<Filename>wr_chop01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Chop_Shop>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Chop_Shop</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Chop Shop</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>File</Name>
+		<Type>Filename</Type>
+		<Display_Name>Table File</Display_Name>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\levels\SaintsRow\activities</StartingPath>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

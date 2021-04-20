@@ -1,0 +1,385 @@
+<root>
+<Table>
+	<Mesh>
+		<Name>pd_x_m_pimp-01</Name>
+		<Variants>
+			<Variant>
+				<Name>white</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>hat</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>hat</Description>
+								<VID_list>1 80</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>suit</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>whiteHand, orangeShoe, orangeCoat, orangeSleeve, orangePant, orangeHat, orangeFrontShirt, whiteShirt, orangeTie, orangeSole</Name>
+								<Chance>10</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whiteHand, blueShoe, blueCoat, blueSleeve, bluePant, blueHat, blueFrontShirt, darkerShirt, blueTie, blueSole</Name>
+								<Chance>10</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whiteHand, brownLeatherCoatShoe2, leatherBrownCoat2, brownLeatherSleeve2, brownPants2, brownLeatherCoatHat2, leatherBrownFrontCoat2, brownLeatherShirt2, leatherTie2, brownLeatherShoesSole2</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whiteHand, brownLeatherCoatShoe, leatherBrownCoat3, brownLeatherSleeve3, brownPants3, brownLeatherCoatHat3, leatherBrownFrontCoat3, brownLeatherShirt3, leatherTie3, brownLeatherShoesSole2</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whiteHand, crocodileShoe, whiteCoat, whiteSleeve, whitePant, whiteHat, whiteFrontShirt, darkerShirt, whiteTie, crocodileSole</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>whiteHand, brownLeatherCoatShoe, leatherBrownCoat, brownLeatherSleeve, brownPants, brownLeatherCoatHat, leatherBrownFrontCoat, brownLeatherShirt, leatherTie, brownLeatherShoesSole</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>face</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>whiteFace</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>50</Weight>
+				</Variant>
+			<Variant>
+				<Name>black</Name>
+				<Variant_IDs>
+					<Vid_group>
+						<Name>hat</Name>
+						<Vid_chances>
+							<Vid_chance>
+								<Description>hat</Description>
+								<VID_list>2 80</VID_list>
+								<Chance>100</Chance>
+								</Vid_chance>
+							</Vid_chances>
+						</Vid_group>
+					</Variant_IDs>
+				<Props></Props>
+				<Materials>
+					<Material_group>
+						<Name>suit</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>blackHand, orangeShoe, orangeCoat, orangeSleeve, orangePant, orangeHat, orangeFrontShirt, whiteShirt, orangeTie, orangeSole</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>blackHand, blueShoe, blueCoat, blueSleeve, bluePant, blueHat, blueFrontShirt, darkerShirt, blueTie, blueSole</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>blackHand, brownLeatherCoatShoe, leatherBrownCoat3, brownLeatherSleeve3, brownPants3, brownLeatherCoatHat3, leatherBrownFrontCoat3, brownLeatherShirt3, leatherTie3, brownLeatherShoesSole2</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>blackHand, brownLeatherCoatShoe, leatherBrownCoat, brownLeatherSleeve, brownPants, brownLeatherCoatHat, leatherBrownFrontCoat, brownLeatherShirt, leatherTie, brownLeatherShoesSole</Name>
+								<Chance>20</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>blackHand, brownLeatherCoatShoe2, leatherBrownCoat2, brownLeatherSleeve2, brownPants2, brownLeatherCoatHat2, leatherBrownFrontCoat2, brownLeatherShirt2, leatherTie2, brownLeatherShoesSole2</Name>
+								<Chance>10</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							<Material_chance>
+								<Name>blackHand, crocodileShoe, whiteCoat, whiteSleeve, whitePant, whiteHat, whiteFrontShirt, darkerShirt, whiteTie, crocodileSole</Name>
+								<Chance>10</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					<Material_group>
+						<Name>face</Name>
+						<Material_chances>
+							<Material_chance>
+								<Name>blackFace</Name>
+								<Chance>100</Chance>
+								<flags>
+									</flags>
+								</Material_chance>
+							</Material_chances>
+						</Material_group>
+					</Materials>
+				<Weight>50</Weight>
+				</Variant>
+			</Variants>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Mesh>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Mesh</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Particle_System_Enable</Name>
+		<Type>Grid</Type>
+		<Display_Name>Particle System Enable</Display_Name>
+		<Element>
+			<Name>Particle_System</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>VID</Name>
+				<Type>Int</Type>
+				</Element>
+			<Element>
+				<Name>Particle_System_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Particle System Name</Display_Name>
+				<Reference>
+					<File>anim_simulation.xtbl</File>
+					<Type>Simulation.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Particle_System_Disable</Name>
+		<Type>Grid</Type>
+		<Display_Name>Particle System Disable</Display_Name>
+		<Element>
+			<Name>Particle_System</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>VID</Name>
+				<Type>Int</Type>
+				</Element>
+			<Element>
+				<Name>Particle_System_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Particle System Name</Display_Name>
+				<Reference>
+					<File>anim_simulation.xtbl</File>
+					<Type>Simulation.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Variants</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Variant</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Float</Type>
+				<Display_Name>Frequency Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>ParkingWeight</Name>
+				<Type>Float</Type>
+				<Display_Name>Parking Weight</Display_Name>
+				<Description>Relative value that indicates how frequently this variant will be spawned in parking spots. Recommended that you use values that sum to 100 to represent percentages.</Description>
+				<Required>false</Required>
+				<Default>1.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Variant_IDs</Name>
+				<Type>Grid</Type>
+				<Display_Name>Variant ID's (VID)</Display_Name>
+				<Element>
+					<Name>Vid_group</Name>
+					<Type>Element</Type>
+					<Display_Name>VID Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Vid_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>VID Chances</Display_Name>
+						<Element>
+							<Name>Vid_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>VID Chance</Display_Name>
+							<Element>
+								<Name>Description</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>VID_list</Name>
+								<Type>String</Type>
+								<Display_Name>VID List</Display_Name>
+								<Description>List of VID's separated by spaces</Description>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Props</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Prop_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Prop Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Description>Optional, not parsed</Description>
+						</Element>
+					<Element>
+						<Name>Prop_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Prop Chances</Display_Name>
+						<Element>
+							<Name>Prop_chance</Name>
+							<Type>Element</Type>
+							<Display_Name>Prop Chance</Display_Name>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>Prop_points</Name>
+								<Type>Grid</Type>
+								<Display_Name>Prop Points</Display_Name>
+								<Element>
+									<Name>Prop_point</Name>
+									<Type>Element</Type>
+									<Display_Name>Prop Point</Display_Name>
+									<Element>
+										<Name>Name</Name>
+										<Type>String</Type>
+										<Default>0</Default>
+										</Element>
+									</Element>
+								<Num_Display_Rows>8</Num_Display_Rows>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Materials</Name>
+				<Type>Grid</Type>
+				<Element>
+					<Name>Material_group</Name>
+					<Type>Element</Type>
+					<Display_Name>Material Group</Display_Name>
+					<Element>
+						<Name>Name</Name>
+						<Type>String</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Material_chances</Name>
+						<Type>Grid</Type>
+						<Display_Name>Material Chances</Display_Name>
+						<Element>
+							<Name>Material_chance</Name>
+							<Type>Element</Type>
+							<Element>
+								<Name>Name</Name>
+								<Type>String</Type>
+								</Element>
+							<Element>
+								<Name>Chance</Name>
+								<Type>Float</Type>
+								<Default>0.0</Default>
+								</Element>
+							<Element>
+								<Name>flags</Name>
+								<Type>Flags</Type>
+								<Flag>Sync Vars</Flag>
+								</Element>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	<Category>
+		<Name>Vehicles</Name>
+		</Category>
+	</EntryCategories>
+</root>

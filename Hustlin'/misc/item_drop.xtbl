@@ -1,0 +1,154 @@
+<root>
+<Table>
+	<Item_drops>
+		<Name>Thug</Name>
+		<Items>
+			<Items_element>
+				<Item>large_softdrink</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>burgera</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>the_fist</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>chicken_bazooms</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Item_drops>
+	<Item_drops>
+		<Name>Killa</Name>
+		<Items>
+			<Items_element>
+				<Item>burgera</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>large_softdrink</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>chicken_bazooms</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>the_fist</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Item_drops>
+	<Item_drops>
+		<Name>Gangsta</Name>
+		<Items>
+			<Items_element>
+				<Item>burgera</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>large_softdrink</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>chicken_bazooms</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>the_fist</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Item_drops>
+	<Item_drops>
+		<Name>Kingpin</Name>
+		<Items>
+			<Items_element>
+				<Item>large_softdrink</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>burgera</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>chicken_bazooms</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			<Items_element>
+				<Item>the_fist</Item>
+				<Drop_chance>0.05</Drop_chance>
+				</Items_element>
+			</Items>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Item_drops>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Item_drops</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>Reference</Type>
+		<Description>Spawn info rank that drops items</Description>
+		<Unique>true</Unique>
+		<Reference>
+			<File>spawn_info_ranks.xtbl</File>
+			<Type>Rank.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Items</Name>
+		<Type>Grid</Type>
+		<Description>Items that can be dropped</Description>
+		<Element>
+			<Name>Items_element</Name>
+			<Type>Element</Type>
+			<Display_Name>Items element</Display_Name>
+			<Description>Item that can be dropped</Description>
+			<Element>
+				<Name>Item</Name>
+				<Type>Reference</Type>
+				<Description>Item to drop</Description>
+				<Reference>
+					<File>items_3d.xtbl</File>
+					<Type>Item.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Drop_chance</Name>
+				<Type>Float</Type>
+				<Display_Name>Drop chance</Display_Name>
+				<Description>Percentage chance that the item will be dropped</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

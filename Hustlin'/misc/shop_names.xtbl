@@ -1,0 +1,276 @@
+<root>
+<Table>
+	<ShopNames>
+		<Name>Impressions</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$high_cloth_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>On Thin Ice</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$air_jewel_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_jewel_000</Trigger>
+			<Trigger>shops_sr_city_$china_jewel_000</Trigger>
+			<Trigger>shops_sr_city_$high_jewel_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Sloppy Seconds</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$sr_lowcloth000</Trigger>
+			<Trigger>shops_sr_city_$bario_cloth_000</Trigger>
+			<Trigger>shops_sr_city_$truck_cloth_000</Trigger>
+			<Trigger>shops_sr_city_$proj_cloth_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>On the Rag</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$red_clothing_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_cloth_000</Trigger>
+			<Trigger>shops_sr_city_$arena_cloth_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Foreign Power</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$burb_car_dealer</Trigger>
+			<Trigger>shops_sr_city_$arena_car_dealer</Trigger>
+			<Trigger>shops_sr_city_$mus_car_dealer</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Brown Baggers</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$apart_liq_000</Trigger>
+			<Trigger>shops_sr_city_$condo_liq_000</Trigger>
+			<Trigger>shops_sr_city_$docks_liq_000</Trigger>
+			<Trigger>shops_sr_city_$mus_liquor000</Trigger>
+			<Trigger>shops_sr_city_$proj_liq_000</Trigger>
+			<Trigger>shops_sr_city_$red_liquor000</Trigger>
+			<Trigger>shops_sr_city_$sr_liquor001</Trigger>
+			<Trigger>shops_sr_city_$truck_liq_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Friendly Fire</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$apart_gun_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_gun_000</Trigger>
+			<Trigger>shops_sr_city_$docks_gun_000</Trigger>
+			<Trigger>shops_sr_city_$down_gun_000</Trigger>
+			<Trigger>shops_sr_city_$sr_gun000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Branded</Name>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Level>2</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$down_cloth_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Rim Jobs</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$arena_mech_000</Trigger>
+			<Trigger>shops_sr_city_$bario_mech_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_mech_000</Trigger>
+			<Trigger>shops_sr_city_$china_mech_000</Trigger>
+			<Trigger>shops_sr_city_$fact_mech_000</Trigger>
+			<Trigger>shops_sr_city_$sr_mech_000</Trigger>
+			<Trigger>shops_sr_city_$truck_mech_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_car_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Do it Up</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$apart_hair_000</Trigger>
+			<Trigger>shops_sr_city_$train_hair_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Shear Intensity</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$high_hair_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Scratch That</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$apart_mus_000</Trigger>
+			<Trigger>shops_sr_city_$barrio_mus_000</Trigger>
+			<Trigger>shops_sr_city_$down_music_000</Trigger>
+			<Trigger>shops_sr_city_$burbs_mus_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Image as Designed</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$barrio_surg_000</Trigger>
+			<Trigger>shops_sr_city_$condo_surg_000</Trigger>
+			<Trigger>shops_sr_city_$down_surg_000</Trigger>
+			<Trigger>shops_sr_city_$sr_surgeon_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Rusty's Needle</Name>
+		<Level>0</Level>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		<Triggers>
+			<Trigger>shops_sr_city_$china_tat_000</Trigger>
+			<Trigger>shops_sr_city_$docks_tat_000</Trigger>
+			<Trigger>shops_sr_city_$down_tat_000</Trigger>
+			<Trigger>shops_sr_city_$red_tat_000</Trigger>
+			</Triggers>
+		</ShopNames>
+	<ShopNames>
+		<Name>Forgive and Forget</Name>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>apts_$apts_faf_000</Trigger>
+			<Trigger>docks_$faf_000</Trigger>
+			<Trigger>museum_$faf_000</Trigger>
+			<Trigger>saintsrow_$sr_faf_000</Trigger>
+			<Trigger>wrsuburb_$faf_000</Trigger>
+			</Triggers>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</ShopNames>
+	<ShopNames>
+		<Name>The Big Picture</Name>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$arena_mov_000</Trigger>
+			</Triggers>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</ShopNames>
+	<ShopNames>
+		<Name>Peep This</Name>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>redlight_$theatre000</Trigger>
+			</Triggers>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</ShopNames>
+	<ShopNames>
+		<Name>Max Visions</Name>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$mus_movie_000</Trigger>
+			</Triggers>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</ShopNames>
+	<ShopNames>
+		<Name>Freckle Bitch's</Name>
+		<Level>0</Level>
+		<Triggers>
+			<Trigger>shops_sr_city_$sr_fb</Trigger>
+			<Trigger>shops_sr_city_$apart_fb</Trigger>
+			<Trigger>shops_sr_city_$burbs_fb</Trigger>
+			<Trigger>shops_sr_city_$mus_fb</Trigger>
+			</Triggers>
+		<_Editor>
+			<Category>Shop Names</Category>
+			</_Editor>
+		</ShopNames>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>ShopNames</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Shop Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>Level</Name>
+		<Type>Int</Type>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Triggers</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Trigger</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>..\levels\SaintsRow\activities\shops_sr_city_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Shop Names</Name>
+		</Category>
+	</EntryCategories>
+</root>

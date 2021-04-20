@@ -1,0 +1,259 @@
+<root>
+<Table>
+	<Persona>
+		<Name>E3 Civilian Black Female Poor</Name>
+		<_Editor>
+			<Category>Civilians:Female:Black</Category>
+			</_Editor>
+		<AISituations>
+			<Bank>Voice Persona F</Bank>
+			<Situations>
+				<Situation>
+					<Name>combat - congratulate self</Name>
+					<Variants>
+						<Variation>
+							<Filename>VOC_BFPOR_OBPLAYEREN_1.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFPOR_OBPLAYEREN_2.wav</Filename>
+							</Variation>
+						</Variants>
+					</Situation>
+				<Situation>
+					<Name>cower - from danger</Name>
+					<Variants>
+						<Variation>
+							<Filename>VOC_BFPOR_COWERMEL_1.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFPOR_COWERMEL_2.wav</Filename>
+							</Variation>
+						</Variants>
+					</Situation>
+				</Situations>
+			</AISituations>
+		<SpecialSpawns>
+			<Bank>Voice Persona F</Bank>
+			<Situations>
+				<Situation>
+					<Name>misc - arrested</Name>
+					<Variants></Variants>
+					</Situation>
+				<Situation>
+					<Name>drugs - getting high</Name>
+					<Variants>
+						<Variation>
+							<Filename>VOC_BFPOR_DRUGS_1.wav</Filename>
+							</Variation>
+						</Variants>
+					</Situation>
+				</Situations>
+			</SpecialSpawns>
+		<Activities>
+			<Bank>Voice Other</Bank>
+			<Situations>
+				<Situation>
+					<Name>escort - climax</Name>
+					<Variants>
+						<Variation>
+							<Filename>voc_bfstrp_escortclimax_1.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>voc_bfstrp_escortclimax_2.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>voc_bfstrp_escortclimax_3.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>voc_bfstrp_escortclimax_3m.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFSTRP_ESCORTCLIMAX_4.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFSTRP_ESCORTCLIMAX_5.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFSTRP_ESCORTCLIMAX_5M.wav</Filename>
+							</Variation>
+						<Variation>
+							<Filename>VOC_BFSTRP_ESCORTCLIMAX_6.wav</Filename>
+							</Variation>
+						</Variants>
+					</Situation>
+				</Situations>
+			</Activities>
+		</Persona>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Persona</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>AISituations</Name>
+		<Type>Element</Type>
+		<Display_Name>AI Situations</Display_Name>
+		<Element>
+			<Name>Bank</Name>
+			<Type>Reference</Type>
+			<Display_Name>Audio Bank</Display_Name>
+			<Reference>
+				<File>audio_banks.xtbl</File>
+				<Type>AudioBanks.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Situations</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Situation</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Name</Name>
+					<Type>Reference</Type>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Variants</Name>
+					<Type>Grid</Type>
+					<Element>
+						<Name>Variation</Name>
+						<Type>Filename</Type>
+						<Extension>wav</Extension>
+						<StartingPath>data\audio\GENERAL\VOC\VOICE_BANKS\CIVILIANS\BLACK_FEMALE</StartingPath>
+						</Element>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>SpecialSpawns</Name>
+		<Type>Element</Type>
+		<Display_Name>Special Spawns</Display_Name>
+		<Element>
+			<Name>Bank</Name>
+			<Type>Reference</Type>
+			<Display_Name>Audio Bank</Display_Name>
+			<Reference>
+				<File>audio_banks.xtbl</File>
+				<Type>AudioBanks.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Situations</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Situation</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Name</Name>
+					<Type>Reference</Type>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Variants</Name>
+					<Type>Grid</Type>
+					<Element>
+						<Name>Variation</Name>
+						<Type>Filename</Type>
+						<Extension>wav</Extension>
+						<StartingPath>data\audio\GENERAL\VOC\VOICE_BANKS\CIVILIANS\BLACK_FEMALE</StartingPath>
+						</Element>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Activities</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Bank</Name>
+			<Type>Reference</Type>
+			<Display_Name>Audio Bank</Display_Name>
+			<Reference>
+				<File>audio_banks.xtbl</File>
+				<Type>AudioBanks.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Situations</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Situation</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Name</Name>
+					<Type>Reference</Type>
+					<Reference>
+						<File>persona_situations.xtbl</File>
+						<Type>Situation_List.Situations.Situation.Type</Type>
+						</Reference>
+					</Element>
+				<Element>
+					<Name>Variants</Name>
+					<Type>Grid</Type>
+					<Element>
+						<Name>Variation</Name>
+						<Type>Filename</Type>
+						<Extension>wav</Extension>
+						<StartingPath>data\audio\GENERAL\VOC\ACTIVITIES</StartingPath>
+						</Element>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Civilians</Name>
+		<Category>
+			<Name>Female</Name>
+			<Category>
+				<Name>Black</Name>
+				</Category>
+			</Category>
+		<Category>
+			<Name>Male</Name>
+			<Category>
+				<Name>Black</Name>
+				</Category>
+			</Category>
+		</Category>
+	<Category>
+		<Name>Cops</Name>
+		</Category>
+	<Category>
+		<Name>Enemy Gangs</Name>
+		</Category>
+	<Category>
+		<Name>Friendly Gang</Name>
+		</Category>
+	<Category>
+		<Name>Templates</Name>
+		<Category>
+			<Name>Civilian</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

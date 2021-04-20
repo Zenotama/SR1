@@ -1,0 +1,1631 @@
+<root>
+<Table>
+	<Rank>
+		<Name>Player</Name>
+		<Hit_Points>225</Hit_Points>
+		<Knockdown_Points>125</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Other</Category>
+			</_Editor>
+		<rank_numeric>0</rank_numeric>
+		<type>Other</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Patrolman</Name>
+		<Hit_Points>350</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Law Enforcement</Category>
+			</_Editor>
+		<rank_numeric>0</rank_numeric>
+		<weapon_chances_police>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>nightstick</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_police>
+		<type>Law enforcement</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Sergeant</Name>
+		<Hit_Points>375</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Law Enforcement</Category>
+			</_Editor>
+		<rank_numeric>1</rank_numeric>
+		<weapon_chances_police>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>nightstick</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_police>
+		<type>Law enforcement</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>SWAT</Name>
+		<Hit_Points>500</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Law Enforcement</Category>
+			</_Editor>
+		<rank_numeric>2</rank_numeric>
+		<weapon_chances_police>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>nightstick</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>desert eagle</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>spas12</weapon>
+						<chance>20</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>m16</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_police>
+		<type>Law enforcement</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>FBI</Name>
+		<Hit_Points>450</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Law Enforcement</Category>
+			</_Editor>
+		<rank_numeric>3</rank_numeric>
+		<weapon_chances_police>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>desert eagle</weapon>
+						<chance>15</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>spas12</weapon>
+						<chance>35</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>m16</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<thrown_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>grenade</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</thrown_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>nightstick</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			</weapon_chances_police>
+		<type>Law enforcement</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Thug</Name>
+		<Hit_Points>350</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Gang</Category>
+			</_Editor>
+		<rank_numeric>0</rank_numeric>
+		<weapon_chances_saints>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>70</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>20</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>10</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_saints>
+		<weapon_chances_los_carnales>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>70</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>20</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>10</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_los_carnales>
+		<weapon_chances_rollers>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>knife</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>70</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>20</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>10</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_rollers>
+		<weapon_chances_vice_kings>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>70</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>20</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>10</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_vice_kings>
+		<type>Gang</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Killa</Name>
+		<Hit_Points>375</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Gang</Category>
+			</_Editor>
+		<rank_numeric>1</rank_numeric>
+		<weapon_chances_saints>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_saints>
+		<weapon_chances_los_carnales>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_los_carnales>
+		<weapon_chances_rollers>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_rollers>
+		<weapon_chances_vice_kings>
+			<melee_weapon_chances>
+				<category_equip_chance>50</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>beretta</weapon>
+						<chance>40</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>30</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			</weapon_chances_vice_kings>
+		<type>Gang</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Gangsta</Name>
+		<Hit_Points>400</Hit_Points>
+		<Knockdown_Points>200</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Gang</Category>
+			</_Editor>
+		<rank_numeric>2</rank_numeric>
+		<weapon_chances_saints>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			</weapon_chances_saints>
+		<weapon_chances_los_carnales>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			</weapon_chances_los_carnales>
+		<weapon_chances_rollers>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			</weapon_chances_rollers>
+		<weapon_chances_vice_kings>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>50</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>pump_action_shotgun</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			</weapon_chances_vice_kings>
+		<type>Gang</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	<Rank>
+		<Name>Kingpin</Name>
+		<Hit_Points>450</Hit_Points>
+		<Knockdown_Points>250</Knockdown_Points>
+		<_Editor>
+			<Category>Entries:Gang</Category>
+			</_Editor>
+		<rank_numeric>3</rank_numeric>
+		<weapon_chances_saints>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>75</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<thrown_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>pipe_bomb</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</thrown_weapon_chances>
+			</weapon_chances_saints>
+		<weapon_chances_los_carnales>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>75</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<thrown_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>pipe_bomb</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</thrown_weapon_chances>
+			</weapon_chances_los_carnales>
+		<weapon_chances_rollers>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>75</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<thrown_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>pipe_bomb</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</thrown_weapon_chances>
+			</weapon_chances_rollers>
+		<weapon_chances_vice_kings>
+			<firearm_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>ak47</weapon>
+						<chance>75</chance>
+						</weapon_chance_element>
+					<weapon_chance_element>
+						<weapon>tec9</weapon>
+						<chance>25</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</firearm_weapon_chances>
+			<melee_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>baseball_bat</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</melee_weapon_chances>
+			<thrown_weapon_chances>
+				<category_equip_chance>100</category_equip_chance>
+				<weapon_equip_chances>
+					<weapon_chance_element>
+						<weapon>pipe_bomb</weapon>
+						<chance>100</chance>
+						</weapon_chance_element>
+					</weapon_equip_chances>
+				</thrown_weapon_chances>
+			</weapon_chances_vice_kings>
+		<type>Gang</type>
+		<Melee_Damage_Modifier>1.0</Melee_Damage_Modifier>
+		</Rank>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Rank</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Rank Name</Display_Name>
+		<Description>The name for this rank.</Description>
+		<Unique>true</Unique>
+		<Default>Player</Default>
+		</Element>
+	<Element>
+		<Name>type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Type</Display_Name>
+		<Description>Rank type</Description>
+		<Default>Civilian</Default>
+		<Choice>Civilian</Choice>
+		<Choice>Gang</Choice>
+		<Choice>Homie</Choice>
+		<Choice>Law enforcement</Choice>
+		<Choice>Other</Choice>
+		</Element>
+	<Element>
+		<Name>rank_numeric</Name>
+		<Type>Int</Type>
+		<Display_Name>Rank</Display_Name>
+		<Description>Numeric rank</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>3</MaxValue>
+		</Element>
+	<Element>
+		<Name>Hit_Points</Name>
+		<Type>Int</Type>
+		<Display_Name>Hit Points</Display_Name>
+		<Description>Max hit points for the character (defaults to 100).</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Knockdown_Points</Name>
+		<Type>Int</Type>
+		<Display_Name>Knockdown Points</Display_Name>
+		<Description>Hit points of damage needed for character to be knocked down/ragdoll.  (defaults to max hitpoints).</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Melee_Damage_Modifier</Name>
+		<Type>Float</Type>
+		<Display_Name>Melee Damage Modifier</Display_Name>
+		<Default>1.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>weapon_chances_saints</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Saints</Display_Name>
+		<Description>Weapon equip chances for Saints</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Required>false</Required>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>weapon_chances_los_carnales</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Los Carnales</Display_Name>
+		<Description>Weapon equip chances for Los Carnales</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>weapon_chances_rollers</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Rollers</Display_Name>
+		<Description>Weapon equip chances for Rollers</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>weapon_chances_vice_kings</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Vice Kings</Display_Name>
+		<Description>Weapon equip chances for Vice Kings</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>weapon_chances_police</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Police</Display_Name>
+		<Description>Weapon equip chances for Police</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>weapon_chances_civilians</Name>
+		<Type>Element</Type>
+		<Display_Name>Weapon chances - Civilians</Display_Name>
+		<Description>Weapon equip chances for Civilians</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>melee_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Melee weapon chances</Display_Name>
+			<Description>Melee weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Melee equip chance</Display_Name>
+				<Description>Chance to equip with melee weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>firearm_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Firearm weapon chances</Display_Name>
+			<Description>Firearm weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Firearm equip chance</Display_Name>
+				<Description>Chance to equip with firearm weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		<Element>
+			<Name>thrown_weapon_chances</Name>
+			<Type>Element</Type>
+			<Display_Name>Thrown weapon chances</Display_Name>
+			<Description>Thrown weapon equip chances</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>category_equip_chance</Name>
+				<Type>Int</Type>
+				<Display_Name>Thrown weapon chance</Display_Name>
+				<Description>Chance to equip with thrown weapon</Description>
+				<Default>100</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>100</MaxValue>
+				</Element>
+			<Element>
+				<Name>weapon_equip_chances</Name>
+				<Type>Grid</Type>
+				<Display_Name>Weapon equip chances</Display_Name>
+				<Description>Chance to equip by weapon type</Description>
+				<Element>
+					<Name>weapon_chance_element</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>weapon</Name>
+						<Type>Reference</Type>
+						<Display_Name>Weapon</Display_Name>
+						<Description>Weapon name</Description>
+						<Reference>
+							<File>weapons.xtbl</File>
+							<Type>Weapon.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>chance</Name>
+						<Type>Int</Type>
+						<Display_Name>Chance</Display_Name>
+						<Description>Equip chance</Description>
+						<Default>100</Default>
+						<MinValue>0</MinValue>
+						<MaxValue>100</MaxValue>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		<Category>
+			<Name>Civilians</Name>
+			</Category>
+		<Category>
+			<Name>Gang</Name>
+			</Category>
+		<Category>
+			<Name>Homies</Name>
+			</Category>
+		<Category>
+			<Name>Law Enforcement</Name>
+			</Category>
+		<Category>
+			<Name>Other</Name>
+			</Category>
+		</Category>
+	</EntryCategories>
+</root>

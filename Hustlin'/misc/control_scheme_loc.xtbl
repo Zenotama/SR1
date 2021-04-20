@@ -1,0 +1,353 @@
+<root>
+<Table>
+	<SchemeLocalization>
+		<Name>Primary Attack</Name>
+		<LocTag>CONTROL_DESC_PRIM_ATTACK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Secondary Attack</Name>
+		<LocTag>CONTROL_DESC_SEC_ATTACK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Pause/Map</Name>
+		<LocTag>CONTROL_DESC_PAUSE</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Cancel Activity</Name>
+		<LocTag>CONTROL_DESC_CANCEL_ACT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Jump</Name>
+		<LocTag>CONTROL_DESC_JUMP</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Crouch</Name>
+		<LocTag>CONTROL_DESC_FOOT_CROUCH</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Sprint</Name>
+		<LocTag>CONTROL_DESC_FOOT_SPRINT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Move</Name>
+		<LocTag>CONTROL_DESC_FOOT_MOVE</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Select Weapon</Name>
+		<LocTag>CONTROL_DESC_FOOT_SEL_WPN</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Next Track</Name>
+		<LocTag>CONTROL_DESC_FOOT_NXT_TRK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Previous Track</Name>
+		<LocTag>CONTROL_DESC_FOOT_PRV_TRK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Move Camera</Name>
+		<LocTag>CONTROL_DESC_FOOT_MV_CAM</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Action/Enter Car</Name>
+		<LocTag>CONTROL_DESC_FOOT_ACTION</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Radial Menu</Name>
+		<LocTag>CONTROL_DESC_FOOT_RADIAL</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Reload/Grab Weapon</Name>
+		<LocTag>CONTROL_DESC_FOOT_RELOAD</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Recruit Gang Members</Name>
+		<LocTag>CONTROL_DESC_FOOT_RECRUIT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Dismiss Gang Members</Name>
+		<LocTag>CONTROL_DESC_FOOT_DISMISS</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Handbrake</Name>
+		<LocTag>CONTROL_DESC_VEH_HANDBRAKE</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Steer</Name>
+		<LocTag>CONTROL_DESC_VEH_STEER</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Look Left</Name>
+		<LocTag>CONTROL_DESC_VEH_LOOK_LEFT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Look Right</Name>
+		<LocTag>CONTROL_DESC_VEH_LOOK_RIGHT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Look Back</Name>
+		<LocTag>CONTROL_DESC_VEH_LOOK_BACK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Hydraulics</Name>
+		<LocTag>CONTROL_DESC_VEH_HYDRAULICS</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Next Radio Station</Name>
+		<LocTag>CONTROL_DESC_VEH_RADIO_NEXT</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Previous Radio Station</Name>
+		<LocTag>CONTROL_DESC_VEH_RADIO_PREV</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Action/Exit Car</Name>
+		<LocTag>CONTROL_DESC_VEH_ACTION</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Accelerate</Name>
+		<LocTag>CONTROL_DESC_VEH_ACCELERATE</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Nitrous</Name>
+		<LocTag>CONTROL_DESC_VEH_NOS</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Brake/Reverse</Name>
+		<LocTag>CONTROL_DESC_VEH_BRAKE_REV</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Toggle Camera</Name>
+		<LocTag>CONTROL_DESC_VEH_TOGGLE_CAM</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Weapon Switch</Name>
+		<LocTag>CONTROL_DESC_MP_FAST_WEAPON_SWITCH</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Heal (Drugs)</Name>
+		<LocTag>CONTROL_DESC_MP_HEAL</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Taunt 1</Name>
+		<LocTag>CONTROL_DESC_MP_TAUNT_1</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Taunt 2</Name>
+		<LocTag>CONTROL_DESC_MP_TAUNT_2</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Scoreboard</Name>
+		<LocTag>CONTROL_DESC_MP_SCORE</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Not Used</Name>
+		<LocTag>CONTROL_DESC_NOT_USED</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>(click) Crouch</Name>
+		<LocTag>CONTROL_DESC_FOOT_CLICK_CROUCH</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>(Click) Nitrous</Name>
+		<LocTag>CONTROL_DESC_VEH_CLICK_NOS</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>(Click) Hydraulics</Name>
+		<LocTag>CONTROL_DESC_VEH_CLICK_HYDRAULICS</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Block</Name>
+		<LocTag>CONTROLS_DESC_BLOCK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Kick</Name>
+		<LocTag>CONTROLS_DESC_KICK</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Change Audio Track</Name>
+		<LocTag>CONTROLS_DESC_CHANGE_AUDIO</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Change Radio Station</Name>
+		<LocTag>CONTROLS_DESC_CHANGE_RADIO</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Change Camera View</Name>
+		<LocTag>CONTROL_DESC_CHANGE_CAMERA_VIEW</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Hold Toggle Cam</Name>
+		<LocTag>CONTROL_DESC_VEH_TOGGLE_CAM_2</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	<SchemeLocalization>
+		<Name>Pause/Multi</Name>
+		<LocTag>CONTROL_DESC_PAUSE_MP</LocTag>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</SchemeLocalization>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>SchemeLocalization</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>LocTag</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\Menus_text.xtbl</File>
+			<Type>Menus_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

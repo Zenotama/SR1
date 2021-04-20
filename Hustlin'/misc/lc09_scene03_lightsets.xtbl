@@ -1,0 +1,1474 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>559</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>Night FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>98.0568 -5.37418 61.4504</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>70.7638 1.08742 39.8649</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>44.7262 8.65938 16.5585</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>28.6159 15.7797 -5.32604</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.5731 11.963 -13.0838</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>8.92959 10.3749 19.2072</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>39.0321 3.9429 45.5694</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>68.2045 -4.36168 69.0601</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>8.40888 13.3711 -46.8999</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-32.3252 13.3711 -49.1657</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot11</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-7.75784 13.3711 -83.1136</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-48.1629 13.3711 -84.8078</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-26.4255 13.3711 -125.343</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-65.8268 13.3711 -124.642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-41.6384 13.3711 -157.973</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.812 0.785 0.895</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>96.8762 -11.1437 92.4389</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.804 0.785 0.891</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>128.488 -10.4365 87.9193</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.801 0.785 0.895</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>101.569 -12.9033 119.333</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.804 0.781 0.891</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>123.804 -13.6742 134.878</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni01 level</Name>
+				<Type>omni</Type>
+				<Color>0.475 0.53 0.946</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>202.57 12.7614 155.196</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>50.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni02 level</Name>
+				<Type>omni</Type>
+				<Color>0.851 0.91 0.985</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-100.562 169.74 -262.682</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 250.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni03 angelo</Name>
+				<Type>omni</Type>
+				<Color>0.569 0.597 0.883</Color>
+				<Multiplier>0.26</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-81.1581 39.3146 -260.819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>cs_Car_Angelo cs_lc_4dr_std06 LC_L_M_AngeloLopez-01</Exclude_List>
+				<Exclude_List_Original_Names>cs_Car_Angelo pcCar01 angelo01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni03 boat</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.953 0.981</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-338.107 -5.5678 -209.545</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 200.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni05 dex</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.875 0.875</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-80.0576 38.9975 -238.823</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 cs_Car_Angelo cs_lc_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 cs_Car_Angelo pcCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot01 level</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.526 0.644 0.859</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-64.9384 -26.4453 -286.568</Position>
+				<Orientation>1.0 0.0 0.0 0.003</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>1.0472 1.309</Hotspot>
+				<Attenuation>20.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Ship Omni03</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.844 0.844</Color>
+				<Multiplier>1.15</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-64.4077 -4.89595 -228.2</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>42.5 100.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 LC_L_M_AngeloLopez-01 TS_B_M_Dex-01 cs_LC_4dr_Std06 cs_lc_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 angelo01 dex01 gang01 pcCar01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Ship Omni04</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.844 0.844</Color>
+				<Multiplier>1.45</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-162.245 -4.89595 -187.256</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>42.5 100.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 LC_L_M_AngeloLopez-01 TS_B_M_Dex-01 cs_LC_4dr_Std06 cs_lc_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 angelo01 dex01 gang01 pcCar01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Level_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dawn2</Name>
+		<StartTime>600</StartTime>
+		<EndTime>2000</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>BB Omni03 angelo</Name>
+				<Type>omni</Type>
+				<Color>0.981 0.883 0.883</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-81.1581 39.3146 -260.819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>cs_Car_Angelo TS_B_M_Dex-01 cs_LC_4dr_Std06</Exclude_List>
+				<Exclude_List_Original_Names>cs_Car_Angelo dex01 gang01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni05 dex</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.875 0.875</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-80.0576 38.9975 -238.823</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 cs_Car_Angelo</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 cs_Car_Angelo</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni04 dex</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.902 0.902</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-101.11 41.128 -266.871</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni06 dex</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.875 0.875</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-21.0554 9.12332 -134.033</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 cs_Car_Angelo cs_lc_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 cs_Car_Angelo pcCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.922 0.797 0.797</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-108.098 69.6459 -273.807</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Level_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Moon Rise1</Name>
+		<StartTime>2001</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>Night FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>98.0568 -5.37418 61.4504</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>70.7638 1.08742 39.8649</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot03</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>44.7262 8.65938 16.5585</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>28.6159 15.7797 -5.32604</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-15.5731 11.963 -13.0838</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>8.92959 10.3749 19.2072</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>39.0321 3.9429 45.5694</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>68.2045 -4.36168 69.0601</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>8.40888 13.3711 -46.8999</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot10</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-32.3252 13.3711 -49.1657</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot11</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-7.75784 13.3711 -83.1136</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-48.1629 13.3711 -84.8078</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-26.4255 13.3711 -125.343</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-65.8268 13.3711 -124.642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.899 0.785 0.785</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-41.6384 13.3711 -157.973</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni01 level</Name>
+				<Type>omni</Type>
+				<Color>0.475 0.53 0.946</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>202.57 12.7614 155.196</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>50.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni02 level</Name>
+				<Type>omni</Type>
+				<Color>0.851 0.91 0.985</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-100.562 169.74 -262.682</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 250.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni03 level</Name>
+				<Type>omni</Type>
+				<Color>0.875 0.879 0.953</Color>
+				<Multiplier>0.36</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-165.83 -26.6453 -125.135</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni04 level</Name>
+				<Type>omni</Type>
+				<Color>0.397 0.487 0.793</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-58.8904 1.30688 -321.848</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 200.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni05 level</Name>
+				<Type>omni</Type>
+				<Color>0.471 0.401 1.0</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-127.715 -28.8199 -304.05</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 50.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni06 level</Name>
+				<Type>omni</Type>
+				<Color>0.361 0.33 1.0</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-73.4877 -28.8199 -191.171</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 50.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni03 boat</Name>
+				<Type>omni</Type>
+				<Color>0.95 0.953 0.981</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-338.107 -5.5678 -209.545</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>20.0 200.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni03 angelo</Name>
+				<Type>omni</Type>
+				<Color>0.569 0.597 0.883</Color>
+				<Multiplier>0.26</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-81.1581 39.3146 -260.819</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>cs_Car_Angelo cs_lc_4dr_std06 LC_L_M_AngeloLopez-01</Exclude_List>
+				<Exclude_List_Original_Names>cs_Car_Angelo pcCar01 angelo01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night Omni05 dex</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.875 0.875</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-80.0576 38.9975 -238.823</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>5.0 30.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 cs_Car_Angelo cs_lc_4dr_std06</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 cs_Car_Angelo pcCar01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot18</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.801 0.785 0.895</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>101.569 -12.9033 119.333</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot19</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.804 0.781 0.891</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>123.804 -13.6742 134.878</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot16</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.812 0.785 0.895</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>96.8762 -11.1437 92.4389</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot17</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.804 0.785 0.891</Color>
+				<Multiplier>1.5</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>128.488 -10.4365 87.9193</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.698132</Hotspot>
+				<Attenuation>15.0 25.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Night FreeSpot01 level</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.526 0.644 0.859</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-64.9384 -26.4453 -286.568</Position>
+				<Orientation>1.0 0.0 0.0 0.003</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>1.0472 1.309</Hotspot>
+				<Attenuation>20.0 150.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Ship Omni03</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.844 0.844</Color>
+				<Multiplier>1.15</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-64.4077 -4.89595 -228.2</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>42.5 100.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 LC_L_M_AngeloLopez-01 TS_B_M_Dex-01 cs_LC_4dr_Std06 cs_lc_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 angelo01 dex01 gang01 pcCar01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Ship Omni04</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.844 0.844</Color>
+				<Multiplier>1.45</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-162.245 -4.89595 -187.256</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>42.5 100.0</Attenuation>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Exclude_List>LC_L_M_AngeloLopez-01 LC_L_M_AngeloLopez-01 TS_B_M_Dex-01 cs_LC_4dr_Std06 cs_lc_4dr_std06 #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>angelo01 angelo01 dex01 gang01 pcCar01 player01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_drawbridge</Slate_Name>
+				<Level_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

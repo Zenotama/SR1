@@ -1,0 +1,289 @@
+<root>
+<Table>
+	<Lightning_Type>
+		<Name>Cloud to Ground</Name>
+		<Minimum_Distance>5</Minimum_Distance>
+		<Maximum_Distance>120</Maximum_Distance>
+		<VFX_List>
+			<VFX>cf_lightning_gnd01</VFX>
+			</VFX_List>
+		<Flags>
+			<Flag>Hits Ground</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Probability>0.05</Probability>
+		<Foley_Pair>
+			<Maximum_Distance>250</Maximum_Distance>
+			<Foley>SFX_WTHR_LTNG</Foley>
+			<Positional>true</Positional>
+			</Foley_Pair>
+		<TOD_Overrides>
+			<Ambient_Override>
+				<R>197</R>
+				<G>197</G>
+				<B>197</B>
+				</Ambient_Override>
+			<Cloud_Brightness_Override>0.9</Cloud_Brightness_Override>
+			<Cloud_Contrast_Override>1.3</Cloud_Contrast_Override>
+			<Sky_Brightness_Override>1.8</Sky_Brightness_Override>
+			<TOD_Light_Override>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+				</TOD_Light_Override>
+			</TOD_Overrides>
+		</Lightning_Type>
+	<Lightning_Type>
+		<Name>Cloud to Cloud</Name>
+		<Minimum_Distance>100</Minimum_Distance>
+		<Maximum_Distance>400</Maximum_Distance>
+		<VFX_List>
+			<VFX>cf_lightning_cld01</VFX>
+			</VFX_List>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Probability>0.25</Probability>
+		<Foley_Pair>
+			<Maximum_Distance>250</Maximum_Distance>
+			<Foley>SFX_WTHR_THUNDER</Foley>
+			<Positional>false</Positional>
+			</Foley_Pair>
+		<TOD_Overrides>
+			<Ambient_Override>
+				<R>223</R>
+				<G>223</G>
+				<B>223</B>
+				</Ambient_Override>
+			<Cloud_Brightness_Override>0.95</Cloud_Brightness_Override>
+			<Cloud_Contrast_Override>1.2</Cloud_Contrast_Override>
+			<Sky_Brightness_Override>1.3</Sky_Brightness_Override>
+			<TOD_Light_Override>
+				<R>225</R>
+				<G>225</G>
+				<B>225</B>
+				</TOD_Light_Override>
+			</TOD_Overrides>
+		</Lightning_Type>
+	<Lightning_Type>
+		<Name>Cloud to Cloud2</Name>
+		<Minimum_Distance>150</Minimum_Distance>
+		<Maximum_Distance>500</Maximum_Distance>
+		<VFX_List>
+			<VFX>cf_lightning_cld02</VFX>
+			</VFX_List>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Probability>0.7</Probability>
+		<TOD_Overrides>
+			<Ambient_Override>
+				<R>219</R>
+				<G>219</G>
+				<B>219</B>
+				</Ambient_Override>
+			<Cloud_Brightness_Override>0.95</Cloud_Brightness_Override>
+			<Cloud_Contrast_Override>1.2</Cloud_Contrast_Override>
+			<Sky_Brightness_Override>1.3</Sky_Brightness_Override>
+			<TOD_Light_Override>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+				</TOD_Light_Override>
+			</TOD_Overrides>
+		</Lightning_Type>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Lightning_Type</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Minimum_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>Minimum Distance</Display_Name>
+		<Description>The minimum distance at which this type of lightning can happen</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Maximum_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>Maximum Distance</Display_Name>
+		<Description>The maximum distance at which this type of lightning can happen</Description>
+		<Default>120</Default>
+		</Element>
+	<Element>
+		<Name>Probability</Name>
+		<Type>Float</Type>
+		<Description>The probability that this type of lightning will be selected for an arbitrary lightning strike.</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>VFX_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>VFX List</Display_Name>
+		<Description>The VFX's which represent this type of lightning.</Description>
+		<Element>
+			<Name>VFX</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>effects.xtbl</File>
+				<Type>Effect.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Foley_Pair</Name>
+		<Type>Element</Type>
+		<Display_Name>Foley Pair</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Maximum_Distance</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum Distance</Display_Name>
+			<Description>The maximum distance at which this foley plays.</Description>
+			<Default>50.0</Default>
+			</Element>
+		<Element>
+			<Name>Foley</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Positional</Name>
+			<Type>Selection</Type>
+			<Display_Name>3D Positional</Display_Name>
+			<Description>Should this foley be played in 3D?</Description>
+			<Default>false</Default>
+			<Choice>true</Choice>
+			<Choice>false</Choice>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>Hits Ground</Flag>
+		</Element>
+	<Element>
+		<Name>TOD_Overrides</Name>
+		<Type>Element</Type>
+		<Display_Name>TOD Overrides</Display_Name>
+		<Element>
+			<Name>Fog_Color_Override</Name>
+			<Type>Color</Type>
+			<Display_Name>Fog Color</Display_Name>
+			<Required>false</Required>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		<Element>
+			<Name>Fog_Strength_Override</Name>
+			<Type>Float</Type>
+			<Display_Name>Fog Strength</Display_Name>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Ambient_Override</Name>
+			<Type>Color</Type>
+			<Display_Name>Ambient Color</Display_Name>
+			<Required>false</Required>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		<Element>
+			<Name>Cloud_Brightness_Override</Name>
+			<Type>Float</Type>
+			<Display_Name>Cloud Brightness</Display_Name>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Cloud_Contrast_Override</Name>
+			<Type>Float</Type>
+			<Display_Name>Cloud Contrast</Display_Name>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Sky_Brightness_Override</Name>
+			<Type>Float</Type>
+			<Display_Name>Sky Brightness</Display_Name>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>TOD_Light_Override</Name>
+			<Type>Color</Type>
+			<Display_Name>TOD Light</Display_Name>
+			<Required>false</Required>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

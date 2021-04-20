@@ -1,0 +1,151 @@
+<root>
+<Table>
+	<PushbackVariable>
+		<Name>MIN_HOOD_CONTESTED_DELAY_MINS</Name>
+		<Value>120</Value>
+		<Comment>minimum time for normal pushback event</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>MAX_HOOD_CONTESTED_DELAY_MINS</Name>
+		<Value>150</Value>
+		<Comment>maximum time for normal pushback event</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>MIN_ACCELLERATED_CONTESTED_DELAY_MINS</Name>
+		<Value>60</Value>
+		<Comment>minimum time for accellerated pushback event</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>MAX_ACCELLERATED_CONTESTED_DELAY_MINS</Name>
+		<Value>60</Value>
+		<Comment>maximum time for accellerated pushback event</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>PUSHBACK_START_DELAY_SECS</Name>
+		<Value>30</Value>
+		<Comment>time after activity/mission/etc delay before pushback can be started</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>DELAY_BETWEEN_PUSHBACKS_MINS</Name>
+		<Value>30</Value>
+		<Comment>when a pushback has been started, no more will be initiated for this time</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>SPAWN_CHECK_INTERVAL_SEC</Name>
+		<Value>0.5</Value>
+		<Comment>interval between checks to spawn or despawn control point defenders</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>ENEMY_EFFECT_NAME</Name>
+		<Value>icon_red</Value>
+		<Comment>name of world effect to be placed on critical enemies</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>ENEMY_MINIMAP_ICON_NAME</Name>
+		<Value>map_act_kill</Value>
+		<Comment>name of minimap icon for critial enemies</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>PHONE_CALL_CONVERSATION</Name>
+		<Value>Pushback Phone Call</Value>
+		<Comment>Default conversation foley name</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>PHONE_CALL_RING</Name>
+		<Value>SYS_CELL_RING</Value>
+		<Comment>Default cell phone ring</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>CONTROL_POINT_DIST_TO_SPAWN_METERS</Name>
+		<Value>70</Value>
+		<Comment>distance between the player and control point that the defenders will be spawned</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>CONTROL_POINT_DIST_TO_DESPAWN_METERS</Name>
+		<Value>150</Value>
+		<Comment>distance between the player and control point that the defenders will be despawned</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>PUSHBACK_PED_DENSITY</Name>
+		<Value>.5</Value>
+		<Comment>percent of normal peds to spawn</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	<PushbackVariable>
+		<Name>PUSHBACK_CAR_DENSITY</Name>
+		<Value>.5</Value>
+		<Comment>percent of normal cars to spawn</Comment>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</PushbackVariable>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>PushbackVariable</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Value</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Comment</Name>
+		<Type>String</Type>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

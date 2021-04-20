@@ -1,0 +1,122 @@
+<root>
+<Table>
+	<TattooCosts>
+		<Name>Tattoo List</Name>
+		<Tattoo_List>
+			<Entry>
+				<Cost>10</Cost>
+				<Tattoo>pctat_b_aztbird1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>20</Cost>
+				<Tattoo>pctat_b_aztbug1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>30</Cost>
+				<Tattoo>pctat_c_maodesign1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>40</Cost>
+				<Tattoo>pctat_c_samdesign1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>50</Cost>
+				<Tattoo>pctat_c_samdesign2.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>60</Cost>
+				<Tattoo>pctat_xfa_aztsnake1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>70</Cost>
+				<Tattoo>pctat_xfa_vkbandb.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>80</Cost>
+				<Tattoo>pctat_xl_maylion1.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>90</Cost>
+				<Tattoo>pctat_xl_vkbandb.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>100</Cost>
+				<Tattoo>pctat_xua_aztturtle.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>110</Cost>
+				<Tattoo>pctat_xua_barbedwire.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			<Entry>
+				<Cost>120</Cost>
+				<Tattoo>pctat_xua_vkbanda.peg_pc</Tattoo>
+				<MPCost>1</MPCost>
+				</Entry>
+			</Tattoo_List>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</TattooCosts>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>TattooCosts</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Tattoo Costs</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Tattoo_List</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Entry</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Cost</Name>
+				<Type>Int</Type>
+				<Description>Cost of the tattoo</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>MPCost</Name>
+				<Type>Int</Type>
+				<Display_Name>MP Cost</Display_Name>
+				<Default>1</Default>
+				</Element>
+			<Element>
+				<Name>Tattoo</Name>
+				<Type>Reference</Type>
+				<Description>the tattoo art</Description>
+				<Unique>true</Unique>
+				<Reference>
+					<File>player_cust.xtbl</File>
+					<Type>Custom_player_slot.Components.Component.Mesh_name.Filename</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>30</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

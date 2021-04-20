@@ -1,0 +1,149 @@
+<root>
+<Table>
+	<Activity>
+		<Name>assault thug</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Assault</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>assault killa</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Assault</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>assault gangsta</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Assault</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>assault kingpin</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Assault</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>kill thug</Name>
+		<Num_Props>10</Num_Props>
+		<_Editor>
+			<Category>Kills</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>kill killa</Name>
+		<Num_Props>10</Num_Props>
+		<_Editor>
+			<Category>Kills</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>kill gangsta</Name>
+		<Num_Props>10</Num_Props>
+		<_Editor>
+			<Category>Kills</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>kill kingpin</Name>
+		<Num_Props>10</Num_Props>
+		<_Editor>
+			<Category>Kills</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>shooting thug</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Shooting</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>shooting killa</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Shooting</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>shooting gangsta</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Shooting</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>shooting kingpin</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Shooting</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>tagging</Name>
+		<Num_Props>500</Num_Props>
+		<_Editor>
+			<Category>Activities</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>destroy gang car</Name>
+		<Num_Props>0</Num_Props>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		</Activity>
+	<Activity>
+		<Name>collect item pickup</Name>
+		<Num_Props>10</Num_Props>
+		<_Editor>
+			<Category>Other</Category>
+			</_Editor>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Activity Name</Display_Name>
+		<Description>The unique name for the activity.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Num_Props</Name>
+		<Type>Int</Type>
+		<Display_Name>Props</Display_Name>
+		<Description>Amount of "props" that you receive for performing this activity.</Description>
+		<Default>0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Activities</Name>
+		</Category>
+	<Category>
+		<Name>Assault</Name>
+		</Category>
+	<Category>
+		<Name>Kills</Name>
+		</Category>
+	<Category>
+		<Name>Other</Name>
+		</Category>
+	<Category>
+		<Name>Shooting</Name>
+		</Category>
+	</EntryCategories>
+</root>

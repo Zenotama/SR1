@@ -1,0 +1,570 @@
+<root>
+<Table>
+	<Vehicle_slot>
+		<Name>Body Kit</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_BODY_KIT</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rims</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_RIMS</DisplayName>
+		<SlotType>wheels</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Exhaust</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_EXHAUST</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Spoiler</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_SPOILER</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Decal 1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_DECAL_1</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Decal 2</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_DECAL_2</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Decal 3</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_DECAL_3</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Spare Tire</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_SPARE_TIRE</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Hood</Name>
+		<DisplayName>SLOT_HOOD</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Nitrous</Name>
+		<DisplayName>SLOT_NITROUS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>performance</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Hydraulics</Name>
+		<DisplayName>SLOT_HYDRAULICS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>performance</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Drapes</Name>
+		<DisplayName>SLOT_DRAPES</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Casket</Name>
+		<DisplayName>SLOT_CASKET</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Roof</Name>
+		<DisplayName>SLOT_ROOF</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Front Bumper</Name>
+		<DisplayName>SLOT_FRONT_BUMPER</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rear Bumper</Name>
+		<DisplayName>SLOT_REAR_BUMPER</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim</Name>
+		<DisplayName>SLOT_TRIM</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Logo</Name>
+		<DisplayName>SLOT_LOGO</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Grill</Name>
+		<DisplayName>SLOT_GRILL</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Side Mirrors</Name>
+		<DisplayName>SLOT_SIDE_MIRRORS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Bull Horns</Name>
+		<DisplayName>SLOT_BULL_HORNS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Bed Options</Name>
+		<DisplayName>SLOT_BED_OPTIONS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Window Covers</Name>
+		<DisplayName>SLOT_WINDOW_COVERS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Wheel Covers</Name>
+		<DisplayName>SLOT_WHEEL_COVERS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Bumpers</Name>
+		<DisplayName>SLOT_BUMPERS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Roof Lights</Name>
+		<DisplayName>SLOT_ROOF_LIGHTS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Fins</Name>
+		<DisplayName>SLOT_FINS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Fuzzy Dice</Name>
+		<DisplayName>SLOT_FUZZY_DICE</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Light Covers</Name>
+		<DisplayName>SLOT_LIGHT_COVERS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Hood Ornament</Name>
+		<DisplayName>SLOT_HOOD_ORNAMENT</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Mudflap</Name>
+		<DisplayName>SLOT_MUDFLAP</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Lights</Name>
+		<DisplayName>SLOT_LIGHTS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Front Bumper Extras</Name>
+		<DisplayName>SLOT_FRONT_BUMPER_EXTRAS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rear Bumper Extras</Name>
+		<DisplayName>SLOT_REAR_BUMPER_EXTRAS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Doors</Name>
+		<DisplayName>SLOT_DOORS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Door Mods</Name>
+		<DisplayName>SLOT_DOOR_MODS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Window Guard</Name>
+		<DisplayName>SLOT_WINDOW_GUARD</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trunk</Name>
+		<DisplayName>SLOT_TRUNK</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Spinners</Name>
+		<DisplayName>SLOT_SPINNERS</DisplayName>
+		<SlotType>wheels</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Antenna</Name>
+		<DisplayName>SLOT_ANTENNA</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Window Tint</Name>
+		<DisplayName>SLOT_WINDOW_TINT</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Miscellaneous</Name>
+		<DisplayName>SLOT_MISCELLANEOUS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Interior</Name>
+		<DisplayName>SLOT_INTERIOR</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rim Color</Name>
+		<DisplayName>SLOT_RIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Misc. Color</Name>
+		<DisplayName>SLOT_MISC_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Interior Color</Name>
+		<DisplayName>SLOT_INTERIOR_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Body Color</Name>
+		<DisplayName>SLOT_BODY_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim Color</Name>
+		<DisplayName>SLOT_TRIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Color Schemes</Name>
+		<DisplayName>SLOT_COLOR_SCHEMES</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Windows</Name>
+		<DisplayName>SLOT_WINDOWS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Decal</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>SLOT_DECAL</DisplayName>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Gas Caps</Name>
+		<DisplayName>SLOT_GAS_CAPS</DisplayName>
+		<SlotType>body mod</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Mirrors</Name>
+		<DisplayName>SLOT_MIRRORS</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<SlotType>body mod</SlotType>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Body Color1</Name>
+		<DisplayName>SLOT_BODY_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Body Color2</Name>
+		<DisplayName>SLOT_BODY_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Body Color3</Name>
+		<DisplayName>SLOT_BODY_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Body Color4</Name>
+		<DisplayName>SLOT_BODY_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Interior Color1</Name>
+		<DisplayName>SLOT_INTERIOR_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Interior Color2</Name>
+		<DisplayName>SLOT_INTERIOR_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Interior Color3</Name>
+		<DisplayName>SLOT_INTERIOR_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim Color1</Name>
+		<DisplayName>SLOT_TRIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim Color2</Name>
+		<DisplayName>SLOT_TRIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim Color3</Name>
+		<DisplayName>SLOT_TRIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Trim Color4</Name>
+		<DisplayName>SLOT_TRIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rim Color1</Name>
+		<DisplayName>SLOT_RIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	<Vehicle_slot>
+		<Name>Rim Color2</Name>
+		<DisplayName>SLOT_RIM_COLOR</DisplayName>
+		<SlotType>color</SlotType>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Vehicle_slot>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Vehicle_slot</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Reference>
+			<File>localized_exports\CustVehicleSlots.xtbl</File>
+			<Type>CustVehicleSlots_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>SlotType</Name>
+		<Type>Selection</Type>
+		<Display_Name>Slot Type</Display_Name>
+		<Description>The slot type this customization slot belongs to.</Description>
+		<Default>body mod</Default>
+		<Choice>body mod</Choice>
+		<Choice>color</Choice>
+		<Choice>performance</Choice>
+		<Choice>wheels</Choice>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

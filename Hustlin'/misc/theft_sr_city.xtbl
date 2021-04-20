@@ -1,0 +1,542 @@
+<root>
+<Table>
+	<Territory>
+		<Name>tss_theft</Name>
+		<Dropoff_Location>theft_sr_city_$tss_dropoff</Dropoff_Location>
+		<Last_Cash>0</Last_Cash>
+		<Last_Respect>0</Last_Respect>
+		<Levels>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>75</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>300</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>500</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>theft_sr_city_$tss_start</Start_Location>
+		<Package_Type>stolen_goods_tss</Package_Type>
+		<Shops>
+			<Shop>
+				<Name>Saint's Row Low Clothing</Name>
+				<Package_Spawn>theft_sr_city_$sr_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$sr_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Saint's Row Gun</Name>
+				<Package_Spawn>theft_sr_city_$sr_gun_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$sr_gun_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Saint's Row Liquor</Name>
+				<Package_Spawn>theft_sr_city_$sr_liq_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$sr_liq_npc</NPC_Spawns>
+				</Shop>
+			</Shops>
+		</Territory>
+	<Territory>
+		<Name>vk_theft</Name>
+		<Dropoff_Location>theft_sr_city_$vk_dropoff</Dropoff_Location>
+		<Last_Cash>0</Last_Cash>
+		<Last_Respect>0</Last_Respect>
+		<Levels>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>75</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>300</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>500</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>700</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>900</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1200</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1600</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>2000</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>theft_sr_city_$vk_start</Start_Location>
+		<Package_Type>stolen_goods_vk</Package_Type>
+		<Shops>
+			<Shop>
+				<Name>Downtown Clothing</Name>
+				<NPC_Spawns>theft_sr_city_$down_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Downtown Gun</Name>
+				<Package_Spawn>theft_sr_city_$down_gun_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$down_gun_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Downtown Music</Name>
+				<Package_Spawn>theft_sr_city_$down_music_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$down_music_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>High End Retail Clothing</Name>
+				<Package_Spawn>theft_sr_city_$high_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$high_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>High End Retail Jewelry</Name>
+				<Package_Spawn>theft_sr_city_$high_jewel_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$high_jewel_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Museum Liquor</Name>
+				<NPC_Spawns>theft_sr_city_$museum_liq_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Projects Clothing</Name>
+				<Package_Spawn>theft_sr_city_$proj_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$proj_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Projects Liquor</Name>
+				<Package_Spawn>theft_sr_city_$proj_liq_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$proj_liq_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Red Light Liquor</Name>
+				<Package_Spawn>theft_sr_city_$red_liq_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$red_liq_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Red Light Low Clothing</Name>
+				<Package_Spawn>theft_sr_city_$red_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$red_cloth_npc</NPC_Spawns>
+				</Shop>
+			</Shops>
+		</Territory>
+	<Territory>
+		<Name>lc_theft</Name>
+		<Dropoff_Location>theft_sr_city_$lc_dropoff</Dropoff_Location>
+		<Last_Cash>0</Last_Cash>
+		<Last_Respect>0</Last_Respect>
+		<Levels>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>75</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>300</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>500</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>700</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>900</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1200</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1600</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>2000</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>theft_sr_city_$lc_start</Start_Location>
+		<Package_Type>stolen_goods_lc</Package_Type>
+		<Shops>
+			<Shop>
+				<Name>Airport Jewelry</Name>
+				<Package_Spawn>theft_sr_city_$air_jewel_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$air_jewel_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Barrio Clothing</Name>
+				<Package_Spawn>theft_sr_city_$bario_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$bario_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Barrio Music</Name>
+				<Package_Spawn>theft_sr_city_$bario_mus_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$bario_mus_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Docks Gun</Name>
+				<Package_Spawn>theft_sr_city_$docks_gun_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$docks_gun_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Docks Liquor</Name>
+				<Package_Spawn>theft_sr_city_$docks_liq_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$docks_liq_npc</NPC_Spawns>
+				</Shop>
+			</Shops>
+		</Territory>
+	<Territory>
+		<Name>wr_theft</Name>
+		<Dropoff_Location>theft_sr_city_$wr_dropoff</Dropoff_Location>
+		<Last_Cash>0</Last_Cash>
+		<Last_Respect>0</Last_Respect>
+		<Levels>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>75</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>300</Notoriety_Points>
+				<Return_Time>300</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>1</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>500</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>700</Notoriety_Points>
+				<Return_Time>240</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>2</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>900</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1200</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>1600</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			<Level>
+				<Num_NPCs>3</Num_NPCs>
+				<Cash_Award>500</Cash_Award>
+				<Props_Award>250</Props_Award>
+				<Notoriety_Points>2000</Notoriety_Points>
+				<Return_Time>180</Return_Time>
+				</Level>
+			</Levels>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Start_Location>theft_sr_city_$wr_start</Start_Location>
+		<Package_Type>stolen_goods_wr</Package_Type>
+		<Shops>
+			<Shop>
+				<Name>Apartments Gun</Name>
+				<Package_Spawn>theft_sr_city_$apart_gun_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$apart_gun_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Apartments Liquor</Name>
+				<Package_Spawn>theft_sr_city_$apart_liq_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$apart_liq_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Apartments Music</Name>
+				<Package_Spawn>theft_sr_city_$apart_mus_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$apart_mus_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Arena Clothing</Name>
+				<Package_Spawn>theft_sr_city_$arena_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$arena_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Chinatown Jewelry</Name>
+				<Package_Spawn>theft_sr_city_$china_jewel_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$china_jewel_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Suburbs Clothing</Name>
+				<Package_Spawn>theft_sr_city_$burbs_cloth_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$burbs_cloth_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Suburbs Gun</Name>
+				<Package_Spawn>theft_sr_city_$burbs_gun_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$burbs_gun_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Suburbs Jewelry</Name>
+				<Package_Spawn>theft_sr_city_$burbs_jewel_box</Package_Spawn>
+				<NPC_Spawns>theft_sr_city_$burbs_jewel_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Suburbs Music</Name>
+				<NPC_Spawns>theft_sr_city_$burbs_mus_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Truckyard Liquor</Name>
+				<NPC_Spawns>theft_sr_city_$truck_liq_npc</NPC_Spawns>
+				</Shop>
+			<Shop>
+				<Name>Truckyard Clothing</Name>
+				<NPC_Spawns>theft_sr_city_$truck_cloth_npc</NPC_Spawns>
+				</Shop>
+			</Shops>
+		</Territory>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Territory</Name>
+	<Type>TableDescription</Type>
+	<Description>A description of the activity</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>A unique name for the region</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Cutscene</Name>
+		<Type>Reference</Type>
+		<Description>The cut scene to play before starting the activity</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>cutscene.xtbl</File>
+			<Type>Cutscene.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Start_Location</Name>
+		<Type>Reference</Type>
+		<Description>Where the activity will be started from</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\theft_sr_city_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Dropoff_Location</Name>
+		<Type>Reference</Type>
+		<Description>Place you must return the goods to.</Description>
+		<Reference>
+			<File>..\levels\SaintsRow\activities\theft_sr_city_navpoints.xtbl</File>
+			<Type>Navpoint.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Package_Type</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>items_3d.xtbl</File>
+			<Type>Item.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Last_Cash</Name>
+		<Type>Int</Type>
+		<Display_Name>Last Level Cash Award</Display_Name>
+		<Description>Cash award for completing the maximum level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Last_Respect</Name>
+		<Type>Int</Type>
+		<Display_Name>Last Level Respect Award</Display_Name>
+		<Description>Props to be given for completing the last level</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Description>All of the levels available in the region.</Description>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Description>Description of a level</Description>
+			<Element>
+				<Name>Num_NPCs</Name>
+				<Type>Int</Type>
+				<Display_Name>Guards Per Shop</Display_Name>
+				<Description>Number of guards spawned at this difficulty.</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Notoriety_Points</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Return_Time</Name>
+				<Type>Float</Type>
+				<Description>Time in seconds the player has to return the package.</Description>
+				<Default>300</Default>
+				</Element>
+			<Element>
+				<Name>Cash_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Cash Award</Display_Name>
+				<Description>Cash to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>Props_Award</Name>
+				<Type>Int</Type>
+				<Display_Name>Props Award</Display_Name>
+				<Description>Props to be given for completing the level</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Shops</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Shop</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\shops_sr_city.xtbl</File>
+					<Type>Shop.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Package_Spawn</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\theft_sr_city_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>NPC_Spawns</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>12</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

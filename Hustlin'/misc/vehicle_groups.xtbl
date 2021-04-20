@@ -1,0 +1,2454 @@
+<root>
+<Table>
+	<Vehicle_Group>
+		<Name>SUV</Name>
+		<Mass>2500</Mass>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Yaw_Torque_Factor>0.35</Yaw_Torque_Factor>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>500</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>4000</Opt_RPM>
+			<Max_RPM>5500</Max_RPM>
+			<Min_RPM_Torque_Factor>0.9</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.9</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>.2</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.5</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>3000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.4</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.5</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>3000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.4</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Downshift_RPMs>
+				<Element>2500</Element>
+				<Element>2700</Element>
+				<Element>2900</Element>
+				</Downshift_RPMs>
+			<Upshift_RPM>5300</Upshift_RPM>
+			<Diff_Gear_Ratio>4.10</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>7.6</Follow_Distance>
+		<VehicleClass>SUV</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-0.2</Center_Of_Mass_Y_Offset>
+		<Viscosity_Friction>0.035</Viscosity_Friction>
+		<Roll_Torque_Factor>0.5</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>180</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>40</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>40</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>11.72</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>15.5</AI_Max_Radial_Accel>
+		<Maximum_Speed>80</Maximum_Speed>
+		<Maximum_Speed_With_Nitrous>90</Maximum_Speed_With_Nitrous>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>7000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Car - standard</Name>
+		<Mass>1500</Mass>
+		<Engine>
+			<Torque>290</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>5200</Opt_RPM>
+			<Max_RPM>5700</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.1</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.3</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1.0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>2000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30.0</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>3.0</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>3.0</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.0</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>2000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30.0</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>3.0</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>3.0</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5500</Upshift_RPM>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>3000</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<VehicleClass>Stock</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-.2</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.075</Viscosity_Friction>
+		<Roll_Torque_Factor>0.75</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>.75</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>.75</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>180</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>25</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>25</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<AI_Max_Braking_Decel>15.8</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>17.1</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>4000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Van/Minivan</Name>
+		<Mass>1752</Mass>
+		<Roll_Torque_Factor>.75</Roll_Torque_Factor>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>226</Torque>
+			<Opt_RPM>4400</Opt_RPM>
+			<Min_RPM>850</Min_RPM>
+			<Max_RPM>5200</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.1</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.3</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1.0</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Name>Front Axle</Name>
+				<Wheel_Braking_Torque>1500</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.375</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>20.0</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>1000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.375</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>20.0</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Upshift_RPM>5000</Upshift_RPM>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Center_Of_Mass_Y_Offset>-.2</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<AI_Static_Load_Friction>0.0</AI_Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>.6</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1.0</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>140</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>220</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>30</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>30</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>8.35</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>15.1</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>6000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Truck - big (semi cab)</Name>
+		<Mass>6000</Mass>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Yaw_Torque_Factor>.75</Yaw_Torque_Factor>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>1000</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>2500</Opt_RPM>
+			<Max_RPM>5200</Max_RPM>
+			<Min_RPM_Torque_Factor>0.9</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.9</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.1</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.25</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5000</Upshift_RPM>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>12</Follow_Distance>
+		<Follow_Height>1</Follow_Height>
+		<Center_Of_Mass_Y_Offset>-1</Center_Of_Mass_Y_Offset>
+		<AI_Static_Load_Friction>0</AI_Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>.75</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>.75</Pitch_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>120</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>180</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>40</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>40</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>4</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>7.07</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>13.9</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>7000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Station Wagon</Name>
+		<Mass>1700</Mass>
+		<Engine>
+			<Torque>270</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>3600</Opt_RPM>
+			<Max_RPM>5500</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.1</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.3</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Name>Axle</Name>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1.0</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>1500</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1.5</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1.5</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Name>Axle</Name>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.0</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>1000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1.5</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1.5</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.54</Element>
+				<Element>2.26</Element>
+				<Element>1.47</Element>
+				<Element>1.0</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5200</Upshift_RPM>
+			<Diff_Gear_Ratio>3.6</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.54</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Center_Of_Mass_Y_Offset>-.25</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<AI_Static_Load_Friction>0.0</AI_Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>.85</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>.9</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1.0</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>140</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>240</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>30</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>30</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2.5</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>8.86</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>14.6</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>5000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Truck - small (pickups)</Name>
+		<Mass>2000</Mass>
+		<Engine>
+			<Torque>600</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>4000</Opt_RPM>
+			<Max_RPM>5500</Max_RPM>
+			<Min_RPM_Torque_Factor>1</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.0</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.2</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Name>Axle</Name>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>3000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Name>Axle</Name>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>2400</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30.0</Wheel_Spring_Strength>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1.0</Element>
+				</Gear_Ratios>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Upshift_RPM>5300</Upshift_RPM>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Viscosity_Friction>0.05</Viscosity_Friction>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<VehicleClass>Stock</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-.1</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Roll_Torque_Factor>0.6</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>0.75</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>0.35</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>40</Max_Steering_Angle>
+			<Max_Speed_Steering>40</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>180</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>25</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>25</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>13.46</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>16.5</AI_Max_Radial_Accel>
+		<Lookat_Offset>
+			<X>0.0</X>
+			<Y>0.7</Y>
+			<Z>0.0</Z>
+			</Lookat_Offset>
+		<Follow_Distance>7.5</Follow_Distance>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>7000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>cop car (old 4-door)</Name>
+		<Mass>1840</Mass>
+		<Yaw_Unit_Inertia>1.3</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>428</Torque>
+			<Opt_RPM>4900</Opt_RPM>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1.0</Wheel_Engine_Torque>
+				<Wheel_Friction>2.15</Wheel_Friction>
+				<Name>Rear Axle</Name>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.06</Element>
+				<Element>1.63</Element>
+				<Element>1</Element>
+				<Element>0.7</Element>
+				</Gear_Ratios>
+			<Diff_Gear_Ratio>7</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>2</Reverse_Gear_Ratio>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Car - sports</Name>
+		<Mass>1270</Mass>
+		<Engine>
+			<Torque>400</Torque>
+			<Min_RPM>900</Min_RPM>
+			<Opt_RPM>7500</Opt_RPM>
+			<Max_RPM>7800</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.1</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.3</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1.2</Wheel_Friction>
+				<Wheel_Braking_Torque>2000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.25</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>50</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>3</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>3</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1.2</Wheel_Friction>
+				<Wheel_Braking_Torque>2000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.25</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>50</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>3</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>3</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>7600</Upshift_RPM>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>4000</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<VehicleClass>Exotic</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-.1</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.04</Viscosity_Friction>
+		<Roll_Torque_Factor>0.6</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>0.75</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>0.75</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>60</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>220</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>20.0</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>20</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>17.97</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>18.8</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>4000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Car - big domestic</Name>
+		<Mass>1800</Mass>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>400</Torque>
+			<Min_RPM>700</Min_RPM>
+			<Opt_RPM>5500</Opt_RPM>
+			<Max_RPM>6200</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.8</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.3</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Damp_Comp>.5</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>.5</Wheel_Damp_Exp>
+				<Wheel_Braking_Torque>2500</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1.0</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Name>Rear Axle</Name>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Braking_Torque>1500</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>25</Wheel_Spring_Strength>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Upshift_RPM>6000</Upshift_RPM>
+			<Clutch_Delay>.25</Clutch_Delay>
+			<Clutch_Slip_RPM>3000</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Hitpoints>5500</Max_Hitpoints>
+		<Aerodynamics>
+			<Frontal_Area>0.1</Frontal_Area>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<VehicleClass>Lowrider</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-.15</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.01</Viscosity_Friction>
+		<Roll_Torque_Factor>0.6</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>0.7</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>180</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>30</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>30</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>11.52</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>13.7</AI_Max_Radial_Accel>
+		<Maximum_Speed>80</Maximum_Speed>
+		<Maximum_Speed_With_Nitrous>90</Maximum_Speed_With_Nitrous>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Car - compact</Name>
+		<Mass>950</Mass>
+		<Engine>
+			<Torque>160</Torque>
+			<Min_RPM>1000</Min_RPM>
+			<Opt_RPM>3500</Opt_RPM>
+			<Max_RPM>6500</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.95</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.01</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.01</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.01</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Friction>0.4</Wheel_Friction>
+				<Wheel_Braking_Torque>800</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>45</Wheel_Spring_Strength>
+				<Wheel_Max_Friction>1</Wheel_Max_Friction>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>0.4</Wheel_Friction>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Braking_Torque>800</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>45</Wheel_Spring_Strength>
+				<Wheel_Max_Friction>1</Wheel_Max_Friction>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Diff_Gear_Ratio>4.5</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Upshift_RPM>6000</Upshift_RPM>
+			<Clutch_Slip_RPM>3200</Clutch_Slip_RPM>
+			<Clutch_Delay>0.35</Clutch_Delay>
+			</Transmission>
+		<Aerodynamics>
+			<Extra_Gravity>-20</Extra_Gravity>
+			</Aerodynamics>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Hitpoints>3500</Max_Hitpoints>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>1</Yaw_Torque_Factor>
+		<VehicleClass>Stock</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-0.15</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.035</Viscosity_Friction>
+		<Roll_Torque_Factor>1</Roll_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1.0</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35</Max_Steering_Angle>
+			<Max_Speed_Steering>40</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>360</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>540</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>20</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>10</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Angular_Damping>
+			<Normal_Spin_Damping>1.75</Normal_Spin_Damping>
+			<Collision_Spin_Damping>0.1</Collision_Spin_Damping>
+			<Collision_Spin_Threshold>230</Collision_Spin_Threshold>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>10.69</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>14.5</AI_Max_Radial_Accel>
+		<Center_of_Mass_Z_Offset>-0.1</Center_of_Mass_Z_Offset>
+		<AI_Static_Load_Friction>0.0</AI_Static_Load_Friction>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Truck - trailer</Name>
+		<Mass>5200</Mass>
+		<Engine>
+			<Torque>750</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>2500</Opt_RPM>
+			<Max_RPM>4700</Max_RPM>
+			<Min_RPM_Torque_Factor>0.8</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>1</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.05</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0.1</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.2</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Wheel_Braking_Torque>5000</Wheel_Braking_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>40</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1.5</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1.5</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.35</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>40</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1.5</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1.5</Wheel_Damp_Exp>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>2.48</Element>
+				<Element>1.48</Element>
+				<Element>1</Element>
+				<Element>0.75</Element>
+				</Gear_Ratios>
+			<Reverse_Gear_Ratio>2.5</Reverse_Gear_Ratio>
+			<Diff_Gear_Ratio>6.5</Diff_Gear_Ratio>
+			<Upshift_RPM>4500</Upshift_RPM>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>14</Follow_Distance>
+		<Follow_Height>1</Follow_Height>
+		<Center_Of_Mass_Y_Offset>-.75</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>.5</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>.75</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>.75</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>1</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>120</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>270</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>50</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>50</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Angular_Damping>
+			<Normal_Spin_Damping>3</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>8.31</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>12.4</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>15000</Max_Hitpoints>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Trailers</Name>
+		<Mass>1000</Mass>
+		<Center_Of_Mass_Y_Offset>-1.7</Center_Of_Mass_Y_Offset>
+		<Roll_Torque_Factor>.5</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>1</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>0.0</Torque>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Name>Front Axle</Name>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.5</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Spring_Length>0.55</Wheel_Spring_Length>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Name>Rear Axle</Name>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0.5</Wheel_Engine_Torque>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Spring_Length>0.55</Wheel_Spring_Length>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>1.0</Element>
+				</Gear_Ratios>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>20</Follow_Distance>
+		<Follow_Height>4</Follow_Height>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>3</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Helicopter</Name>
+		<Mass>6000</Mass>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Yaw_Torque_Factor>.75</Yaw_Torque_Factor>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>1000</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>2500</Opt_RPM>
+			<Max_RPM>5200</Max_RPM>
+			<Min_RPM_Torque_Factor>0.9</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.9</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.1</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.25</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5000</Upshift_RPM>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>12</Follow_Distance>
+		<Follow_Height>1</Follow_Height>
+		<AI_Static_Load_Friction>0</AI_Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>.75</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>.75</Pitch_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>120</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>180</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>40</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>40</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>4</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>7.07</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>13.9</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>Car - luxury</Name>
+		<Mass>1587</Mass>
+		<Engine>
+			<Torque>300</Torque>
+			<Min_RPM>1000</Min_RPM>
+			<Opt_RPM>4500</Opt_RPM>
+			<Max_RPM>6000</Max_RPM>
+			<Min_RPM_Torque_Factor>0.9</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.9</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.2</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>false</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>0.5</Wheel_Friction>
+				<Wheel_Braking_Torque>1500</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.375</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>40.0</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>3.0</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>3.0</Wheel_Damp_Exp>
+				<Wheel_Max_Friction>1</Wheel_Max_Friction>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>0.5</Wheel_Friction>
+				<Wheel_Braking_Torque>1400</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.375</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>40</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>2</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>2</Wheel_Damp_Exp>
+				<Wheel_Max_Friction>1</Wheel_Max_Friction>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1.05</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5800</Upshift_RPM>
+			<Diff_Gear_Ratio>4.5</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.5</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>3000</Clutch_Slip_RPM>
+			<Downshift_RPMs>
+				<Element>2500</Element>
+				<Element>2700</Element>
+				<Element>2900</Element>
+				</Downshift_RPMs>
+			<Clutch_Delay>0</Clutch_Delay>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<VehicleClass>Stock</VehicleClass>
+		<Center_Of_Mass_Y_Offset>-0.2</Center_Of_Mass_Y_Offset>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>0.85</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>1</Pitch_Torque_Factor>
+		<Yaw_Torque_Factor>.6</Yaw_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>40</Max_Steering_Angle>
+			<Max_Speed_Steering>30</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>30</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>240</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>300</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>30</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>30</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-20</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>2</Normal_Spin_Damping>
+			<Collision_Spin_Damping>0.1</Collision_Spin_Damping>
+			<Collision_Spin_Threshold>270</Collision_Spin_Threshold>
+			</Angular_Damping>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Max_Hitpoints>6000</Max_Hitpoints>
+		<Center_of_Mass_Z_Offset>0.25</Center_of_Mass_Z_Offset>
+		<Lookat_Offset>
+			<X>0.0</X>
+			<Y>1</Y>
+			<Z>0.0</Z>
+			</Lookat_Offset>
+		<Follow_Distance>7</Follow_Distance>
+		<Follow_Height>0.8</Follow_Height>
+		<AI_Static_Load_Friction>1</AI_Static_Load_Friction>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		</Vehicle_Group>
+	<Vehicle_Group>
+		<Name>El Train</Name>
+		<Mass>6000</Mass>
+		<Static_Load_Friction>0</Static_Load_Friction>
+		<Yaw_Torque_Factor>.75</Yaw_Torque_Factor>
+		<Yaw_Unit_Inertia>1</Yaw_Unit_Inertia>
+		<Engine>
+			<Torque>1000</Torque>
+			<Min_RPM>800</Min_RPM>
+			<Opt_RPM>2500</Opt_RPM>
+			<Max_RPM>5200</Max_RPM>
+			<Min_RPM_Torque_Factor>0.9</Min_RPM_Torque_Factor>
+			<Max_RPM_Torque_Factor>0.9</Max_RPM_Torque_Factor>
+			<Min_RPM_Resistance>0.1</Min_RPM_Resistance>
+			<Opt_RPM_Resistance>0</Opt_RPM_Resistance>
+			<Max_RPM_Resistance>0.25</Max_RPM_Resistance>
+			</Engine>
+		<Axles>
+			<Axle>
+				<Wheel_Does_Steer>true</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>0</Wheel_Engine_Torque>
+				<Name>Front Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			<Axle>
+				<Wheel_Does_Steer>false</Wheel_Does_Steer>
+				<Wheel_Does_Handbrake>true</Wheel_Does_Handbrake>
+				<Wheel_Engine_Torque>1</Wheel_Engine_Torque>
+				<Name>Rear Axle</Name>
+				<Wheel_Friction>1</Wheel_Friction>
+				<Wheel_Braking_Torque>4000</Wheel_Braking_Torque>
+				<Wheel_Spring_Length>0.5</Wheel_Spring_Length>
+				<Wheel_Spring_Strength>30</Wheel_Spring_Strength>
+				<Wheel_Damp_Comp>1</Wheel_Damp_Comp>
+				<Wheel_Damp_Exp>1</Wheel_Damp_Exp>
+				<Wheel_Reverse_Steer>false</Wheel_Reverse_Steer>
+				</Axle>
+			</Axles>
+		<Transmission>
+			<Gear_Ratios>
+				<Element>3.38</Element>
+				<Element>2.25</Element>
+				<Element>1.5</Element>
+				<Element>1</Element>
+				</Gear_Ratios>
+			<Upshift_RPM>5000</Upshift_RPM>
+			<Diff_Gear_Ratio>3.73</Diff_Gear_Ratio>
+			<Reverse_Gear_Ratio>3.38</Reverse_Gear_Ratio>
+			<Clutch_Slip_RPM>2500</Clutch_Slip_RPM>
+			</Transmission>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Follow_Distance>12</Follow_Distance>
+		<Follow_Height>1</Follow_Height>
+		<Center_Of_Mass_Y_Offset>-1</Center_Of_Mass_Y_Offset>
+		<AI_Static_Load_Friction>0</AI_Static_Load_Friction>
+		<Viscosity_Friction>0.025</Viscosity_Friction>
+		<Roll_Torque_Factor>.75</Roll_Torque_Factor>
+		<Pitch_Torque_Factor>.75</Pitch_Torque_Factor>
+		<Extra_Steering_Torque>0</Extra_Steering_Torque>
+		<Roll_Unit_Inertia>1</Roll_Unit_Inertia>
+		<Pitch_Unit_Inertia>1</Pitch_Unit_Inertia>
+		<AI_Yaw_Unit_Inertia>1</AI_Yaw_Unit_Inertia>
+		<Steering>
+			<Max_Steering_Angle>35.0</Max_Steering_Angle>
+			<Max_Speed_Steering>40.0</Max_Speed_Steering>
+			<AI_Max_Speed_Steering>40.0</AI_Max_Speed_Steering>
+			<Steering_Wheel_Max_Speed>120</Steering_Wheel_Max_Speed>
+			<Steering_Wheel_Max_Return_Speed>180</Steering_Wheel_Max_Return_Speed>
+			<Steering_Wheel_Damp_Angle>40</Steering_Wheel_Damp_Angle>
+			<Steering_Wheel_Return_Damp_Angle>40</Steering_Wheel_Return_Damp_Angle>
+			</Steering>
+		<Aerodynamics>
+			<Extra_Gravity>-5</Extra_Gravity>
+			</Aerodynamics>
+		<Angular_Damping>
+			<Normal_Spin_Damping>4</Normal_Spin_Damping>
+			</Angular_Damping>
+		<AI_Max_Braking_Decel>7.07</AI_Max_Braking_Decel>
+		<AI_Max_Radial_Accel>13.9</AI_Max_Radial_Accel>
+		<AI_Yaw_Torque_Factor>0.85</AI_Yaw_Torque_Factor>
+		<Max_Hitpoints>7000</Max_Hitpoints>
+		</Vehicle_Group>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Vehicle_Group</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Vehicle Group</Display_Name>
+	<MaxCount>16</MaxCount>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Group Name</Display_Name>
+		<Description>Unique name of the vehicle used by the game.</Description>
+		<Unique>true</Unique>
+		<Default>NoName</Default>
+		<MaxLength>23</MaxLength>
+		</Element>
+	<Element>
+		<Name>Max_Hitpoints</Name>
+		<Type>Int</Type>
+		<Display_Name>Hitpoints</Display_Name>
+		<Description>Maximum hitpoints for the vehicle.</Description>
+		<Required>false</Required>
+		<Default>5000</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1000000</MaxValue>
+		</Element>
+	<Element>
+		<Name>Mass</Name>
+		<Type>Float</Type>
+		<Description>Mass of the vehicle in kilograms.</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Center_Of_Mass_Y_Offset</Name>
+		<Type>Float</Type>
+		<Display_Name>Center of Mass Y-Offset</Display_Name>
+		<Description>Offset of the center of mass from the position in the y direction.</Description>
+		<Required>false</Required>
+		<Default>0.07</Default>
+		</Element>
+	<Element>
+		<Name>Center_of_Mass_Z_Offset</Name>
+		<Type>Float</Type>
+		<Display_Name>Center of Mass Z-Offset</Display_Name>
+		<Description>The center of mass is offset by this amount in the z (forward) direction in meters.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Lookat_Offset</Name>
+		<Type>Vector</Type>
+		<Display_Name>Camera Lookat Offset</Display_Name>
+		<Description>The position (offset from the center of the car) that the camera should focus on when tracking the vehicle.</Description>
+		<Required>false</Required>
+		<X>
+			<Name>X</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</X>
+		<Y>
+			<Name>Y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Y>
+		<Z>
+			<Name>Z</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Z>
+		</Element>
+	<Element>
+		<Name>Follow_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>Camera Follow Distance</Display_Name>
+		<Description>The distance from the vehicle that the camera should stay.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Follow_Height</Name>
+		<Type>Float</Type>
+		<Display_Name>Camera Follow Height</Display_Name>
+		<Description>The height that the camera should maintain relative to the vehicle.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Secondary_Lookat_Offset</Name>
+		<Type>Vector</Type>
+		<Display_Name>Secondary Camera Lookat Offset</Display_Name>
+		<Description>Secondary Lookat Offset, selectable by user.</Description>
+		<Required>false</Required>
+		<X>
+			<Name>X</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</X>
+		<Y>
+			<Name>Y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Y>
+		<Z>
+			<Name>Z</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Z>
+		</Element>
+	<Element>
+		<Name>Secondary_Follow_Distance</Name>
+		<Type>Float</Type>
+		<Display_Name>Secondary Camera Follow Distance</Display_Name>
+		<Description>Secondary Follow Distance, selectable by user.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Secondary_Follow_Height</Name>
+		<Type>Float</Type>
+		<Display_Name>Secondary Camera Follow Height</Display_Name>
+		<Description>Secondary Follow Height, selectable by user.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Static_Load_Friction</Name>
+		<Type>Float</Type>
+		<Display_Name>Static Load Friction</Display_Name>
+		<Description>Averages the static and dynamic load contributions for friction.  A value of 0.0 means it's all dynamic.</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>AI_Static_Load_Friction</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Static Load Friction</Display_Name>
+		<Description>Averages the static and dynamic load contributions for friction.  A value of 0.0 means it's all dynamic. (For AI vehicles)</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Viscosity_Friction</Name>
+		<Type>Float</Type>
+		<Display_Name>Viscosity Friction</Display_Name>
+		<Description>An extra velocity dependent friction factor. This factor increases the friction if the car slides. Values between 0.0 and 0.1 are reasonable.</Description>
+		<Required>false</Required>
+		<Default>0.05</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>0.1</MaxValue>
+		</Element>
+	<Element>
+		<Name>Roll_Torque_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>Roll Torque Factor</Display_Name>
+		<Description>Scales the torques applied by the simulation at the roll axis by the given factor.</Description>
+		<Required>false</Required>
+		<Default>0.25</Default>
+		</Element>
+	<Element>
+		<Name>Pitch_Torque_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>Pitch Torque Factor</Display_Name>
+		<Description>Scales the torques applied by the simulation at the pitch axis by the given factor.</Description>
+		<Required>false</Required>
+		<Default>0.5</Default>
+		</Element>
+	<Element>
+		<Name>Yaw_Torque_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>Yaw Torque Factor</Display_Name>
+		<Description>Scales the torques applied by the simulation at the yaw axis by the given factor.</Description>
+		<Required>false</Required>
+		<Default>0.35</Default>
+		</Element>
+	<Element>
+		<Name>AI_Yaw_Torque_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Yaw Torque Factor</Display_Name>
+		<Description>Scales the torques applied by the simulation at the yaw axis by the given factor.</Description>
+		<Required>false</Required>
+		<Default>0.85</Default>
+		</Element>
+	<Element>
+		<Name>Extra_Steering_Torque</Name>
+		<Type>Float</Type>
+		<Display_Name>Extra Steering Torque</Display_Name>
+		<Description>An extra torque which is applied to the car when steering is pointing left or right.</Description>
+		<Required>false</Required>
+		<Default>-0.5</Default>
+		</Element>
+	<Element>
+		<Name>Roll_Unit_Inertia</Name>
+		<Type>Float</Type>
+		<Display_Name>Roll Unit Inertia</Display_Name>
+		<Description>The rotation inertia around the roll axis for a car of the mass 1.0f kilogram, 1.0 is normal.</Description>
+		<Required>false</Required>
+		<Default>0.4</Default>
+		</Element>
+	<Element>
+		<Name>Pitch_Unit_Inertia</Name>
+		<Type>Float</Type>
+		<Display_Name>Pitch Unit Inertia</Display_Name>
+		<Description>The rotation inertia around the pitch axis for a car of the mass 1.0f kilogram, 1.0 is normal.</Description>
+		<Required>false</Required>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>Yaw_Unit_Inertia</Name>
+		<Type>Float</Type>
+		<Display_Name>Yaw Unit Inertia</Display_Name>
+		<Description>The rotation inertia around the yaw axis for a car of the mass 1.0f kilogram, 1.0 is normal.</Description>
+		<Required>false</Required>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>AI_Yaw_Unit_Inertia</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Yaw Unit Inertia</Display_Name>
+		<Description>The rotation inertia around the yaw axis for a car of the mass 1.0f kilogram, 1.0 is normal. (For AI vehicles)</Description>
+		<Required>false</Required>
+		<Default>1.0</Default>
+		</Element>
+	<Element>
+		<Name>AI_Max_Braking_Decel</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Maximum Braking Decel.</Display_Name>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>AI_Max_Radial_Accel</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Maximum Radial Accel.</Display_Name>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>VehicleClass</Name>
+		<Type>Selection</Type>
+		<Display_Name>Racing Class</Display_Name>
+		<Required>false</Required>
+		<Choice>Open</Choice>
+		<Choice>Stock</Choice>
+		<Choice>SUV</Choice>
+		<Choice>Lowrider</Choice>
+		<Choice>Exotic</Choice>
+		</Element>
+	<Element>
+		<Name>Trailer_Hitch_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Trailer Hitch Type</Display_Name>
+		<Description>Type of trailers that can be attached to this vehicle.</Description>
+		<Required>false</Required>
+		<Choice>Invalid</Choice>
+		<Choice>Semi</Choice>
+		</Element>
+	<Element>
+		<Name>Tractor_Hitch_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Tractor Hitch Type</Display_Name>
+		<Description>Type of tractor hitches this vehicle can attach to (and become a trailer).</Description>
+		<Required>false</Required>
+		<Choice>Invalid</Choice>
+		<Choice>Semi</Choice>
+		</Element>
+	<Element>
+		<Name>Trailer_Chance</Name>
+		<Type>Float</Type>
+		<Display_Name>Trailer Chance</Display_Name>
+		<Description>Chance that a trailer is attached to this vehicle (if one can be attached).</Description>
+		<Required>false</Required>
+		<Default>.8</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>Hydraulics_Capable</Name>
+		<Type>Selection</Type>
+		<Display_Name>Hydraulics Capable</Display_Name>
+		<Description>If this is set to 'yes' then the group can have hydraulics.</Description>
+		<Required>false</Required>
+		<Default>No</Default>
+		<Choice>Yes</Choice>
+		<Choice>No</Choice>
+		</Element>
+	<Element>
+		<Name>Drifting_Possible</Name>
+		<Type>Selection</Type>
+		<Display_Name>Drifting Possible</Display_Name>
+		<Description>Whether or not this vehicle can drift when the e-brake is pressed.</Description>
+		<Required>false</Required>
+		<Default>Yes</Default>
+		<Choice>Yes</Choice>
+		<Choice>No</Choice>
+		</Element>
+	<Element>
+		<Name>Drifting_Conserve_Speed_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>Drifting Conserve Speed Factor</Display_Name>
+		<Description>When drifting this is the amount of the original speed that is kept.  The higher the value, the more it drifts.</Description>
+		<Required>false</Required>
+		<Default>1</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>1</MaxValue>
+		</Element>
+	<Element>
+		<Name>Burnout_Possible</Name>
+		<Type>Selection</Type>
+		<Display_Name>Burnout Possible</Display_Name>
+		<Description>If this is true then the car can do a burnout when the e-brake is pressed.</Description>
+		<Required>false</Required>
+		<Default>Yes</Default>
+		<Choice>Yes</Choice>
+		<Choice>No</Choice>
+		</Element>
+	<Element>
+		<Name>Maximum_Speed</Name>
+		<Type>Float</Type>
+		<Display_Name>Maximum Speed</Display_Name>
+		<Description>Maximum speed that the vehicle can travel.  This is still bound by a maximum speed in the engine for streaming reasons.</Description>
+		<Required>false</Required>
+		<Default>90</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>150</MaxValue>
+		</Element>
+	<Element>
+		<Name>Maximum_Speed_With_Nitrous</Name>
+		<Type>Float</Type>
+		<Display_Name>Maximum Speed With Nitrous</Display_Name>
+		<Description>Maximum speed that the vehicle can travel when nitrous is activated.  This is still bound by a maximum speed in the engine for streaming reasons.</Description>
+		<Required>false</Required>
+		<Default>100</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>150</MaxValue>
+		</Element>
+	<Element>
+		<Name>LODs</Name>
+		<Type>List</Type>
+		<Display_Name>Levels of Detail</Display_Name>
+		<Description>A list of available levels-of-detail for the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>LOD_Distance</Name>
+			<Type>Float</Type>
+			<Display_Name>LOD Distance</Display_Name>
+			<Description>The maximum distance for the LOD in meters.</Description>
+			<Default>10</Default>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>LOD_Distance</Element_Name>
+		</Element>
+	<Element>
+		<Name>Engine</Name>
+		<Type>Element</Type>
+		<Display_Name>Engine Parameters</Display_Name>
+		<Description>Parameters defining the engine of the vehicle.</Description>
+		<Element>
+			<Name>Torque</Name>
+			<Type>Float</Type>
+			<Description>Maximum gross torque the engine can produce in Newton-meters.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Min_RPM</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum RPM</Display_Name>
+			<Description>Minimum RPM of the engine.</Description>
+			<Required>false</Required>
+			<Default>1000</Default>
+			</Element>
+		<Element>
+			<Name>Opt_RPM</Name>
+			<Type>Float</Type>
+			<Display_Name>Optimal RPM</Display_Name>
+			<Description>Optimal RPM of the engine (where it makes the most horsepower).</Description>
+			<Required>false</Required>
+			<Default>5500</Default>
+			</Element>
+		<Element>
+			<Name>Max_RPM</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum RPM</Display_Name>
+			<Description>Maximum RPM of the engine.</Description>
+			<Required>false</Required>
+			<Default>7500</Default>
+			</Element>
+		<Element>
+			<Name>Min_RPM_Torque_Factor</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum RPM Torque Factor</Display_Name>
+			<Description>Fraction of the engine torque (0.0 - 1.0) at minimum RPM.</Description>
+			<Required>false</Required>
+			<Default>0.8</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Max_RPM_Torque_Factor</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum RPM Torque Factor</Display_Name>
+			<Description>Minimum RPM of the engine.</Description>
+			<Required>false</Required>
+			<Default>0.8</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Min_RPM_Resistance</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum RPM Resistance</Display_Name>
+			<Description>Fraction of the engine torque (0.0 - 1.0) at minimum RPM due to resistance.</Description>
+			<Required>false</Required>
+			<Default>0.05</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Opt_RPM_Resistance</Name>
+			<Type>Float</Type>
+			<Display_Name>Optimal RPM Resistance</Display_Name>
+			<Description>Fraction of the engine torque (0.0 - 1.0) at optimal RPM due to resistance.</Description>
+			<Required>false</Required>
+			<Default>0.1</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Max_RPM_Resistance</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum RPM Resistance</Display_Name>
+			<Description>Fraction of the engine torque (0.0 - 1.0) at maximum RPM due to resistance.</Description>
+			<Required>false</Required>
+			<Default>0.3</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Axles</Name>
+		<Type>List</Type>
+		<Display_Name>Axle Parameters</Display_Name>
+		<Description>Parameters defining the axles of the vehicle.</Description>
+		<Element>
+			<Name>Axle</Name>
+			<Type>Element</Type>
+			<Description>A single axle of the vehicle.</Description>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Display_Name>Axle Name</Display_Name>
+				<Description>The name for the axle.</Description>
+				<Default>Axle</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Does_Steer</Name>
+				<Type>Selection</Type>
+				<Display_Name>Wheel Does Steer</Display_Name>
+				<Description>Whether or not the wheel is part of steering.</Description>
+				<Default>true</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Wheel_Does_Handbrake</Name>
+				<Type>Selection</Type>
+				<Display_Name>Wheel Does Handbrake</Display_Name>
+				<Description>Whether or not the wheel is part of the handbrake.</Description>
+				<Default>true</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			<Element>
+				<Name>Wheel_Engine_Torque</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Engine Torque</Display_Name>
+				<Description>Amount of torque the wheel gets from the engine (0.0 - 1.0).  
+Note: This will be scaled in game so that the total of all the wheels is 1.0.</Description>
+				<Default>0.5</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Wheel_Mass</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Mass</Display_Name>
+				<Description>Mass of the wheel in kilograms.</Description>
+				<Required>false</Required>
+				<Default>20.0</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Friction</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Friction</Display_Name>
+				<Description>Friction of the wheel.</Description>
+				<Required>false</Required>
+				<Default>2.5</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Max_Friction</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Max Friction</Display_Name>
+				<Description>The maximum friction for the wheel.</Description>
+				<Required>false</Required>
+				<Default>5</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>Wheel_Drift_Friction_Modifier</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Drift Friction Modifier</Display_Name>
+				<Description>The tire's friction is multiplied by this when drifting.</Description>
+				<Required>false</Required>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Wheel_Braking_Torque</Name>
+				<Type>Float</Type>
+				<Display_Name>Wheel Braking Torque</Display_Name>
+				<Description>Amount of torque supplied by the braking system to the wheel in Newton-meters.</Description>
+				<Required>false</Required>
+				<Default>4500.0</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Spring_Length</Name>
+				<Type>Float</Type>
+				<Display_Name>Spring Length</Display_Name>
+				<Description>Length in meters the wheel is from the hard point on the chassis.</Description>
+				<Required>false</Required>
+				<Default>0.35</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Spring_Strength</Name>
+				<Type>Float</Type>
+				<Display_Name>Spring Strength</Display_Name>
+				<Description>Stiffness of the spring in Newtons/meter.</Description>
+				<Required>false</Required>
+				<Default>30.0</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Damp_Comp</Name>
+				<Type>Float</Type>
+				<Display_Name>Damping - Compression</Display_Name>
+				<Description>Amount of damping when the spring is compressed.</Description>
+				<Required>false</Required>
+				<Default>3.0</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Damp_Exp</Name>
+				<Type>Float</Type>
+				<Display_Name>Damping - Expansion</Display_Name>
+				<Description>Amount of damping when the spring expands.</Description>
+				<Required>false</Required>
+				<Default>3.0</Default>
+				</Element>
+			<Element>
+				<Name>Wheel_Reverse_Steer</Name>
+				<Type>Selection</Type>
+				<Display_Name>Wheel Reverse Steer</Display_Name>
+				<Default>false</Default>
+				<Choice>true</Choice>
+				<Choice>false</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Axle.Name</Element_Name>
+		</Element>
+	<Element>
+		<Name>Transmission</Name>
+		<Type>Element</Type>
+		<Display_Name>Transmission Parameters</Display_Name>
+		<Description>Parameters defining the transmission of the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Gear_Ratios</Name>
+			<Type>List</Type>
+			<Display_Name>Gear Ratios</Display_Name>
+			<Description>Defines the gear ratios for each gear in the transmission.</Description>
+			<Element>
+				<Name>Element</Name>
+				<Type>Float</Type>
+				<Display_Name>Gear Ratio</Display_Name>
+				<Description>Engine to driveshaft gear ratio. (i.e. 2.0 means the engine turns 2 times for every turn of the driveshaft)</Description>
+				<Default>1.0</Default>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			<Element_Name>Element</Element_Name>
+			</Element>
+		<Element>
+			<Name>Downshift_RPMs</Name>
+			<Type>List</Type>
+			<Display_Name>Downshift RPMs</Display_Name>
+			<Description>RPMs at which the transmission shifts into a lower gear for 2nd gear and above.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Element</Name>
+				<Type>Float</Type>
+				<Display_Name>Downshift RPM</Display_Name>
+				<Description>RPMs at which the transmission shifts into the next lower gear.</Description>
+				<Default>1000</Default>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			<Element_Name>Element</Element_Name>
+			</Element>
+		<Element>
+			<Name>Upshift_RPM</Name>
+			<Type>Float</Type>
+			<Display_Name>Upshift RPM</Display_Name>
+			<Description>RPM at which the transmission shifts into a higher gear.</Description>
+			<Required>false</Required>
+			<Default>6500</Default>
+			</Element>
+		<Element>
+			<Name>Diff_Gear_Ratio</Name>
+			<Type>Float</Type>
+			<Display_Name>Differential Gear Ratio</Display_Name>
+			<Description>Driveshaft to axle gear ratio. (i.e. 3.0 means the driveshaft turns 3 times for every 1 turn of the axle)</Description>
+			<Required>false</Required>
+			<Default>5.5</Default>
+			</Element>
+		<Element>
+			<Name>Reverse_Gear_Ratio</Name>
+			<Type>Float</Type>
+			<Display_Name>Reverse Gear Ratio</Display_Name>
+			<Description>Gear ratio when going in reverse.</Description>
+			<Required>false</Required>
+			<Default>1.0</Default>
+			</Element>
+		<Element>
+			<Name>Clutch_Delay</Name>
+			<Type>Float</Type>
+			<Display_Name>Clutch Delay</Display_Name>
+			<Description>The time it takes to shift gears in seconds.</Description>
+			<Required>false</Required>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Clutch_Slip_RPM</Name>
+			<Type>Float</Type>
+			<Display_Name>Clutch Slip RPM</Display_Name>
+			<Description>If the accelerator is pressed and the transmission RPM is below this, the clutch will slip and allow the engine to reach this RPM.</Description>
+			<Required>false</Required>
+			<Default>2500</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Steering</Name>
+		<Type>Element</Type>
+		<Display_Name>Steering Parameters</Display_Name>
+		<Description>Parameters defining the steering performance of the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Max_Steering_Angle</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum Steering Angle</Display_Name>
+			<Description>Maximum steering angle in degrees.</Description>
+			<Required>false</Required>
+			<Default>35.0</Default>
+			</Element>
+		<Element>
+			<Name>Max_Speed_Steering</Name>
+			<Type>Float</Type>
+			<Display_Name>Maximum Speed Steering</Display_Name>
+			<Description>Maximum speed in mph at which the maximum steering angle can be applied. The angle is reduced beyond this speed.</Description>
+			<Required>false</Required>
+			<Default>40.0</Default>
+			</Element>
+		<Element>
+			<Name>AI_Max_Speed_Steering</Name>
+			<Type>Float</Type>
+			<Display_Name>AI Maximum Speed Steering</Display_Name>
+			<Description>Maximum speed in mph at which the maximum steering angle can be applied for AI vehicles. The angle is reduced beyond this speed.</Description>
+			<Required>false</Required>
+			<Default>40.0</Default>
+			</Element>
+		<Element>
+			<Name>Steering_Wheel_Max_Speed</Name>
+			<Type>Float</Type>
+			<Display_Name>Steering Wheel Max Speed</Display_Name>
+			<Description>Maximum speed at which the steering wheel can be turned in degrees per second.</Description>
+			<Required>false</Required>
+			<Default>360</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1080</MaxValue>
+			</Element>
+		<Element>
+			<Name>Steering_Wheel_Max_Return_Speed</Name>
+			<Type>Float</Type>
+			<Display_Name>S. Wheel Max Return Speed</Display_Name>
+			<Description>Maximum speed at which the steering wheel can be turned in degrees per second when going back to the center.</Description>
+			<Required>false</Required>
+			<Default>540</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1080</MaxValue>
+			</Element>
+		<Element>
+			<Name>Steering_Wheel_Damp_Angle</Name>
+			<Type>Float</Type>
+			<Display_Name>Steering Wheel Damp Angle</Display_Name>
+			<Description>The steering wheel slows down if it's within this angle (in degrees) from the goal angle.</Description>
+			<Required>false</Required>
+			<Default>20.0</Default>
+			<MinValue>0.1</MinValue>
+			<MaxValue>90</MaxValue>
+			</Element>
+		<Element>
+			<Name>Steering_Wheel_Return_Damp_Angle</Name>
+			<Type>Float</Type>
+			<Display_Name>S. Wheel Return Damp Angle</Display_Name>
+			<Description>The steering wheel slows down if it's within this angle (in degrees) from the goal angle when returning back to the center.</Description>
+			<Required>false</Required>
+			<Default>10</Default>
+			<MinValue>0.1</MinValue>
+			<MaxValue>90</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Braking</Name>
+		<Type>Element</Type>
+		<Display_Name>Braking Parameters</Display_Name>
+		<Description>Parameters defining the braking performance of the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Min_Pedal_To_Block</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum Pedal to Block</Display_Name>
+			<Description>Minimum amount of pedal input (0.0 - 1.0) that can cause a wheel to stop rotating.</Description>
+			<Required>false</Required>
+			<Default>0.9</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Min_Time_To_Block</Name>
+			<Type>Float</Type>
+			<Display_Name>Minimum Time to Block</Display_Name>
+			<Description>If the pedal input is enough, a wheel will be blocked after this amount of time.</Description>
+			<Required>false</Required>
+			<Default>1000</Default>
+			</Element>
+		<Element>
+			<Name>AI_Min_Time_To_Block</Name>
+			<Type>Float</Type>
+			<Display_Name>AI Minimum Time to Block</Display_Name>
+			<Description>If the pedal input is enough, a wheel will be blocked after this amount of time. (For AI vehicles)</Description>
+			<Default>1000</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Aerodynamics</Name>
+		<Type>Element</Type>
+		<Display_Name>Aerodynamic Parameters</Display_Name>
+		<Description>Parameters defining the aerodynamic characteristics of the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Air_Density</Name>
+			<Type>Float</Type>
+			<Display_Name>Air Density</Display_Name>
+			<Description>Density of the air that surrounds the vehicle in kg/m^3.</Description>
+			<Required>false</Required>
+			<Default>1.3</Default>
+			</Element>
+		<Element>
+			<Name>Frontal_Area</Name>
+			<Type>Float</Type>
+			<Display_Name>Frontal Area</Display_Name>
+			<Description>Frontal area of the vehicle in m^2.</Description>
+			<Required>false</Required>
+			<Default>1.0</Default>
+			</Element>
+		<Element>
+			<Name>Drag_Coefficient</Name>
+			<Type>Float</Type>
+			<Display_Name>Drag Coefficient</Display_Name>
+			<Description>Drag coefficient of the vehicle.</Description>
+			<Required>false</Required>
+			<Default>0.7</Default>
+			</Element>
+		<Element>
+			<Name>Lift_Coefficient</Name>
+			<Type>Float</Type>
+			<Display_Name>Lift Coefficient</Display_Name>
+			<Description>Lift coefficient of the vehicle (positive is up, negative is down).</Description>
+			<Required>false</Required>
+			<Default>-0.3</Default>
+			</Element>
+		<Element>
+			<Name>Extra_Gravity</Name>
+			<Type>Float</Type>
+			<Display_Name>Extra Gravity</Display_Name>
+			<Description>Amount of extra gravity that is applied to the vehicle.</Description>
+			<Required>false</Required>
+			<Default>0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Foley</Name>
+		<Type>Element</Type>
+		<Display_Name>Vehicle Foleys</Display_Name>
+		<Description>Foleys (sound effects) for the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Engine_Start</Name>
+			<Type>Reference</Type>
+			<Display_Name>Engine Start</Display_Name>
+			<Description>Foley to play at engine start.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Engine</Name>
+			<Type>Reference</Type>
+			<Description>Engine sound foley.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley_engine.xtbl</File>
+				<Type>Engine.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Engine_Off</Name>
+			<Type>Reference</Type>
+			<Display_Name>Engine Off</Display_Name>
+			<Description>Foley to play when engine stops.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Tire</Name>
+			<Type>Reference</Type>
+			<Description>Tires foley sound</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley_tires.xtbl</File>
+				<Type>Tires.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Gear_Shift</Name>
+			<Type>Reference</Type>
+			<Display_Name>Gear Shift</Display_Name>
+			<Description>Foley to play when shifting gears.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Gear_Grind</Name>
+			<Type>Reference</Type>
+			<Display_Name>Gear Grind</Display_Name>
+			<Description>Foley to play when gears grind.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Horn</Name>
+			<Type>Reference</Type>
+			<Display_Name>Horn Set</Display_Name>
+			<Description>Foley to play when honking the vehicle's horn.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>vehicle_horns.xtbl</File>
+				<Type>Horns.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Skid</Name>
+			<Type>Reference</Type>
+			<Display_Name>Skid/Peel</Display_Name>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>SkidBrakes</Name>
+			<Type>Reference</Type>
+			<Display_Name>Skid Brakes</Display_Name>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Nitro</Name>
+			<Type>Reference</Type>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Low_Impact</Name>
+			<Type>Reference</Type>
+			<Display_Name>Impact - Low</Display_Name>
+			<Description>Foley used for low impact crashes.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR LITE</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>High_Impact</Name>
+			<Type>Reference</Type>
+			<Display_Name>Impact - High</Display_Name>
+			<Description>Foley used for high impact crashes.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR HARD</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Scraping</Name>
+			<Type>Reference</Type>
+			<Description>Foley used when the vehicle scrapes along stuff.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR SCRAPE</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Corpse_Impact</Name>
+			<Type>Reference</Type>
+			<Display_Name>Impact - Corpse</Display_Name>
+			<Description>Foley used when the corpse collides.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR CORPES</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Component_Impact</Name>
+			<Type>Reference</Type>
+			<Display_Name>Impact - Component</Display_Name>
+			<Description>Foley used when a vehicle component collides.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR COMPONANTS</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Wheel_Impact</Name>
+			<Type>Reference</Type>
+			<Display_Name>Impact - Wheel</Display_Name>
+			<Description>Foley used when a loose wheel collides.</Description>
+			<Required>false</Required>
+			<Default>IMP CAR WHEELS</Default>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Door_Open</Name>
+			<Type>Reference</Type>
+			<Display_Name>Door Open</Display_Name>
+			<Description>The foley to play when a door is opened on this vehicle.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Door_Close</Name>
+			<Type>Reference</Type>
+			<Display_Name>Door Close</Display_Name>
+			<Description>The foley to play when a vehicle door is closed.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>RadioSwitch</Name>
+			<Type>Reference</Type>
+			<Display_Name>Radio Switch</Display_Name>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>RadioOnOff</Name>
+			<Type>Reference</Type>
+			<Display_Name>Radio On/Off</Display_Name>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Effects</Name>
+		<Type>Element</Type>
+		<Display_Name>Vehicle Effects</Display_Name>
+		<Description>Visual effects to apply to the vehicle.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Engine_Fire</Name>
+			<Type>String</Type>
+			<Display_Name>Engine Fire</Display_Name>
+			<Description>VFX for when the engine is on fire.</Description>
+			<Required>false</Required>
+			<Default>CarDamage-Fire</Default>
+			</Element>
+		<Element>
+			<Name>Engine_Smoke</Name>
+			<Type>String</Type>
+			<Display_Name>Engine Smoke</Display_Name>
+			<Description>VFX for when the engine is smoking.</Description>
+			<Required>false</Required>
+			<Default>CarDamage-Smoke</Default>
+			</Element>
+		<Element>
+			<Name>Explosion</Name>
+			<Type>String</Type>
+			<Description>Explosion from the explosion table.</Description>
+			<Required>false</Required>
+			<Default>Vehicle</Default>
+			</Element>
+		<Element>
+			<Name>Exhaust_No_Accelerator</Name>
+			<Type>Reference</Type>
+			<Display_Name>Exhaust No Accelerator</Display_Name>
+			<Description>Effect to use for the exhaust when the accelerator is not pressed.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>effects.xtbl</File>
+				<Type>Effect.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Exhaust_Accelerator</Name>
+			<Type>Reference</Type>
+			<Display_Name>Exhaust Accelerator</Display_Name>
+			<Description>Effect to use for the exhaust when the accelerator is pressed.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>effects.xtbl</File>
+				<Type>Effect.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Exhaust_All_Time</Name>
+			<Type>Selection</Type>
+			<Display_Name>Exhaust All Time</Display_Name>
+			<Description>If this is set to 'yes' then the exhaust effect is played all the time (not just when it's damaged).</Description>
+			<Required>false</Required>
+			<Default>No</Default>
+			<Choice>No</Choice>
+			<Choice>Yes</Choice>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Angular_Damping</Name>
+		<Type>Element</Type>
+		<Display_Name>Angular Damping</Display_Name>
+		<Description>Angular damping applied to the vehicle in 'normal' mode and 'collision' mode.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Normal_Spin_Damping</Name>
+			<Type>Float</Type>
+			<Display_Name>Normal Spin Damping</Display_Name>
+			<Description>Amount of damping in 'normal' mode.  Havok says good values are between 0.5 and 1.5.</Description>
+			<Required>false</Required>
+			<Default>1</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>5</MaxValue>
+			</Element>
+		<Element>
+			<Name>Collision_Spin_Damping</Name>
+			<Type>Float</Type>
+			<Display_Name>Collision Spin Damping</Display_Name>
+			<Description>Amount of damping in 'collision' mode.  Havok says values between 0.0 and 0.5 are good for realistic collisions and 3.0 to 10.0 for gamey collisions (more damping, better control).</Description>
+			<Required>false</Required>
+			<Default>3</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>10</MaxValue>
+			</Element>
+		<Element>
+			<Name>Collision_Spin_Threshold</Name>
+			<Type>Float</Type>
+			<Display_Name>Collision Spin Threshold</Display_Name>
+			<Description>If the vehicle spins faster than this in degrees per second, it goes into 'collision' mode.</Description>
+			<Required>false</Required>
+			<Default>230</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1080</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Water_Physics</Name>
+		<Type>Element</Type>
+		<Display_Name>Water Physics</Display_Name>
+		<Description>Physics properties when the vehicle is in water.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Buoyancy_Modifier</Name>
+			<Type>Float</Type>
+			<Display_Name>Buoyancy Modifier</Display_Name>
+			<Description>Modifies the natural buoyancy of the vehicle.  The vehicle is less buoyant with values less than 1 and more buoyant with values greater than 1.</Description>
+			<Required>false</Required>
+			<Default>1</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Water_Linear_Drag_Modifier</Name>
+			<Type>Float</Type>
+			<Display_Name>Water Linear Drag Modifier</Display_Name>
+			<Description>Modify the linear drag of the vehicle when it's in water.  There is less drag when the value is less than 1 and more drag when the value is greater than 1.</Description>
+			<Required>false</Required>
+			<Default>1</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Water_Angular_Drag_Modifier</Name>
+			<Type>Float</Type>
+			<Display_Name>Water Angular Drag Modifier</Display_Name>
+			<Description>Modify the angular drag of the vehicle when it's in water.  There is less drag when the value is less than 1 and more drag when the value is greater than 1.</Description>
+			<Required>false</Required>
+			<Default>1</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

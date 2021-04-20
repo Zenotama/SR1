@@ -1,0 +1,92 @@
+<root>
+<Table>
+	<Custom>
+		<Name>Custom</Name>
+		<Weapons>
+			<Weapon>ak47</Weapon>
+			<Weapon>baseball_bat</Weapon>
+			<Weapon>beretta</Weapon>
+			<Weapon>molotov</Weapon>
+			<Weapon>pimp_slap</Weapon>
+			<Weapon>pipe_bomb</Weapon>
+			<Weapon>pump_action_shotgun</Weapon>
+			<Weapon>rpg_launcher</Weapon>
+			<Weapon>sniper_rifle</Weapon>
+			<Weapon>tec9</Weapon>
+			<Weapon>desert eagle</Weapon>
+			<Weapon>glock</Weapon>
+			<Weapon>m16</Weapon>
+			<Weapon>mac10</Weapon>
+			<Weapon>spas12</Weapon>
+			<Weapon>magnum</Weapon>
+			<Weapon>grenade</Weapon>
+			<Weapon>twelve_gauge</Weapon>
+			</Weapons>
+		<Vehicles>
+			<Vehicle>car_4dr_classic01</Vehicle>
+			<Vehicle>car_4dr_lowrider01</Vehicle>
+			<Vehicle>sp_forklift01</Vehicle>
+			<Vehicle>sp_metermaid01</Vehicle>
+			<Vehicle>SUV_4dr_03</Vehicle>
+			<Vehicle>car_4dr_luxury01</Vehicle>
+			<Vehicle>car_2dr_exoticsports01</Vehicle>
+			<Vehicle>car_2dr_muscle03</Vehicle>
+			<Vehicle>car_2dr_compact03</Vehicle>
+			<Vehicle>car_2dr_luxury04</Vehicle>
+			<Vehicle>car_2dr_sports04</Vehicle>
+			<Vehicle>car_2dr_standard02</Vehicle>
+			<Vehicle>car_4dr_standard05</Vehicle>
+			<Vehicle>truck_2dr_pickup03</Vehicle>
+			<Vehicle>van_4dr_01</Vehicle>
+			<Vehicle>wagon_4dr_01</Vehicle>
+			</Vehicles>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Custom>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Custom</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Weapons</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Weapon</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>weapons.xtbl</File>
+				<Type>Weapon.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Vehicles</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Vehicle</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>vehicles.xtbl</File>
+				<Type>Vehicle.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

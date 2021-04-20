@@ -1,0 +1,76 @@
+<root>
+<Table>
+	<Respect>
+		<Name>Respect</Name>
+		<Grid>
+			<Element>
+				<Respect>0</Respect>
+				<Bonus>0</Bonus>
+				</Element>
+			<Element>
+				<Respect>101</Respect>
+				<Bonus>10</Bonus>
+				</Element>
+			<Element>
+				<Respect>401</Respect>
+				<Bonus>15</Bonus>
+				</Element>
+			<Element>
+				<Respect>1001</Respect>
+				<Bonus>20</Bonus>
+				</Element>
+			<Element>
+				<Respect>1801</Respect>
+				<Bonus>25</Bonus>
+				</Element>
+			</Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Respect>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Respect</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Required by the table file editor.</Description>
+		<Default>Respect</Default>
+		</Element>
+	<Element>
+		<Name>Grid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Respect Levels</Display_Name>
+		<Element>
+			<Name>Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Respect</Name>
+				<Type>Int</Type>
+				<Display_Name>Minimum Clothing Respect</Display_Name>
+				<Description>Minimum amount of clothing respect required for this level.</Description>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Bonus</Name>
+				<Type>Int</Type>
+				<Display_Name>Respect Bonus</Display_Name>
+				<Description>Bonus to the player's respect.</Description>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

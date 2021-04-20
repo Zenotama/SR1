@@ -1,0 +1,2460 @@
+<root>
+<Table>
+	<Genre>
+		<Name>Unlockable</Name>
+		<DisplayName>MUSIC_UNLOCKABLE</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Saint's Row</BuyName>
+				<Track_Name>Saint's Row</Track_Name>
+				<Artist>David Banner</Artist>
+				<Track_File>
+					<Filename>og_davidbanner_saints row.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			<Track>
+				<BuyName>Git Out My Way</BuyName>
+				<Track_Name>Git Out My Way</Track_Name>
+				<Artist>Daz Dillinger</Artist>
+				<Track_File>
+					<Filename>OG_DAZ_GITOUTMYWAY.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			<Track>
+				<BuyName>Man Up</BuyName>
+				<Track_Name>Man Up</Track_Name>
+				<Artist>Ghostface</Artist>
+				<Track_File>
+					<Filename>OG_GHOSTFACE_MANUP.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shut You Down</BuyName>
+				<Track_Name>Shut You Down</Track_Name>
+				<Artist>Rhymfest</Artist>
+				<Track_File>
+					<Filename>OG_RHYMEFEST_SHUTYOUDOWN_RE.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hurry Hurry</BuyName>
+				<Track_Name>Hurry Hurry</Track_Name>
+				<Artist>Strong Arm Steady feat. Xzibit</Artist>
+				<Track_File>
+					<Filename>OG_STRONGARM_HURRY_HURRY.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			<Track>
+				<BuyName>DFM Like I'm Your Wife</BuyName>
+				<Track_Name>DFM Like I'm Your Wife</Track_Name>
+				<Artist>Aisha</Artist>
+				<Track_File>
+					<Filename>AISHA_DFM.wma</Filename>
+					</Track_File>
+				<Cost>0.0</Cost>
+				<Locked>True</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Hip Hop</Name>
+		<DisplayName>MUSIC_HIPHOP</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Audobun Ballroom</BuyName>
+				<Track_Name>Audobun Ballroom</Track_Name>
+				<Artist>Black Market Militia feat. Dead Prez</Artist>
+				<Track_File>
+					<Filename>black_market_militia_audobon ballroom.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bangers</BuyName>
+				<Track_Name>Bangers</Track_Name>
+				<Artist>The Alchemist feat. Lloyd Banks</Artist>
+				<Track_File>
+					<Filename>TheAlchemist_Bangers.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Beautiful Trainwreck</BuyName>
+				<Track_Name>Beautiful Trainwreck</Track_Name>
+				<Artist>Copywrite</Artist>
+				<Track_File>
+					<Filename>Copywrite_Beautiful Trainwreck.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Black and White</BuyName>
+				<Track_Name>Black and White</Track_Name>
+				<Artist>RA The Rugged Man</Artist>
+				<Track_File>
+					<Filename>ra_the_rugged_man_black and white.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bounce Like My Checks</BuyName>
+				<Track_Name>Bounce Like My Checks</Track_Name>
+				<Artist>Aisha</Artist>
+				<Track_File>
+					<Filename>aisha_bouncelikemycheck.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Crumbs</BuyName>
+				<Track_Name>Crumbs</Track_Name>
+				<Artist>Bisc One</Artist>
+				<Track_File>
+					<Filename>BiscOne_Crumbs.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Danger</BuyName>
+				<Track_Name>Danger</Track_Name>
+				<Artist>Black Milk</Artist>
+				<Track_File>
+					<Filename>BLACKMILK_DANGER.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Digi Warfare</BuyName>
+				<Track_Name>Digi Warfare</Track_Name>
+				<Artist>Masta Killa</Artist>
+				<Track_File>
+					<Filename>masta_killa_digi warfare.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Do The Robot</BuyName>
+				<Track_Name>Do The Robot</Track_Name>
+				<Artist>Turf Talk</Artist>
+				<Track_File>
+					<Filename>TurfTalk_DoTheRobot .wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>D.T.D.</BuyName>
+				<Track_Name>D.T.D.</Track_Name>
+				<Artist>Masta Killa feat. Ghostface and Raekwon</Artist>
+				<Track_File>
+					<Filename>Masta_Killa_D.T.D.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Everything's A Go</BuyName>
+				<Track_Name>Everything's A Go</Track_Name>
+				<Artist>Bathgate</Artist>
+				<Track_File>
+					<Filename>Bathgate_The Flow.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Fish Fillet</BuyName>
+				<Track_Name>Fish Fillet</Track_Name>
+				<Artist>Sa-Ra feat.  Pharoahe Monch</Artist>
+				<Track_File>
+					<Filename>SaRa_FishFillet.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Flavor Of The Month</BuyName>
+				<Track_Name>Flavor Of The Month</Track_Name>
+				<Artist>Black Sheep</Artist>
+				<Track_File>
+					<Filename>BlackSheep_FlavorOfTheMonth.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Get Shot Boy</BuyName>
+				<Track_Name>Get Shot Boy</Track_Name>
+				<Artist>Grafh</Artist>
+				<Track_File>
+					<Filename>Grafh_GetShotBoy.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Glow</BuyName>
+				<Track_Name>Glow</Track_Name>
+				<Artist>Camp Lo</Artist>
+				<Track_File>
+					<Filename>CampLo_Glow.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Golden</BuyName>
+				<Track_Name>Golden</Track_Name>
+				<Artist>Jin</Artist>
+				<Track_File>
+					<Filename>Jin_GOLDEN.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Gotta Pay</BuyName>
+				<Track_Name>Gotta Pay</Track_Name>
+				<Artist>Wordsworth</Artist>
+				<Track_File>
+					<Filename>Wordsworth_GottaPay.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Grindin</BuyName>
+				<Track_Name>Grindin</Track_Name>
+				<Artist>Clipse</Artist>
+				<Track_File>
+					<Filename>Clipse_Grindin.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Holdin' Up</BuyName>
+				<Track_Name>Holdin' Up</Track_Name>
+				<Artist>Rich Medina</Artist>
+				<Track_File>
+					<Filename>RichMedina_HoldinUp.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hood Lullabye</BuyName>
+				<Track_Name>Hood Lullabye</Track_Name>
+				<Artist>Black Market Militia</Artist>
+				<Track_File>
+					<Filename>Black_Market_Militia_Hood Lullabye.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Inside the Globe</BuyName>
+				<Track_Name>Inside the Globe</Track_Name>
+				<Artist>Airborn Audio</Artist>
+				<Track_File>
+					<Filename>AirbornAudio_InsidetheGlobe.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>John 3 16</BuyName>
+				<Track_Name>John 3 16</Track_Name>
+				<Artist>Mathematics feat. Method Man</Artist>
+				<Track_File>
+					<Filename>Mathematics_John 3_16.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Keep Doin It</BuyName>
+				<Track_Name>Keep Doin It</Track_Name>
+				<Artist>Likwit Junkies</Artist>
+				<Track_File>
+					<Filename>LikwitJunkies_KeepDoinIt 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Leave The Ho</BuyName>
+				<Track_Name>Leave The Ho</Track_Name>
+				<Artist>Aisha</Artist>
+				<Track_File>
+					<Filename>aisha_leavetheho.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Money Folder</BuyName>
+				<Track_Name>Money Folder</Track_Name>
+				<Artist>Madvillain</Artist>
+				<Track_File>
+					<Filename>MadVillian_MoneyFolder.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Milk 'Em</BuyName>
+				<Track_Name>Milk 'Em</Track_Name>
+				<Artist>MHE Ghostface feat. Trife</Artist>
+				<Track_File>
+					<Filename>GhostFace_MilkEm.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Nightlife</BuyName>
+				<Track_Name>Nightlife</Track_Name>
+				<Artist>M.E.D.</Artist>
+				<Track_File>
+					<Filename>MED_Nightlife.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Old Man</BuyName>
+				<Track_Name>Old Man</Track_Name>
+				<Artist>Masta Killa featuring ODB &amp; RZA</Artist>
+				<Track_File>
+					<Filename>Masta_Killa_Old Man.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Overnight Celebrity</BuyName>
+				<Track_Name>Overnight Celebrity</Track_Name>
+				<Artist>Twista</Artist>
+				<Track_File>
+					<Filename>Twista_OvernightCelebrity.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Paid In Full</BuyName>
+				<Track_Name>Paid In Full</Track_Name>
+				<Artist>Eric B. and Rakim</Artist>
+				<Track_File>
+					<Filename>EricBandRakim_PaidInFull.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Paper Thin</BuyName>
+				<Track_Name>Paper Thin</Track_Name>
+				<Artist>MC Lyte</Artist>
+				<Track_File>
+					<Filename>MCLyte_PaperThin.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Real Nillaz</BuyName>
+				<Track_Name>Real Nillaz</Track_Name>
+				<Artist>Mathematics feat. Ghostface and Raekwon</Artist>
+				<Track_File>
+					<Filename>Mathematics_Real Nillaz.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Rock Co. Kane Flow</BuyName>
+				<Track_Name>Rock Co. Kane Flow</Track_Name>
+				<Artist>De La Soul</Artist>
+				<Track_File>
+					<Filename>DeLaSoul_RockCoKaneFLow.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Shake it</BuyName>
+				<Track_Name>Shake it</Track_Name>
+				<Artist>Little Brother</Artist>
+				<Track_File>
+					<Filename>LittleBrother_ShakeIt.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Soda and Soap</BuyName>
+				<Track_Name>Soda and Soap</Track_Name>
+				<Artist>Masta Ace feat. Jean Grae</Artist>
+				<Track_File>
+					<Filename>MastaAce_SodaandSoap.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Spitamatic</BuyName>
+				<Track_Name>Spitamatic</Track_Name>
+				<Artist>Vordul Mega</Artist>
+				<Track_File>
+					<Filename>Vordul_Mega_Spitamatic.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Spot Lite ft. Wu Tang Clan</BuyName>
+				<Track_Name>Spot Lite ft. Wu Tang Clan</Track_Name>
+				<Artist>Mathematics</Artist>
+				<Track_File>
+					<Filename>Mathematics_SpotLite.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stick and Move</BuyName>
+				<Track_Name>Stick and Move</Track_Name>
+				<Artist>Planet Asia feat. Prodigy</Artist>
+				<Track_File>
+					<Filename>PlanetAsia_StickandMove .wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Take a Walk</BuyName>
+				<Track_Name>Take a Walk</Track_Name>
+				<Artist>Masta Ace</Artist>
+				<Track_File>
+					<Filename>MastaAce_TakeAWalk.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Time Has Come</BuyName>
+				<Track_Name>Time Has Come</Track_Name>
+				<Artist>Exile feat. Slum Village</Artist>
+				<Track_File>
+					<Filename>EXILE_Time Has Come feat. Slum VIllage.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Two Shots Of Henny</BuyName>
+				<Track_Name>Two Shots Of Henny</Track_Name>
+				<Artist>Mathematics</Artist>
+				<Track_File>
+					<Filename>Mathematics_Two Shots of Henny.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>What Up</BuyName>
+				<Track_Name>What Up</Track_Name>
+				<Artist>Kenn Starr</Artist>
+				<Track_File>
+					<Filename>KennStarr_whatup.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Who I Is?</BuyName>
+				<Track_Name>Who I Is?</Track_Name>
+				<Artist>Three 6 Mafia featuring Trillville and Lil Wyte</Artist>
+				<Track_File>
+					<Filename>Three6Mafia_WhoIIs_ 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Classical</Name>
+		<DisplayName>MUSIC_CLASSICAL</DisplayName>
+		<Tracks>
+			<Track>
+				<Track_Name>J.S. Bach - Concerto No. 5</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<Track_File>
+					<Filename>mus_car_clas_0021_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J.S. Bach - Concerto No. 5</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>J.S. Bach - Partita No. 1 - Gigue</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<Track_File>
+					<Filename>mus_sna_sonia_0433_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J.S. Bach - Partita No. 1 - Gigue</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>J.S. Bach - Fantasy and Fugue</Track_Name>
+				<Artist>Bach, Johann Sebastian</Artist>
+				<Track_File>
+					<Filename>mus_sna_sonia_0520_01501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J.S. Bach - Fantasy and Fugue</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 5 1st movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_car_clas_0003_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 5 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 6 1st movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_car_clas_0003_00501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 6 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Egmont Overture</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_car_clas_0014_00201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Egmont Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 9 4th movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_kpm_kpmc_0005_01801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 9 4th movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 1 - Finale</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_sel_lsc_1000_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 1 - Finale</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sonata No. 14 1st movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_sel_lsc_1093_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sonata No. 14 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sonata No. 14 3rd movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_sel_lsc_1093_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sonata No. 14 3rd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Fur Elise</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>mus_sna_sonia_0433_00901.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Fur Elise</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sonata No. 23 1st movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0444_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sonata No. 23 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 7 1st movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0510_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 7 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Beethoven - Sym. No. 7 4th movt</Track_Name>
+				<Artist>Beethoven, Ludwig Van</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0510_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Beethoven - Sym. No. 7 4th movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Waltz No. 6</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>mus_sel_lsc_1084_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Waltz No. 6</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Prelude No. 3</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1084_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Prelude No. 3</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Prelude No. 15</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1084_01101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Prelude No. 15</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Prelude No. 17</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1084_01201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Prelude No. 17</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Ballade No. 1</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1084_01601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Ballade No. 1</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Impromptu</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0425_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Impromptu</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Concerto No. 2 1st</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0492_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Concerto No. 2 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Concerto No. 2 3rd movt</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>mus_sna_sonia_0492_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Concerto No. 2 3rd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Etude No. 3</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0512_01301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Etude No. 3</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Chopin - Etude No. 11</Track_Name>
+				<Artist>Chopin, Frederic</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0512_01501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Chopin - Etude No. 11</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Delibes - Flower Duet</Track_Name>
+				<Track_File>
+					<Filename>MUS_KPM_KPM_0405_01101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<Artist>Delibes, Leo</Artist>
+				<BuyName>Delibes - Lakme Flower Duet</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Handel - Hallelujah from Messiah</Track_Name>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0433_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<Artist>Handel, Georg Friedrich</Artist>
+				<BuyName>Handel - Hallelujah from Messiah</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>S. Joplin - The Entertainer</Track_Name>
+				<Artist>Joplin, Scott</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SCD_0366_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>S. Joplin - The Entertainer</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>S. Joplin - Maple Leaf Rag</Track_Name>
+				<Artist>Joplin, Scott</Artist>
+				<Track_File>
+					<Filename>mus_son_scd_0366_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>S. Joplin - Maple Leaf Rag</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Liszt - Liebestraum No. 2</Track_Name>
+				<Artist>Liszt, Franz</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1099_01101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Liszt - Liebestraum No. 2</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Liszt - Hungarian Rhapsody No. 2</Track_Name>
+				<Artist>Liszt, Franz</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0414_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Liszt - Hungarian Rhapsody No. 2</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Liszt - Funerailles</Track_Name>
+				<Artist>Liszt, Franz</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0480_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Liszt - Funerailles</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Mendelssohn - Violin Concerto 3rd movt</Track_Name>
+				<Artist>Mendelssohn Bartholdy, Felix</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0530_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mendelssohn - Violin Concerto 3rd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Mozart - Eine kleine Nachtmusik 2nd movt</Track_Name>
+				<Artist>Mozart, Wolfgang</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPMC_0003_00901.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mozart - Eine kleine Nachtmusik 2nd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Mozart - Concerto No. 21</Track_Name>
+				<Artist>Mozart, Wolfgang</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0410_01201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mozart - Concerto No. 21 2nd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Mozart - Turkish March</Track_Name>
+				<Artist>Mozart, Wolfgang</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0433_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mozart - Turkish March</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Mussorgsky - Bare Mountain</Track_Name>
+				<Artist>Mussorgsky, Modeste</Artist>
+				<Track_File>
+					<Filename>MUS_CAR_CLAS_0001_02401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Mussorgsky - Bare Mountain</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Offenbach - Gaiete Parisienne - Can Can</Track_Name>
+				<Artist>Offenbach, Jacques</Artist>
+				<Track_File>
+					<Filename>mus_sel_lsc_1047_00501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Offenbach - Gaiete Parisienne - Can Can</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Pachelbel - Canon in D</Track_Name>
+				<Artist>Pachelbel, Johann</Artist>
+				<Track_File>
+					<Filename>mus_kpm_kpmc_0003_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Pachelbel - Canon in D</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Paganini - 24 Caprices</Track_Name>
+				<Artist>Paganini, Niccolo</Artist>
+				<Track_File>
+					<Filename>MUS_CAR_CLAS_0021_01001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Paganini - 24 Caprices</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Rossini - The Barber of Seville</Track_Name>
+				<Artist>Rossini, Gioacchino</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPM_0406_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Rossini - The Barber of Seville</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Rossini - Wilhelm Tell Overture</Track_Name>
+				<Artist>Rossini, Gioacchino</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1046_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Rossini - Wilhelm Tell Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Rossini - The Thieving Magpie</Track_Name>
+				<Artist>Rossini, Gioacchino</Artist>
+				<Track_File>
+					<Filename>mus_son_scd_0219_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Rossini - The Thieving Magpie</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>J. Strauss - Die Fledermaus</Track_Name>
+				<Artist>Strauss, Johann</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0409_00801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. Strauss - Die Fledermaus Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>J. Strauss - Leichtes Blut Fast</Track_Name>
+				<Artist>Strauss, Johann</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0420_00201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. Strauss - Leichtes Blut Fast</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>J. Strauss - Tritsch Tratsch</Track_Name>
+				<Artist>Strauss, Johann</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0420_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>J. Strauss - Tritsch Tratsch</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tschaikovsky - 1812 Overture</Track_Name>
+				<Artist>Tschaikovsky, Peter Ilyich</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPMC_0011_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tschaikovsky - 1812 Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tschaikovsky - Violin Concerto 1st movt</Track_Name>
+				<Artist>Tschaikovsky, Peter Ilyich</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1068_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tschaikovsky - Violin Concerto 1st movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tschaikovsky - Violin Concerto 3rd movt</Track_Name>
+				<Artist>Tschaikovsky, Peter Ilyich</Artist>
+				<Track_File>
+					<Filename>MUS_SEL_LSC_1068_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tschaikovsky - Violin Concerto 3rd movt</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tschaikovsky - The Sugar Plum Fairy</Track_Name>
+				<Artist>Tschaikovsky, Peter Ilyich</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0453_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tschaikovsky - The Sugar Plum Fairy</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tschaikovsky - The Reed Flutes</Track_Name>
+				<Artist>Tschaikovsky, Peter Ilyich</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0453_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tschaikovsky - The Reed Flutes</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Verdi - La Traviata</Track_Name>
+				<Artist>Verdi, Giuseppe</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPM_0405_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Verdi - La Traviata</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Verdi - Rigoletto</Track_Name>
+				<Artist>Verdi, Giuseppe</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPMC_0030_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Verdi - Rigoletto</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Vivaldi - Four Seasons No. 1</Track_Name>
+				<Artist>Vivaldi, Antonio</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0421_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Vivaldi - Four Seasons No. 1</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Vivaldi - Four Seasons No. 2</Track_Name>
+				<Artist>Vivaldi, Antonio</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0421_01001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Vivaldi - Four Seasons No. 2</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Vivaldi - Four Seasons No. 4</Track_Name>
+				<Artist>Vivaldi, Antonio</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0421_01801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Vivaldi - Four Seasons No. 4</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Wagner - Ride of the Valkyries</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPMC_0011_00901.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Ride of the Valkyries</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Wagner - Twilight of the Gods</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPMC_0011_00801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Twilight of the Gods</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Wagner - Lohengrin Overture</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0485_00201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Lohengrin Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Wagner - Rienzi Overture</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0485_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Rienzi Overture</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Wagner - Tannhaeuser Overture</Track_Name>
+				<Artist>Wagner, Richard</Artist>
+				<Track_File>
+					<Filename>MUS_SNA_SONIA_0485_00501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Wagner - Tannhaeuser Overture</BuyName>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Easy Listening</Name>
+		<DisplayName>MUSIC_EASYLISTENING</DisplayName>
+		<Tracks>
+			<Track>
+				<Track_Name>Adventure in Speed</Track_Name>
+				<Artist>Marius, Fred; Jaenner, Jurgen</Artist>
+				<Track_File>
+					<Filename>mus_scd_0380_01301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Adventure in Speed</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Alpenrose Memories</Track_Name>
+				<Artist>Johnson, Joey</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SCD_0578_03201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Alpenrose Memories</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Apres Ski</Track_Name>
+				<Artist>Chacksfield, Frank</Artist>
+				<Track_File>
+					<Filename>MUS_WOM_0034_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Apres Ski</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Autumn Sun</Track_Name>
+				<Artist>Sander, Peter</Artist>
+				<Track_File>
+					<Filename>MUS_WOM_WOM_0034_02001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Autumn Sun</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Bossa Cubana</Track_Name>
+				<Artist>Narholz, Gerhard</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0262_02601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Bossa Cubana</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Bossa New Look</Track_Name>
+				<Artist>Caspar, Eric; Nilovic, Janko</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0083_00901.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Bossa New Look</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Bratwurst Polka</Track_Name>
+				<Artist>Kurz, Lars; Mylla, H.C.</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SAS_0212_01201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Bratwurst Polka</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Cocktail Bossa</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0146_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Cocktail Bossa</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Curley Shirley</Track_Name>
+				<Artist>Sieben, Otto</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0261_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Curley Shirley</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Emily's Happy Hop</Track_Name>
+				<Artist>Johnson, Joey</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SCD_0578_03001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Emily's Happy Hop</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Glamour Bossa Nova</Track_Name>
+				<Artist>Doukhan, Stephane; Durst, Marc; Miffre, Edouard</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0090_02401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Glamour Bossa Nova</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Golden Voices</Track_Name>
+				<Artist>Guillaume, Stephane</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0146_02601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Golden Voices</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Groovemob</Track_Name>
+				<Artist>Schweikhart, Clemens; Wittwer, Matthias</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0536_00501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Groovemob</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Hello Jack</Track_Name>
+				<Artist>Heinrich, Didier; Le Gall, Jose</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_KOS_0121_00701.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Hello Jack</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Holiday Bossa Nova</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_KOS_0123_03001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Holiday Bossa Nova</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Holiday Road</Track_Name>
+				<Artist>Narholz, Gerhard</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0298_02401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Holiday Road</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Italian Summer</Track_Name>
+				<Artist>Haydegg, Hendric</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0261_01901.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Italian Summer</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>I und du B</Track_Name>
+				<Artist>Kurz, Lars; Mylla, H.C.</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SAS_0212_02301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>I und du B</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Looping</Track_Name>
+				<Artist>Schneeberg, Jan</Artist>
+				<Track_File>
+					<Filename>mus_scd_0298_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Looping</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Nice Swing</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_KOS_0123_00201.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Nice Swing</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>O leicht lernt man das Jodeln</Track_Name>
+				<Artist>Eraerds; Werner</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SCD_0381_01401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>O leicht lernt man das Jodeln</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Pepito from Tampico</Track_Name>
+				<Artist>Sekura, Ronald; Sieben, Otto</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0262_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Pepito from Tampico</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Peyi La Douce</Track_Name>
+				<Artist>Andreasen, Per Bluitgen; Kalfayan, Yannick</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0106_02601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Peyi La Douce</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Playground of the Stars</Track_Name>
+				<Artist>Walter, Dick</Artist>
+				<Track_File>
+					<Filename>MUS_KPM_KPM_0443_00601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Playground of the Stars</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Quando Sei Vicino A Te</Track_Name>
+				<Artist>Huguenin, Stephane; Padovan, Christian; Sanna, Yves</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0136_02601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Quando Sei Vicino A Te</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Quicka Negra</Track_Name>
+				<Artist>Jaenner, Jurgen</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0261_02401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Quicka Negra</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Running Swing</Track_Name>
+				<Artist>Folmer, Nicolas</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0123_00101.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Running Swing</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Shopping Girls</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0146_00401.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Shopping Girls</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Slapstick Duck Twist</Track_Name>
+				<Artist>Pagnini, Umberto</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0088_03501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Slapstick Duck Twist</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Super Week-End</Track_Name>
+				<Artist>Caspar, Eric; Nilovic, Janko</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0083_01001.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Super Week-End</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Sweetness</Track_Name>
+				<Artist>Sander, Peter</Artist>
+				<Track_File>
+					<Filename>MUS_WOM_WOM_0034_02501.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Sweetness</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Tutti Flutti Swing</Track_Name>
+				<Artist>Durst, Marc</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_KOS_0123_02601.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Tutti Flutti Swing</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Week-End Pop</Track_Name>
+				<Artist>Caspar, Eric; Nilovic, Janko</Artist>
+				<Track_File>
+					<Filename>MUS_KOS_0083_00801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Week-End Pop</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Western Post</Track_Name>
+				<Artist>Sieben, Otto</Artist>
+				<Track_File>
+					<Filename>MUS_SCD_0263_01801.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Western Post</BuyName>
+				</Track>
+			<Track>
+				<Track_Name>Yodel of Joy</Track_Name>
+				<Artist>Bui, Renato; Wild, Martha</Artist>
+				<Track_File>
+					<Filename>MUS_SON_SAS_0057_00301.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				<BuyName>Yodel of Joy</BuyName>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Electronica</Name>
+		<Tracks>
+			<Track>
+				<BuyName>Amped</BuyName>
+				<Track_Name>Amped</Track_Name>
+				<Artist>Freq Nasty</Artist>
+				<Track_File>
+					<Filename>freqnasty_amped.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Barrier Break</BuyName>
+				<Track_Name>Barrier Break</Track_Name>
+				<Artist>Dieselboy and Kaos</Artist>
+				<Track_File>
+					<Filename>dieselboyandkaos_barrierbreak 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Catherine Wheel</BuyName>
+				<Track_Name>Catherine Wheel</Track_Name>
+				<Artist>Skynet</Artist>
+				<Track_File>
+					<Filename>skynet_catherinewheel 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ill Logic</BuyName>
+				<Track_Name>Ill Logic</Track_Name>
+				<Artist>ILS</Artist>
+				<Track_File>
+					<Filename>ils_ill logic.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>My Little Pony</BuyName>
+				<Track_Name>My Little Pony</Track_Name>
+				<Artist>Caro</Artist>
+				<Track_File>
+					<Filename>caro_my little pony.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Questo Y Sporco</BuyName>
+				<Track_Name>Questo Y Sporco</Track_Name>
+				<Artist>Koma and Bones</Artist>
+				<Track_File>
+					<Filename>komabones_questo e sporco.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stingray</BuyName>
+				<Track_Name>Stingray</Track_Name>
+				<Artist>Skynet</Artist>
+				<Track_File>
+					<Filename>skynet_stingray.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Subculture</BuyName>
+				<Track_Name>Subculture</Track_Name>
+				<Artist>Styles of Beyond</Artist>
+				<Track_File>
+					<Filename>stylesofbeyond_subculture.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Tiny Toy</BuyName>
+				<Track_Name>Tiny Toy</Track_Name>
+				<Artist>ILS</Artist>
+				<Track_File>
+					<Filename>ils_tiny tony.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Twisted</BuyName>
+				<Track_Name>Twisted</Track_Name>
+				<Artist>PsychatronX</Artist>
+				<Track_File>
+					<Filename>twisted_psychatronix.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Twisted Streets</BuyName>
+				<Track_Name>Twisted Streets</Track_Name>
+				<Artist>Koma and Bones</Artist>
+				<Track_File>
+					<Filename>komabones_twisted streets.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Uzi</BuyName>
+				<Track_Name>Uzi</Track_Name>
+				<Artist>Rhythm Division</Artist>
+				<Track_File>
+					<Filename>rhythmn division_uzi.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>You Must Follow</BuyName>
+				<Track_Name>You Must Follow</Track_Name>
+				<Artist>Stratus</Artist>
+				<Track_File>
+					<Filename>stratus_youmustfollow.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>We Have The Energy</BuyName>
+				<Track_Name>We Have The Energy</Track_Name>
+				<Artist>Evil Nine</Artist>
+				<Track_File>
+					<Filename>evilnine_wehavetheenergy.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>West Coast</BuyName>
+				<Track_Name>West Coast</Track_Name>
+				<Artist>ILS</Artist>
+				<Track_File>
+					<Filename>ils_westcoast.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MUSIC_ELECTRONICA</DisplayName>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Heavy Metal</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Tracks>
+			<Track>
+				<BuyName>Back For More</BuyName>
+				<Track_Name>Back For More</Track_Name>
+				<Artist>Ratt</Artist>
+				<Track_File>
+					<Filename>Ratt_BackForMore.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ballad Of Jayne</BuyName>
+				<Track_Name>Ballad Of Jayne</Track_Name>
+				<Artist>L.A. Guns</Artist>
+				<Track_File>
+					<Filename>LAGuns_BalladofJayne .wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Dancin' On Coals</BuyName>
+				<Track_Name>Dancin' On Coals</Track_Name>
+				<Artist>Bang Tango</Artist>
+				<Track_File>
+					<Filename>BangTango_DancinOnCoals.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Easy Come Easy Go</BuyName>
+				<Track_Name>Easy Come Easy Go</Track_Name>
+				<Artist>Winger</Artist>
+				<Track_File>
+					<Filename>Winger_EasyComeEasyGo.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Love Injection</BuyName>
+				<Track_Name>Love Injection</Track_Name>
+				<Artist>Bang Tango</Artist>
+				<Track_File>
+					<Filename>BangTango_LoveInjection.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mad About You</BuyName>
+				<Track_Name>Mad About You</Track_Name>
+				<Artist>Slaughter</Artist>
+				<Track_File>
+					<Filename>Slaughter_MadAboutYou.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Once Bitten Twice Shy</BuyName>
+				<Track_Name>Once Bitten Twice Shy</Track_Name>
+				<Artist>Great White</Artist>
+				<Track_File>
+					<Filename>GreatWhite_OnceBittenTwiceShy 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Round and Round</BuyName>
+				<Track_Name>Round and Round</Track_Name>
+				<Artist>Ratt</Artist>
+				<Track_File>
+					<Filename>ratt_roundandround 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Seventeen</BuyName>
+				<Track_Name>Seventeen</Track_Name>
+				<Artist>Winger</Artist>
+				<Track_File>
+					<Filename>Winger_Seventeen.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Someone Like You</BuyName>
+				<Track_Name>Someone Like You</Track_Name>
+				<Artist>Bang Tango</Artist>
+				<Track_File>
+					<Filename>BangTango_SomeoneLikeYou.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Spend My Life</BuyName>
+				<Track_Name>Spend My Life</Track_Name>
+				<Artist>Slaughter</Artist>
+				<Track_File>
+					<Filename>Slaughter_SpendMyLife.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Up All Night</BuyName>
+				<Track_Name>Up All Night</Track_Name>
+				<Artist>Slaughter</Artist>
+				<Track_File>
+					<Filename>Slaughter_UpAllNight.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Way Cool Jr.</BuyName>
+				<Track_Name>Way Cool Jr.</Track_Name>
+				<Artist>Ratt</Artist>
+				<Track_File>
+					<Filename>Ratt_WayCoolJr..wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<DisplayName>MUSIC_METAL</DisplayName>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Reggae</Name>
+		<DisplayName>MUSIC_REGGAE</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>Addis Adaba Dub</BuyName>
+				<Track_Name>Addis Adaba Dub</Track_Name>
+				<Artist>African Roots Act 1</Artist>
+				<Track_File>
+					<Filename>africanroots_addis ababa dub.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>All I Can Say</BuyName>
+				<Track_Name>All I Can Say</Track_Name>
+				<Artist>Love Joys</Artist>
+				<Track_File>
+					<Filename>lovejoys_all i can say.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Draw Your Brakes</BuyName>
+				<Track_Name>Draw Your Brakes</Track_Name>
+				<Artist>Scotty</Artist>
+				<Track_File>
+					<Filename>scotty_draw your brakes.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Informa</BuyName>
+				<Track_Name>Informa</Track_Name>
+				<Artist>Jah Batta</Artist>
+				<Track_File>
+					<Filename>jahbatta_informawatch it.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>International Herb</BuyName>
+				<Track_Name>International Herb</Track_Name>
+				<Artist>Sugar Minott</Artist>
+				<Track_File>
+					<Filename>sugarminott_international herb.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Jamaicanese</BuyName>
+				<Track_Name>Jamaicanese</Track_Name>
+				<Artist>Eek-A-Mouse</Artist>
+				<Track_File>
+					<Filename>eekamouse_jamaicanese.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Live In The City</BuyName>
+				<Track_Name>Live In The City</Track_Name>
+				<Artist>Horace Andy</Artist>
+				<Track_File>
+					<Filename>horaceandy_love in the city.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Man Ah Warrior</BuyName>
+				<Track_Name>Man Ah Warrior</Track_Name>
+				<Artist>Tapper Zukie</Artist>
+				<Track_File>
+					<Filename>tapper_zukie_man ah warrior.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Riding Melody</BuyName>
+				<Track_Name>Riding Melody</Track_Name>
+				<Artist>Jah Woosh</Artist>
+				<Track_File>
+					<Filename>jahwoosh_riding melody.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Slow Down</BuyName>
+				<Track_Name>Slow Down</Track_Name>
+				<Artist>Beat Pharmacy</Artist>
+				<Track_File>
+					<Filename>beatpharmacy_slowdown.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Stop The Fuss</BuyName>
+				<Track_Name>Stop The Fuss</Track_Name>
+				<Artist>Horace Andy</Artist>
+				<Track_File>
+					<Filename>horaceandy_stop the fuss.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Time Hard</BuyName>
+				<Track_Name>Time Hard</Track_Name>
+				<Artist>The Pioneers</Artist>
+				<Track_File>
+					<Filename>thepioneers_time hard.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Tongue Shall Tell Dub</BuyName>
+				<Track_Name>Tongue Shall Tell Dub</Track_Name>
+				<Artist>Prince Douglas</Artist>
+				<Track_File>
+					<Filename>princedouglas_tongue shall tell dub.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Way Down South</BuyName>
+				<Track_Name>Way Down South</Track_Name>
+				<Artist>U-Roy</Artist>
+				<Track_File>
+					<Filename>URoy_Way Down South.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>You And I</BuyName>
+				<Track_Name>You And I</Track_Name>
+				<Artist>Wayne Jarret</Artist>
+				<Track_File>
+					<Filename>waynejarret_you and i.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	<Genre>
+		<Name>Rock</Name>
+		<DisplayName>MUSIC_ROCK</DisplayName>
+		<Tracks>
+			<Track>
+				<BuyName>100K</BuyName>
+				<Track_Name>100K</Track_Name>
+				<Artist>The Loved Ones</Artist>
+				<Track_File>
+					<Filename>The Loved Ones_ 100K.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>5,6 Kids</BuyName>
+				<Track_Name>5,6 Kids</Track_Name>
+				<Artist>Bear vs. Shark</Artist>
+				<Track_File>
+					<Filename>BVS_5_6 Kids.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Anthem</BuyName>
+				<Track_Name>Anthem (radio edit)</Track_Name>
+				<Artist>Rock-N-Roll Soldiers</Artist>
+				<Track_File>
+					<Filename>RockNRollSold_Anthem.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Atmosphere</BuyName>
+				<Track_Name>Atmosphere</Track_Name>
+				<Artist>The Oranges Band</Artist>
+				<Track_File>
+					<Filename>TheOrangesBand_Atmosphere.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bang Bang Rock And Roll</BuyName>
+				<Track_Name>Bang Bang Rock And Roll</Track_Name>
+				<Artist>Art Brut</Artist>
+				<Track_File>
+					<Filename>ArtBrut_BangBangRocknRoll.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Banned In DC</BuyName>
+				<Track_Name>Banned In DC</Track_Name>
+				<Artist>Bad Brains</Artist>
+				<Track_File>
+					<Filename>BadBrains_BannedinDC.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Blood And Thunder</BuyName>
+				<Track_Name>Blood And Thunder</Track_Name>
+				<Artist>Mastodon</Artist>
+				<Track_File>
+					<Filename>Mastodon_BloodandThunder 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Bound For The Floor</BuyName>
+				<Track_Name>Bound For The Floor</Track_Name>
+				<Artist>Local H</Artist>
+				<Track_File>
+					<Filename>LocalH_BoundForTheFloor.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Cauterise</BuyName>
+				<Track_Name>Cauterise</Track_Name>
+				<Artist>If I Were King</Artist>
+				<Track_File>
+					<Filename>Cauterise.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Conjure Me</BuyName>
+				<Track_Name>Conjure Me</Track_Name>
+				<Artist>Afghan Whigs</Artist>
+				<Track_File>
+					<Filename>AfghanWhigs_ConjureMe.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Could You Be The One</BuyName>
+				<Track_Name>Could You Be The One</Track_Name>
+				<Artist>Husker Du</Artist>
+				<Track_File>
+					<Filename>HuskerDu_CouldYouBeTheOne.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Don't Move</BuyName>
+				<Track_Name>Don't Move</Track_Name>
+				<Artist>The Letters Organize</Artist>
+				<Track_File>
+					<Filename>Dont Move.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Everything Is Alright</BuyName>
+				<Track_Name>Everything Is Alright</Track_Name>
+				<Artist>Motion City Soundtrack</Artist>
+				<Track_File>
+					<Filename>MCS_Everything Is Alright.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>F.C.P.R.E.M.I.X.</BuyName>
+				<Track_Name>F.C.P.R.E.M.I.X.</Track_Name>
+				<Artist>The Fall Of Troy</Artist>
+				<Track_File>
+					<Filename>TFOT_F.C.P.R.E.M.I.X.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>For Guys' Eyes Only</BuyName>
+				<Track_Name>For Guys' Eyes Only</Track_Name>
+				<Artist>Hockey Night</Artist>
+				<Track_File>
+					<Filename>For GuysEyes Only.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Friday Night Fist Fight</BuyName>
+				<Track_Name>Friday Night Fist Fight</Track_Name>
+				<Artist>Men Women and Children</Artist>
+				<Track_File>
+					<Filename>MEN_Friday Night Fist Fight.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Get Well Soon</BuyName>
+				<Track_Name>Get Well Soon</Track_Name>
+				<Artist>Reggie &amp; The Full Effect</Artist>
+				<Track_File>
+					<Filename>Reggie_GetWellSoon.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Girl</BuyName>
+				<Track_Name>Girl</Track_Name>
+				<Artist>Stereophonics</Artist>
+				<Track_File>
+					<Filename>Stereophonics_Girl.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>God Is Going To Get Sick Of Me</BuyName>
+				<Track_Name>God Is Going To Get Sick Of Me</Track_Name>
+				<Artist>Aberdeen City</Artist>
+				<Track_File>
+					<Filename>AberdeenCity_God is going.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Happiness Everyday</BuyName>
+				<Track_Name>Happiness Everyday</Track_Name>
+				<Artist>Huge</Artist>
+				<Track_File>
+					<Filename>Happiness Full Mix.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Hiding Drugs In The Temple</BuyName>
+				<Track_Name>Hiding Drugs In The Temple</Track_Name>
+				<Artist>Kinski</Artist>
+				<Track_File>
+					<Filename>Hiding Drugs In The Temple_Part 2.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Home to Hell</BuyName>
+				<Track_Name>Home to Hell</Track_Name>
+				<Artist>Danko Jones</Artist>
+				<Track_File>
+					<Filename>Home To Hell.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>I Need A Co-Pilot</BuyName>
+				<Track_Name>I Need A Co-Pilot</Track_Name>
+				<Artist>Tempercalm</Artist>
+				<Track_File>
+					<Filename>Tempercalm_I Need A CoPilot.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Kiss Of Death</BuyName>
+				<Track_Name>Kiss Of Death</Track_Name>
+				<Artist>Alec Empire</Artist>
+				<Track_File>
+					<Filename>AlecEmpire_KissofDeath 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Lay My Burden Down</BuyName>
+				<Track_Name>Lay My Burden Down</Track_Name>
+				<Artist>Seemless</Artist>
+				<Track_File>
+					<Filename>Seemless_Lay My Burden Down.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Look At Me, I'm a Winner</BuyName>
+				<Track_Name>Look At Me, I'm a Winner</Track_Name>
+				<Artist>The Aquabats</Artist>
+				<Track_File>
+					<Filename>LOOK AT ME IM A WINNER.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Make Up Your Mind</BuyName>
+				<Track_Name>Make Up Your Mind</Track_Name>
+				<Artist>Orange Park</Artist>
+				<Track_File>
+					<Filename>Make Up Your Mind.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Meet Me In The Dark</BuyName>
+				<Track_Name>Meet Me In The Dark</Track_Name>
+				<Artist>Jet By Day</Artist>
+				<Track_File>
+					<Filename>Meet Me In The Dark.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Mountain Song</BuyName>
+				<Track_Name>Mountain Song</Track_Name>
+				<Artist>Janes Addiction</Artist>
+				<Track_File>
+					<Filename>Jane'sAddiction_MountainSong.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Munich</BuyName>
+				<Track_Name>Munich</Track_Name>
+				<Artist>Editors</Artist>
+				<Track_File>
+					<Filename>Editors_Munich.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Of All The Gin Joints...</BuyName>
+				<Track_Name>Of All The Gin Joints</Track_Name>
+				<Artist>Fall Out Boy</Artist>
+				<Track_File>
+					<Filename>falloutboy_ofallthegin.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Panic</BuyName>
+				<Track_Name>Panic</Track_Name>
+				<Artist>Paint It Black</Artist>
+				<Track_File>
+					<Filename>Panic.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Put Up A Fight</BuyName>
+				<Track_Name>Put Up A Fight</Track_Name>
+				<Artist>My Awesome Compilation</Artist>
+				<Track_File>
+					<Filename>MyAwesome_PutUpAFight.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Ready, Aim, Misfire</BuyName>
+				<Track_Name>Ready, Aim, Misfire</Track_Name>
+				<Artist>New Years Day</Artist>
+				<Track_File>
+					<Filename>readyaimmisfire.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Roped And Tied</BuyName>
+				<Track_Name>Roped And Tied</Track_Name>
+				<Artist>Codeseven</Artist>
+				<Track_File>
+					<Filename>codeseven_roped and tied.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Silhouette Serenade</BuyName>
+				<Track_Name>Silhouette Serenade</Track_Name>
+				<Artist>Vendetta Red</Artist>
+				<Track_File>
+					<Filename>vendettared_silhouetteserenade.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>The Golden Boy</BuyName>
+				<Track_Name>The Golden Boy</Track_Name>
+				<Artist>Shelby</Artist>
+				<Track_File>
+					<Filename>shelby_thegoldenboy 1.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>To Be Quite Honest</BuyName>
+				<Track_Name>To Be Quite Honest</Track_Name>
+				<Artist>Cruiserweight</Artist>
+				<Track_File>
+					<Filename>to be quite honest.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Too Long Awake</BuyName>
+				<Track_Name>Too Long Awake</Track_Name>
+				<Artist>Idelwild</Artist>
+				<Track_File>
+					<Filename>idlewild_toolongawake.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>TV Riot</BuyName>
+				<Track_Name>TV Riot</Track_Name>
+				<Artist>The Adored</Artist>
+				<Track_File>
+					<Filename>theadored_tv riot.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>We're The Young Offenders</BuyName>
+				<Track_Name>We're The Young Offenders</Track_Name>
+				<Artist>Young Offenders Institute</Artist>
+				<Track_File>
+					<Filename>we're the young offenders.wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			<Track>
+				<BuyName>Wild America</BuyName>
+				<Track_Name>Wild America</Track_Name>
+				<Artist>Iggy Pop</Artist>
+				<Track_File>
+					<Filename>iggypop_wildamerica .wma</Filename>
+					</Track_File>
+				<Cost>20.0</Cost>
+				<Locked>False</Locked>
+				</Track>
+			</Tracks>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PackageIndex>0</PackageIndex>
+		</Genre>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Genre</Name>
+	<Type>TableDescription</Type>
+	<Required>false</Required>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\StoreExports.xtbl</File>
+			<Type>StoreExports_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>PackageIndex</Name>
+		<Type>Int</Type>
+		<Description>Identifier for the music package 0-15</Description>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Tracks</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Track</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>BuyName</Name>
+				<Type>String</Type>
+				<Display_Name>Buy Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Track_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Track Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Artist</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Track_File</Name>
+				<Type>Filename</Type>
+				<Display_Name>Track Filename</Display_Name>
+				<Extension>mp3</Extension>
+				<Extension>wma</Extension>
+				<StartingPath>Q:\projects\SR\mus\</StartingPath>
+				</Element>
+			<Element>
+				<Name>Cost</Name>
+				<Type>Float</Type>
+				<Default>20.0</Default>
+				</Element>
+			<Element>
+				<Name>Locked</Name>
+				<Type>Selection</Type>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Art_Filename</Name>
+				<Type>Filename</Type>
+				<Display_Name>Album Art</Display_Name>
+				<Required>false</Required>
+				<Extension>tga</Extension>
+				<StartingPath>data\maps</StartingPath>
+				</Element>
+			</Element>
+		<Num_Display_Rows>36</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

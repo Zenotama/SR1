@@ -1,0 +1,880 @@
+<root>
+<Table>
+	<Category>
+		<Name>Beard</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAIR_BEARD</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose Hair Facial</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Belt</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_BELT</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>undershirt</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>.75</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.75</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<No_Wear_String>CANT_WEAR_BELTS</No_Wear_String>
+		</Category>
+	<Category>
+		<Name>Belt Buckle</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_BELT_BUCKLE</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>.75</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.75</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Shirt</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Belt Flap</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_BELT_FLAP</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>.75</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.75</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Shirt</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Coat</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_COAT</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Jacket</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Eyebrows</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAIR_EYEBROWS</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Eyes</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_EYES</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Eyewear</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_EYEWEAR</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.1</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose Glasses</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Hair</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAIR</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				<Flag>HOOD UP</Flag>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose Hair Short</Animation>
+			</Animations>
+		<Camera_Settings>
+			<Angle>0.0</Angle>
+			<Distance>0.0</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		</Category>
+	<Category>
+		<Name>Hat</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAT</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>0.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose HatB</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Left Hand</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_LEFT_HAND</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.35</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Wrist L</State>
+			<Animation>Choose Wrist L</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Left Wrist</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_LEFT_WRIST</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>undershirt</Slot>
+				<Flag>LONG SLEEVE UNDERSHIRT</Flag>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.35</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Wrist L</State>
+			<Animation>Choose Wrist L</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Mustache</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAIR_MUSTACHE</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose Hair Facial</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Medallion</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_MEDALLION</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.45</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Chain</Animation>
+			</Animations>
+		<No_Wear_String>CANT_WEAR_MEDALLION</No_Wear_String>
+		</Category>
+	<Category>
+		<Name>Necklace High</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_NECKLACE_HIGH</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>.75</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.25</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Chain</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Necklace Medium</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_NECKLACE_MEDIUM</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.35</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Chain</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Necklace Low</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_NECKLACE_LOW</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.5</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Chain</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Overshirt</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_OVERSHIRT</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Shirt</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Pants</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_PANTS</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>2</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-1</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Legs</State>
+			<Animation>Choose Pants</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Right Hand</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_RIGHT_HAND</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.35</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Wrist R</State>
+			<Animation>Choose Wrist</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Right Wrist</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_RIGHT_WRIST</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>undershirt</Slot>
+				<Flag>LONG SLEEVE UNDERSHIRT</Flag>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0</X>
+				<Y>-.35</Y>
+				<Z>0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Wrist R</State>
+			<Animation>Choose Wrist</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Ring</Name>
+		<DisplayName>CUST_CAT_RING</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.25</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Rings</State>
+			<Animation>Choose Rings</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Shoes</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_SHOES</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>0.23</Angle>
+			<Distance>1.5</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-1.5</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Shoes</State>
+			<Animation>Choose Shoes</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Sideburns</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_HAIR_SIDEBURNS</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Animations>
+			<State>Cust Hair</State>
+			<Animation>Choose Hair Facial</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Skin</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_SKIN</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Socks</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_SOCKS</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>pants</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1.5</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-1.5</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Shoes</State>
+			<Animation>Choose Shoes</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Special T-Shirts</Name>
+		<DisplayName>CUST_CAT_SPECIAL_TSHIRTS</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace high</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace low</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace medium</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>pennant high</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>medallion medium</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>medallion low</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Shirt</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Suspenders</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_SUSPENDERS</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Tattoo</Name>
+		<DisplayName>CUST_TATTOO</DisplayName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Tie</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_TIE</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.35</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		</Category>
+	<Category>
+		<Name>Undershirt</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_UNDERSHIRT</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace high</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace low</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>necklace medium</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>pennant high</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>medallion medium</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>medallion low</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Shirt</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>Underwear</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_UNDERWEAR</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>pants</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>undershirt</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>belts</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>1.5</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.75</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Legs</State>
+			<Animation>Choose Pants</Animation>
+			</Animations>
+		</Category>
+	<Category>
+		<Name>NOT FOR DEMO</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_NOT_FOR_DEMO</DisplayName>
+		<Obscure_Grid></Obscure_Grid>
+		</Category>
+	<Category>
+		<Name>Piercing Ear</Name>
+		<DisplayName>CUST_CAT_PIERCING_EAR</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>headwear</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>Piercing Lip</Name>
+		<DisplayName>CUST_CAT_PIERCING_LIP</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>headwear</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>Piercing Eyebrow</Name>
+		<DisplayName>CUST_CAT_PIERCING_EYEBROW</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>headwear</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>Piercing Nose</Name>
+		<DisplayName>CUST_CAT_PIERCING_NOSE</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>headwear</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>Pendant</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>CUST_CAT_PENNANT_HIGH</DisplayName>
+		<Obscure_Grid>
+			<Obscure_Element>
+				<Slot>coat</Slot>
+				</Obscure_Element>
+			<Obscure_Element>
+				<Slot>overshirt</Slot>
+				</Obscure_Element>
+			</Obscure_Grid>
+		<Camera_Settings>
+			<Angle>.23</Angle>
+			<Distance>.75</Distance>
+			<Offset>
+				<X>0.0</X>
+				<Y>-.25</Y>
+				<Z>0.0</Z>
+				</Offset>
+			</Camera_Settings>
+		<Animations>
+			<State>Cust Stand</State>
+			<Animation>Choose Chain</Animation>
+			</Animations>
+		<No_Wear_String>CANT_WEAR_PENDANT</No_Wear_String>
+		</Category>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Category</Name>
+	<Type>TableDescription</Type>
+	<Required>false</Required>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the category.</Description>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>Display name for the category.</Description>
+		<Reference>
+			<File>localized_exports\CustCAT.xtbl</File>
+			<Type>CustCAT_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Obscure_Grid</Name>
+		<Type>Grid</Type>
+		<Display_Name>Slots to obscure while viewing</Display_Name>
+		<Element>
+			<Name>Obscure_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slot</Name>
+				<Type>Reference</Type>
+				<Description>Slot to obscure while viewing this category.</Description>
+				<Reference>
+					<File>player_cust.xtbl</File>
+					<Type>Custom_player_slot.Slot</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Flag</Name>
+				<Type>Reference</Type>
+				<Description>Flag required to be present to obscure this slot.</Description>
+				<Required>false</Required>
+				<Reference>
+					<File>customization_flags.xtbl</File>
+					<Type>Flag.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Camera_Settings</Name>
+		<Type>Element</Type>
+		<Display_Name>Camera Settings</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>Angle</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Distance</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Offset</Name>
+			<Type>Vector</Type>
+			<X>
+				<Name>X</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</X>
+			<Y>
+				<Name>Y</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Y>
+			<Z>
+				<Name>Z</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Z>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Animations</Name>
+		<Type>Element</Type>
+		<Required>false</Required>
+		<Element>
+			<Name>State</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>anim_states.xtbl</File>
+				<Type>State.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Animation</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>anim_actions.xtbl</File>
+				<Type>Action.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>No_Wear_String</Name>
+		<Type>Reference</Type>
+		<Display_Name>No Wear Options String</Display_Name>
+		<Description>String to display when there are no wear options available for the item but it can still be purchased.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>localized_exports\LooksStores_text.xtbl</File>
+			<Type>LooksStores_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

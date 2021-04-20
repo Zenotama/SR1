@@ -1,0 +1,233 @@
+<root>
+<Table>
+	<StoreDiscounts>
+		<Name>Impressions</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>Impressions15</DiscountName>
+				<Amount>0.15</Amount>
+				<RadioEvent>COM_IMPRESSION_03</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.20</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>Impressions25</DiscountName>
+				<Amount>0.25</Amount>
+				<RadioEvent>COM_IMPRESSION_04</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.75</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>Foreign Power</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>ForeignPower3000</DiscountName>
+				<Amount>3000</Amount>
+				<RadioEvent>COM_FOREIGNPOWER_02</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.30</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>ForeignPower5000</DiscountName>
+				<Amount>5000</Amount>
+				<RadioEvent>COM_FOREIGNPOWER_03</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.80</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>Friendly Fire</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>FriendlyFire15</DiscountName>
+				<Amount>0.15</Amount>
+				<RadioEvent>COM_FFIRE_03</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.20</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>FriendlyFire25</DiscountName>
+				<Amount>0.25</Amount>
+				<RadioEvent>COM_FFIRE_04</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.50</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>On the Rag</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>OnTheRag15</DiscountName>
+				<Amount>0.15</Amount>
+				<RadioEvent>COM_ONTHERAG_02</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.10</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>OnTheRag25</DiscountName>
+				<Amount>0.25</Amount>
+				<RadioEvent>COM_ONTHERAG_03</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.45</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>On Thin Ice</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>OnThinIce20_1</DiscountName>
+				<Amount>0.20</Amount>
+				<RadioEvent>COM_ONTHINICE_02R</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.20</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>OnThinIce20_2</DiscountName>
+				<Amount>0.20</Amount>
+				<RadioEvent>COM_ONTHINICE_03R</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.40</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>OnThinIce20_3</DiscountName>
+				<Amount>0.20</Amount>
+				<RadioEvent>COM_ONTHINICE_04R</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.60</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>Sloppy Seconds</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>SloppySeconds30</DiscountName>
+				<Amount>0.30</Amount>
+				<RadioEvent>COM_SLOPPY2NDS_02</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.05</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>Branded</Name>
+		<Discounts>
+			<DiscountElement>
+				<DiscountName>Branded20_1</DiscountName>
+				<Amount>.20</Amount>
+				<RadioEvent>COM_BRANDED_02</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.40</Triggered>
+				</DiscountElement>
+			<DiscountElement>
+				<DiscountName>Branded20_2</DiscountName>
+				<Amount>.20</Amount>
+				<RadioEvent>COM_BRANDED_03</RadioEvent>
+				<Hours>24</Hours>
+				<Triggered>0.70</Triggered>
+				</DiscountElement>
+			</Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	<StoreDiscounts>
+		<Name>Rim Jobs</Name>
+		<Discounts></Discounts>
+		<_Editor>
+			<Category>Store Discounts</Category>
+			</_Editor>
+		</StoreDiscounts>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>StoreDiscounts</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>Reference</Type>
+		<Display_Name>Specific Store Name</Display_Name>
+		<Reference>
+			<File>shop_names.xtbl</File>
+			<Type>ShopNames.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Discounts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>DiscountElement</Name>
+			<Type>Element</Type>
+			<Display_Name>Discount</Display_Name>
+			<Element>
+				<Name>DiscountName</Name>
+				<Type>String</Type>
+				<Display_Name>Discount Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Amount</Name>
+				<Type>Float</Type>
+				<Description>Discount amount. Percentage or dollar...store manages what it is.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>RadioEvent</Name>
+				<Type>Reference</Type>
+				<Display_Name>Radio Event Triggered</Display_Name>
+				<Reference>
+					<File>radio_events.xtbl</File>
+					<Type>Event.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Hours</Name>
+				<Type>Int</Type>
+				<Display_Name>Game Hours Available</Display_Name>
+				<Default>24</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			<Element>
+				<Name>Triggered</Name>
+				<Type>Float</Type>
+				<Display_Name>Fire On % Owned</Display_Name>
+				<Default>0.1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Store Discounts</Name>
+		</Category>
+	</EntryCategories>
+</root>

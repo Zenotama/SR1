@@ -1,0 +1,727 @@
+<root>
+<Table>
+	<Dealership>
+		<Name>Foreign Power</Name>
+		<VehicleList>
+			<Element>
+				<Vehicle>car_2dr_exoticsports01</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>40000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Front Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rear Bumper</Slot>
+						<Variant>Stock 1</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>Stock Hardtop</Variant>
+						</Option>
+					<Option>
+						<Slot>Wheel Covers</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Candy Paint</Name>
+							<Index>Lunar Eclipse Blue</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Chrome</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Clear</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Exotic</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_exoticsports03</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>50000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Front Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rear Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Exhaust</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Street 1</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>Stock HardTop</Variant>
+						</Option>
+					<Option>
+						<Slot>Decal</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Candy Paint</Name>
+							<Index>British Racing Green</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Titanium</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Titanium</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Yellow</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Dark Tint 40%</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Exotic</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_luxury01</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>75000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Front Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Exhaust</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Grill</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>Stock Hardtop</Variant>
+						</Option>
+					<Option>
+						<Slot>Trim</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Metallic Paint</Name>
+							<Index>Tangerine Orange</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Black Titanium</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Carbon Steel</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Black</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Dark Tint 80%</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Exotic</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_exoticsports02</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>100000</Cost>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Gloss Paint</Name>
+							<Index>Double Yellow</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Chrome</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Chrome</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Gray</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Dark Tint 20%</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<Type>Exotic</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_luxury04</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>6000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Front Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Hood Ornament</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>HardTop</Variant>
+						</Option>
+					<Option>
+						<Slot>Rear Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Metallic Paint</Name>
+							<Index>Tobias Fur White</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Matte Material</Name>
+							<Index>Black</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Titanium</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Brown</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Clear</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Luxury</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_4dr_luxury05</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>6000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Body Kit</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Exhaust</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Decal 1</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Decal 2</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Pearlescent Paint</Name>
+							<Index>Deep Starlight Teal</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Carbon Steel</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Clear</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Luxury</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_4dr_exoticluxury01</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>30000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Grill</Slot>
+						<Variant>Classic</Variant>
+						</Option>
+					<Option>
+						<Slot>Trim</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>Luxury Hardtop</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Metallic Paint</Name>
+							<Index>Tabletop Gray</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Aluminum</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Aluminum</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Tan</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Clear</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Luxury</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_exoticsports04</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>20000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>HardTop</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Street</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Windows</Slot>
+						<Variant>Sport Rear</Variant>
+						</Option>
+					<Option>
+						<Slot>Light Covers</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Mirrors</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Body Kit</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Decal</Slot>
+						<Variant>None</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Iridescent Paint</Name>
+							<Index>Jokers Wild</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Brass</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Interior Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Standard Material</Name>
+							<Index>Yellow</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Clear</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Sports</Type>
+				</Element>
+			<Element>
+				<Vehicle>car_2dr_sports03</Vehicle>
+				<Variant>Standard</Variant>
+				<Cost>20000</Cost>
+				<StockOptions>
+					<Option>
+						<Slot>Hood</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Front Bumper</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Rear Bumper</Slot>
+						<Variant>Stock 1</Variant>
+						</Option>
+					<Option>
+						<Slot>Body Kit</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Rims</Slot>
+						<Variant>Sport</Variant>
+						</Option>
+					<Option>
+						<Slot>Exhaust</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					<Option>
+						<Slot>Spoiler</Slot>
+						<Variant>None</Variant>
+						</Option>
+					<Option>
+						<Slot>Roof</Slot>
+						<Variant>HardTop</Variant>
+						</Option>
+					<Option>
+						<Slot>Lights</Slot>
+						<Variant>Stock</Variant>
+						</Option>
+					</StockOptions>
+				<ColorData>
+					<Colors>
+						<Color>
+							<ColorSlot>Body Color</ColorSlot>
+							<Type>Palette</Type>
+							<Name>Gloss Paint</Name>
+							<Index>Graig Red</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Trim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Matte Material</Name>
+							<Index>Dark Gray</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Rim Color</ColorSlot>
+							<Type>Color</Type>
+							<Name>Metal</Name>
+							<Index>Chrome</Index>
+							</Color>
+						<Color>
+							<ColorSlot>Window Tint</ColorSlot>
+							<Type>Color</Type>
+							<Name>Glass</Name>
+							<Index>Dark Tint 60%</Index>
+							</Color>
+						</Colors>
+					</ColorData>
+				<Type>Sports</Type>
+				</Element>
+			</VehicleList>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Dealership>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Dealership</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>shop_names.xtbl</File>
+			<Type>ShopNames.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>VehicleList</Name>
+		<Type>Grid</Type>
+		<Display_Name>Vehicle List</Display_Name>
+		<Element>
+			<Name>Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Vehicle</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Variant</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Cost</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>Selection</Type>
+				<Display_Name>Car Type</Display_Name>
+				<Choice>Compact</Choice>
+				<Choice>Exotic</Choice>
+				<Choice>Luxury</Choice>
+				<Choice>Sedan</Choice>
+				<Choice>SUV</Choice>
+				<Choice>Truck</Choice>
+				<Choice>Classic</Choice>
+				<Choice>Sports</Choice>
+				<Choice>Station Wagon</Choice>
+				<Choice>Muscle</Choice>
+				<Choice>Van</Choice>
+				<Choice>Minivan</Choice>
+				<Choice>Misc</Choice>
+				</Element>
+			<Element>
+				<Name>StockOptions</Name>
+				<Type>Grid</Type>
+				<Display_Name>Stock Options</Display_Name>
+				<Required>false</Required>
+				<Element>
+					<Name>Option</Name>
+					<Type>Element</Type>
+					<Element>
+						<Name>Slot</Name>
+						<Type>String</Type>
+						</Element>
+					<Element>
+						<Name>Variant</Name>
+						<Type>String</Type>
+						</Element>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>ColorData</Name>
+				<Type>Element</Type>
+				<Required>false</Required>
+				<Element>
+					<Name>Colors</Name>
+					<Type>Grid</Type>
+					<Element>
+						<Name>Color</Name>
+						<Type>Element</Type>
+						<Element>
+							<Name>ColorSlot</Name>
+							<Type>String</Type>
+							</Element>
+						<Element>
+							<Name>Type</Name>
+							<Type>Selection</Type>
+							<Choice>Color</Choice>
+							<Choice>Palette</Choice>
+							</Element>
+						<Element>
+							<Name>Name</Name>
+							<Type>String</Type>
+							<Display_Name>Palette</Display_Name>
+							</Element>
+						<Element>
+							<Name>Index</Name>
+							<Type>String</Type>
+							<Display_Name>Color</Display_Name>
+							<Default>0</Default>
+							</Element>
+						</Element>
+					<Num_Display_Rows>8</Num_Display_Rows>
+					</Element>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

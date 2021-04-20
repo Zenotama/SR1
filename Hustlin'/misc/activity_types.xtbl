@@ -1,0 +1,134 @@
+<root>
+<Table>
+	<Activity>
+		<Name>Demolition Derby</Name>
+		<Type>Demolition Derby</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_derby1</Unlockable>
+			<Unlockable>all_derby2</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Escort</Name>
+		<Type>Escort</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_escort</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Fraud</Name>
+		<Type>Fraud</Type>
+		<Unlockable>all_fraud</Unlockable>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_fraud</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Hijacking</Name>
+		<Type>Hijacking</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_hijack</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Pimping</Name>
+		<Type>Pimping</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_pimping</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Racing</Name>
+		<Type>Racing</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_racing</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Trafficking</Name>
+		<Type>Trafficking</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_drug</Unlockable>
+			</Unlockables>
+		</Activity>
+	<Activity>
+		<Name>Vandalism</Name>
+		<Type>Vandalism</Type>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Unlockables>
+			<Unlockable>all_mayhem</Unlockable>
+			</Unlockables>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>This field is a dummy.</Description>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Unique>true</Unique>
+		<Choice>Fraud</Choice>
+		<Choice>Hijacking</Choice>
+		<Choice>Hitman</Choice>
+		<Choice>Pimping</Choice>
+		<Choice>Racing</Choice>
+		<Choice>Trafficking</Choice>
+		<Choice>Vandalism</Choice>
+		<Choice>Escort</Choice>
+		<Choice>Demolition Derby</Choice>
+		</Element>
+	<Element>
+		<Name>Unlockables</Name>
+		<Type>Grid</Type>
+		<Description>What to unlock when all activities of this type are completed.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Unlockable</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>unlockables.xtbl</File>
+				<Type>Unlockable.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

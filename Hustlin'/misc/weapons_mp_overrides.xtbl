@@ -1,0 +1,1396 @@
+<root>
+<Table>
+	<Weapon>
+		<Name>ak47</Name>
+		<Damage_Max>
+			<NPC_Damage>130</NPC_Damage>
+			<Player_Damage>50</Player_Damage>
+			</Damage_Max>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>4</Player_Spread_Max>
+				<Player_Spread_Min>1</Player_Spread_Min>
+				<SpreadMovementMultipliers>
+					<Movement_Multiplier_Walk>1.2</Movement_Multiplier_Walk>
+					<Movement_Multiplier_Run>1.5</Movement_Multiplier_Run>
+					<Movement_Multiplier_Crouch>.8</Movement_Multiplier_Crouch>
+					</SpreadMovementMultipliers>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>3</Player_To_Spread_Max>
+				<Player_To_Spread_Min>500</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<NPCWeaponSpread>
+			<SpreadDynamics>
+				<NPC_To_Spread_Max>3</NPC_To_Spread_Max>
+				<NPC_To_Spread_Min>1000</NPC_To_Spread_Min>
+				<SpreadDynamicMultipliers>
+					</SpreadDynamicMultipliers>
+				</SpreadDynamics>
+			</NPCWeaponSpread>
+		<Max_Rounds>300</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>baseball_bat</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Damage_Max>
+			<NPC_Damage>100</NPC_Damage>
+			<Player_Damage>100</Player_Damage>
+			</Damage_Max>
+		<Damage_Min>
+			<NPC_Damage>0.0</NPC_Damage>
+			<Player_Damage>0.0</Player_Damage>
+			</Damage_Min>
+		</Weapon>
+	<Weapon>
+		<Name>beretta</Name>
+		<Damage_Max>
+			<NPC_Damage>70</NPC_Damage>
+			<Player_Damage>35</Player_Damage>
+			</Damage_Max>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>4</Player_Spread_Max>
+				<Player_Spread_Min>1</Player_Spread_Min>
+				<SpreadMovementMultipliers>
+					<Movement_Multiplier_Walk>1.0</Movement_Multiplier_Walk>
+					<Movement_Multiplier_Run>1.3</Movement_Multiplier_Run>
+					</SpreadMovementMultipliers>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>3</Player_To_Spread_Max>
+				<Player_To_Spread_Min>1250</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<NPCWeaponSpread>
+			<SpreadDynamics>
+				</SpreadDynamics>
+			</NPCWeaponSpread>
+		<Max_Rounds>500</Max_Rounds>
+		<Refire_Delay>100</Refire_Delay>
+		</Weapon>
+	<Weapon>
+		<Name>desert eagle</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Damage_Max>
+			<NPC_Damage>100</NPC_Damage>
+			<Player_Damage>50</Player_Damage>
+			</Damage_Max>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>3</Player_Spread_Max>
+				<Player_Spread_Min>1.5</Player_Spread_Min>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>3</Player_To_Spread_Max>
+				<Player_To_Spread_Min>1000</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<Refire_Delay>200</Refire_Delay>
+		</Weapon>
+	<Weapon>
+		<Name>glock</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Refire_Delay>100</Refire_Delay>
+		<Damage_Max>
+			<NPC_Damage>80</NPC_Damage>
+			<Player_Damage>30</Player_Damage>
+			</Damage_Max>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>2</Player_Spread_Max>
+				<Player_Spread_Min>.5</Player_Spread_Min>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>2</Player_To_Spread_Max>
+				<Player_To_Spread_Min>750</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		</Weapon>
+	<Weapon>
+		<Name>grenade</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Projectile_Info>
+			<Model>grenade</Model>
+			<Speed>40</Speed>
+			<Fuse_Time>2200</Fuse_Time>
+			</Projectile_Info>
+		<Max_Rounds>10</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>m16</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Weapon>
+	<Weapon>
+		<Name>mac10</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Rounds>500</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>magnum</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Damage_Max>
+			<NPC_Damage>100</NPC_Damage>
+			<Player_Damage>80</Player_Damage>
+			</Damage_Max>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>1</Player_Spread_Max>
+				</SpreadMinMax>
+			</PlayerWeaponSpread>
+		<Refire_Delay>500</Refire_Delay>
+		</Weapon>
+	<Weapon>
+		<Name>molotov</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Fire_Damage_Per_Second>5</Fire_Damage_Per_Second>
+		<Damage_Max_Dist>1</Damage_Max_Dist>
+		<Damage_Min_Dist>10</Damage_Min_Dist>
+		<Damage_Max>
+			<NPC_Damage>50</NPC_Damage>
+			<Player_Damage>50</Player_Damage>
+			</Damage_Max>
+		<Projectile_Info>
+			<Model>molotov</Model>
+			<Speed>30</Speed>
+			</Projectile_Info>
+		<Max_Rounds>10</Max_Rounds>
+		<Damage_Min>
+			<NPC_Damage>25</NPC_Damage>
+			<Player_Damage>25</Player_Damage>
+			</Damage_Min>
+		</Weapon>
+	<Weapon>
+		<Name>pimp_slap</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Weapon>
+	<Weapon>
+		<Name>pipe_bomb</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Damage_Max>
+			<NPC_Damage>0</NPC_Damage>
+			<Player_Damage>0</Player_Damage>
+			</Damage_Max>
+		<Projectile_Info>
+			<Model>pipe_bomb</Model>
+			<Speed>35</Speed>
+			<Fuse_Time>2000</Fuse_Time>
+			</Projectile_Info>
+		<Explosion>MP Pipe bomb</Explosion>
+		<Max_Rounds>10</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>pump_action_shotgun</Name>
+		<Damage_Max>
+			<NPC_Damage>165</NPC_Damage>
+			<Player_Damage>73</Player_Damage>
+			</Damage_Max>
+		<Damage_Min>
+			<NPC_Damage>120</NPC_Damage>
+			<Player_Damage>53</Player_Damage>
+			</Damage_Min>
+		<Fire_Cone_Angle>8</Fire_Cone_Angle>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Range_Max>50</Range_Max>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>0</Player_Spread_Max>
+				<Player_Spread_Min>0</Player_Spread_Min>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>2</Player_To_Spread_Max>
+				<Player_To_Spread_Min>1000</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<Max_Rounds>50</Max_Rounds>
+		<Shots_Per_Round>4</Shots_Per_Round>
+		<Ragdoll_Force_Shoot>450</Ragdoll_Force_Shoot>
+		</Weapon>
+	<Weapon>
+		<Name>rpg_launcher</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Rounds>10</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>sniper_rifle</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Magazine_Size>5</Magazine_Size>
+		<Damage_Max>
+			<NPC_Damage>150</NPC_Damage>
+			<Player_Damage>200</Player_Damage>
+			</Damage_Max>
+		<Refire_Delay>3000</Refire_Delay>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>4.0</Player_Spread_Max>
+				<Player_Spread_Min>1.0</Player_Spread_Min>
+				<SpreadMovementMultipliers>
+					<Movement_Multiplier_Crouch>0.8</Movement_Multiplier_Crouch>
+					<Movement_Multiplier_Walk>1.3</Movement_Multiplier_Walk>
+					<Movement_Multiplier_Run>1.5</Movement_Multiplier_Run>
+					<Movement_Multiplier_Sprint>1.75</Movement_Multiplier_Sprint>
+					<Movement_Multiplier_Vehicle>2.0</Movement_Multiplier_Vehicle>
+					</SpreadMovementMultipliers>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<SpreadDynamicMultipliers>
+					<Movement_Multiplier_Crouch>1.2</Movement_Multiplier_Crouch>
+					<Movement_Multiplier_Walk>0.75</Movement_Multiplier_Walk>
+					<Movement_Multiplier_Run>0.75</Movement_Multiplier_Run>
+					<Movement_Multiplier_Sprint>0.75</Movement_Multiplier_Sprint>
+					<Movement_Multiplier_Vehicle>0.75</Movement_Multiplier_Vehicle>
+					</SpreadDynamicMultipliers>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<Max_Rounds>25</Max_Rounds>
+		</Weapon>
+	<Weapon>
+		<Name>spas12</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Damage_Max>
+			<NPC_Damage>100</NPC_Damage>
+			<Player_Damage>43</Player_Damage>
+			</Damage_Max>
+		<Max_Rounds>50</Max_Rounds>
+		<Shots_Per_Round>4</Shots_Per_Round>
+		<Ragdoll_Force_Shoot>600</Ragdoll_Force_Shoot>
+		<Damage_Min>
+			<NPC_Damage>73</NPC_Damage>
+			<Player_Damage>31</Player_Damage>
+			</Damage_Min>
+		</Weapon>
+	<Weapon>
+		<Name>tec9</Name>
+		<Damage_Max>
+			<NPC_Damage>50</NPC_Damage>
+			<Player_Damage>25</Player_Damage>
+			</Damage_Max>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Refire_Delay>50</Refire_Delay>
+		<Shots_Per_Round>1</Shots_Per_Round>
+		<PlayerWeaponSpread>
+			<SpreadMinMax>
+				<Player_Spread_Max>6</Player_Spread_Max>
+				<Player_Spread_Min>1</Player_Spread_Min>
+				<SpreadMovementMultipliers>
+					<Movement_Multiplier_Walk>1.0</Movement_Multiplier_Walk>
+					<Movement_Multiplier_Run>1.3</Movement_Multiplier_Run>
+					<Movement_Multiplier_Crouch>.8</Movement_Multiplier_Crouch>
+					</SpreadMovementMultipliers>
+				</SpreadMinMax>
+			<SpreadDynamics>
+				<Player_To_Spread_Max>4</Player_To_Spread_Max>
+				<Player_To_Spread_Min>300</Player_To_Spread_Min>
+				</SpreadDynamics>
+			</PlayerWeaponSpread>
+		<NPCWeaponSpread>
+			<SpreadDynamics>
+				<NPC_To_Spread_Max>4</NPC_To_Spread_Max>
+				<NPC_To_Spread_Min>600</NPC_To_Spread_Min>
+				</SpreadDynamics>
+			</NPCWeaponSpread>
+		<Max_Rounds>500</Max_Rounds>
+		<Magazine_Size>50</Magazine_Size>
+		</Weapon>
+	<Weapon>
+		<Name>twelve_gauge</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Max_Rounds>50</Max_Rounds>
+		<Shots_Per_Round>4</Shots_Per_Round>
+		<Ragdoll_Force_Shoot>600</Ragdoll_Force_Shoot>
+		<Fire_Cone_Angle>9</Fire_Cone_Angle>
+		<Damage_Max>
+			<NPC_Damage>200</NPC_Damage>
+			<Player_Damage>88</Player_Damage>
+			</Damage_Max>
+		<Damage_Min>
+			<NPC_Damage>145</NPC_Damage>
+			<Player_Damage>64</Player_Damage>
+			</Damage_Min>
+		</Weapon>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Weapon</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Unique name for this weapon.</Description>
+		<Default>knife</Default>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Description>Flags for this weapon.</Description>
+		<Required>false</Required>
+		<Flag>can zoom</Flag>
+		<Flag>brass during reload only</Flag>
+		</Element>
+	<Element>
+		<Name>Weapon_Class</Name>
+		<Type>Selection</Type>
+		<Display_Name>Weapon Class</Display_Name>
+		<Description>the class of the weapon, which affects how weapon behave gameside</Description>
+		<Required>false</Required>
+		<Default>pistol</Default>
+		<Choice>pistol</Choice>
+		<Choice>smg</Choice>
+		<Choice>rifle</Choice>
+		<Choice>launcher</Choice>
+		<Choice>thrown</Choice>
+		<Choice>shotgun</Choice>
+		<Choice>knife</Choice>
+		<Choice>nightstick</Choice>
+		<Choice>stungun</Choice>
+		<Choice>bat</Choice>
+		<Choice>drug1</Choice>
+		<Choice>drug2</Choice>
+		<Choice>liquor</Choice>
+		<Choice>box</Choice>
+		</Element>
+	<Element>
+		<Name>Animation_Group</Name>
+		<Type>Reference</Type>
+		<Display_Name>Animation Group</Display_Name>
+		<Description>Which group of animation to use from the animation set of the character</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_groups.xtbl</File>
+			<Type>Anim_Group.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Muzzle_Flash</Name>
+		<Type>Reference</Type>
+		<Display_Name>Muzzle Flash</Display_Name>
+		<Description>The muzzle flash effect for this weapon.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>glares.xtbl</File>
+			<Type>Glare.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Muzzle_Effect</Name>
+		<Type>Reference</Type>
+		<Display_Name>Muzzle Effect</Display_Name>
+		<Description>The muzzle effect for this weapon.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Melee_Effect</Name>
+		<Type>String</Type>
+		<Display_Name>Melee Effect</Display_Name>
+		<Description>Effect played when weapon makes melee contact.</Description>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Fire_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>Fire Sound</Display_Name>
+		<Description>Played when weapon is fired.	 (firearms only)</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>NPC_Fire_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>NPC Fire Sound</Display_Name>
+		<Description>Fire sound used for NPCs.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Fire_Release_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>Fire Release Sound</Display_Name>
+		<Description>Played when weapon stops firing.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>NPC_Fire_Release_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>NPC Fire Release Sound</Display_Name>
+		<Description>Sound to be played when an NPC releases the trigger.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Reload_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>Reload Sound</Display_Name>
+		<Description>Played when weapon is reloaded.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>No_Ammo_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>No Ammo Sound</Display_Name>
+		<Description>Played when attempting to reload weapon with no ammo in reserves.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Hit_Wall_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>Hit Wall Sound</Display_Name>
+		<Description>Played when the weapon hits a wall.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Zoom_Sound</Name>
+		<Type>Reference</Type>
+		<Display_Name>Zoom Sound</Display_Name>
+		<Description>Sound made when a weapon zooms in.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Brass</Name>
+		<Type>Reference</Type>
+		<Description>Type of brass to use for this weapon.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>shells.xtbl</File>
+			<Type>Shell.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Trigger_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Trigger Type</Display_Name>
+		<Description>"single" (button press required for each shot) or "burst" (hold button down for multiple shots)</Description>
+		<Required>false</Required>
+		<Default>single</Default>
+		<Choice>single</Choice>
+		<Choice>burst</Choice>
+		</Element>
+	<Element>
+		<Name>Ammo_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Ammo Type</Display_Name>
+		<Description>Determines interface requirements and hit processing
+"bullet" - hit detection occurs immediately on trigger pull
+"projectile" - launched from a weapon, requires hit detection each frame
+"thrown" - thrown by hand, requires hit detection each frame
+"melee" - melee attack</Description>
+		<Required>false</Required>
+		<Default>bullet</Default>
+		<Choice>bullet</Choice>
+		<Choice>projectile</Choice>
+		<Choice>thrown</Choice>
+		<Choice>melee</Choice>
+		</Element>
+	<Element>
+		<Name>Magazine_Size</Name>
+		<Type>Int</Type>
+		<Display_Name>Magazine Size</Display_Name>
+		<Description>Number of rounds in a single magazine (ignored for "thrown" and "melee" weapons).</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Max_Rounds</Name>
+		<Type>Int</Type>
+		<Display_Name>Max. Rounds</Display_Name>
+		<Description>Maximum number of rounds the player can hold for this weapon (ignored for "melee" weapons).</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Range_Max</Name>
+		<Type>Float</Type>
+		<Display_Name>Max. Range</Display_Name>
+		<Description>Maximum range of weapon (in meters, ignored for "thrown" weapons)</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>AI_Range_Max</Name>
+		<Type>Float</Type>
+		<Display_Name>AI Max. Range</Display_Name>
+		<Description>Max range of a weapon from an AI point of view.  The AI will only use weapon if target is within this range.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Sound_Radius</Name>
+		<Type>Float</Type>
+		<Display_Name>Sound Radius</Display_Name>
+		<Description>Radius of attack sound (in meters).</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Tracer_Frequency</Name>
+		<Type>Int</Type>
+		<Display_Name>Tracer Frequency</Display_Name>
+		<Description>Number of shots before a tracer is emitted (only for "burst" fire weapons).</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Refire_Delay</Name>
+		<Type>Int</Type>
+		<Display_Name>Refire Delay</Display_Name>
+		<Description>Delay between shots (in milliseconds, ignored for "thrown" and "melee" weapons).</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Damage_Max</Name>
+		<Type>Element</Type>
+		<Display_Name>Max. Damage</Display_Name>
+		<Description>The maximum damage that this weapon can do in different situations.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>NPC_Damage</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC</Display_Name>
+			<Description>The maximum damage that this weapon can do to an NPC.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Player_Damage</Name>
+			<Type>Float</Type>
+			<Display_Name>Player</Display_Name>
+			<Description>The maximum damage that this weapon can do to the player.</Description>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Damage_Min</Name>
+		<Type>Element</Type>
+		<Display_Name>Min. Damage</Display_Name>
+		<Description>The minimum damage that this weapon can do in different situations.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>NPC_Damage</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC</Display_Name>
+			<Description>The minimum damage that this weapon can do to an NPC.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Player_Damage</Name>
+			<Type>Float</Type>
+			<Display_Name>Player</Display_Name>
+			<Description>The minimum damage that this weapon can do to the player.</Description>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>MeleeAttacks</Name>
+		<Type>Element</Type>
+		<Display_Name>Melee Attacks</Display_Name>
+		<Description>Opening moves for melee attack combos</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>StandingPrimary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Standing Primary</Display_Name>
+			<Description>Primary attack move while standing normally.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>StandingSecondary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Standing Secondary</Display_Name>
+			<Description>Secondary attack move while standing normally.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>MovingPrimary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Moving Primary</Display_Name>
+			<Description>Primary attack move while moving.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>MovingSecondary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Moving Secondary</Display_Name>
+			<Description>Secondary attack move while moving.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Crouching</Name>
+			<Type>Reference</Type>
+			<Description>Attack move while crouching but not moving.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>CrouchMoving</Name>
+			<Type>Reference</Type>
+			<Display_Name>Crouch Moving</Display_Name>
+			<Description>Attack move while crouching and moving.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>ProneAttackPrimary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Prone Attack Primary</Display_Name>
+			<Description>Primary attack move to play when attacking prone targets.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>ProneAttackSecondary</Name>
+			<Type>Reference</Type>
+			<Display_Name>Prone Attack Secondary</Display_Name>
+			<Description>Secondary attack move to play when attacking prone targets.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Explosion</Name>
+		<Type>Reference</Type>
+		<Description>The explosion associated with this weapon.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>explosions.xtbl</File>
+			<Type>Explosion.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Fire_Damage_Per_Second</Name>
+		<Type>Float</Type>
+		<Display_Name>Fire Damage Per Second</Display_Name>
+		<Description>Amount of fire damage a human will take per second from an explosion caused by</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Damage_Max_Dist</Name>
+		<Type>Float</Type>
+		<Display_Name>Damage Max. Distance</Display_Name>
+		<Description>Distance (in meters) at or below which weapon does maximum damage (defaults to zero)
+- for "bullet" type weapons, the distance is measured from the gun to the target.
+- for "projectile" and "thrown" type weapons, the distance is measured from the projectile to the target.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Damage_Min_Dist</Name>
+		<Type>Float</Type>
+		<Display_Name>Damage Min. Distance</Display_Name>
+		<Description>Distance (in meters) at or above which weapon does minimum damage (defaults to max range)
+- for "bullet" type weapons, the distance is measured from the gun to the target.
+- for "projectile" and "thrown" type weapons, the distance is measured from the projectile to the target.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Fire_Cone_Angle</Name>
+		<Type>Float</Type>
+		<Display_Name>Fire Cone Angle</Display_Name>
+		<Description>Angle of cone extending from the barrel in which targets take damage (defaults to zero).</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Shots_Per_Round</Name>
+		<Type>Int</Type>
+		<Display_Name>Shots Per Round</Display_Name>
+		<Description>Number of shots emitted per round (defaults to one).</Description>
+		<Required>false</Required>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>PlayerWeaponSpread</Name>
+		<Type>Element</Type>
+		<Display_Name>Player Weapon Spread</Display_Name>
+		<Description>Weapon spread values</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>SpreadMinMax</Name>
+			<Type>Element</Type>
+			<Display_Name>Spread Min/Max</Display_Name>
+			<Description>Minimum and maximum spread values for the weapon</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Player_Spread_Max</Name>
+				<Type>Float</Type>
+				<Display_Name>Max. Spread</Display_Name>
+				<Description>Maximum accuracy spread (angle, in degrees) for a shot (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Player_Spread_Min</Name>
+				<Type>Float</Type>
+				<Display_Name>Min. Spread</Display_Name>
+				<Description>Minimum accuracy spread (angle, in degrees) for a shot (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>SpreadMovementMultipliers</Name>
+				<Type>Element</Type>
+				<Display_Name>Spread Movement Multipliers</Display_Name>
+				<Description>Spread min/max multipliers due to movement</Description>
+				<Required>false</Required>
+				<Element>
+					<Name>Movement_Multiplier_Crouch</Name>
+					<Type>Float</Type>
+					<Display_Name>Crouch</Display_Name>
+					<Description>Spread min/max multiplier when crouched (includes stationary crouch and crouch walk)</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Walk</Name>
+					<Type>Float</Type>
+					<Display_Name>Walk</Display_Name>
+					<Description>Spread min/max multiplier when walking</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Run</Name>
+					<Type>Float</Type>
+					<Display_Name>Run</Display_Name>
+					<Description>Spread min/max multiplier when running</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Sprint</Name>
+					<Type>Float</Type>
+					<Display_Name>Sprint</Display_Name>
+					<Description>Spread min/max multiplier when sprinting</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Vehicle</Name>
+					<Type>Float</Type>
+					<Display_Name>Vehicle</Display_Name>
+					<Description>Spread min/max multiplier when in a vehicle</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Fine_Aim</Name>
+					<Type>String</Type>
+					<Display_Name>Fine Aim</Display_Name>
+					<Description>Spread min/max multiplier when in fine-aim.</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>SpreadDynamics</Name>
+			<Type>Element</Type>
+			<Display_Name>Spread Dynamics</Display_Name>
+			<Description>Values affecting how quickly weapon spread increases and decreases</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Player_To_Spread_Max</Name>
+				<Type>Int</Type>
+				<Display_Name>To Max. Spread</Display_Name>
+				<Description>Number of shots for the gun to go to max spread (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>Player_To_Spread_Min</Name>
+				<Type>Int</Type>
+				<Display_Name>To Min. Spread</Display_Name>
+				<Description>Time (in milliseconds) for the gun to settle from maximum spread to minimum spread (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>SpreadDynamicMultipliers</Name>
+				<Type>Element</Type>
+				<Display_Name>Spread Dynamic Multipliers</Display_Name>
+				<Description>Spread dynamic multipliers due to movement ("to max spread" value is divided by the factor, "to min spread" value is multiplied by the factor)</Description>
+				<Required>false</Required>
+				<Element>
+					<Name>Movement_Multiplier_Crouch</Name>
+					<Type>Float</Type>
+					<Display_Name>Crouch</Display_Name>
+					<Description>Spread dynamic multiplier when crouching (includes stationary crouch and crouch walk)</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Walk</Name>
+					<Type>Float</Type>
+					<Display_Name>Walk</Display_Name>
+					<Description>Spread dynamic multiplier when walking</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Run</Name>
+					<Type>Float</Type>
+					<Display_Name>Run</Display_Name>
+					<Description>Spread dynamic multiplier when running</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Sprint</Name>
+					<Type>Float</Type>
+					<Display_Name>Sprint</Display_Name>
+					<Description>Spread dynamic multiplier when sprinting</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Vehicle</Name>
+					<Type>Float</Type>
+					<Display_Name>Vehicle</Display_Name>
+					<Description>Spread dynamic multiplier when in a vehicle</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Fine_Aim</Name>
+					<Type>String</Type>
+					<Display_Name>Fine Aim</Display_Name>
+					<Description>Spread dynamic multiplier when in fine-aim</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>NPCWeaponSpread</Name>
+		<Type>Element</Type>
+		<Display_Name>NPC Weapon Spread</Display_Name>
+		<Description>Weapon spread values</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>SpreadMinMax</Name>
+			<Type>Element</Type>
+			<Display_Name>Spread Min/Max</Display_Name>
+			<Description>Minimum and maximum spread values for the weapon</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>NPC_Spread_Max</Name>
+				<Type>Float</Type>
+				<Display_Name>Max. Spread</Display_Name>
+				<Description>Maximum accuracy spread (angle, in degrees) for a shot (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>NPC_Spread_Min</Name>
+				<Type>Float</Type>
+				<Display_Name>Min. Spread</Display_Name>
+				<Description>Minimum accuracy spread (angle, in degrees) for a shot (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>SpreadMovementMultipliers</Name>
+				<Type>Element</Type>
+				<Display_Name>Spread Movement Multipliers</Display_Name>
+				<Description>Spread min/max multipliers due to movement</Description>
+				<Required>false</Required>
+				<Element>
+					<Name>Movement_Multiplier_Crouch</Name>
+					<Type>Float</Type>
+					<Display_Name>Crouch</Display_Name>
+					<Description>Spread min/max multiplier when crouched (includes stationary crouch and crouch walk)</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Walk</Name>
+					<Type>Float</Type>
+					<Display_Name>Walk</Display_Name>
+					<Description>Spread min/max multiplier when walking</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Run</Name>
+					<Type>Float</Type>
+					<Display_Name>Run</Display_Name>
+					<Description>Spread min/max multiplier when running</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Sprint</Name>
+					<Type>Float</Type>
+					<Display_Name>Sprint</Display_Name>
+					<Description>Spread min/max multiplier when sprinting</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Vehicle</Name>
+					<Type>Float</Type>
+					<Display_Name>Vehicle</Display_Name>
+					<Description>Spread min/max multiplier when in a vehicle</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				</Element>
+			<Element>
+				<Name>SpreadTargetMovementMultipliers</Name>
+				<Type>Element</Type>
+				<Display_Name>Spread Target Movement Multipliers</Display_Name>
+				<Description>Spread min/max multipliers due to target movement</Description>
+				<Required>false</Required>
+				<Element>
+					<Name>Target_Movement_Multiplier_Walk</Name>
+					<Type>Float</Type>
+					<Display_Name>Walk</Display_Name>
+					<Description>Spread min/max multiplier when the target is walking</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Target_Movement_Multiplier_Run</Name>
+					<Type>Float</Type>
+					<Display_Name>Run</Display_Name>
+					<Description>Spread min/max multiplier when the target is running</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Target_Movement_Multiplier_Sprint</Name>
+					<Type>Float</Type>
+					<Display_Name>Sprint</Display_Name>
+					<Description>Spread min/max multiplier when the target is sprinting</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Target_Movement_Multiplier_Vehicle</Name>
+					<Type>Float</Type>
+					<Display_Name>Vehicle</Display_Name>
+					<Description>Spread min/max multiplier when the target is in a vehicle</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				</Element>
+			</Element>
+		<Element>
+			<Name>SpreadDynamics</Name>
+			<Type>Element</Type>
+			<Display_Name>Spread Dynamics</Display_Name>
+			<Description>Values affecting how quickly weapon spread increases and decreases</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>NPC_To_Spread_Max</Name>
+				<Type>Int</Type>
+				<Display_Name>To Max. Spread</Display_Name>
+				<Description>Number of shots for the gun to go to max spread (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>NPC_To_Spread_Min</Name>
+				<Type>Int</Type>
+				<Display_Name>To Min. Spread</Display_Name>
+				<Description>Time (in milliseconds) for the gun to settle from maximum spread to minimum spread (defaults to zero, ignored for "thrown" and "melee" weapons).</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>SpreadDynamicMultipliers</Name>
+				<Type>Element</Type>
+				<Display_Name>Spread Dynamic Multipliers</Display_Name>
+				<Description>Spread dynamic multipliers due to movement ("to max spread" value is divided by the factor, "to min spread" value is multiplied by the factor)</Description>
+				<Required>false</Required>
+				<Element>
+					<Name>Movement_Multiplier_Crouch</Name>
+					<Type>Float</Type>
+					<Display_Name>Crouch</Display_Name>
+					<Description>Spread dynamic multiplier when crouching (includes stationary crouch and crouch walk)</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Walk</Name>
+					<Type>Float</Type>
+					<Display_Name>Walk</Display_Name>
+					<Description>Spread dynamic multiplier when walking</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Run</Name>
+					<Type>Float</Type>
+					<Display_Name>Run</Display_Name>
+					<Description>Spread dynamic multiplier when running</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Sprint</Name>
+					<Type>Float</Type>
+					<Display_Name>Sprint</Display_Name>
+					<Description>Spread dynamic multiplier when sprinting</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				<Element>
+					<Name>Movement_Multiplier_Vehicle</Name>
+					<Type>Float</Type>
+					<Display_Name>Vehicle</Display_Name>
+					<Description>Spread dynamic multiplier when in a vehicle</Description>
+					<Required>false</Required>
+					<Default>1.0</Default>
+					</Element>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Ragdoll_Force_Shoot</Name>
+		<Type>Float</Type>
+		<Display_Name>Ragdoll Force (Shoot)</Display_Name>
+		<Description>How much force to apply to a ragdoll when SHOT by this weapon.  0 is none.</Description>
+		<Required>false</Required>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Object_Bullet_Hit_Impulse_Magnitude</Name>
+		<Type>Float</Type>
+		<Display_Name>Object Bullet Hit Impulse</Display_Name>
+		<Description>Amount of impulse applied to dynamic objects when hit by a bullet (in kg * m / s).</Description>
+		<Required>false</Required>
+		<Default>10</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Projectile_Info</Name>
+		<Type>Element</Type>
+		<Display_Name>Projectile Parameters</Display_Name>
+		<Description>Projectile parameters (only for "projectile" or "thrown" weapons).</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Model</Name>
+			<Type>Reference</Type>
+			<Description>The 3D model for the projectile.</Description>
+			<Reference>
+				<File>items_3d.xtbl</File>
+				<Type>Item.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Speed</Name>
+			<Type>Float</Type>
+			<Description>Speed of projectile when it is launched/thrown (in meters/second).</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Fuse_Time</Name>
+			<Type>Int</Type>
+			<Display_Name>Fuse Time</Display_Name>
+			<Description>Time (in milliseconds) before projectile explodes (defaults to zero, i.e.: explode on impact).</Description>
+			<Required>false</Required>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>Attached_Effect</Name>
+			<Type>Reference</Type>
+			<Display_Name>Attached Effect</Display_Name>
+			<Description>Effect that is attached to projectile.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>effects.xtbl</File>
+				<Type>Effect.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Gravity</Name>
+			<Type>Float</Type>
+			<Description>Acceleration due to gravity on the projectile (defaults to -9.8 m/s^2).</Description>
+			<Required>false</Required>
+			<Default>-9.8</Default>
+			</Element>
+		<Element>
+			<Name>Sound</Name>
+			<Type>Reference</Type>
+			<Description>Sound that the projectile makes while in flight.</Description>
+			<Required>false</Required>
+			<Reference>
+				<File>foley.xtbl</File>
+				<Type>Foley.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Mass</Name>
+			<Type>Float</Type>
+			<Description>Mass of projectile in kg.	 Default 1kg.	Only projectiles that bounce need to worry about tweaking.</Description>
+			<Required>false</Required>
+			<Default>1.0</Default>
+			</Element>
+		<Element>
+			<Name>Linear_Damp</Name>
+			<Type>Float</Type>
+			<Display_Name>Linear Damping</Display_Name>
+			<Description>Value between 0 and 1.	 Higher value results in higher drag on linear velocity (ie less distance).</Description>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Angular_Damp</Name>
+			<Type>Float</Type>
+			<Display_Name>Angular Damping</Display_Name>
+			<Description>Value between 0 1nd 1.	 Higher value results in higher drag on angular velocity (ie less spin).</Description>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Restitution</Name>
+			<Type>Float</Type>
+			<Description>The restitution coefficient (usually a value from 0 to 1) specifies how much kinetic energy is lost during a collision between two objects e.g. with a value of 0, all energy is lost and objects appear to come to a complete halt when they collide. With a value of 1, no energy is lost and objects bounce off each other with an equal but opposite velocity. For values between 0 and 1, the objects lose some but not all energy with each collision.</Description>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Friction</Name>
+			<Type>Float</Type>
+			<Description>The friction coefficient (usually a value from 0 to 1) which specifies how "sticky" or "rough" an object is.</Description>
+			<Required>false</Required>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Angular_Velocity</Name>
+			<Type>Vector</Type>
+			<Display_Name>Angular Velocity</Display_Name>
+			<Description>Starting angular velocity for projectile.</Description>
+			<Required>false</Required>
+			<X>
+				<Name>X</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</X>
+			<Y>
+				<Name>Y</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Y>
+			<Z>
+				<Name>Z</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Z>
+			</Element>
+		<Element>
+			<Name>Collision_Sound</Name>
+			<Type>Element</Type>
+			<Display_Name>Collision Sound</Display_Name>
+			<Description>A foley sound to play when collisions happen, optional minimum and maximum speeds where volume is 0.0 and 1.0.</Description>
+			<Required>false</Required>
+			<Element>
+				<Name>Foley_Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Foley Name</Display_Name>
+				<Description>The foley to play on collision.</Description>
+				<Reference>
+					<File>foley.xtbl</File>
+					<Type>Foley.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Min_Speed</Name>
+				<Type>Float</Type>
+				<Display_Name>Min. Speed</Display_Name>
+				<Description>The minimum speed to play the foley at (where the volume is 0.0).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>Max_Speed</Name>
+				<Type>Float</Type>
+				<Display_Name>Max. Speed</Display_Name>
+				<Description>The maximum speed at which to play the foley (where the volume is 1.0).</Description>
+				<Required>false</Required>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Element>
+			<Name>Projectile_Flags</Name>
+			<Type>Flags</Type>
+			<Display_Name>Projectile Flags</Display_Name>
+			<Required>false</Required>
+			<Flag>has light attached</Flag>
+			<Flag>rocket flight</Flag>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Zoom_Type</Name>
+		<Type>Selection</Type>
+		<Display_Name>Zoom Type</Display_Name>
+		<Description>Type of zoom mode.  Progressive is a smooth transition, while non-progressive moves in increments every time the player taps the zoom button.</Description>
+		<Required>false</Required>
+		<Choice>progressive</Choice>
+		<Choice>non-progressive</Choice>
+		</Element>
+	<Element>
+		<Name>Minimum_FOV</Name>
+		<Type>Float</Type>
+		<Display_Name>Minimum FOV</Display_Name>
+		<Description>Minimum FOV that is zoomed to.</Description>
+		<Required>false</Required>
+		<Default>15.0</Default>
+		<MinValue>5</MinValue>
+		<MaxValue>60</MaxValue>
+		</Element>
+	<Element>
+		<Name>Zoom_Steps</Name>
+		<Type>Int</Type>
+		<Display_Name>Zoom Steps</Display_Name>
+		<Description>Number of taps it takes to reach the minimum FOV.  This value is only applicable to non-progressive zoom mode.</Description>
+		<Required>false</Required>
+		<Default>3</Default>
+		<MinValue>1</MinValue>
+		<MaxValue>10</MaxValue>
+		</Element>
+	<Element>
+		<Name>FOV_Rate</Name>
+		<Type>Float</Type>
+		<Description>Rate at which the FOV decreases in progressive zoom mode.  This value is ignored for non-progressive zoom mode.</Description>
+		<Required>false</Required>
+		<Default>140.0</Default>
+		<MinValue>1</MinValue>
+		</Element>
+	<Element>
+		<Name>pickup_info</Name>
+		<Type>Element</Type>
+		<Display_Name>Looted Info</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>min_ammo_given</Name>
+			<Type>Int</Type>
+			<Display_Name>Min ammo given</Display_Name>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>max_ammo_given</Name>
+			<Type>Int</Type>
+			<Display_Name>Max ammo given</Display_Name>
+			<Default>1</Default>
+			<MinValue>1</MinValue>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

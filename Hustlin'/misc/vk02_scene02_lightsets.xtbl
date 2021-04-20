@@ -1,0 +1,683 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>MSBB Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.475 0.691 0.957</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.7335 2.04336 5.96758</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.625 6.35</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>PD_X_M_BusinessMan-01</Exclude_List>
+				<Exclude_List_Original_Names>employee01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB Omni02</Name>
+				<Type>omni</Type>
+				<Color>0.938 0.808 0.455</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-10.733 3.16294 0.420257</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.025 8.35001</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.981 0.793 0.499</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.02074 7.32529 6.43296</Position>
+				<Orientation>-0.2337 -0.7496 0.3427 0.5159</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.151844 0.430224</Hotspot>
+				<Attenuation>6.775 8.825</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot05</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.851 0.659</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.379 4.6792 3.16348</Position>
+				<Orientation>0.2946 0.4009 -0.0857 0.8633</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.785398</Hotspot>
+				<Attenuation>9.25 12.125</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot04</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.851 0.659</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-20.2024 5.22198 -5.57937</Position>
+				<Orientation>-0.3058 -0.0001 -0.0001 0.9522</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.785398</Hotspot>
+				<Attenuation>9.25 12.125</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot11</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.981 0.793 0.499</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.93375 5.22807 3.47164</Position>
+				<Orientation>0.1438 -0.8437 0.2737 -0.439</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.151844 0.430224</Hotspot>
+				<Attenuation>6.775 8.825</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot06</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.851 0.659</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-26.6668 5.87854 -30.8949</Position>
+				<Orientation>0.0631 0.0301 -0.1789 0.9814</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.785398</Hotspot>
+				<Attenuation>9.25 12.125</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot15</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.742 0.918 0.981</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.1901 5.22487 -2.78322</Position>
+				<Orientation>-0.2804 0.4022 -0.1295 0.8619</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.151844 0.605629</Hotspot>
+				<Attenuation>9.05 13.05</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB Omni01</Name>
+				<Type>omni</Type>
+				<Color>0.938 0.808 0.455</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.127145 3.69302 -0.836824</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.025 8.35001</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.981 0.793 0.499</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.801816 5.22491 -2.61947</Position>
+				<Orientation>-0.3086 0.0418 -0.0122 0.9503</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.151844 0.430224</Hotspot>
+				<Attenuation>6.775 8.825</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.851 0.659</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-6.5033 5.22944 1.62556</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.785398</Hotspot>
+				<Attenuation>9.25 12.125</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.961 0.851 0.659</Color>
+				<Multiplier>0.87</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-11.3987 5.22788 -1.29996</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0.436332 0.785398</Hotspot>
+				<Attenuation>9.25 12.125</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.742 0.942</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>6.07458 5.20491 4.29689</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>4.475 6.575</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.632 0.957 0.969</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>13.7388 4.11266 -3.42182</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.496546 0.783653</Hotspot>
+				<Attenuation>17.175 17.175</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot02</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.632 0.957 0.969</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.58828 4.10765 -12.9988</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.496546 0.783653</Hotspot>
+				<Attenuation>17.175 17.175</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot13</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.957 0.738 0.389</Color>
+				<Multiplier>0.7</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>3.41413 4.10561 6.07266</Position>
+				<Orientation>-0.2094 0.4081 0.3709 0.8076</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.507891 0.985238</Hotspot>
+				<Attenuation>19.275 20.25</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>PD_X_M_BusinessMan-01</Exclude_List>
+				<Exclude_List_Original_Names>employee01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>MSBB FreeSpot14</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.632 0.957 0.969</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>25.4718 5.14545 -19.2837</Position>
+				<Orientation>0.256 0.3109 -0.1359 0.9053</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.496546 0.783653</Hotspot>
+				<Attenuation>17.175 17.175</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>LVL Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.64 0.914 0.926</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.63096 4.96531 -31.2199</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.0 7.0</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>LVL Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.64 0.914 0.926</Color>
+				<Multiplier>1.0</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-16.4575 4.96531 -28.9139</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.0 7.0</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Aish Key Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.75 0.804 0.82</Color>
+				<Multiplier>1.03</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-24.1634 1.84477 -33.1043</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.0 7.0</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Emp Fill Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.82 0.832 0.789</Color>
+				<Multiplier>1.02</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.00495004 1.86645 8.57762</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>2.7 4.3</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>VK_B_F_Aisha cs_kingdomcome_doors</Exclude_List>
+				<Exclude_List_Original_Names>aisha01 Doors01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Aish Rim Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.851 0.73</Color>
+				<Multiplier>1.42</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-5.94042 -0.224931 -1.33748</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.625 6.85</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>cs_blackphone cs_kingdomcome_doors PD_X_M_BusinessMan-01</Exclude_List>
+				<Exclude_List_Original_Names>BlackPhone01 Doors01 employee01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Aish Rim Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.832 0.851 0.73</Color>
+				<Multiplier>1.01</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.65373 2.29266 2.32534</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.275 5.05</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>cs_blackphone cs_kingdomcome_doors PD_X_M_BusinessMan-01</Exclude_List>
+				<Exclude_List_Original_Names>BlackPhone01 Doors01 employee01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>BB Aish Rim Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.793 0.797 0.699</Color>
+				<Multiplier>1.12</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-22.6837 1.07 -9.01619</Position>
+				<Orientation>0.0003 -0.0001 -0.0001 1.0</Orientation>
+				<Indoor>1</Indoor>
+				<Outdoor>0</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>3.175 6.85</Attenuation>
+				<Slate_Name>slate_record_studio01</Slate_Name>
+				<Exclude_List>cs_blackphone cs_kingdomcome_doors PD_X_M_BusinessMan-01</Exclude_List>
+				<Exclude_List_Original_Names>BlackPhone01 Doors01 employee01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_record_studio</Slate_Name>
+				<Level_Ambient>
+					<R>75</R>
+					<G>75</G>
+					<B>75</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,239 @@
+<root>
+   <Table></Table>
+
+   <TableTemplates>
+   </TableTemplates>
+
+   <TableDescription>
+      <Name>Region</Name>
+      <Type>TableDescription</Type>
+      <Description>A description of a region for the activity</Description>
+      <MaxCount>4</MaxCount>
+      <Element>
+         <Name>Name</Name>
+         <Type>String</Type>
+         <Description>A unique name for the region</Description>
+         <Unique>true</Unique>
+      </Element>
+      <Element>
+         <Name>Levels</Name>
+         <Type>List</Type>
+         <Description>All of the levels available in the region.</Description>
+         <Element>
+            <Name>Level</Name>
+            <Type>Element</Type>
+            <Description>Description of a level</Description>
+            <Element>
+               <Name>Vehicle_Type</Name>
+               <Type>Reference</Type>
+               <Display_Name>Vehicle Type</Display_Name>
+               <Description>What type of vehicle should be spawned.</Description>
+               <Reference>
+                  <File>vehicles.xtbl</File>
+                  <Type>Vehicle.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Driver_Type</Name>
+               <Type>Reference</Type>
+               <Display_Name>Driver Type</Display_Name>
+               <Description>What type of character the driver will be.</Description>
+               <Reference>
+                  <File>character.xtbl</File>
+                  <Type>Character.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Tail_Radius</Name>
+               <Type>Float</Type>
+               <Display_Name>Tailing Radius</Display_Name>
+               <Description>How close you must be to the vehicle in order to be tailing it (meters).</Description>
+               <Default>40</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Seek_Timer</Name>
+               <Type>Int</Type>
+               <Display_Name>Seek Timer</Display_Name>
+               <Description>How many seconds you have to initially get within tailing distance of the vehicle.</Description>
+               <Default>120</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Lost_Timer</Name>
+               <Type>Int</Type>
+               <Display_Name>Lost Timer</Display_Name>
+               <Description>How many seconds you have to get back within tailing distance after losing it.</Description>
+               <Default>15</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Notoriety_Level</Name>
+               <Type>Int</Type>
+               <Display_Name>Notoriety Level</Display_Name>
+               <Description>What level of police notoriety hijacking the vehicle should cause.</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>5</MaxValue>
+               <UseSlider>True</UseSlider>
+            </Element>
+            <Element>
+               <Name>Path</Name>
+               <Type>List</Type>
+               <Description>The path the vehicle will take.</Description>
+               <Element>
+                  <Name>Path_Location</Name>
+                  <Type>Reference</Type>
+                  <Display_Name>Path Location</Display_Name>
+                  <Description>A node on the path.</Description>
+                  <Reference>
+                     <File>template_navpoints.xtbl</File>
+                     <Type>Navpoint.Name</Type>
+                  </Reference>
+               </Element>
+               <Max_Children>20</Max_Children>
+               <Min_Children>1</Min_Children>
+               <Element_Name>Path_Location</Element_Name>
+            </Element>
+            <Element>
+               <Name>Return_Location</Name>
+               <Type>Reference</Type>
+               <Display_Name>Return Location</Display_Name>
+               <Description>Place you must return the stolen vehicle to.</Description>
+               <Reference>
+                  <File>template_navpoints.xtbl</File>
+                  <Type>Navpoint.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Vehicle_Speed</Name>
+               <Type>Float</Type>
+               <Display_Name>Default Vehicle Speed</Display_Name>
+               <Description>Speed to use for a vehicle when it is unloaded (m/s).</Description>
+               <Default>15</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Evade_Driver_Damage</Name>
+               <Type>Int</Type>
+               <Display_Name>Driver Evade Damage Threshold</Display_Name>
+               <Description>Percent of damage to driver that will cause evade</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>100</MaxValue>
+            </Element>
+            <Element>
+               <Name>Evade_Vehicle_Damage</Name>
+               <Type>Int</Type>
+               <Display_Name>Vehicle Evade Damage Threshold</Display_Name>
+               <Description>Percent of damage to vehicle that will cause evade</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>100</MaxValue>
+            </Element>
+            <Element>
+               <Name>Evade_Radius</Name>
+               <Type>Float</Type>
+               <Display_Name>Evade Radius</Display_Name>
+               <Description>How close the player must be to cause evade behavior.  Only active when both evade damage thresholds are zero.</Description>
+               <Default>30</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Attack_Evade</Name>
+               <Type>Selection</Type>
+               <Display_Name>Attack on Evade</Display_Name>
+               <Description>Whether the driver should attack on evade or not</Description>
+               <Default>false</Default>
+               <Choice>true</Choice>
+               <Choice>false</Choice>
+            </Element>
+            <Element>
+               <Name>Ram_Evade</Name>
+               <Type>Selection</Type>
+               <Display_Name>Ram on Evade</Display_Name>
+               <Description>Whether the vehicle should ram on evade or not.</Description>
+               <Default>false</Default>
+               <Choice>true</Choice>
+               <Choice>false</Choice>
+            </Element>
+            <Element>
+               <Name>Ram_Angle</Name>
+               <Type>Float</Type>
+               <Display_Name>Ram Angle</Display_Name>
+               <Description>Maximum angle between vehicle front and player direction that will cause the vehicle to ram (degrees).</Description>
+               <Default>60</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>90</MaxValue>
+            </Element>
+            <Element>
+               <Name>Stop_Driver_Damage</Name>
+               <Type>Int</Type>
+               <Display_Name>Driver Stop Damage Threshold</Display_Name>
+               <Description>Percent of damage to driver that will cause stop and exit</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>100</MaxValue>
+            </Element>
+            <Element>
+               <Name>Stop_Vehicle_Damage</Name>
+               <Type>Int</Type>
+               <Display_Name>Vehicle Stop Damage Threshold</Display_Name>
+               <Description>Percent of damage to vehicle that will cause stop and exit</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>100</MaxValue>
+            </Element>
+            <Element>
+               <Name>Attack_Stop</Name>
+               <Type>Selection</Type>
+               <Display_Name>Attack on Stop</Display_Name>
+               <Description>Whether the driver should attack the player when the vehicle stops.</Description>
+               <Default>false</Default>
+               <Choice>true</Choice>
+               <Choice>false</Choice>
+            </Element>
+            <Element>
+               <Name>Cash_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Cash Award</Display_Name>
+               <Description>Cash to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Props_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Props Award</Display_Name>
+               <Description>Props to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+         </Element>
+         <Max_Children>8</Max_Children>
+         <Min_Children>1</Min_Children>
+      </Element>
+      <Element>
+         <Name>Max_Cash</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Cash Award</Display_Name>
+         <Description>Cash award for completing the maximum level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Max_Props</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Props Award</Display_Name>
+         <Description>Props to be given for completing the last level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+   </TableDescription>
+
+   <EntryCategories>
+      <Category>
+         <Name>Entries</Name>
+      </Category>
+   </EntryCategories>
+</root>

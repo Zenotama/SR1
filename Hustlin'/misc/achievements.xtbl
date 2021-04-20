@@ -1,0 +1,658 @@
+<root>
+<Table>
+	<Achievement>
+		<Name>Addict</Name>
+		<DisplayName>ACHIEVE_ADDICT</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Time played</Stat>
+				<Condition>at least</Condition>
+				<Value>72000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Air Traffic Controller</Name>
+		<DisplayName>ACHIEVE_AIR_TRAFFIC_CONTROLLER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Helicopters destroyed</Stat>
+				<Condition>at least</Condition>
+				<Value>50</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Assassin</Name>
+		<DisplayName>ACHIEVE_ASSASSIN</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Hits Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Audiophile</Name>
+		<DisplayName>ACHIEVE_AUDIOPHILE</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>CDs found</Stat>
+				<Condition>at least</Condition>
+				<Value>60</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Demo Demon</Name>
+		<DisplayName>ACHIEVE_DEMO_DEMON</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Demo Derbies Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>1.0</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Fast and Furious</Name>
+		<DisplayName>ACHIEVE_FAST_AND_FURIOUS</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Hijackings Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Fluffer</Name>
+		<DisplayName>ACHIEVE_FLUFFER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Escorts Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Getting Up</Name>
+		<DisplayName>ACHIEVE_GETTING_UP</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Tags completed</Stat>
+				<Condition>at least</Condition>
+				<Value>75</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Grease Monkey</Name>
+		<DisplayName>ACHIEVE_GREASE_MONKEY</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Num unique vehicles owned</Stat>
+				<Condition>at least</Condition>
+				<Value>50</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Grifter</Name>
+		<DisplayName>ACHIEVE_GRIFTER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Insurance fraud earned</Stat>
+				<Condition>at least</Condition>
+				<Value>20000000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>It is not The Los Carnales</Name>
+		<DisplayName>ACHIEVE_IT_IS_NOT_THE_LOS_CARNALES</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>LC hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Jump the Shark</Name>
+		<DisplayName>ACHIEVE_JUMP_THE_SHARK</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Loan shark earned</Stat>
+				<Condition>at least</Condition>
+				<Value>20000000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Leader of the Pack</Name>
+		<DisplayName>ACHIEVE_LEADER_OF_THE_PACK</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Homiez acquired</Stat>
+				<Condition>at least</Condition>
+				<Value>7</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Marathon Runner</Name>
+		<DisplayName>ACHIEVE_MARATHON_RUNNER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Miles on foot</Stat>
+				<Condition>at least</Condition>
+				<Value>26.2</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Negotiator</Name>
+		<DisplayName>ACHIEVE_NEGOTIATOR</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Hostages extorted</Stat>
+				<Condition>at least</Condition>
+				<Value>50</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Penny Pincher</Name>
+		<DisplayName>ACHIEVE_PENNY_PINCHER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Total money</Stat>
+				<Condition>at least</Condition>
+				<Value>100000000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>PIMP</Name>
+		<DisplayName>ACHIEVE_PIMP</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Snatches Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>4</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Price Dropped</Name>
+		<DisplayName>ACHIEVE_PRICE_DROPPED</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>WR hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Professional Thief</Name>
+		<DisplayName>ACHIEVE_PROFESSIONAL_THIEF</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Thefts Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>30</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Pusher</Name>
+		<DisplayName>ACHIEVE_PUSHER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Drug Traffickings Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Racket Lord</Name>
+		<DisplayName>ACHIEVE_RACKET_LORD</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Activities completed</Stat>
+				<Condition>at least</Condition>
+				<Value>29</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Rule the City</Name>
+		<DisplayName>ACHIEVE_RULE_THE_CITY</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Neighborhoods controlled</Stat>
+				<Condition>at least</Condition>
+				<Value>36</Value>
+				</Requirement>
+			<Requirement>
+				<Stat>LC hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1.0</Value>
+				</Requirement>
+			<Requirement>
+				<Stat>WR hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1.0</Value>
+				</Requirement>
+			<Requirement>
+				<Stat>VK Hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1.0</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Regicide</Name>
+		<DisplayName>ACHIEVE_REGICIDE</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>VK Hoods</Stat>
+				<Condition>at least</Condition>
+				<Value>1</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Scavanger</Name>
+		<DisplayName>ACHIEVE_SCAVANGER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Chop Shops Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Shopaholic</Name>
+		<DisplayName>ACHIEVE_SHOPAHOLIC</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Customization Items Owned</Stat>
+				<Condition>at least</Condition>
+				<Value>100</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Tourist</Name>
+		<DisplayName>ACHIEVE_TOURIST</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Miles by vehicle</Stat>
+				<Condition>at least</Condition>
+				<Value>500</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Tuner</Name>
+		<DisplayName>ACHIEVE_TUNER</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Races Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Vandal</Name>
+		<DisplayName>ACHIEVE_VANDAL</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Vandalisms Completed</Stat>
+				<Condition>at least</Condition>
+				<Value>3</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Stilwater PD Award</Name>
+		<DisplayName>ACHIEVE_STILWATER_PD</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Civilians killed by melee</Stat>
+				<Condition>at least</Condition>
+				<Value>50.0</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Bulletproof</Name>
+		<DisplayName>ACHIEVE_AUDIOPHILE</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Chain Gang</Name>
+		<DisplayName>ACHIEVE_AUDIOPHILE</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Clocktower Camper</Name>
+		<DisplayName>ACHIEVE_AUDIOPHILE</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Dominator</Name>
+		<DisplayName>ACHIEVE_DEMO_DEMON</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Errand Boy</Name>
+		<DisplayName>ACHIEVE_DEMO_DEMON</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Gangsta</Name>
+		<DisplayName>ACHIEVE_FLUFFER</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Group Discount</Name>
+		<DisplayName>ACHIEVE_GRIFTER</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Killa</Name>
+		<DisplayName>ACHIEVE_JUMP_THE_SHARK</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Kingpin</Name>
+		<DisplayName>ACHIEVE_JUMP_THE_SHARK</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Pimps Down</Name>
+		<DisplayName>ACHIEVE_PIMP</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Thug</Name>
+		<DisplayName>ACHIEVE_ADDICT</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Xzibitionist</Name>
+		<DisplayName>ACHIEVE_VANDAL</DisplayName>
+		<Type>multi player</Type>
+		<Requirements></Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Reclamationist</Name>
+		<DisplayName>ACHIEVE_RECLAMATIONIST</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Manually Awarded</Stat>
+				<Condition>at least</Condition>
+				<Value>1000000000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	<Achievement>
+		<Name>Cannonized</Name>
+		<DisplayName>ACHIEVE_CANNONIZED</DisplayName>
+		<Type>single player</Type>
+		<Requirements>
+			<Requirement>
+				<Stat>Manually Awarded</Stat>
+				<Condition>at least</Condition>
+				<Value>100000000</Value>
+				</Requirement>
+			</Requirements>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Achievement>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Achievement</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Description>Display name for the achievement.</Description>
+		<Reference>
+			<File>localized_exports\Stats_text.xtbl</File>
+			<Type>Stats_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Type</Name>
+		<Type>Selection</Type>
+		<Description>Type of achievement.</Description>
+		<Default>single player</Default>
+		<Choice>single player</Choice>
+		<Choice>multi player</Choice>
+		</Element>
+	<Element>
+		<Name>Requirements</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Requirement</Name>
+			<Type>Element</Type>
+			<Description>Required value for this stat, relative to the selected condition.</Description>
+			<Element>
+				<Name>Stat</Name>
+				<Type>Reference</Type>
+				<Description>Statistic required for this achievement.</Description>
+				<Reference>
+					<File>stats.xtbl</File>
+					<Type>Stat.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Condition</Name>
+				<Type>Selection</Type>
+				<Default>at least</Default>
+				<Choice>at least</Choice>
+				<Choice>at most</Choice>
+				</Element>
+			<Element>
+				<Name>Value</Name>
+				<Type>Float</Type>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

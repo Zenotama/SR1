@@ -1,0 +1,56 @@
+<root>
+<Table>
+	<Hitman>
+		<Name>lc_hitman01</Name>
+		<File>
+			<Filename>lc_hitman01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Hitman>
+	<Hitman>
+		<Name>vk_hitman01</Name>
+		<File>
+			<Filename>vk_hitman01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Hitman>
+	<Hitman>
+		<Name>wr_hitman01</Name>
+		<File>
+			<Filename>wr_hitman01.xtbl</Filename>
+			</File>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Hitman>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Hitman</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>File</Name>
+		<Type>Filename</Type>
+		<Display_Name>Table File</Display_Name>
+		<Extension>xtbl</Extension>
+		<StartingPath>data\levels\SaintsRow\activities</StartingPath>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

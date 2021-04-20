@@ -1,0 +1,205 @@
+<root>
+<Table>
+	<BORLevel>
+		<Name>BOR 1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<VictoryTrigger>mp_bor_01_$blinged victory000</VictoryTrigger>
+		<ChopShops>
+			<ChopTrigger>mp_bor_01_$multiplayer chop shop000</ChopTrigger>
+			<ChopTrigger>mp_bor_01_$multiplayer chop shop001</ChopTrigger>
+			</ChopShops>
+		<SafeZones>
+			<TeamOne>mp_bor_01_$garage interior000</TeamOne>
+			<TeamTwo>mp_bor_01_$garage interior001</TeamTwo>
+			</SafeZones>
+		<TeamCarRespawns>
+			<TeamOne>mp_bor_01_team_1_bor</TeamOne>
+			<TeamTwo>mp_bor_01_team_2_bor</TeamTwo>
+			</TeamCarRespawns>
+		<ExtraCarRespawns>
+			<CarEntry>
+				<Model>truck_2dr_pickup03</Model>
+				<Respawn>mp_bor_01_team_1_c1</Respawn>
+				<Team>Team One</Team>
+				</CarEntry>
+			<CarEntry>
+				<Model>car_2dr_muscle03</Model>
+				<Respawn>mp_bor_01_team_1_c2</Respawn>
+				<Team>Team One</Team>
+				</CarEntry>
+			<CarEntry>
+				<Model>van_4dr_01</Model>
+				<Respawn>mp_bor_01_team_1_c3</Respawn>
+				<Team>Team One</Team>
+				</CarEntry>
+			<CarEntry>
+				<Model>truck_2dr_pickup03</Model>
+				<Respawn>mp_bor_01_team_2_c1</Respawn>
+				<Team>Team Two</Team>
+				</CarEntry>
+			<CarEntry>
+				<Model>car_2dr_muscle03</Model>
+				<Respawn>mp_bor_01_team_2_c2</Respawn>
+				<Team>Team Two</Team>
+				</CarEntry>
+			<CarEntry>
+				<Model>van_4dr_01</Model>
+				<Respawn>mp_bor_01_team_2_c3</Respawn>
+				<Team>Team Two</Team>
+				</CarEntry>
+			</ExtraCarRespawns>
+		<ChainSpawns>
+			<SpawnNav>mp_bor_01_$n_cash1</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash2</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash3</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash4</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash5</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash6</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash7</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash8</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash9</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash10</SpawnNav>
+			<SpawnNav>mp_bor_01_$n_cash11</SpawnNav>
+			</ChainSpawns>
+		</BORLevel>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>BORLevel</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>BOR Level</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>TeamCarRespawns</Name>
+		<Type>Element</Type>
+		<Display_Name>Team Car Respawns</Display_Name>
+		<Element>
+			<Name>TeamOne</Name>
+			<Type>Reference</Type>
+			<Display_Name>Team One</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_respawns.xtbl</File>
+				<Type>Respawn.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>TeamTwo</Name>
+			<Type>Reference</Type>
+			<Display_Name>Team Two</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_respawns.xtbl</File>
+				<Type>Respawn.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ExtraCarRespawns</Name>
+		<Type>Grid</Type>
+		<Display_Name>Extra Car Respawns</Display_Name>
+		<Element>
+			<Name>CarEntry</Name>
+			<Type>Element</Type>
+			<Display_Name>Car Entry</Display_Name>
+			<Element>
+				<Name>Model</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>multiplayer_mode.xtbl</File>
+					<Type>MultiplayerMode.ModeSpecific.BlingedOutRide.ExtraCars.CarEntry.Model</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Respawn</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\levels\mp_bor_01\mp_bor_01_respawns.xtbl</File>
+					<Type>Respawn.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Team</Name>
+				<Type>Selection</Type>
+				<Default>No Team</Default>
+				<Choice>No Team</Choice>
+				<Choice>Team One</Choice>
+				<Choice>Team Two</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>ChopShops</Name>
+		<Type>Grid</Type>
+		<Display_Name>Chop Shops</Display_Name>
+		<Element>
+			<Name>ChopTrigger</Name>
+			<Type>Reference</Type>
+			<Display_Name>Shop Trigger</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>VictoryTrigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Victory Trigger</Display_Name>
+		<Reference>
+			<File>..\levels\mp_bor_01\mp_bor_01_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>SafeZones</Name>
+		<Type>Element</Type>
+		<Display_Name>Safe Zones</Display_Name>
+		<Element>
+			<Name>TeamOne</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>TeamTwo</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ChainSpawns</Name>
+		<Type>Grid</Type>
+		<Display_Name>Chain Spawns</Display_Name>
+		<Element>
+			<Name>SpawnNav</Name>
+			<Type>Reference</Type>
+			<Display_Name>Spawn Nav</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_01\mp_bor_01_navpoints.xtbl</File>
+				<Type>Navpoint.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

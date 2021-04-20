@@ -1,0 +1,75 @@
+<root>
+<Table>
+	<Voice_Distance_List>
+		<Name>Voice Distance List</Name>
+		<Voice_Distances>20.0<Voice_Distance>
+				<Distance_Name>Short</Distance_Name>
+				<Distance_Range>15</Distance_Range>
+				</Voice_Distance>
+			<Voice_Distance>
+				<Distance_Name>Normal</Distance_Name>
+				<Distance_Range>40.0</Distance_Range>
+				</Voice_Distance>
+			<Voice_Distance>
+				<Distance_Name>Long</Distance_Name>
+				<Distance_Range>65.0</Distance_Range>
+				</Voice_Distance>
+			<Voice_Distance>
+				<Distance_Name>Extreme</Distance_Name>
+				<Distance_Range>125.0</Distance_Range>
+				</Voice_Distance>
+			</Voice_Distances>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Voice_Distance_List>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Voice_Distance_List</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Voice Distance List</Display_Name>
+	<MaxCount>8</MaxCount>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>This is the name of the range that we'll refer to</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Voice_Distances</Name>
+		<Type>Grid</Type>
+		<Display_Name>Voice Distances</Display_Name>
+		<Default>20.0</Default>
+		<MaxCount>1</MaxCount>
+		<Element>
+			<Name>Voice_Distance</Name>
+			<Type>Element</Type>
+			<Display_Name>Voice Distance</Display_Name>
+			<Element>
+				<Name>Distance_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Name</Display_Name>
+				</Element>
+			<Element>
+				<Name>Distance_Range</Name>
+				<Type>Float</Type>
+				<Display_Name>Range</Display_Name>
+				<Default>0.0</Default>
+				</Element>
+			</Element>
+		<Max_Children>8</Max_Children>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<ReferencedBy>persona_situations.xtbl</ReferencedBy>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

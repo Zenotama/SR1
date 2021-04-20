@@ -1,0 +1,2431 @@
+<root>
+<Table>
+	<Category>
+		<Name>Default Spawn</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>1</DayChance>
+				<NightChance>1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Phase 5 Default</Name>
+		<Groups>
+			<Group>
+				<Name>Phase 5 Generic</Name>
+				<DayChance>0.7</DayChance>
+				<NightChance>0.7</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>Phase 5 Poor</Name>
+		<Groups>
+			<Group>
+				<Name>Phase 5 Low Income</Name>
+				<DayChance>0.6</DayChance>
+				<NightChance>0.6</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>Phase 5 Generic</Name>
+				<DayChance>0.3</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>Airport</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>4</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.35</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.25</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Meter Maid</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Limo</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bouncers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.4</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>0.5</CarDay>
+		<CarNight>0.25</CarNight>
+		<PedDay>0.5</PedDay>
+		<PedNight>0.25</PedNight>
+		</Category>
+	<Category>
+		<Name>Apartments</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.3</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Moving</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentAsian>40</PercentAsian>
+		<PercentWhite>50</PercentWhite>
+		<PercentBlack>5</PercentBlack>
+		<PercentHispanic>5</PercentHispanic>
+		</Category>
+	<Category>
+		<Name>Barrio</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Hos</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Pimps</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Armored Car</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mascot</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>0.7</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>0.7</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentHispanic>75</PercentHispanic>
+		</Category>
+	<Category>
+		<Name>Chinatown</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.25</DayChance>
+				<NightChance>0.25</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Armored Car</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mascot</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>0.8</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>0.8</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentAsian>75</PercentAsian>
+		</Category>
+	<Category>
+		<Name>Downtown</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.25</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Downtown</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Meter Maid</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Limo</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Cowboy</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bouncers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - News</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Armored Car</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Factory</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.3</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Construction</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Docks</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>6</DayCap>
+				<NightCap>5</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Dockworker</Name>
+				<DayChance>0.8</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>High End Retail</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - WRSuburb</Name>
+				<DayChance>0.25</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Meter Maid</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Limo</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Museum</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>5</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Downtown</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - WRSuburb</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.25</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Projects</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Pimps</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Hos</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>5</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Projects</Name>
+				<DayChance>0.25</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentBlack>75</PercentBlack>
+		</Category>
+	<Category>
+		<Name>Race Track</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Arena</Name>
+				<DayChance>0.3</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Limo</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - News</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mascot</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>4</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Meter Maid</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Sports Fan</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentAsian>50</PercentAsian>
+		<PercentHispanic>25</PercentHispanic>
+		</Category>
+	<Category>
+		<Name>Red Light</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.20</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Hos</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Pimps</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.25</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bouncers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentBlack>50</PercentBlack>
+		</Category>
+	<Category>
+		<Name>Saints Row</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Meter Maid</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.20</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>6</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Construction</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Moving</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Hos</Name>
+				<DayChance>0.00</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>0</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Pimps</Name>
+				<DayChance>0.00</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>0</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - ConstructionV</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Fat</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>3</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mascot</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		</Category>
+	<Category>
+		<Name>Train Yard</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>1</DayChance>
+				<NightChance>1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.05</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.0</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.4</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.4</PedNight>
+		</Category>
+	<Category>
+		<Name>Truck Yard</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Util Worker</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>4</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.2</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - TruckersFoot</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentAsian>30</PercentAsian>
+		<PercentWhite>30</PercentWhite>
+		</Category>
+	<Category>
+		<Name>VK Suburb</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Moving</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Old</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Downtown</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentBlack>40</PercentBlack>
+		<PercentWhite>30</PercentWhite>
+		</Category>
+	<Category>
+		<Name>WR Suburb</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - UPS</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Garbage</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Mail</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rich</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>3</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Moving</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Truckers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>2</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Joggers</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Rollerskater</Name>
+				<DayChance>0.1</DayChance>
+				<NightChance>0</NightChance>
+				<DayCap>2</DayCap>
+				<NightCap>0</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Ambulance</Name>
+				<DayChance>0.15</DayChance>
+				<NightChance>0.15</NightChance>
+				<DayCap>1</DayCap>
+				<NightCap>1</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - WRSuburb</Name>
+				<DayChance>0.2</DayChance>
+				<NightChance>0.3</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>4</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.5</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.5</PedNight>
+		<PercentAsian>35</PercentAsian>
+		<PercentWhite>35</PercentWhite>
+		</Category>
+	<Category>
+		<Name>Press Demo Default</Name>
+		<Groups>
+			<Group>
+				<Name>Phase 5 Generic</Name>
+				<DayChance>0.7</DayChance>
+				<NightChance>0.7</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>Phase 5 Low Income</Name>
+				<DayChance>0.075</DayChance>
+				<NightChance>0.075</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>Test Category</Name>
+		<Groups>
+			<Group>
+				<Name>Test Group</Name>
+				<DayChance>1</DayChance>
+				<NightChance>1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>E3 Level</Name>
+		<Groups>
+			<Group>
+				<Name>E3 Group - Civilian</Name>
+				<DayChance>0.57</DayChance>
+				<NightChance>0.57</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>E3 Group - Delivery</Name>
+				<DayChance>0.09</DayChance>
+				<NightChance>0.09</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>E3 Group - No Cars</Name>
+				<DayChance>0.08</DayChance>
+				<NightChance>0.08</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>E3 Group - High Income</Name>
+				<DayChance>0.09</DayChance>
+				<NightChance>0.09</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>Art Test Category</Name>
+		<Groups>
+			<Group>
+				<Name>Art Test Group</Name>
+				<DayChance>1</DayChance>
+				<NightChance>1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<NoName>
+			<Category>Entries</Category>
+			</NoName>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CarDay>1</CarDay>
+		<CarNight>0.2</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.2</PedNight>
+		</Category>
+	<Category>
+		<Name>VK08 Spawn</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.05</DayChance>
+				<NightChance>0.1</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.0</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<CarDay>1</CarDay>
+		<CarNight>1</CarNight>
+		<PedDay>0.5</PedDay>
+		<PedNight>0.5</PedNight>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>TSS01 Spawn</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Bums</Name>
+				<DayChance>0.0</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			<Group>
+				<Name>City - Civilian - Saint's Row</Name>
+				<DayChance>0.0</DayChance>
+				<NightChance>0.0</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<CarDay>0</CarDay>
+		<CarNight>0</CarNight>
+		<PedDay>0</PedDay>
+		<PedNight>0</PedNight>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	<Category>
+		<Name>Start Spawn</Name>
+		<Groups>
+			<Group>
+				<Name>City - Civilian - Start</Name>
+				<DayChance>1.0</DayChance>
+				<NightChance>1.0</NightChance>
+				<DayCap>8</DayCap>
+				<NightCap>8</NightCap>
+				</Group>
+			</Groups>
+		<CarDay>1</CarDay>
+		<CarNight>0.7</CarNight>
+		<PedDay>1</PedDay>
+		<PedNight>0.7</PedNight>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Category>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Category</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Category Name</Display_Name>
+		<Description>The unique name for the category.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Groups</Name>
+		<Type>List</Type>
+		<Description>A list of the groups (from spawn_info_groups.xtbl) that are included in this category.</Description>
+		<Element>
+			<Name>Group</Name>
+			<Type>Element</Type>
+			<Required>false</Required>
+			<Element>
+				<Name>Name</Name>
+				<Type>Reference</Type>
+				<Display_Name>Group Name</Display_Name>
+				<Description>The name of the group (from spawn_info_groups.xtbl).</Description>
+				<Reference>
+					<File>spawn_info_groups.xtbl</File>
+					<Type>Group.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>DayChance</Name>
+				<Type>Float</Type>
+				<Display_Name>Group Day Chance</Display_Name>
+				<Description>The chance that this group will be selected from the category during the day.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>NightChance</Name>
+				<Type>Float</Type>
+				<Display_Name>Group Night Chance</Display_Name>
+				<Description>The chance that this group will be selected from the category at night.</Description>
+				<Default>0.0</Default>
+				</Element>
+			<Element>
+				<Name>DayCap</Name>
+				<Type>Int</Type>
+				<Display_Name>Group Day Spawn Cap</Display_Name>
+				<Description>Cap the maximum number of instances of any given resource in this spawn group.</Description>
+				<Default>8</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>20</MaxValue>
+				</Element>
+			<Element>
+				<Name>NightCap</Name>
+				<Type>Int</Type>
+				<Display_Name>Group Night Spawn Cap</Display_Name>
+				<Description>Cap the maximum number of instances of any given resource in this spawn group.</Description>
+				<Default>8</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>20</MaxValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Group.Name</Element_Name>
+		</Element>
+	<Element>
+		<Name>CarDay</Name>
+		<Type>Float</Type>
+		<Display_Name>Car Density (Day)</Display_Name>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>CarNight</Name>
+		<Type>Float</Type>
+		<Display_Name>Car Density (Night)</Display_Name>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>PedDay</Name>
+		<Type>Float</Type>
+		<Display_Name>Ped Density (Day)</Display_Name>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>PedNight</Name>
+		<Type>Float</Type>
+		<Display_Name>Ped Density (Night)</Display_Name>
+		<Default>1</Default>
+		</Element>
+	<Element>
+		<Name>PercentAsian</Name>
+		<Type>Int</Type>
+		<Display_Name>Percent Asian</Display_Name>
+		<Description>Percent of the spawns in this area that will be asian.</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>100</MaxValue>
+		</Element>
+	<Element>
+		<Name>PercentBlack</Name>
+		<Type>Int</Type>
+		<Display_Name>Percent Black</Display_Name>
+		<Description>Percent of the spawns in this area that will be black.</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>100</MaxValue>
+		</Element>
+	<Element>
+		<Name>PercentHispanic</Name>
+		<Type>Int</Type>
+		<Display_Name>Percent Hispanic</Display_Name>
+		<Description>Percent of the spawns in this area that will be hispanic.</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>100</MaxValue>
+		</Element>
+	<Element>
+		<Name>PercentWhite</Name>
+		<Type>Int</Type>
+		<Display_Name>Percent White</Display_Name>
+		<Description>Percent of the spawns in this area that will be white.</Description>
+		<Required>false</Required>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>100</MaxValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

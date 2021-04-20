@@ -1,0 +1,151 @@
+<root>
+<Table>
+	<String>
+		<Name>Hitman</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>start car and gun</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_START CAR AND GUN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start gun</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_START GUN_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start car</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_START CAR_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start bonus</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_START BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>start</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_START_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>first kill</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_FIRST KILL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>first kill bonus</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_FIRST KILL BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>kill</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_KILL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>kill wrong</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_KILL WRONG_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>complete</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_COMPLETE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>complete bonus</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_COMPLETE BONUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_FAIL_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>comp notoriety</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_COMP NOTORIETY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>comp witness</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_COMP WITNESS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>warn notoriety</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_WARN NOTORIETY_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>warn witness</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_WARN WITNESS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>finish witness</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HITMAN_FINISH WITNESS_MSG</DisplayText>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCrime.xtbl</File>
+					<Type>ActCrime_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

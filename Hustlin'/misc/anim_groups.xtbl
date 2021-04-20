@@ -1,0 +1,191 @@
+<root>
+<Table>
+	<Anim_Group>
+		<Name>Pimp</Name>
+		<Parent>SawedOff</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Default</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Pistol</Name>
+		<Parent>Default</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Rifle</Name>
+		<Parent>Default</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Shot Gun</Name>
+		<Parent>AK</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>AK</Name>
+		<Parent>Rifle</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>SMG</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Parent>Pistol</Parent>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>RPG</Name>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		<Parent>Default</Parent>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Melee</Name>
+		<Parent>Default</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Sniper</Name>
+		<Parent>AK</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>SawedOff</Name>
+		<Parent>AK</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Riot</Name>
+		<Parent>Default</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Melee 1h</Name>
+		<Parent>Melee</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Melee 2h</Name>
+		<Parent>Melee</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Stun Gun</Name>
+		<Parent>Melee 1h</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Nightstick</Name>
+		<Parent>Melee 1h</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Knife</Name>
+		<Parent>Melee 1h</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Thrown</Name>
+		<Parent>Melee 1h</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Revolver</Name>
+		<Parent>Pistol</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Spas12</Name>
+		<Parent>Shot Gun</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>Mac10</Name>
+		<Parent>Pistol</Parent>
+		<_Editor>
+			<Category>Weapon</Category>
+			</_Editor>
+		</Anim_Group>
+	<Anim_Group>
+		<Name>PimpSlap</Name>
+		<Parent>Melee 1h</Parent>
+		<_Editor>
+			<Category>Melee</Category>
+			</_Editor>
+		</Anim_Group>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Anim_Group</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Group Name</Display_Name>
+		<Unique>true</Unique>
+		<Default>Group</Default>
+		</Element>
+	<Element>
+		<Name>Parent</Name>
+		<Type>Reference</Type>
+		<Display_Name>Parent Group</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>anim_groups.xtbl</File>
+			<Type>Anim_Group.Name</Type>
+			</Reference>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Melee</Name>
+		</Category>
+	<Category>
+		<Name>Weapon</Name>
+		</Category>
+	</EntryCategories>
+</root>

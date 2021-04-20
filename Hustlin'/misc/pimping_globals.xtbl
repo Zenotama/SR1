@@ -1,0 +1,280 @@
+<root>
+<Table>
+	<Pimping_Values>
+		<Name>Default</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ho_Types>
+			<Ho_Type>PD_W_F_HO-01</Ho_Type>
+			<Ho_Type>PD_W_F_HO-02</Ho_Type>
+			<Ho_Type>PD_X_F_BigHo-01</Ho_Type>
+			<Ho_Type>PD_X_F_HO-03</Ho_Type>
+			<Ho_Type>PD_X_F_SkinnyHo</Ho_Type>
+			</Ho_Types>
+		<Levels>
+			<Level>
+				<Min_Notoriety>1</Min_Notoriety>
+				<Max_Notoriety>1</Max_Notoriety>
+				<Max_Complications>0</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>2</Min_Notoriety>
+				<Max_Notoriety>2</Max_Notoriety>
+				<Max_Complications>0</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>2</Min_Notoriety>
+				<Max_Notoriety>2</Max_Notoriety>
+				<Max_Complications>1</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>2</Min_Notoriety>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Max_Complications>1</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>2</Min_Notoriety>
+				<Max_Notoriety>3</Max_Notoriety>
+				<Max_Complications>1</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>3</Min_Notoriety>
+				<Max_Notoriety>4</Max_Notoriety>
+				<Max_Complications>2</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>3</Min_Notoriety>
+				<Max_Notoriety>4</Max_Notoriety>
+				<Max_Complications>2</Max_Complications>
+				</Level>
+			<Level>
+				<Min_Notoriety>4</Min_Notoriety>
+				<Max_Notoriety>4</Max_Notoriety>
+				<Max_Complications>2</Max_Complications>
+				</Level>
+			</Levels>
+		<Complications>
+			<Drive_Away_Level>2</Drive_Away_Level>
+			<Drive_Away_Chance>0.5</Drive_Away_Chance>
+			<Freak_Out_Level>3</Freak_Out_Level>
+			<Freak_Out_Chance>0.2</Freak_Out_Chance>
+			<Pull_Over_Limo_Level>4</Pull_Over_Limo_Level>
+			<Pull_Over_Limo_Chance>0.5</Pull_Over_Limo_Chance>
+			<Arrest_Ho_Level>5</Arrest_Ho_Level>
+			<Arrest_Ho_Chance>0.5</Arrest_Ho_Chance>
+			<Cop_Driver_Types>
+				<Cop_Driver_Type>LW_X_M_Officer_01</Cop_Driver_Type>
+				<Cop_Driver_Type>LW_X_F_Officer</Cop_Driver_Type>
+				</Cop_Driver_Types>
+			<Cop_Vehicle_Type>car_4dr_police01</Cop_Vehicle_Type>
+			<Limo_Types>
+				<Limo_Type>sp_limo01</Limo_Type>
+				<Limo_Type>sp_limosuv01</Limo_Type>
+				</Limo_Types>
+			</Complications>
+		<Ho_Hitpoints>800</Ho_Hitpoints>
+		</Pimping_Values>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Pimping_Values</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Pimping Values</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Totally meaningless!</Description>
+		</Element>
+	<Element>
+		<Name>Ho_Types</Name>
+		<Type>List</Type>
+		<Display_Name>Ho Types</Display_Name>
+		<Description>Types of hos to spawn.</Description>
+		<Element>
+			<Name>Ho_Type</Name>
+			<Type>Reference</Type>
+			<Display_Name>Ho Type</Display_Name>
+			<Description>A ho type.</Description>
+			<Reference>
+				<File>character.xtbl</File>
+				<Type>Character.Name</Type>
+				</Reference>
+			</Element>
+		<Max_Children>5</Max_Children>
+		<Min_Children>2</Min_Children>
+		<Visible_Elements>5</Visible_Elements>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		<Element_Name>Ho_Type</Element_Name>
+		</Element>
+	<Element>
+		<Name>Levels</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Level</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Min_Notoriety</Name>
+				<Type>Int</Type>
+				<Display_Name>Min Notoriety</Display_Name>
+				<Description>Minimum notoriety level after killing a pimp.</Description>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>Max_Notoriety</Name>
+				<Type>Int</Type>
+				<Display_Name>Max Notoriety</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>5</MaxValue>
+				</Element>
+			<Element>
+				<Name>Max_Complications</Name>
+				<Type>Int</Type>
+				<Display_Name>Max Complications</Display_Name>
+				<Description>The maximum number of complications that can occur in a level.</Description>
+				<Default>0</Default>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Complications</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Drive_Away_Level</Name>
+			<Type>Int</Type>
+			<Display_Name>Ho Drive Away Level</Display_Name>
+			<Description>The level at which the complication may begin to appear.</Description>
+			<Default>0</Default>
+			<MinValue>1</MinValue>
+			<MaxValue>8</MaxValue>
+			</Element>
+		<Element>
+			<Name>Drive_Away_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Ho Drive Away Chance</Display_Name>
+			<Description>The chance the complication may begin to appear.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Freak_Out_Level</Name>
+			<Type>Int</Type>
+			<Display_Name>Ho Freak Out Level</Display_Name>
+			<Description>The level at which the complication may begin to appear.</Description>
+			<Default>0</Default>
+			<MinValue>1</MinValue>
+			<MaxValue>8</MaxValue>
+			</Element>
+		<Element>
+			<Name>Freak_Out_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Ho Freak Out Chance</Display_Name>
+			<Description>The chance the complication may begin to appear.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Pull_Over_Limo_Level</Name>
+			<Type>Int</Type>
+			<Display_Name>Pull Over Limo Level</Display_Name>
+			<Description>The level at which the complication may begin to appear.</Description>
+			<Default>0</Default>
+			<MinValue>1</MinValue>
+			<MaxValue>8</MaxValue>
+			</Element>
+		<Element>
+			<Name>Pull_Over_Limo_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Pull Over Limo Chance</Display_Name>
+			<Description>The chance the complication may begin to appear.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Arrest_Ho_Level</Name>
+			<Type>Int</Type>
+			<Display_Name>Arrest Ho Level</Display_Name>
+			<Description>The level at which the complication may begin to appear.</Description>
+			<Default>0</Default>
+			<MinValue>1</MinValue>
+			<MaxValue>8</MaxValue>
+			</Element>
+		<Element>
+			<Name>Arrest_Ho_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Arrest Ho Chance</Display_Name>
+			<Description>The chance the complication may begin to appear.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Cop_Driver_Types</Name>
+			<Type>Grid</Type>
+			<Display_Name>Cop Driver Types</Display_Name>
+			<Element>
+				<Name>Cop_Driver_Type</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>character.xtbl</File>
+					<Type>Character.Name</Type>
+					</Reference>
+				</Element>
+			<Max_Children>4</Max_Children>
+			<Min_Children>1</Min_Children>
+			<Num_Display_Rows>4</Num_Display_Rows>
+			</Element>
+		<Element>
+			<Name>Cop_Vehicle_Type</Name>
+			<Type>Reference</Type>
+			<Display_Name>Cop Vehicle Type</Display_Name>
+			<Reference>
+				<File>vehicles.xtbl</File>
+				<Type>Vehicle.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>Limo_Types</Name>
+			<Type>Grid</Type>
+			<Display_Name>Limo Types</Display_Name>
+			<Description>These are the limos recognized by the pull over limo complication.</Description>
+			<Element>
+				<Name>Limo_Type</Name>
+				<Type>Reference</Type>
+				<Display_Name>Limo Type</Display_Name>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Max_Children>2</Max_Children>
+			<Min_Children>1</Min_Children>
+			<Num_Display_Rows>2</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Ho_Hitpoints</Name>
+		<Type>Int</Type>
+		<Display_Name>Ho Hitpoints</Display_Name>
+		<Description>And override for how many hitpoints the hos will have.</Description>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

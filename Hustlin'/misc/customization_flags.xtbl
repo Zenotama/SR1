@@ -1,0 +1,395 @@
+<root>
+<Table>
+	<Flag>
+		<Name>BELT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>CHAIN LONG ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>CHAIN MEDIUM ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>CHAIN SHORT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANT HEIGHT EXTRA HIGH</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANT HEIGHT HIGH</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANT HEIGHT LOW</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>SUSPENDERS ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>OVERSHIRT TUCKED</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>OVERSHIRT UNTUCKED</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ROLLED LEFT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ROLLED RIGHT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ROLLED BOTH</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ZIPPED BOTH</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ZIPPED LEFT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS ZIPPED RIGHT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS UNZIPPED LEFT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PANTS UNZIPPED RIGHT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>UNDERSHIRT TUCKED</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>UNDERSHIRT UNTUCKED</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>HAT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>OVERSHIRT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>COAT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 1A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 1B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 1C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 2A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 3A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 2B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 3B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 2C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NECKLACE 3C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>DOORAG ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>BLING ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>COAT CLOSED</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>SHORT COAT ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 1A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 1B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 1C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 2A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 3A</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 2B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 3B</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 2C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>Chain 3C</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>LONG SLEEVE UNDERSHIRT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>HOOD UP</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>SUSPENDER SHIRT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>COAT TUCKED UNDERSHIT ONLY</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NO BELT PANTS</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>PIMP COAT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>BLING COLLIDER ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>HAIR COLLIDER ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>COAT COLLIDER ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>OVERSHIRT COLLIDER ACTIVE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>SCRUNCHED PONYTAIL</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>MEDALLION LOW</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>MEDALLION HIGH</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NON SCRUNCHED PONYTAIL</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>NO SUSPENDERS</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>ZOOT PANTS</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	<Flag>
+		<Name>MP PIMP HAT</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Flag>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Flag</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the flag.</Description>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

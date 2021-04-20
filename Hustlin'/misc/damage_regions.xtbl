@@ -1,0 +1,146 @@
+<root>
+<Table>
+	<Damage_Region>
+		<Name>Test1</Name>
+		<Human_Damage_Rate>20</Human_Damage_Rate>
+		<Vehicle_Damage_Rate>10</Vehicle_Damage_Rate>
+		<Effect_Delay>0.0</Effect_Delay>
+		<Set_Humans_On_Fire>true</Set_Humans_On_Fire>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Human_Damage_Rate_MP>20</Human_Damage_Rate_MP>
+		<Vehicle_Damage_Rate_MP>10</Vehicle_Damage_Rate_MP>
+		<Effect_Delay_MP>0.0</Effect_Delay_MP>
+		<Set_Humans_On_Fire_MP>true</Set_Humans_On_Fire_MP>
+		</Damage_Region>
+	<Damage_Region>
+		<Name>Test2</Name>
+		<Human_Damage_Rate>0</Human_Damage_Rate>
+		<Vehicle_Damage_Rate>0</Vehicle_Damage_Rate>
+		<Effect_Delay>2.0</Effect_Delay>
+		<Set_Humans_On_Fire>true</Set_Humans_On_Fire>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Human_Damage_Rate_MP>0.0</Human_Damage_Rate_MP>
+		<Vehicle_Damage_Rate_MP>0.0</Vehicle_Damage_Rate_MP>
+		<Effect_Delay_MP>2.0</Effect_Delay_MP>
+		<Set_Humans_On_Fire_MP>true</Set_Humans_On_Fire_MP>
+		</Damage_Region>
+	<Damage_Region>
+		<Name>Test3</Name>
+		<Human_Damage_Rate>50</Human_Damage_Rate>
+		<Vehicle_Damage_Rate>1000</Vehicle_Damage_Rate>
+		<Effect_Delay>3.0</Effect_Delay>
+		<Set_Humans_On_Fire>false</Set_Humans_On_Fire>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Human_Damage_Rate_MP>50</Human_Damage_Rate_MP>
+		<Vehicle_Damage_Rate_MP>1000</Vehicle_Damage_Rate_MP>
+		<Effect_Delay_MP>3,0</Effect_Delay_MP>
+		<Set_Humans_On_Fire_MP>false</Set_Humans_On_Fire_MP>
+		</Damage_Region>
+	<Damage_Region>
+		<Name>fire01</Name>
+		<Human_Damage_Rate>0</Human_Damage_Rate>
+		<Vehicle_Damage_Rate>0.0</Vehicle_Damage_Rate>
+		<Effect_Delay>0.0</Effect_Delay>
+		<Set_Humans_On_Fire>true</Set_Humans_On_Fire>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Human_Damage_Rate_MP>0.0</Human_Damage_Rate_MP>
+		<Vehicle_Damage_Rate_MP>0.0</Vehicle_Damage_Rate_MP>
+		<Effect_Delay_MP>0.0</Effect_Delay_MP>
+		<Set_Humans_On_Fire_MP>true</Set_Humans_On_Fire_MP>
+		</Damage_Region>
+	<Damage_Region>
+		<Name>fire_sp_only</Name>
+		<Human_Damage_Rate>0.0</Human_Damage_Rate>
+		<Vehicle_Damage_Rate>0.0</Vehicle_Damage_Rate>
+		<Effect_Delay>0.0</Effect_Delay>
+		<Set_Humans_On_Fire>true</Set_Humans_On_Fire>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Human_Damage_Rate_MP>0.0</Human_Damage_Rate_MP>
+		<Vehicle_Damage_Rate_MP>0.0</Vehicle_Damage_Rate_MP>
+		<Effect_Delay_MP>0.0</Effect_Delay_MP>
+		<Set_Humans_On_Fire_MP>false</Set_Humans_On_Fire_MP>
+		</Damage_Region>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Damage_Region</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Damage Region</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Human_Damage_Rate</Name>
+		<Type>Float</Type>
+		<Display_Name>Damage Rate (Humans)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Vehicle_Damage_Rate</Name>
+		<Type>Float</Type>
+		<Display_Name>Damage Rate (Vehicles)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Effect_Delay</Name>
+		<Type>Float</Type>
+		<Display_Name>Effect Delay (Seconds)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Set_Humans_On_Fire</Name>
+		<Type>Selection</Type>
+		<Display_Name>Set Humans On Fire</Display_Name>
+		<Default>false</Default>
+		<Choice>true</Choice>
+		<Choice>false</Choice>
+		</Element>
+	<Element>
+		<Name>Human_Damage_Rate_MP</Name>
+		<Type>Float</Type>
+		<Display_Name>MP Damage Rate (Humans)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Vehicle_Damage_Rate_MP</Name>
+		<Type>Float</Type>
+		<Display_Name>MP Damage Rate (Vehicles)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Effect_Delay_MP</Name>
+		<Type>Float</Type>
+		<Display_Name>MP Effect Delay (Seconds)</Display_Name>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Set_Humans_On_Fire_MP</Name>
+		<Type>Selection</Type>
+		<Display_Name>MP Set Humans On Fire</Display_Name>
+		<Default>false</Default>
+		<Choice>true</Choice>
+		<Choice>false</Choice>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

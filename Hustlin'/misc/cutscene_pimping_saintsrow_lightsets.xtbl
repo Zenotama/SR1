@@ -1,0 +1,923 @@
+<root>
+<Table>
+	<LightSet>
+		<Name>Midnight</Name>
+		<StartTime>0</StartTime>
+		<EndTime>559</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>Midnight BG Omni03</Name>
+				<Type>omni</Type>
+				<Color>0.499 0.514 0.777</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>31.8133 11.0946 -5.62828</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>10.0 20.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight BG Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.561 0.714 0.906</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>16.9116 11.9492 -22.7787</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 25.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.479 0.804 0.953</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.99925 9.14224 2.54067</Position>
+				<Orientation>-0.148 -0.0598 -0.1778 0.9711</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.349066 0.523599</Hotspot>
+				<Attenuation>17.625 22.725</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.961 0.985</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.6151 3.43882 1.55411</Position>
+				<Orientation>-0.4888 0.2726 -0.214 0.8007</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.143117 0.213803</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.977 0.463 0.302</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.2948 3.11075 -3.62734</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.953 0.467 0.832</Color>
+				<Multiplier>0.8</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>4.5795 2.39795 -5.12328</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.65 4.025</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.585 0.957 0.565</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.37753 3.13228 -2.03317</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Player01</Name>
+				<Type>omni</Type>
+				<Color>0.993 0.84 0.793</Color>
+				<Multiplier>0.1</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.413564 2.77481 -1.3654</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.0 2.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Street light01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.863 0.651 0.651</Color>
+				<Multiplier>0.5</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>30.2427 17.1967 -1.77457</Position>
+				<Orientation>0.006 -0.0928 0.0033 0.9957</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.436332 0.590794</Hotspot>
+				<Attenuation>17.625 22.725</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight PC Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.753 0.71</Color>
+				<Multiplier>1.07</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.984261 1.77001 -0.0917889</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Will Key Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.844 0.797</Color>
+				<Multiplier>1.09</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.30322 1.77001 -0.525735</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Midnight Fugly Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.612 0.526</Color>
+				<Multiplier>1.09</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.688177 1.80775 -2.57377</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>96</R>
+					<G>96</G>
+					<B>96</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dawn2</Name>
+		<StartTime>600</StartTime>
+		<EndTime>2158</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>Dawn BB FreeSpot07</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.93 0.659 0.659</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.99925 9.14224 2.94973</Position>
+				<Orientation>-0.148 -0.0598 -0.1778 0.9711</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.349066 0.523599</Hotspot>
+				<Attenuation>17.0 20.625</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB FreeSpot08</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.51183 4.19562 -2.81445</Position>
+				<Orientation>0.0199 -0.0658 0.5538 0.8299</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.154462 0.178896</Hotspot>
+				<Attenuation>9.67501 12.7</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB FreeSpot09</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.961 0.985</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.6151 3.43882 1.55411</Position>
+				<Orientation>-0.4888 0.2726 -0.214 0.8007</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.143117 0.213803</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB Omni04</Name>
+				<Type>omni</Type>
+				<Color>0.977 0.463 0.302</Color>
+				<Multiplier>0.62</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.51612 3.11075 -3.58642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 3.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB Omni05</Name>
+				<Type>omni</Type>
+				<Color>0.585 0.957 0.565</Color>
+				<Multiplier>0.73</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.37753 3.13228 -2.03317</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 3.3</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn Fugly Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.612 0.526</Color>
+				<Multiplier>1.09</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.688177 1.80775 -2.57377</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>CS_joint #PLAYER# AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>joint01 Player01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn PC Key Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.753 0.71</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.984261 1.77001 -0.0917889</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn Will Key Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.844 0.797</Color>
+				<Multiplier>0.77</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.30322 1.77001 -0.525735</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB Omni06</Name>
+				<Type>omni</Type>
+				<Color>0.989 0.765 0.699</Color>
+				<Multiplier>0.48</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.55963 3.11075 -3.58642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 3.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dawn BB Omni07</Name>
+				<Type>omni</Type>
+				<Color>0.844 0.836 0.75</Color>
+				<Multiplier>0.62</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.205182 3.11075 -1.28485</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.775 5.45</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Level_Ambient>
+					<R>81</R>
+					<G>81</G>
+					<B>81</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>128</R>
+					<G>128</G>
+					<B>128</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	<LightSet>
+		<Name>Dusk5</Name>
+		<StartTime>2159</StartTime>
+		<EndTime>2359</EndTime>
+		<Lights>
+			<LightProperties>
+				<Name>Dusk BB FreeSpot01</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.93 0.659 0.659</Color>
+				<Multiplier>0.3</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.99925 9.14224 2.94973</Position>
+				<Orientation>-0.148 -0.0598 -0.1778 0.9711</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.349066 0.523599</Hotspot>
+				<Attenuation>17.0 20.625</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB FreeSpot11</Name>
+				<Type>circular spotlight</Type>
+				<Color>1.0 1.0 1.0</Color>
+				<Multiplier>0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>7.51183 4.19562 -2.81445</Position>
+				<Orientation>0.0199 -0.0658 0.5538 0.8299</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.154462 0.178896</Hotspot>
+				<Attenuation>9.67501 12.7</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB FreeSpot12</Name>
+				<Type>circular spotlight</Type>
+				<Color>0.883 0.961 0.985</Color>
+				<Multiplier>0.6</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-3.6151 3.43882 1.55411</Position>
+				<Orientation>-0.4888 0.2726 -0.214 0.8007</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0.143117 0.213803</Hotspot>
+				<Attenuation>5.0 10.0</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB Omni08</Name>
+				<Type>omni</Type>
+				<Color>0.977 0.463 0.302</Color>
+				<Multiplier>0.62</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>1.51612 3.11075 -3.58642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 3.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.585 0.957 0.565</Color>
+				<Multiplier>0.73</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.37753 3.13228 -2.03317</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.6 3.3</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.989 0.765 0.699</Color>
+				<Multiplier>0.48</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>5.55963 3.11075 -3.58642</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.3 3.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk BB Omni11</Name>
+				<Type>omni</Type>
+				<Color>0.844 0.836 0.75</Color>
+				<Multiplier>0.62</Multiplier>
+				<LightCharacter>0</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>1</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.205182 3.11075 -1.28485</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.775 5.45</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List></Exclude_List>
+				<Exclude_List_Original_Names></Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk Fugly Key Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.883 0.612 0.526</Color>
+				<Multiplier>1.09</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.688177 1.80775 -2.57377</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>CS_joint #PLAYER# AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>joint01 Player01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk PC Key Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.777 0.753 0.71</Color>
+				<Multiplier>0.46</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-0.984261 1.77001 -0.0917889</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk Will Key Omni09</Name>
+				<Type>omni</Type>
+				<Color>0.863 0.844 0.797</Color>
+				<Multiplier>0.77</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>-1.30322 1.77001 -0.525735</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk Will Fill Omni10</Name>
+				<Type>omni</Type>
+				<Color>0.683 0.797 0.651</Color>
+				<Multiplier>2.0</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>0.359911 1.77001 -2.87267</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>pd_x_f_bigho-01 pd_x_f_bigho-01 CS_joint #PLAYER#</Exclude_List>
+				<Exclude_List_Original_Names>fugly01 fugly01 joint01 Player01</Exclude_List_Original_Names>
+				</LightProperties>
+			<LightProperties>
+				<Name>Dusk Fugly Key Omni10</Name>
+				<Type>omni</Type>
+				<Color>1.0 0.624 0.624</Color>
+				<Multiplier>1.04</Multiplier>
+				<LightCharacter>1</LightCharacter>
+				<ShadowCharacter>0</ShadowCharacter>
+				<LightLevel>0</LightLevel>
+				<ShadowLevel>0</ShadowLevel>
+				<Position>2.63273 1.84114 -0.902072</Position>
+				<Orientation>0.0 0.0 0.0 1.0</Orientation>
+				<Indoor>0</Indoor>
+				<Outdoor>1</Outdoor>
+				<Hotspot>0 0</Hotspot>
+				<Attenuation>1.2 2.5</Attenuation>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Exclude_List>CS_joint #PLAYER# AC_B_M_Pimping-Will</Exclude_List>
+				<Exclude_List_Original_Names>joint01 Player01 Will01</Exclude_List_Original_Names>
+				</LightProperties>
+			</Lights>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Ambients_Grid>
+			<Ambient_Value>
+				<Slate_Name>slate_pimping_saintsrow</Slate_Name>
+				<Level_Ambient>
+					<R>70</R>
+					<G>70</G>
+					<B>70</B>
+					</Level_Ambient>
+				<Character_Ambient>
+					<R>112</R>
+					<G>112</G>
+					<B>112</B>
+				</Character_Ambient>
+				</Ambient_Value>
+			</Ambients_Grid>
+		</LightSet>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>LightSet</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Light Set</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Light Set Name</Display_Name>
+		</Element>
+	<Element>
+		<Name>StartTime</Name>
+		<Type>Int</Type>
+		<Display_Name>Start Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>EndTime</Name>
+		<Type>Int</Type>
+		<Display_Name>End Time</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Lights</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>LightProperties</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Default>Light</Default>
+				</Element>
+			<Element>
+				<Name>Type</Name>
+				<Type>String</Type>
+				<Default>Omni</Default>
+				</Element>
+			<Element>
+				<Name>Color</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Multiplier</Name>
+				<Type>Float</Type>
+				<Default>1</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>2</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowCharacter</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Character</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>LightLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Light Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>ShadowLevel</Name>
+				<Type>Int</Type>
+				<Display_Name>Shadow Level</Display_Name>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Position</Name>
+				<Type>String</Type>
+				<Default>0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Orientation</Name>
+				<Type>String</Type>
+				<Default>0 0 0 0</Default>
+				</Element>
+			<Element>
+				<Name>Indoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Outdoor</Name>
+				<Type>Int</Type>
+				<Default>0</Default>
+				<MinValue>0</MinValue>
+				<MaxValue>1</MaxValue>
+				</Element>
+			<Element>
+				<Name>Hotspot</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Attenuation</Name>
+				<Type>String</Type>
+				<Default>0 0</Default>
+				</Element>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				<Display_Name>Slate Name</Display_Name>
+				<Description>Name of the associated slate.</Description>
+				</Element>
+			<Element>
+				<Name>Exclude_List</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List</Display_Name>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Exclude_List_Original_Names</Name>
+				<Type>String</Type>
+				<Display_Name>Exclude List Original Names</Display_Name>
+				<Required>false</Required>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Ambients_Grid</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Ambient_Value</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Slate_Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>Level_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			<Element>
+				<Name>Character_Ambient</Name>
+				<Type>Color</Type>
+				<R>
+					<Name>R</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</R>
+				<G>
+					<Name>G</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</G>
+				<B>
+					<Name>B</Name>
+					<Type>Int</Type>
+					<Default>255</Default>
+					</B>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

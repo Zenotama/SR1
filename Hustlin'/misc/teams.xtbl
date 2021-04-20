@@ -1,0 +1,77 @@
+<root>
+<Table>
+	<Team>
+		<Name>Playas</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Vice Lords</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Los Carnales</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Rollerz</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Dragonz</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Kings</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Police</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Civilian</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	<Team>
+		<Name>Neutral Gang</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Team>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Team</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the team.</Description>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

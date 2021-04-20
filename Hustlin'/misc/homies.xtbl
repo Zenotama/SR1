@@ -1,0 +1,229 @@
+<root>
+<Table>
+	<Homie>
+		<Name>chicken_ned</Name>
+		<Display_Name>Chicken Ned</Display_Name>
+		<Character>PD_W_M_Mascot-01</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_compact01</Vehicle>
+				<Weight>1</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	<Homie>
+		<Name>laura</Name>
+		<Display_Name>Laura</Display_Name>
+		<Character>AC_W_F_Drugs-laura</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>minivan_4dr_02</Vehicle>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	<Homie>
+		<Name>wong</Name>
+		<Display_Name>Mr. Wong</Display_Name>
+		<Character>AC_A_M_Hitman-Wong</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_4dr_exoticluxury01</Vehicle>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	<Homie>
+		<Name>samantha</Name>
+		<Display_Name>Samantha</Display_Name>
+		<Character>AC_W_F_Samantha</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_luxury02</Vehicle>
+				<Weight>100</Weight>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	<Homie>
+		<Name>wheel_man</Name>
+		<Display_Name>Wheel Woman</Display_Name>
+		<Character>TS_X_F_Thug-01</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_4dr_standard05</Vehicle>
+				<Weight>1</Weight>
+				<Vehicle_Variant>Gang_3SS_lvl1</Vehicle_Variant>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>wheelmanvar</VariantName>
+		</Homie>
+	<Homie>
+		<Name>will</Name>
+		<Display_Name>Will</Display_Name>
+		<Character>AC_B_M_Pimping-Will</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>car_2dr_muscle01</Vehicle>
+				<Weight>100</Weight>
+				<Vehicle_Variant>Gang_3SS_lvl3</Vehicle_Variant>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	<Homie>
+		<Name>zlin</Name>
+		<Display_Name>Zombie Lin</Display_Name>
+		<Character>TS_A_F_zombieLin</Character>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Vehicles>
+			<Vehicle_Entry>
+				<Vehicle>sp_hearse01</Vehicle>
+				<Weight>100</Weight>
+				<Vehicle_Variant>Lin</Vehicle_Variant>
+				</Vehicle_Entry>
+			</Vehicles>
+		<Available_Foley>group - recruit confirmed attempt</Available_Foley>
+		<Not_Available_Foley>group - recruit denied attempt phone</Not_Available_Foley>
+		<VariantName>&lt;none&gt;</VariantName>
+		</Homie>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Homie</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Unique name for this homie.</Description>
+		</Element>
+	<Element>
+		<Name>Display_Name</Name>
+		<Type>String</Type>
+		<Display_Name>Display Name</Display_Name>
+		<Description>Display name for the homie.</Description>
+		</Element>
+	<Element>
+		<Name>Character</Name>
+		<Type>Reference</Type>
+		<Description>Reference to the entry in character.xtbl.</Description>
+		<Reference>
+			<File>character.xtbl</File>
+			<Type>Character.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>VariantName</Name>
+		<Type>String</Type>
+		<Display_Name>Variant Name</Display_Name>
+		<Default>&lt;none&gt;</Default>
+		<MaxLength>16</MaxLength>
+		</Element>
+	<Element>
+		<Name>Vehicles</Name>
+		<Type>Grid</Type>
+		<Description>Vehicles that the homie can drive up in.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>Vehicle_Entry</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Vehicle</Name>
+				<Type>Reference</Type>
+				<Description>Vehicle that the homie can arrive in.</Description>
+				<Reference>
+					<File>vehicles.xtbl</File>
+					<Type>Vehicle.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Vehicle_Variant</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>Weight</Name>
+				<Type>Int</Type>
+				<Description>Weight for this vehicle.</Description>
+				<Default>1</Default>
+				<MinValue>1</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Available_Foley</Name>
+		<Type>Reference</Type>
+		<Display_Name>Available Foley</Display_Name>
+		<Description>Voice line to play when the homie is available to drive up to the player, as the result of a cell phone call.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Not_Available_Foley</Name>
+		<Type>Reference</Type>
+		<Display_Name>Not Available Foley</Display_Name>
+		<Description>Voice line to play when the homie is NOT available to drive up to the player, as the result of a cell phone call.</Description>
+		<Required>false</Required>
+		<Reference>
+			<File>persona_situations.xtbl</File>
+			<Type>Situation_List.Situations.Situation.Type</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>E3_Enabled</Name>
+		<Type>Selection</Type>
+		<Display_Name>E3 Enabled</Display_Name>
+		<Description>This homie starts out in hustlin' mode for the E3 build.</Description>
+		<Required>false</Required>
+		<Default>no</Default>
+		<Choice>yes</Choice>
+		<Choice>no</Choice>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,2047 @@
+<root>
+<Table>
+	<MeleeMove>
+		<Name>punch1L</Name>
+		<AttackAnim>punch L 1</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.95</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.214</X>
+			<Y>.226</Y>
+			<Z>.949</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>kick2</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch2L</Name>
+		<AttackAnim>punch L 2</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.843</X>
+			<Y>.186</Y>
+			<Z>.503</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			<MeleeMove>finish4R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			<MeleeMove>finish3L</MeleeMove>
+			<MeleeMove>finish4L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch1R</Name>
+		<AttackAnim>punch R 1</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.1</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.214</X>
+			<Y>.079</Y>
+			<Z>.973</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>kick2</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch2R</Name>
+		<AttackAnim>punch R 2</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.719</X>
+			<Y>.229</Y>
+			<Z>.655</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<NextPrimary>
+			<MeleeMove>finish1R</MeleeMove>
+			<MeleeMove>finish2R</MeleeMove>
+			<MeleeMove>finish4R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>finish1L</MeleeMove>
+			<MeleeMove>finish2L</MeleeMove>
+			<MeleeMove>finish3L</MeleeMove>
+			<MeleeMove>finish4L</MeleeMove>
+			</NextSecondary>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>40</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish1L</Name>
+		<AttackAnim>finish L 1</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.0</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.69</X>
+			<Y>-.489</Y>
+			<Z>.533</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish2L</Name>
+		<AttackAnim>finish L 2</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.493</X>
+			<Y>-.378</Y>
+			<Z>.782</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish3L</Name>
+		<AttackAnim>finish L 3</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>.307</X>
+			<Y>.878</Y>
+			<Z>.364</Z>
+			</ImpactDir>
+		<ImpactForce>45</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish4L</Name>
+		<AttackAnim>finish L 4</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.732</X>
+			<Y>.318</Y>
+			<Z>.601</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish4R</Name>
+		<AttackAnim>finish R 4</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.0</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.196</X>
+			<Y>.833</Y>
+			<Z>.517</Z>
+			</ImpactDir>
+		<ImpactForce>55</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish1R</Name>
+		<AttackAnim>finish R 1</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.11</X>
+			<Y>.979</Y>
+			<Z>.166</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish2R</Name>
+		<AttackAnim>finish R 2</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.452</X>
+			<Y>-.364</Y>
+			<Z>.813</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>finish3R</Name>
+		<AttackAnim>finish R 3</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>-.254</X>
+			<Y>.878</Y>
+			<Z>.402</Z>
+			</ImpactDir>
+		<ImpactForce>60</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch_move_R</Name>
+		<AttackAnim>punch move r</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.3</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>80</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>punch_move_L</Name>
+		<AttackAnim>punch move l</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.3</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>80</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_short</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>.85</HitRange>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_med</Name>
+		<AttackAnim>prone kick med</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.01</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_kick_long</Name>
+		<AttackAnim>prone kick long</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>55</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_short</Name>
+		<AttackAnim>prone stomp short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.66</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_med</Name>
+		<AttackAnim>prone stomp med</AttackAnim>
+		<AttackLimb>Left foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.01</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>prone_stomp_long</Name>
+		<AttackAnim>prone stomp long</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.01</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1000</NPCDamage>
+			<PlayerDamage>1000</PlayerDamage>
+			<OnlineDamage>1000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>Knife Slash</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1000</NPCDamage>
+			<PlayerDamage>1000</PlayerDamage>
+			<OnlineDamage>1000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>Knife Stab</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1000</NPCDamage>
+			<PlayerDamage>1000</PlayerDamage>
+			<OnlineDamage>1000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>Knife Slash</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_prone_kick</Name>
+		<AttackAnim>prone kick</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>1hm_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>0.8</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1000</NPCDamage>
+			<PlayerDamage>1000</PlayerDamage>
+			<OnlineDamage>1000</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>Knife Stab</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>50</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>60</NPCDamage>
+			<PlayerDamage>90</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>stungun_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1</NPCDamage>
+			<PlayerDamage>1</PlayerDamage>
+			<OnlineDamage>1</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>stungun_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1</NPCDamage>
+			<PlayerDamage>1</PlayerDamage>
+			<OnlineDamage>1</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>stungun_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1</NPCDamage>
+			<PlayerDamage>1</PlayerDamage>
+			<OnlineDamage>1</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>stungun_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>0</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>1</NPCDamage>
+			<PlayerDamage>1</PlayerDamage>
+			<OnlineDamage>1</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>-1.0</X>
+			<Y>-0.25</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>-1.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.225</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_prone_kick</Name>
+		<AttackAnim>prone kick</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>2hm_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>0.8</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>100</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_stand</Name>
+		<AttackAnim>melee</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>50</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_move</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>50</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pistol_prone_kick</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.8</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_stand</Name>
+		<AttackAnim>melee</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>50</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_move</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>50</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>smg_prone_kick</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_stand</Name>
+		<AttackAnim>melee</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_move</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>ak_prone_kick</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_stand</Name>
+		<AttackAnim>melee</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_move</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.2</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>sg_prone_kick</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_stand</Name>
+		<AttackAnim>melee</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_move</Name>
+		<AttackAnim>melee moving</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>always knock down</Flag>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>100</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>rpg_prone_kick</Name>
+		<AttackAnim>prone kick short</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right foot</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>doorkick1</Name>
+		<AttackAnim>kick door</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>DOOR KICK</ImpactFoleyWorld>
+		<HitRange>0.9</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>20.0</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<Flags>
+			<Flag>door attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>DOOR KICK</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_stand</Name>
+		<AttackAnim>unique Pimp Slap MP</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFoleyFlesh>IMP_BITCHSLAP</ImpactFoleyFlesh>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRange>1</HitRange>
+		<HitRadius>0.3</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>500</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>.577</X>
+			<Y>.577</Y>
+			<Z>.577</Z>
+			</ImpactDir>
+		<ImpactForce>200</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>pimp_slap_move</Name>
+		<AttackAnim>unique Pimp SlapMove MP</AttackAnim>
+		<AttackLimb>Right hand</AttackLimb>
+		<ImpactFoleyFlesh>IMP_BITCHSLAP</ImpactFoleyFlesh>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<ImpactFX>melee_hit</ImpactFX>
+		<HitRange>1</HitRange>
+		<HitRadius>0.3</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>20.0</NPCDamage>
+			<PlayerDamage>20.0</PlayerDamage>
+			<OnlineDamage>500</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>.577</X>
+			<Y>.577</Y>
+			<Z>.577</Z>
+			</ImpactDir>
+		<ImpactForce>200</ImpactForce>
+		<Flags>
+			<Flag>moving attack</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>nstick_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<ImpactFoleyWorld>IMP_WOOD_HIT</ImpactFoleyWorld>
+		<HitRange>0.8</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_WOOD_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_a</Name>
+		<AttackAnim>attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>30</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_b</Name>
+		<AttackAnim>attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_move_a</Name>
+		<AttackAnim>move attack a</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_move_b</Name>
+		<AttackAnim>move attack b</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.5</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>moving attack</Flag>
+			<Flag>knock down from behind (NPC only)</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>100</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tireiron_prone_attack</Name>
+		<AttackAnim>prone attack</AttackAnim>
+		<ImpactFoleyWorld>IMP_METAL_HIT</ImpactFoleyWorld>
+		<HitRange>1.0</HitRange>
+		<HitRadius>0.25</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>10</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>prone attack</Flag>
+			</Flags>
+		<AttackLimb>Right hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>75</NPCDamage>
+			<PlayerDamage>115</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_METAL_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>kick1</Name>
+		<AttackAnim>kick</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.01</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>kick2</MeleeMove>
+			</NextSpecial>
+		<NextPrimary>
+			<MeleeMove>punch2R</MeleeMove>
+			</NextPrimary>
+		<NextSecondary>
+			<MeleeMove>punch2L</MeleeMove>
+			</NextSecondary>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>tackle</Name>
+		<AttackAnim>tackle</AttackAnim>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.3</HitRange>
+		<HitRadius>0.15</HitRadius>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>35</ImpactForce>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Flags>
+			<Flag>knock down from behind (NPC only)</Flag>
+			<Flag>moving attack</Flag>
+			<Flag>always knock down</Flag>
+			</Flags>
+		<AttackLimb>Left hand</AttackLimb>
+		<DefaultDamage>
+			<NPCDamage>150</NPCDamage>
+			<PlayerDamage>80</PlayerDamage>
+			<OnlineDamage>60</OnlineDamage>
+			</DefaultDamage>
+		<ImpactFX>melee_hit</ImpactFX>
+		<ImpactFoleyFlesh>IMP_FLESH_HIT_FLESH</ImpactFoleyFlesh>
+		</MeleeMove>
+	<MeleeMove>
+		<Name>kick2</Name>
+		<AttackAnim>kick</AttackAnim>
+		<AttackLimb>Right foot</AttackLimb>
+		<ImpactFoleyWorld>IMP_FLESH_HIT</ImpactFoleyWorld>
+		<HitRange>1.01</HitRange>
+		<HitRadius>0.2</HitRadius>
+		<DefaultDamage>
+			<NPCDamage>50</NPCDamage>
+			<PlayerDamage>75</PlayerDamage>
+			<OnlineDamage>75</OnlineDamage>
+			</DefaultDamage>
+		<ImpactDir>
+			<X>0.0</X>
+			<Y>0.0</Y>
+			<Z>1.0</Z>
+			</ImpactDir>
+		<ImpactForce>40</ImpactForce>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ImpactFoleyFlesh>IMP_FLESH_KICK_FLESH</ImpactFoleyFlesh>
+		<NextSpecial>
+			<MeleeMove>finish3R</MeleeMove>
+			</NextSpecial>
+		</MeleeMove>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>MeleeMove</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>AttackAnim</Name>
+		<Type>Reference</Type>
+		<Display_Name>Attack Animation</Display_Name>
+		<Description>The string name of the attack animation, ie "pistol prone kick"</Description>
+		<Reference>
+			<File>anim_actions.xtbl</File>
+			<Type>Action.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>AttackLimb</Name>
+		<Type>Selection</Type>
+		<Display_Name>Attacking Limb</Display_Name>
+		<Default>Right hand</Default>
+		<Choice>Right hand</Choice>
+		<Choice>Left hand</Choice>
+		<Choice>Right foot</Choice>
+		<Choice>Left foot</Choice>
+		</Element>
+	<Element>
+		<Name>ImpactFoleyFlesh</Name>
+		<Type>Reference</Type>
+		<Display_Name>Impact Foley - Human</Display_Name>
+		<Description>Foley to play when this attack connects with a human.</Description>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>ImpactFoleyWorld</Name>
+		<Type>Reference</Type>
+		<Display_Name>Impact Foley - World</Display_Name>
+		<Description>Foley to play when this attack connects with the world.</Description>
+		<Reference>
+			<File>foley.xtbl</File>
+			<Type>Foley.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>ImpactFX</Name>
+		<Type>Reference</Type>
+		<Display_Name>Impact Effect</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>effects.xtbl</File>
+			<Type>Effect.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>HitRange</Name>
+		<Type>String</Type>
+		<Display_Name>Hit Range (meters)</Display_Name>
+		<Description>Distance from player to cast the hit detection sphere.</Description>
+		<Default>0.8</Default>
+		</Element>
+	<Element>
+		<Name>HitRadius</Name>
+		<Type>Float</Type>
+		<Display_Name>Hit Radius (meters)</Display_Name>
+		<Description>Radius of the hit detection spherecast.</Description>
+		<Default>0.15</Default>
+		</Element>
+	<Element>
+		<Name>DefaultDamage</Name>
+		<Type>Element</Type>
+		<Display_Name>Default Damage</Display_Name>
+		<Description>Default damage.  May be overridden per-character.</Description>
+		<Element>
+			<Name>NPCDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC</Display_Name>
+			<Description>Default damage if attacker is an NPC.</Description>
+			<Default>20.0</Default>
+			</Element>
+		<Element>
+			<Name>PlayerDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>Player</Display_Name>
+			<Description>Default damage if attacker is a player.</Description>
+			<Default>20.0</Default>
+			</Element>
+		<Element>
+			<Name>OnlineDamage</Name>
+			<Type>Float</Type>
+			<Display_Name>Online</Display_Name>
+			<Description>Default damage if attacker is an online player.</Description>
+			<Default>20.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ImpactDir</Name>
+		<Type>Vector</Type>
+		<Display_Name>Impact Direction</Display_Name>
+		<Description>Direction of impact force, used for initiating ragdolls.  In the local space of the attacker.  Need not be normalized.</Description>
+		<X>
+			<Name>X</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</X>
+		<Y>
+			<Name>Y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Y>
+		<Z>
+			<Name>Z</Name>
+			<Type>Float</Type>
+			<Default>1.0</Default>
+			</Z>
+		</Element>
+	<Element>
+		<Name>ImpactForce</Name>
+		<Type>Float</Type>
+		<Display_Name>Impact Force</Display_Name>
+		<Description>How much force to apply when beginning ragdoll in response to this attack.</Description>
+		<Default>10</Default>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>always knock down</Flag>
+		<Flag>knock down from behind (NPC only)</Flag>
+		<Flag>disable character collide</Flag>
+		<Flag>prone attack</Flag>
+		<Flag>door attack</Flag>
+		<Flag>moving attack</Flag>
+		</Element>
+	<Element>
+		<Name>NextPrimary</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Primary</Display_Name>
+		<Description>When PRIMARY ATTACK is pressed, one of these moves will be chosen at random.</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>NextSecondary</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Secondary</Display_Name>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>NextSpecial</Name>
+		<Type>Grid</Type>
+		<Display_Name>Next Special</Display_Name>
+		<Description>Next kick attack</Description>
+		<Required>false</Required>
+		<Element>
+			<Name>MeleeMove</Name>
+			<Type>Reference</Type>
+			<Description>When SPECIAL ATTACK is pressed, one of these moves will be chosen at random.</Description>
+			<Reference>
+				<File>melee.xtbl</File>
+				<Type>MeleeMove.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

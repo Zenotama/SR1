@@ -1,0 +1,1016 @@
+<root>
+<Table>
+	<MultiplayerLevel>
+		<Name>Industrial</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bac_02</Map>
+		<CTSFile>mp_bac_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_INDUSTRIAL</DisplayName>
+		<PegFile>mp_bac_02</PegFile>
+		<ID>301</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>7</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Industrial</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bac_02</Map>
+		<CTSFile>mp_bac_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_INDUSTRIAL</DisplayName>
+		<PegFile>mp_bac_02</PegFile>
+		<ID>302</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>7</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Industrial</Name>
+		<Mode>Big Ass Chains</Mode>
+		<Map>mp_bac_02</Map>
+		<CTSFile>mp_bac_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_INDUSTRIAL</DisplayName>
+		<PegFile>mp_bac_02</PegFile>
+		<ID>303</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>7</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Industrial</Name>
+		<Mode>Team Big Ass Chains</Mode>
+		<Map>mp_bac_02</Map>
+		<CTSFile>mp_bac_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_INDUSTRIAL</DisplayName>
+		<PegFile>mp_bac_02</PegFile>
+		<ID>304</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>7</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Heist</Name>
+		<DisplayName>MULTI_LEVEL_COOP_HEIST</DisplayName>
+		<Mode>Co-op</Mode>
+		<Map>mp_coop_stayinalive</Map>
+		<ID>1</ID>
+		<CTSFile>mp_coop_stayinalive</CTSFile>
+		<LuaFile>mp_coop_stayinalive</LuaFile>
+		<PegFile>mp_coop_stayinalive</PegFile>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Optimal_Players_Min>2</Optimal_Players_Min>
+		<Optimal_Players_Max>2</Optimal_Players_Max>
+		<num_customizable_weapons>0</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 1</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bac_01</Map>
+		<CTSFile>mp_bac_01</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_GB_1</DisplayName>
+		<ID>200</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 3</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bac_03</Map>
+		<CTSFile>mp_bac_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_GB_3</DisplayName>
+		<ID>202</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>11</num_customizable_weapons>
+		<num_customizable_vehicles>4</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 4</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_arena</Map>
+		<CTSFile>mp_arena</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_GB_4</DisplayName>
+		<ID>203</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.2</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>8</num_customizable_weapons>
+		<num_customizable_vehicles>1</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 5</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bor_02</Map>
+		<CTSFile>mp_bor_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_02</DisplayName>
+		<ID>362</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>7</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 6</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_ptp_01</Map>
+		<CTSFile>mp_gb_ct</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_1</DisplayName>
+		<ID>364</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 7</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_ptp_02</Map>
+		<CTSFile>mp_ptp_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_2</DisplayName>
+		<ID>366</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 8</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bor_01</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_bor_01</CTSFile>
+		<DisplayName>MULTI_LEVEL_BOR_1</DisplayName>
+		<ID>368</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>3</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 9</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bor_03</Map>
+		<CTSFile>mp_bor_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_3</DisplayName>
+		<ID>370</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 10</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_coop_delivery</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_ptp_delivery</CTSFile>
+		<DisplayName>MULTI_LEVEL_COOP_DELIVERY</DisplayName>
+		<ID>372</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>2</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>5</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 11</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_ptp_03</Map>
+		<CTSFile>mp_ptp_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_3</DisplayName>
+		<ID>376</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>GB 12</Name>
+		<Mode>Gangsta Brawl</Mode>
+		<Map>mp_bac_042</Map>
+		<CTSFile>mp_bac_042</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TEST_GAME</DisplayName>
+		<ID>478</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>0.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 1</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bac_01</Map>
+		<CTSFile>mp_bac_01</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TGB_1</DisplayName>
+		<ID>204</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 3</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bac_03</Map>
+		<CTSFile>mp_bac_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TGB_3</DisplayName>
+		<ID>206</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>11</num_customizable_weapons>
+		<num_customizable_vehicles>4</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 4</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_arena</Map>
+		<CTSFile>mp_arena</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TGB_4</DisplayName>
+		<ID>207</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			<Flag>Disabled</Flag>
+			</Flags>
+		<MinimapZoom>1.2</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>8</num_customizable_weapons>
+		<num_customizable_vehicles>1</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 5</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bor_02</Map>
+		<CTSFile>mp_bor_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_02</DisplayName>
+		<ID>340</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>7</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 6</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_ptp_01</Map>
+		<CTSFile>mp_ptp_01</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_1</DisplayName>
+		<ID>342</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 7</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_ptp_02</Map>
+		<CTSFile>mp_ptp_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_2</DisplayName>
+		<ID>344</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 8</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bor_01</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_bor_01</CTSFile>
+		<DisplayName>MULTI_LEVEL_BOR_1</DisplayName>
+		<ID>346</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>3</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 9</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bor_03</Map>
+		<CTSFile>mp_bor_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_3</DisplayName>
+		<ID>348</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 10</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_coop_delivery</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_ptp_delivery</CTSFile>
+		<DisplayName>MULTI_LEVEL_COOP_DELIVERY</DisplayName>
+		<ID>350</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>2</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>5</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 11</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_ptp_03</Map>
+		<CTSFile>mp_ptp_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_3</DisplayName>
+		<ID>374</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TGB 12</Name>
+		<Mode>Team Gangsta Brawl</Mode>
+		<Map>mp_bac_042</Map>
+		<CTSFile>mp_bac_042</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TEST_GAME</DisplayName>
+		<ID>378</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>0.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BAC 1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Map>mp_bac_01</Map>
+		<Mode>Big Ass Chains</Mode>
+		<CTSFile>mp_bac_01</CTSFile>
+		<DisplayName>MULTI_LEVEL_BAC_1</DisplayName>
+		<ID>208</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BAC 3</Name>
+		<Mode>Big Ass Chains</Mode>
+		<Map>mp_bac_03</Map>
+		<CTSFile>mp_bac_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BAC_3</DisplayName>
+		<ID>210</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>11</num_customizable_weapons>
+		<num_customizable_vehicles>4</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BAC 4</Name>
+		<Mode>Big Ass Chains</Mode>
+		<Map>mp_arena</Map>
+		<CTSFile>mp_arena</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BAC_4</DisplayName>
+		<ID>211</ID>
+		<Flags>
+			<Flag>AlwaysClearWeather</Flag>
+			<Flag>Disabled</Flag>
+			</Flags>
+		<MinimapZoom>1.2</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>8</num_customizable_weapons>
+		<num_customizable_vehicles>1</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TBAC 1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Map>mp_bac_01</Map>
+		<Mode>Team Big Ass Chains</Mode>
+		<CTSFile>mp_bac_01</CTSFile>
+		<DisplayName>MULTI_LEVEL_TBAC_1</DisplayName>
+		<ID>212</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TBAC 3</Name>
+		<Mode>Team Big Ass Chains</Mode>
+		<Map>mp_bac_03</Map>
+		<CTSFile>mp_bac_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TBAC_3</DisplayName>
+		<ID>214</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>11</num_customizable_weapons>
+		<num_customizable_vehicles>4</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>TBAC 4</Name>
+		<Mode>Team Big Ass Chains</Mode>
+		<Map>mp_arena</Map>
+		<CTSFile>mp_arena</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TBAC_4</DisplayName>
+		<ID>215</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.2</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>8</num_customizable_weapons>
+		<num_customizable_vehicles>1</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Coop Delivery</Name>
+		<Mode>Co-op</Mode>
+		<Map>mp_coop_delivery</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_coop_delivery</CTSFile>
+		<LuaFile>mp_coop_delivery</LuaFile>
+		<DisplayName>MULTI_LEVEL_COOP_DELIVERY</DisplayName>
+		<ID>0</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>0</Optimal_Players_Min>
+		<Optimal_Players_Max>0</Optimal_Players_Max>
+		<num_customizable_weapons>5</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>Coop Gauntlet</Name>
+		<DisplayName>MULTI_LEVEL_COOP_GAUNTLET</DisplayName>
+		<Mode>Co-op</Mode>
+		<Map>mp_coop_gauntlet</Map>
+		<CTSFile>mp_coop_gauntlet</CTSFile>
+		<LuaFile>mp_coop_gauntlet</LuaFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ID>2</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>0</Optimal_Players_Min>
+		<Optimal_Players_Max>0</Optimal_Players_Max>
+		<num_customizable_weapons>5</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BOR 1</Name>
+		<Mode>Blinged Out Ride</Mode>
+		<Map>mp_bor_01</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_bor_01</CTSFile>
+		<DisplayName>MULTI_LEVEL_BOR_1</DisplayName>
+		<ID>219</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>3</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BOR 2</Name>
+		<Mode>Blinged Out Ride</Mode>
+		<Map>mp_bor_02</Map>
+		<CTSFile>mp_bor_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_02</DisplayName>
+		<ID>220</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>7</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>BOR 3</Name>
+		<Mode>Blinged Out Ride</Mode>
+		<Map>mp_bor_03</Map>
+		<CTSFile>mp_bor_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_3</DisplayName>
+		<ID>221</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 1</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_ptp_01</Map>
+        <LuaFile>mp_ptp_01</LuaFile>
+		<CTSFile>mp_ptp_01</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_1</DisplayName>
+		<ID>222</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 2</Name>
+		<DisplayName>MULTI_LEVEL_PTP_2</DisplayName>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_ptp_02</Map>
+		<CTSFile>mp_ptp_02</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<ID>223</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 3</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_ptp_03</Map>
+		<CTSFile>mp_ptp_03</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_PTP_3</DisplayName>
+		<ID>224</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>4</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 6</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_bac_03</Map>
+		<CTSFile>mp_ptp_06</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TGB_3</DisplayName>
+		<ID>358</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>11</num_customizable_weapons>
+		<num_customizable_vehicles>4</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 7</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_bac_01</Map>
+		<CTSFile>mp_ptp_07</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_TGB_1</DisplayName>
+		<ID>356</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 8</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_coop_delivery</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_ptp_delivery</CTSFile>
+		<DisplayName>MULTI_LEVEL_COOP_DELIVERY</DisplayName>
+		<ID>360</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.5</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>2</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>5</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 9</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_bor_02</Map>
+		<CTSFile>mp_ptp_09</CTSFile>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<DisplayName>MULTI_LEVEL_BOR_02</DisplayName>
+		<ID>354</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>.7</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	<MultiplayerLevel>
+		<Name>PTP 10</Name>
+		<Mode>Protect Tha Pimp</Mode>
+		<Map>mp_bor_01</Map>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<CTSFile>mp_ptp_10</CTSFile>
+		<DisplayName>MULTI_LEVEL_BOR_1</DisplayName>
+		<ID>352</ID>
+		<Flags>
+			</Flags>
+		<MinimapZoom>1.0</MinimapZoom>
+		<LevelSelectionWeight>500</LevelSelectionWeight>
+		<Optimal_Players_Min>8</Optimal_Players_Min>
+		<Optimal_Players_Max>12</Optimal_Players_Max>
+		<num_customizable_weapons>6</num_customizable_weapons>
+		<num_customizable_vehicles>0</num_customizable_vehicles>
+		</MultiplayerLevel>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>MultiplayerLevel</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\MultiGames_text.xtbl</File>
+			<Type>MultiGames_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Mode</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>multiplayer_mode.xtbl</File>
+			<Type>MultiplayerMode.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Map</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>multiplayer_maps.xtbl</File>
+			<Type>MultiplayerMaps.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>ID</Name>
+		<Type>Int</Type>
+		<Unique>true</Unique>
+		<Default>-1</Default>
+		<MinValue>-1</MinValue>
+		<MaxValue>32767</MaxValue>
+		</Element>
+	<Element>
+		<Name>CTSFile</Name>
+		<Type>Reference</Type>
+		<Display_Name>CTS File</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>multiplayer_cts_files.xtbl</File>
+			<Type>MultiplayerCTSFiles.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>LuaFile</Name>
+		<Type>Reference</Type>
+		<Display_Name>Lua File</Display_Name>
+		<Required>false</Required>
+		<Reference>
+			<File>multiplayer_lua_files.xtbl</File>
+			<Type>MultiplayerLuaFiles.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>PegFile</Name>
+		<Type>String</Type>
+		<Display_Name>Peg File</Display_Name>
+		<Required>false</Required>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>AlwaysClearWeather</Flag>
+		<Flag>Disabled</Flag>
+		</Element>
+	<Element>
+		<Name>MinimapZoom</Name>
+		<Type>Float</Type>
+		<Display_Name>Minimap Zoom</Display_Name>
+		<Default>1.0</Default>
+		</Element>
+	<Element>
+		<Name>LevelSelectionWeight</Name>
+		<Type>Int</Type>
+		<Default>500</Default>
+		</Element>
+	<Element>
+		<Name>Optimal_Players_Min</Name>
+		<Type>Int</Type>
+		<Display_Name>Optimal Players Min</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Optimal_Players_Max</Name>
+		<Type>Int</Type>
+		<Display_Name>Optimal Players Max</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>num_customizable_weapons</Name>
+		<Type>Int</Type>
+		<Display_Name>Customizable Weapons</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>20</MaxValue>
+		</Element>
+	<Element>
+		<Name>num_customizable_vehicles</Name>
+		<Type>Int</Type>
+		<Display_Name>Customizable Vehicles</Display_Name>
+		<Default>0</Default>
+		<MinValue>0</MinValue>
+		<MaxValue>20</MaxValue>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

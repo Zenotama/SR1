@@ -1,0 +1,170 @@
+<root>
+<Table>
+	<Aiming>
+		<Name>Aiming</Name>
+		<targeting>
+			<aim_offset>1.1</aim_offset>
+			<dist>30</dist>
+			<dist_fade>45</dist_fade>
+			<offset_min>.8</offset_min>
+			<offset_max>1.5</offset_max>
+			<Notes>dist and dist_fade are... odd. They're used to scale the effects of aim assistance as the target's distance varies from the camera. If a target is some distance D from the camera, then we scale aim assistance by 1-((D-dist)/(dist_fade-dist))
+
+In other words, dist is kind of like an ideal distance where we've tuned the aim assistance to be perfect, and dist_fade is the farthest we allow the target to be before we effectively stop assisting aim altogether.</Notes>
+			</targeting>
+		<steering>
+			<steer_amount_x>.4</steer_amount_x>
+			<steer_amount_y>.6</steer_amount_y>
+			<fade_in_rate>2.5</fade_in_rate>
+			<fade_out_rate>1.2</fade_out_rate>
+			</steering>
+		<slowing>
+			<slow_scalar>.9</slow_scalar>
+			<fade_in_rate>20</fade_in_rate>
+			<fade_out_rate>2</fade_out_rate>
+			</slowing>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Aiming>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Aiming</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>targeting</Name>
+		<Type>Element</Type>
+		<Description>Values related to the acquisition of targets.</Description>
+		<Element>
+			<Name>aim_offset</Name>
+			<Type>Float</Type>
+			<Description>Vertical offset from the human's position (their feet) to 
+aim towards.</Description>
+			<Default>1.1</Default>
+			</Element>
+		<Element>
+			<Name>dist</Name>
+			<Type>Float</Type>
+			<Description>See Notes.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>dist_fade</Name>
+			<Type>Float</Type>
+			<Description>See Notes.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>offset_min</Name>
+			<Type>Float</Type>
+			<Description>Minimum distance from the line we're aiming along where we 
+always, always, always want to consider this target for our 
+aim assist target. Effectively emulates the radius of a 
+cylinder in which we always accept a target.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>offset_max</Name>
+			<Type>Float</Type>
+			<Description>When added to offset_min, this defines the maximum distance 
+from the line we're aiming along before we automatically 
+reject a candidate target. In the math, this value is scaled 
+by the target's distance from the camera, which emulates a 
+"cone" where we'll lock onto a target. So offset_max 
+effectively scales the angular sweep of this cone.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>steering</Name>
+		<Type>Element</Type>
+		<Description>Values related to how the aim-assistance will steer the camera for the player.</Description>
+		<Element>
+			<Name>steer_amount_x</Name>
+			<Type>Float</Type>
+			<Description>This is basically what ratio of the target's horizontal 
+movement relative to the player that the camera will try 
+to account for by automatically steering itself towards the 
+target.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>steer_amount_y</Name>
+			<Type>Float</Type>
+			<Description>This is basically what ratio of the target's vertical movement 
+relative to the player that the camera will try to account for 
+by automatically steering itself towards the target.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>fade_in_rate</Name>
+			<Type>Float</Type>
+			<Description>Aim assistance by steering will scale in from none to full effect 
+in 1/fade_in_rate seconds.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>fade_out_rate</Name>
+			<Type>Float</Type>
+			<Description>Aim assistance by steering will scale out from full effect to 
+none in 1/fade_out_rate seconds.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	<Element>
+		<Name>slowing</Name>
+		<Type>Element</Type>
+		<Description>Values related to the camera slowing down user input.</Description>
+		<Element>
+			<Name>slow_scalar</Name>
+			<Type>Float</Type>
+			<Description>When slowing is at full effect, multiply all camera speed by 
+this value.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>fade_in_rate</Name>
+			<Type>Float</Type>
+			<Description>Aim assistance by slowing will scale in from none to full effect 
+in 1/fade_in_rate seconds.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>fade_out_rate</Name>
+			<Type>Float</Type>
+			<Description>Aim assistance by slowing will scale out from full effect to none in 1/fade_out_rate 
+seconds.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Notes</Name>
+			<Type>String</Type>
+			<Required>false</Required>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

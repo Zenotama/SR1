@@ -1,0 +1,48 @@
+<root>
+<Table>
+	<Height_Class>
+		<Name>Small</Name>
+		<Height>1.689</Height>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Height_Class>
+	<Height_Class>
+		<Name>Large</Name>
+		<Height>1.9</Height>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Height_Class>
+	<Height_Class>
+		<Name>Medium</Name>
+		<Height>1.778</Height>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Height_Class>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Height_Class</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Height</Name>
+		<Type>Float</Type>
+		<Default>0.0</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

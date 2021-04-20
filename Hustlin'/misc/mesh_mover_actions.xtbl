@@ -1,0 +1,43 @@
+<root>
+<Table>
+	<Mesh_Mover_Actions>
+		<Name>start1</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Mesh_Mover_Actions>
+	<Mesh_Mover_Actions>
+		<Name>start2</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Mesh_Mover_Actions>
+	<Mesh_Mover_Actions>
+		<Name>start3</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Mesh_Mover_Actions>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Mesh_Mover_Actions</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Mesh Mover Actions</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Mesh Mover Action Name</Display_Name>
+		<Default>start</Default>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

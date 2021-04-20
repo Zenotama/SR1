@@ -1,0 +1,200 @@
+<root>
+<Table>
+	<Activity>
+		<Name>Shops</Name>
+		<Shops>
+			<Shop>
+				<Doors>
+					<Name>9BSPR3D_MeshMoverB01</Name>
+					</Doors>
+				<Lights>
+					<Name>BB FreeSpot01</Name>
+					<Name>BB FreeSpot02</Name>
+					<Name>BB FreeSpot03</Name>
+					<Name>BB FreeSpot04</Name>
+					</Lights>
+				<Clerk>shops_sr_city_$S1_clerk</Clerk>
+				<Entry_Trigger>shops_sr_city_$S1_entry</Entry_Trigger>
+				<Shop_Trigger>shops_sr_city_$S1_shop</Shop_Trigger>
+				<Outside_Nav>shops_sr_city_$S1_outside</Outside_Nav>
+				<Alarm_Navs>alarm</Alarm_Navs>
+				<Follower_Navs>follower</Follower_Navs>
+				<Hold_Up_Reward>
+					<No_Safe>
+						<Counter_Nav></Counter_Nav>
+						<Min_Cash>0</Min_Cash>
+						<Max_Cash>0</Max_Cash>
+						</No_Safe>
+					</Hold_Up_Reward>
+				</Shop>
+			</Shops>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Activity>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Activity</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Shops</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Shop</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Doors</Name>
+				<Type>Grid</Type>
+				<Description>List of entrances to the shop.  When a player breaks one of these down, the alarms will turn on.</Description>
+				<Element>
+					<Name>Name</Name>
+					<Type>String</Type>
+					<Description>Group name of the door mover.  You can find this out via the 'show_doors' console command in game.</Description>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Lights</Name>
+				<Type>Grid</Type>
+				<Display_Name>Alarm Lights</Display_Name>
+				<Element>
+					<Name>Name</Name>
+					<Type>String</Type>
+					<Description>Light name.  You can find the light's name by entering the lighting editor.</Description>
+					</Element>
+				<Num_Display_Rows>8</Num_Display_Rows>
+				</Element>
+			<Element>
+				<Name>Clerk</Name>
+				<Type>Reference</Type>
+				<Description>Clerk NPC</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\shops_sr_city_npcs.xtbl</File>
+					<Type>NPCReference.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Entry_Trigger</Name>
+				<Type>Reference</Type>
+				<Display_Name>Entry Trigger</Display_Name>
+				<Description>The entrance trigger to the store (used to know when the player enters/exits).</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\shops_sr_city_triggers.xtbl</File>
+					<Type>Trigger.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Shop_Trigger</Name>
+				<Type>Reference</Type>
+				<Display_Name>Shop Trigger</Display_Name>
+				<Description>The Use trigger for actually buying stuff.</Description>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\shops_sr_city_triggers.xtbl</File>
+					<Type>Trigger.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Outside_Nav</Name>
+				<Type>Reference</Type>
+				<Display_Name>Outside Navpoint</Display_Name>
+				<Reference>
+					<File>..\levels\SaintsRow\activities\shops_sr_city_navpoints.xtbl</File>
+					<Type>Navpoint.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Alarm_Navs</Name>
+				<Type>String</Type>
+				<Display_Name>Alarm Navpoint Prefix</Display_Name>
+				</Element>
+			<Element>
+				<Name>Follower_Navs</Name>
+				<Type>String</Type>
+				<Display_Name>Follower Navpoint Prefix</Display_Name>
+				</Element>
+			<Element>
+				<Name>Hold_Up_Reward</Name>
+				<Type>ComboElement</Type>
+				<Display_Name>Hold Up Reward</Display_Name>
+				<Element>
+					<Name>Safe</Name>
+					<Type>Element</Type>
+					<Required>false</Required>
+					<Element>
+						<Name>Safe_Door</Name>
+						<Type>String</Type>
+						<Display_Name>Safe Door Name</Display_Name>
+						<Description>The safe's mover, if any (view in game using show_mesh_mover_names).
+If left blank, the clerk will drop money onto the counter.</Description>
+						</Element>
+					<Element>
+						<Name>Min_Cash</Name>
+						<Type>Int</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Max_Cash</Name>
+						<Type>Int</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Items</Name>
+						<Type>Grid</Type>
+						<Display_Name>Possible Items</Display_Name>
+						<Required>false</Required>
+						<Element>
+							<Name>Item</Name>
+							<Type>Reference</Type>
+							<Reference>
+								<File>items_3d.xtbl</File>
+								<Type>Item.Name</Type>
+								</Reference>
+							</Element>
+						<Num_Display_Rows>8</Num_Display_Rows>
+						</Element>
+					</Element>
+				<Element>
+					<Name>No_Safe</Name>
+					<Type>Element</Type>
+					<Display_Name>No Safe</Display_Name>
+					<Required>false</Required>
+					<Element>
+						<Name>Counter_Nav</Name>
+						<Type>Reference</Type>
+						<Display_Name>Counter Location</Display_Name>
+						<Reference>
+							<File>..\levels\SaintsRow\activities\shops_sr_city_navpoints.xtbl</File>
+							<Type>Navpoint.Name</Type>
+							</Reference>
+						</Element>
+					<Element>
+						<Name>Min_Cash</Name>
+						<Type>Int</Type>
+						<Default>0</Default>
+						</Element>
+					<Element>
+						<Name>Max_Cash</Name>
+						<Type>Int</Type>
+						<Default>0</Default>
+						</Element>
+					</Element>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

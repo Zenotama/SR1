@@ -1,0 +1,71 @@
+<root>
+<Table>
+	<Categories>
+		<Name>WPNCAT_MELEE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_SPECIAL</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_THROWN</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_SUB_MACHINE_GUN</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_RIFLE</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_SHOTGUN</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_PISTOL</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	<Categories>
+		<Name>WPNCAT_DRUG</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Categories>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Categories</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the category</Description>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

@@ -1,0 +1,266 @@
+<root>
+<Table>
+	<Icon>
+		<Name>Head</Name>
+		<Angle>0.230000</Angle>
+		<Distance>1.5</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-0.10</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Categories>
+			<Category_Element>
+				<Category>Hat</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Eyewear</Category>
+				</Category_Element>
+			</Categories>
+		<DisplayName>CUST_ICON_HEAD</DisplayName>
+		</Icon>
+	<Icon>
+		<Name>Upper Body</Name>
+		<Angle>0.230000</Angle>
+		<Distance>2</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-0.45</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Categories>
+			<Category_Element>
+				<Category>Undershirt</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Special T-Shirts</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Overshirt</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Coat</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Suspenders</Category>
+				</Category_Element>
+			</Categories>
+		<DisplayName>CUST_ICON_UPPER_BODY</DisplayName>
+		</Icon>
+	<Icon>
+		<Name>Lower Body</Name>
+		<Angle>0.230000</Angle>
+		<Distance>2</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-1.05</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Categories>
+			<Category_Element>
+				<Category>Belt</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Underwear</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Pants</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Socks</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Shoes</Category>
+				</Category_Element>
+			</Categories>
+		<DisplayName>CUST_ICON_LOWER_BODY</DisplayName>
+		</Icon>
+	<Icon>
+		<Name>Rings</Name>
+		<Angle>0.230000</Angle>
+		<Distance>2</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-1.05</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Categories>
+			<Category_Element>
+				<Category>Ring</Category>
+				</Category_Element>
+			</Categories>
+		<DisplayName>CUST_ICON_RINGS</DisplayName>
+		</Icon>
+	<Icon>
+		<Name>Necklaces</Name>
+		<DisplayName>CUST_ICON_NECKLACES</DisplayName>
+		<Angle>0.230000</Angle>
+		<Distance>1.5</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-0.10</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<Categories>
+			<Category_Element>
+				<Category>Necklace High</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Necklace Medium</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Necklace Low</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Pendant</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Medallion</Category>
+				</Category_Element>
+			</Categories>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Icon>
+	<Icon>
+		<Name>Piercings</Name>
+		<DisplayName>PIERCINGS</DisplayName>
+		<Angle>0.23</Angle>
+		<Distance>0.5</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-0.10</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<Categories>
+			<Category_Element>
+				<Category>Piercing Eyebrow</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Piercing Ear</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Piercing Nose</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Piercing Lip</Category>
+				</Category_Element>
+			</Categories>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</Icon>
+	<Icon>
+		<Name>Wrists</Name>
+		<Angle>0.230000</Angle>
+		<Distance>2</Distance>
+		<Offset>
+			<X>0.0</X>
+			<Y>-1.05</Y>
+			<Z>0.0</Z>
+			</Offset>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Categories>
+			<Category_Element>
+				<Category>Left Wrist</Category>
+				</Category_Element>
+			<Category_Element>
+				<Category>Right Wrist</Category>
+				</Category_Element>
+			</Categories>
+		<DisplayName>CUST_ICON_WRISTS</DisplayName>
+		</Icon>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Icon</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Name of the icon.</Description>
+		</Element>
+	<Element>
+		<Name>DisplayName</Name>
+		<Type>Reference</Type>
+		<Reference>
+			<File>localized_exports\StoreExports.xtbl</File>
+			<Type>StoreExports_Identifier.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>Angle</Name>
+		<Type>Float</Type>
+		<Description>Viewing angle for this icon.</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Distance</Name>
+		<Type>Float</Type>
+		<Description>Distance to place the camera from the player.</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Offset</Name>
+		<Type>Vector</Type>
+		<Description>Vector to offset the camera.</Description>
+		<X>
+			<Name>X</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</X>
+		<Y>
+			<Name>Y</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Y>
+		<Z>
+			<Name>Z</Name>
+			<Type>Float</Type>
+			<Default>0.0</Default>
+			</Z>
+		</Element>
+	<Element>
+		<Name>Categories</Name>
+		<Type>Grid</Type>
+		<Description>List of categories contained within this icon.</Description>
+		<Element>
+			<Name>Category_Element</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Category</Name>
+				<Type>Reference</Type>
+				<Description>Category contained within this icon.</Description>
+				<Reference>
+					<File>customization_categories.xtbl</File>
+					<Type>Category.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

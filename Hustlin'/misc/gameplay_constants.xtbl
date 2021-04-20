@@ -1,0 +1,1372 @@
+<root>
+<Table>
+	<Gameplay_Constants>
+		<Name>Gameplay Constants</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Tracer_Velocity>130</Tracer_Velocity>
+		<Vehicle_Engine_Torque_Factor>1.25</Vehicle_Engine_Torque_Factor>
+		<Ragdoll_Melee_Impulse_Multiplier>10</Ragdoll_Melee_Impulse_Multiplier>
+		<Melee_Knockdown_Point_Regeneration>5.0</Melee_Knockdown_Point_Regeneration>
+		<MinimapElevation>3.50</MinimapElevation>
+		<panic_fall_velocity>12</panic_fall_velocity>
+		<hit_by_car>
+			<ragdoll_vel_threshold_mph_npc>10.0</ragdoll_vel_threshold_mph_npc>
+			<high_vel_threshold_mph>40.0</high_vel_threshold_mph>
+			<medium_vel_damage_pct>0.25</medium_vel_damage_pct>
+			<high_vel_damage_pct>0.5</high_vel_damage_pct>
+			<multi_min_damage_pct>0.1</multi_min_damage_pct>
+			<ragdoll_vel_threshold_mph_playa>30.0</ragdoll_vel_threshold_mph_playa>
+			<ragdoll_vel_threshold_mph_train>10.0</ragdoll_vel_threshold_mph_train>
+			</hit_by_car>
+		<sticky_fire>
+			<conic_spread_threshold>.6</conic_spread_threshold>
+			<conic_stretch_factor>.5</conic_stretch_factor>
+			<circular_stretch_factor>.75</circular_stretch_factor>
+			<conic_arc>0.32</conic_arc>
+			<burn_radii>
+				<large>0.2</large>
+				<small_1>0.1</small_1>
+				<small_2>0.05</small_2>
+				</burn_radii>
+			</sticky_fire>
+		<player_health>
+			<restore_per_sec_sp>50</restore_per_sec_sp>
+			<restore_max_pct_sp>1</restore_max_pct_sp>
+			<restore_per_sec_mp>25</restore_per_sec_mp>
+			<restore_max_pct_mp>.25</restore_max_pct_mp>
+			<restore_wait_time_ms>13000</restore_wait_time_ms>
+			<full_restore_time_ms>2000</full_restore_time_ms>
+			<low_health_threshold_pct>0.25</low_health_threshold_pct>
+			<low_health_warning_min_repeat_delay_ms>500</low_health_warning_min_repeat_delay_ms>
+			<low_health_warning_max_repeat_delay_ms>1000</low_health_warning_max_repeat_delay_ms>
+			<restore_wait_time_ms_mp>6500</restore_wait_time_ms_mp>
+			</player_health>
+		<Hood_Awards>
+			<Awards>
+				<Award>
+					<Required>0</Required>
+					</Award>
+				<Award>
+					<Required>0.25</Required>
+					<Unlockable>25_city</Unlockable>
+					</Award>
+				<Award>
+					<Required>0.5</Required>
+					<Unlockable>50_city</Unlockable>
+					</Award>
+				</Awards>
+			</Hood_Awards>
+		<CollectibleUnlockRate>10</CollectibleUnlockRate>
+		<Ho_Pimp_AI>
+			<Slap_Chance>0.50</Slap_Chance>
+			<Customer_Sell_Chance>0.50</Customer_Sell_Chance>
+			<Go_Customer_Chance>0.1</Go_Customer_Chance>
+			</Ho_Pimp_AI>
+		<HoodValue>200</HoodValue>
+		<Object_Glow_Colors>
+			<Weapons>
+				<R>232</R>
+				<G>75</G>
+				<B>0</B>
+				</Weapons>
+			<Cash>
+				<R>50</R>
+				<G>255</G>
+				<B>0</B>
+				</Cash>
+			<Drugs>
+				<R>120</R>
+				<G>0</G>
+				<B>0</B>
+				</Drugs>
+			</Object_Glow_Colors>
+		<ragdoll_damage_factors>
+			<global>3</global>
+			<normal>1</normal>
+			<sliding>.3</sliding>
+			<head>5</head>
+			<upper_body>1</upper_body>
+			<body>.9</body>
+			<upper_arm>.4</upper_arm>
+			<lower_arm>.4</lower_arm>
+			<upper_leg>.4</upper_leg>
+			<lower_leg>.4</lower_leg>
+			</ragdoll_damage_factors>
+		<throwing_constants>
+			<player_on_foot_throw>.4</player_on_foot_throw>
+			<on_foot_toss>.2</on_foot_toss>
+			<in_vehicle_throw>.5</in_vehicle_throw>
+			<npc_on_foot_throw>.5</npc_on_foot_throw>
+			</throwing_constants>
+		<Item_drops>
+			<Money_drop_chance>25</Money_drop_chance>
+			<Enemy_gang_item_drop_chance>5</Enemy_gang_item_drop_chance>
+			<Gang_money_drop_chance>25</Gang_money_drop_chance>
+			</Item_drops>
+		<Fire>
+			<Fire_Damage_Per_Second>150</Fire_Damage_Per_Second>
+			<Max_Player_Burn_Time_Ms>2500</Max_Player_Burn_Time_Ms>
+			<Max_npc_burn_time_ms>7000</Max_npc_burn_time_ms>
+			<Max_corpse_burn_time_ms>4000</Max_corpse_burn_time_ms>
+			<MP_fire_damage_per_second>62.5</MP_fire_damage_per_second>
+			<MP_max_player_burn_time_ms>3000</MP_max_player_burn_time_ms>
+			<MP_max_npc_burn_time_ms>4000</MP_max_npc_burn_time_ms>
+			<MP_max_corpse_burn_time_ms>3000</MP_max_corpse_burn_time_ms>
+			</Fire>
+		<Fat_bones>
+			<Fat_Bones_Arm>9</Fat_Bones_Arm>
+			<Fat_Bones_Leg>5</Fat_Bones_Leg>
+			</Fat_bones>
+		<Death_and_busted>
+			<Death_Cost>20</Death_Cost>
+			<Busted_Cost>10</Busted_Cost>
+			<respawn_delay_ms>1500</respawn_delay_ms>
+			<fadeout_time_ms>2000</fadeout_time_ms>
+			<mp_respawn_delay_ms>3000</mp_respawn_delay_ms>
+			<mp_respawn_invulnerability_ms>2000</mp_respawn_invulnerability_ms>
+			</Death_and_busted>
+		<Shop_breakin_notoriety_per_sec>10</Shop_breakin_notoriety_per_sec>
+		<vehicle_small_arms_resistance>0.5</vehicle_small_arms_resistance>
+		<PainSoundRadius>8.0</PainSoundRadius>
+		<ZombieHealthRegen>50</ZombieHealthRegen>
+		<PlayerDistTargetingMultiplier>1.5</PlayerDistTargetingMultiplier>
+		<Dynamic_difficulty>
+			<Rank_occurence_percentages>
+				<Rank_occurrence_element>
+					<Average_rank>1</Average_rank>
+					<Rank1>0.05</Rank1>
+					<Rank2>0.95</Rank2>
+					<Rank3>0.0</Rank3>
+					<Rank4>0.0</Rank4>
+					</Rank_occurrence_element>
+				<Rank_occurrence_element>
+					<Average_rank>2</Average_rank>
+					<Rank1>0.0</Rank1>
+					<Rank2>0.7</Rank2>
+					<Rank3>0.25</Rank3>
+					<Rank4>0.05</Rank4>
+					</Rank_occurrence_element>
+				<Rank_occurrence_element>
+					<Average_rank>3</Average_rank>
+					<Rank1>0.0</Rank1>
+					<Rank2>0.2</Rank2>
+					<Rank3>0.55</Rank3>
+					<Rank4>0.35</Rank4>
+					</Rank_occurrence_element>
+				<Rank_occurrence_element>
+					<Average_rank>4</Average_rank>
+					<Rank1>0.0</Rank1>
+					<Rank2>0.0</Rank2>
+					<Rank3>0.3</Rank3>
+					<Rank4>0.7</Rank4>
+					</Rank_occurrence_element>
+				</Rank_occurence_percentages>
+			</Dynamic_difficulty>
+		<Melee_attack>
+			<Melee_attack_speeds>
+				<Melee_attack_speed_element>
+					<Num_attackers>1</Num_attackers>
+					<Attack_delay_min>500</Attack_delay_min>
+					<Attack_delay_max>700</Attack_delay_max>
+					</Melee_attack_speed_element>
+				<Melee_attack_speed_element>
+					<Num_attackers>2</Num_attackers>
+					<Attack_delay_min>600</Attack_delay_min>
+					<Attack_delay_max>900</Attack_delay_max>
+					</Melee_attack_speed_element>
+				<Melee_attack_speed_element>
+					<Num_attackers>3</Num_attackers>
+					<Attack_delay_min>700</Attack_delay_min>
+					<Attack_delay_max>1000</Attack_delay_max>
+					</Melee_attack_speed_element>
+				</Melee_attack_speeds>
+			<Gun_melee_attack_delay>600</Gun_melee_attack_delay>
+			</Melee_attack>
+		<Firearm_attack>
+			<Min_spread_multipliers>
+				<Min_spread_multiplier_element>
+					<Attacker_advantage>8</Attacker_advantage>
+					<Min_spread_multiplier>2.0</Min_spread_multiplier>
+					</Min_spread_multiplier_element>
+				<Min_spread_multiplier_element>
+					<Attacker_advantage>6</Attacker_advantage>
+					<Min_spread_multiplier>1.6</Min_spread_multiplier>
+					</Min_spread_multiplier_element>
+				<Min_spread_multiplier_element>
+					<Attacker_advantage>4</Attacker_advantage>
+					<Min_spread_multiplier>1.4</Min_spread_multiplier>
+					</Min_spread_multiplier_element>
+				<Min_spread_multiplier_element>
+					<Attacker_advantage>2</Attacker_advantage>
+					<Min_spread_multiplier>1.0</Min_spread_multiplier>
+					</Min_spread_multiplier_element>
+				</Min_spread_multipliers>
+			</Firearm_attack>
+		<mp_minimap_elevation>2.0</mp_minimap_elevation>
+		<Respect_Hud>
+			<Fill_Rate>3</Fill_Rate>
+			<Deplete_Rate>4</Deplete_Rate>
+			</Respect_Hud>
+		<Headshots>
+			<Elevation>0.04</Elevation>
+			<Radius>0.14</Radius>
+			</Headshots>
+		<Shader_LOD>
+			<Start_Time>1900</Start_Time>
+			<Stop_Time>700</Stop_Time>
+			</Shader_LOD>
+		<UI>
+			<Slider_Ramp_Time>600</Slider_Ramp_Time>
+			</UI>
+		<vehicle_collision>
+			<damage_front_back_reduction_factor>0.67</damage_front_back_reduction_factor>
+			<damage_attacker_bonus_factor>2</damage_attacker_bonus_factor>
+			<damage_attacker_bonus_speed_diff>5</damage_attacker_bonus_speed_diff>
+			<damage_nitrous_bonus_factor>5</damage_nitrous_bonus_factor>
+			</vehicle_collision>
+		<Shadows>
+			<Day_Shadow_Dist>125</Day_Shadow_Dist>
+			<Night_Shadow_Dist>60</Night_Shadow_Dist>
+			<Night_Shadow_Ramp_In_Start>1855</Night_Shadow_Ramp_In_Start>
+			<Night_Shadow_Ramp_In_Stop>1900</Night_Shadow_Ramp_In_Stop>
+			<Night_Shadow_Ramp_Out_Start>700</Night_Shadow_Ramp_Out_Start>
+			<Night_Shadow_Ramp_Out_Stop>705</Night_Shadow_Ramp_Out_Stop>
+			</Shadows>
+		<Cribs>
+			<Money_Storage>
+				<Money_Storage_Element>
+					<Number_of_Cribs>0</Number_of_Cribs>
+					<Max_Stash>0</Max_Stash>
+					</Money_Storage_Element>
+				<Money_Storage_Element>
+					<Number_of_Cribs>1</Number_of_Cribs>
+					<Max_Stash>2000</Max_Stash>
+					</Money_Storage_Element>
+				<Money_Storage_Element>
+					<Number_of_Cribs>2</Number_of_Cribs>
+					<Max_Stash>4000</Max_Stash>
+					</Money_Storage_Element>
+				<Money_Storage_Element>
+					<Number_of_Cribs>3</Number_of_Cribs>
+					<Max_Stash>8000</Max_Stash>
+					</Money_Storage_Element>
+				<Money_Storage_Element>
+					<Number_of_Cribs>4</Number_of_Cribs>
+					<Max_Stash>16000</Max_Stash>
+					</Money_Storage_Element>
+				</Money_Storage>
+			</Cribs>
+		</Gameplay_Constants>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Gameplay_Constants</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>Gameplay Constants</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>Tracer_Velocity</Name>
+		<Type>Float</Type>
+		<Display_Name>Tracer Velocity (m/s)</Display_Name>
+		<Default>17.8816</Default>
+		</Element>
+	<Element>
+		<Name>Vehicle_Engine_Torque_Factor</Name>
+		<Type>Float</Type>
+		<Display_Name>Vehicle Engine Torque Factor</Display_Name>
+		<Description>Global engine torque modifier for vehicles.</Description>
+		<Default>1</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>vehicle_small_arms_resistance</Name>
+		<Type>Float</Type>
+		<Display_Name>Vehicle Small Arms Resistance</Display_Name>
+		<Description>Fraction of damage reduced when the player's vehicle 
+takes small-arms (pistol, SMG) fire. At 0.0 vehicles take full 
+damage. At 0.5, vehicle take half-damage. At 1.0, vehicles 
+are mobile, invulnerable fortresses of doom that 
+operate with impunity, so long as the enemy doesn't have 
+AKs, shotguns, grenades or RPGs.
+
+...that, or the "Saint's" really are blessed by "God", where 
+what I mean by "God" is "anyone higher on the corporate 
+ladder than I am".
+
+What you expect from programmer humor?</Description>
+		<Default>0.5</Default>
+		</Element>
+	<Element>
+		<Name>Ragdoll_Melee_Impulse_Multiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Ragdoll Melee Impulse Multiplier</Display_Name>
+		<Description>The melee impulse applied to ragdolls is multiplied by this.</Description>
+		<Default>1</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Melee_Knockdown_Point_Regeneration</Name>
+		<Type>Float</Type>
+		<Display_Name>Knockdown Point Regen</Display_Name>
+		<Default>3.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>MinimapElevation</Name>
+		<Type>Float</Type>
+		<Display_Name>Minimap Elevation Tolerance</Display_Name>
+		<Description>In meters...distance at which the icon changes to arrows pointing up or down.</Description>
+		<Default>1.75</Default>
+		<MinValue>0.01</MinValue>
+		</Element>
+	<Element>
+		<Name>mp_minimap_elevation</Name>
+		<Type>Float</Type>
+		<Display_Name>Multiplayer Minimap Elevation Tolerance</Display_Name>
+		<Default>2</Default>
+		<MinValue>0.1</MinValue>
+		</Element>
+	<Element>
+		<Name>panic_fall_velocity</Name>
+		<Type>Float</Type>
+		<Display_Name>Panic fall velocity</Display_Name>
+		<Default>18.0</Default>
+		</Element>
+	<Element>
+		<Name>CollectibleUnlockRate</Name>
+		<Type>Int</Type>
+		<Display_Name>Collectible Unlock Rate</Display_Name>
+		<Default>0</Default>
+		</Element>
+	<Element>
+		<Name>HoodValue</Name>
+		<Type>Float</Type>
+		<Display_Name>Hood Value</Display_Name>
+		<Description>amount of money a hood will earn the player per day</Description>
+		<Default>0.0</Default>
+		</Element>
+	<Element>
+		<Name>Shop_breakin_notoriety_per_sec</Name>
+		<Type>Int</Type>
+		<Display_Name>Shop Break-in Notoriety Per Second</Display_Name>
+		<Description>Notoriety gain per second while performing a store break-in</Description>
+		<Default>2</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>PainSoundRadius</Name>
+		<Type>Float</Type>
+		<Display_Name>Pain Sound Radius</Display_Name>
+		<Description>Maximum distance that a human's pain/death sound can be heard</Description>
+		<Default>8.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>ZombieHealthRegen</Name>
+		<Type>Float</Type>
+		<Display_Name>Zombie health regeneration:</Display_Name>
+		<Description>Hit points regenerated per second by zombies while eating corpses</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>PlayerDistTargetingMultiplier</Name>
+		<Type>Float</Type>
+		<Display_Name>Player distance targeting multiplier</Display_Name>
+		<Description>When choosing a NPC is choosing between attacking the player and another NPC, mutliply the distance to the player by this amount</Description>
+		<Default>0.0</Default>
+		<MinValue>0</MinValue>
+		</Element>
+	<Element>
+		<Name>Death_and_busted</Name>
+		<Type>Element</Type>
+		<Display_Name>Death and busted</Display_Name>
+		<Description>Death and busted penalties</Description>
+		<Element>
+			<Name>Death_Cost</Name>
+			<Type>Float</Type>
+			<Display_Name>Death Cost</Display_Name>
+			<Description>Percentage of player's cash lost when killed</Description>
+			<Default>50</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>100</MaxValue>
+			</Element>
+		<Element>
+			<Name>Busted_Cost</Name>
+			<Type>Float</Type>
+			<Display_Name>Busted Cost</Display_Name>
+			<Description>Percentage of player's cash lost when busted</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>100</MaxValue>
+			</Element>
+		<Element>
+			<Name>respawn_delay_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Respawn Delay (ms)</Display_Name>
+			<Description>Amount of time (in milliseconds) between the 
+player being killed or busted and when start fading the 
+screen (I think - ask RussellA for specifics).</Description>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>fadeout_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Fadeout Time (ms)</Display_Name>
+			<Description>Amount of time (in milliseconds) between the 
+player being killed or busted and when the screen will fade 
+completely to black (I think - ask RussellA for specifics).</Description>
+			<Default>0</Default>
+			</Element>
+		<Element>
+			<Name>mp_respawn_delay_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Multiplayer Respawn Delay (ms)</Display_Name>
+			<Description>Multiplayer amount of time (in milliseconds) between a player dying and being respawned (or entering observer view)</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>mp_respawn_invulnerability_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Multiplayer Respawn Invulnerability (ms)</Display_Name>
+			<Description>Multiplayer amount of time (in milliseconds) after a player respawns when they're invulnerable to damage.</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Fat_bones</Name>
+		<Type>Element</Type>
+		<Display_Name>Fat bones</Display_Name>
+		<Description>Fat bones constants</Description>
+		<Element>
+			<Name>Fat_Bones_Arm</Name>
+			<Type>Float</Type>
+			<Display_Name>Fat Bones Arm Offset</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Fat_Bones_Leg</Name>
+			<Type>Float</Type>
+			<Display_Name>Fat Bones Leg</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>hit_by_car</Name>
+		<Type>Element</Type>
+		<Display_Name>Hit-by-Car values</Display_Name>
+		<Description>Values for when things are struck by vehicles</Description>
+		<Element>
+			<Name>ragdoll_vel_threshold_mph_npc</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC ragdolling velocity threshold (MPH)</Display_Name>
+			<Description>Velocity (MPH) that a NPC must be struck at before they will ragdoll. Any impacts at less than this speed will not ragdoll the NPC.</Description>
+			<Default>15.0</Default>
+			</Element>
+		<Element>
+			<Name>ragdoll_vel_threshold_mph_playa</Name>
+			<Type>Float</Type>
+			<Display_Name>Player ragdolling velocity threshold (MPH)</Display_Name>
+			<Description>Velocity (MPH) that a Player must be struck at before they will ragdoll. Any impacts at less than this speed will not ragdoll the Player.</Description>
+			<Default>30.0</Default>
+			</Element>
+		<Element>
+			<Name>ragdoll_vel_threshold_mph_train</Name>
+			<Type>Float</Type>
+			<Display_Name>Train ragdolling velocity threshold (MPH)</Display_Name>
+			<Description>Velocity (MPH) that a NPC must be struck at by a train before they will ragdoll. Any impacts at less than this speed will not ragdoll the NPC.</Description>
+			<Default>10.0</Default>
+			</Element>
+		<Element>
+			<Name>high_vel_threshold_mph</Name>
+			<Type>Float</Type>
+			<Display_Name>High velocity threshold (MPH)</Display_Name>
+			<Description>Lowest velocity to be considered a "high velocity hit". Any speed less than this value, but higher than the appropriate ragdoll velocity, will deal the medium velocity  damage % to the human struck.</Description>
+			<Default>56.0</Default>
+			</Element>
+		<Element>
+			<Name>medium_vel_damage_pct</Name>
+			<Type>Float</Type>
+			<Display_Name>Medium velocity damage %</Display_Name>
+			<Description>The percentage of health that will be dealt as damage to a human struck at a medium velocity.
+
+A value of 0 is no damage.
+A value of 1 is all of the human's health.</Description>
+			<Default>0.25</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>high_vel_damage_pct</Name>
+			<Type>Float</Type>
+			<Display_Name>High velocity damage %</Display_Name>
+			<Description>(PLAYER ONLY)
+The percentage of health that will be dealt as damage to a player struck at a high velocity.
+
+NPCs die instantly when struck at high velocity.
+
+A value of 0 is no damage.
+A value of 1 is all of the human's health.</Description>
+			<Default>0.5</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>multi_min_damage_pct</Name>
+			<Type>Float</Type>
+			<Display_Name>Multiplayer min damage %</Display_Name>
+			<Description>(MULTIPLAYER ONLY)
+Minimum damage to apply to a human struck by a vehicle.
+
+A value of 0 is no damage.
+A value of 1 is all of the human's health.</Description>
+			<Default>0.1</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>vehicle_collision</Name>
+		<Type>Element</Type>
+		<Description>Values for vehicle collision damage bonuses.</Description>
+		<Element>
+			<Name>damage_front_back_reduction_factor</Name>
+			<Type>Float</Type>
+			<Display_Name>damage_front_back_reduction %</Display_Name>
+			<Description>How much to scale damage by if the vehicle was struck on the front or back.</Description>
+			<Default>0.67</Default>
+			</Element>
+		<Element>
+			<Name>damage_attacker_bonus_factor</Name>
+			<Type>Float</Type>
+			<Display_Name>damage_attacker_bonus %</Display_Name>
+			<Description>How much to scale damage by if the vehicle was struck by a vehicle that is considered an "attacker".</Description>
+			<Default>2</Default>
+			</Element>
+		<Element>
+			<Name>damage_attacker_bonus_speed_diff</Name>
+			<Type>Float</Type>
+			<Description>What the relative collision speed must be (m/s) for a vehicle to be considered the attacker.</Description>
+			<Default>5</Default>
+			</Element>
+		<Element>
+			<Name>damage_nitrous_bonus_factor</Name>
+			<Type>Float</Type>
+			<Display_Name>damage_nitrous_bonus %</Display_Name>
+			<Description>How much to scale damage by if the vehicle was struck by another vehicle using nitrous.</Description>
+			<Default>2</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Fire</Name>
+		<Type>Element</Type>
+		<Description>Fire parameters</Description>
+		<Element>
+			<Name>Fire_Damage_Per_Second</Name>
+			<Type>Float</Type>
+			<Display_Name>Fire Damage Per Second</Display_Name>
+			<Description>Damage per second applied when on fire.</Description>
+			<Default>75</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Max_Player_Burn_Time_Ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Max Burn Time Player (ms)</Display_Name>
+			<Description>Max time player can be on fire (in milliseconds)</Description>
+			<Default>10000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Max_npc_burn_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Max Burn Time NPC (ms)</Display_Name>
+			<Description>Max time npc can be on fire (in milliseconds)</Description>
+			<Default>10000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>Max_corpse_burn_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Max Burn Time Corpse (ms)</Display_Name>
+			<Description>Max time a corpse can burn (in milliseconds)</Description>
+			<Default>5000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>MP_fire_damage_per_second</Name>
+			<Type>Float</Type>
+			<Display_Name>Multiplayer Fire Damage Per Second</Display_Name>
+			<Description>Damage done per second from fires in multiplayer.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>MP_max_player_burn_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Multiplayer Max Burn Time Player (ms)</Display_Name>
+			<Description>Max time multiplayer player can be on fire (in milliseconds)</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>MP_max_npc_burn_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Multiplayer Max Burn Time NPC (ms)</Display_Name>
+			<Description>Max time a multiplayer NPC can be on fire (in milliseconds)</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>MP_max_corpse_burn_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Multiplayer Max Burn Time Corpse (ms)</Display_Name>
+			<Description>Max time a multiplayer corpse can burn (in milliseconds)</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>sticky_fire</Name>
+		<Type>Element</Type>
+		<Display_Name>Sticky Fire</Display_Name>
+		<Description>Values relating to the sticky fire effects created by exploding Molotov Cocktails</Description>
+		<Element>
+			<Name>conic_spread_threshold</Name>
+			<Type>Float</Type>
+			<Display_Name>Conic Spread Threshold (m/s)</Display_Name>
+			<Description>This is the horizontal speed a molotov cocktail must be traveling when it hits the ground for its sticky fire effects to have a conic projection. 
+
+A conic projection will spread the sticky fire effects out along a cone that starts at the point of impact.
+
+If the molotov cocktail explodes and its horizontal speed is less than this value, its sticky fire effects will have a circular projection, instead.
+
+Circular projections evenly place sticky fire effects everywhere around the point of impact.</Description>
+			<Default>1.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>conic_stretch_factor</Name>
+			<Type>Float</Type>
+			<Display_Name>Conic Stretch Factor</Display_Name>
+			<Description>This value scales the maximum radius from the point of impact that sticky fires will be produced at when using a conic projection.</Description>
+			<Default>1.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>circular_stretch_factor</Name>
+			<Type>Float</Type>
+			<Display_Name>Circular Stretch Factor</Display_Name>
+			<Description>This value scales the maximum radius from point of impact that sticky fires will be produced at when using a circular projection.</Description>
+			<Default>1.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>conic_arc</Name>
+			<Type>Float</Type>
+			<Display_Name>Conic Arc (radians)</Display_Name>
+			<Description>This value sets how wide of an arc that a cone of sticky fire effects will be. A value of pi makes conic projections effectively the same thing as circular projections.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>3.141593</MaxValue>
+			</Element>
+		<Element>
+			<Name>burn_radii</Name>
+			<Type>Element</Type>
+			<Display_Name>Burn Radii</Display_Name>
+			<Description>Burn radius for the different sticky fire effects.</Description>
+			<Element>
+				<Name>large</Name>
+				<Type>Float</Type>
+				<Display_Name>Large (m)</Display_Name>
+				<Description>Burn radius of the large fire effect.</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>small_1</Name>
+				<Type>Float</Type>
+				<Display_Name>Small (m)</Display_Name>
+				<Description>Burn radius of the small sticky fire effects.</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			<Element>
+				<Name>small_2</Name>
+				<Type>Float</Type>
+				<Display_Name>Extra-small (m)</Display_Name>
+				<Description>Burn radius of the really little sticky fire effects (that still look almost exactly like the other sticky fire effects).</Description>
+				<Default>0.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		</Element>
+	<Element>
+		<Name>player_health</Name>
+		<Type>Element</Type>
+		<Display_Name>Player Health</Display_Name>
+		<Description>Items related to player health and regen.</Description>
+		<Element>
+			<Name>low_health_threshold_pct</Name>
+			<Type>Float</Type>
+			<Display_Name>Low Health Threshold (%)</Display_Name>
+			<Description>Maximum percentage of health that that is considered "dangerously low".</Description>
+			<Default>0.1</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>low_health_warning_min_repeat_delay_ms</Name>
+			<Type>Float</Type>
+			<Display_Name>Warning Beep Min Repeat Delay (ms)</Display_Name>
+			<Description>Minimum amount of time to wait before playing low-health warning again (at 0 health).</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>low_health_warning_max_repeat_delay_ms</Name>
+			<Type>Float</Type>
+			<Display_Name>Warning Beep Max Repeat Delay (ms)</Display_Name>
+			<Description>Maximum amount of time to wait before playing low-health warning again (at Low Health Threshold).</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>restore_per_sec_sp</Name>
+			<Type>Float</Type>
+			<Display_Name>Health restored per second (Single Player)</Display_Name>
+			<Description>(SINGLE PLAYER)
+Amount of health to restore per second.</Description>
+			<Default>20</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>restore_max_pct_sp</Name>
+			<Type>Float</Type>
+			<Display_Name>Max % Health Restored (Single Player)</Display_Name>
+			<Description>(SINGLE PLAYER)
+Max percentage of health that can be restored under normal circumstances.</Description>
+			<Default>1</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>restore_per_sec_mp</Name>
+			<Type>Float</Type>
+			<Display_Name>Health restored per second (Multiplayer)</Display_Name>
+			<Description>(MULTIPLAYER)
+Amount of health to restore per second.</Description>
+			<Default>5</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>restore_max_pct_mp</Name>
+			<Type>Float</Type>
+			<Display_Name>Max % Health Restored (Multiplayer)</Display_Name>
+			<Description>(MULTIPLAYER)
+Max percentage of health that can be restored under normal circumstances.</Description>
+			<Default>.5</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>restore_wait_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Restore delay time (ms)</Display_Name>
+			<Description>Amount of time (milliseconds) before the player will start to restore health.</Description>
+			<Default>10000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>restore_wait_time_ms_mp</Name>
+			<Type>Int</Type>
+			<Display_Name>Restore delay time (ms) (Multiplayer)</Display_Name>
+			<Description>Amount of time (milliseconds) before the player will start to restore health in multiplayer.</Description>
+			<Default>10000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>full_restore_time_ms</Name>
+			<Type>Int</Type>
+			<Display_Name>Full Restore delay time (ms)</Display_Name>
+			<Description>Amount of time before the player receives a full restore after entering a clinic.</Description>
+			<Default>2000</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Hood_Awards</Name>
+		<Type>Element</Type>
+		<Display_Name>City Hood Awards</Display_Name>
+		<Element>
+			<Name>Awards</Name>
+			<Type>Grid</Type>
+			<Element>
+				<Name>Award</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Required</Name>
+					<Type>Float</Type>
+					<Display_Name>Percent Required</Display_Name>
+					<Default>0.0</Default>
+					</Element>
+				<Element>
+					<Name>Unlockable</Name>
+					<Type>Reference</Type>
+					<Required>false</Required>
+					<Reference>
+						<File>unlockables.xtbl</File>
+						<Type>Unlockable.Name</Type>
+						</Reference>
+					</Element>
+				</Element>
+			<Num_Display_Rows>8</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Ho_Pimp_AI</Name>
+		<Type>Element</Type>
+		<Display_Name>Ho/Pimp AI</Display_Name>
+		<Element>
+			<Name>Slap_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Slap Chance</Display_Name>
+			<Description>The chance a pimp will slap a ho.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Customer_Sell_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Customer Sell Chance</Display_Name>
+			<Description>The chance a hot will try to sell herself to a customer.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		<Element>
+			<Name>Go_Customer_Chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Go with Customer Chance</Display_Name>
+			<Description>The chance a ho will get in a customer's car and go with them.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>1</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Object_Glow_Colors</Name>
+		<Type>Element</Type>
+		<Display_Name>Object Glow Colors</Display_Name>
+		<Element>
+			<Name>Weapons</Name>
+			<Type>Color</Type>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		<Element>
+			<Name>Cash</Name>
+			<Type>Color</Type>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		<Element>
+			<Name>Drugs</Name>
+			<Type>Color</Type>
+			<R>
+				<Name>R</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</R>
+			<G>
+				<Name>G</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</G>
+			<B>
+				<Name>B</Name>
+				<Type>Int</Type>
+				<Default>255</Default>
+				</B>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ragdoll_damage_factors</Name>
+		<Type>Element</Type>
+		<Display_Name>Ragdoll values</Display_Name>
+		<Description>Values related to player damage and their ragdoll</Description>
+		<Element>
+			<Name>global</Name>
+			<Type>Float</Type>
+			<Display_Name>Global Factor</Display_Name>
+			<Description>A global damage scaling factor for ragdolls.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>normal</Name>
+			<Type>Float</Type>
+			<Display_Name>Normal Impact Factor</Display_Name>
+			<Description>Scales damage caused by striking a target dead-on (velocity along the normal of the surface).</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>sliding</Name>
+			<Type>Float</Type>
+			<Display_Name>Sliding Damage Factor</Display_Name>
+			<Description>Scales damage from sliding along a surface (scraping damage, etc)</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>head</Name>
+			<Type>Float</Type>
+			<Display_Name>Head Factor</Display_Name>
+			<Description>Scales damage done to the head</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>upper_body</Name>
+			<Type>Float</Type>
+			<Display_Name>Upper-Body Factor</Display_Name>
+			<Description>Scales damage done to the upper-body of the ragdoll</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>body</Name>
+			<Type>Float</Type>
+			<Display_Name>Body Factor</Display_Name>
+			<Description>Scales damage done to the body of the ragdoll.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>upper_arm</Name>
+			<Type>Float</Type>
+			<Display_Name>Upper-Arm Factor</Display_Name>
+			<Description>Scales damage dealt to the upper-arms of the ragdoll.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>lower_arm</Name>
+			<Type>Float</Type>
+			<Display_Name>Lower-Arm Factor</Display_Name>
+			<Description>Scales damage done to the lower arms of the ragdoll.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>upper_leg</Name>
+			<Type>Float</Type>
+			<Display_Name>Upper-Leg Factor</Display_Name>
+			<Description>Scales damage done to the upper-legs of the ragdoll.</Description>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>lower_leg</Name>
+			<Type>Float</Type>
+			<Display_Name>Lower-Leg Factor</Display_Name>
+			<Description>Scales damage to the lower legs of the ragdoll.</Description>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>throwing_constants</Name>
+		<Type>Element</Type>
+		<Display_Name>Throwing Constants</Display_Name>
+		<Element>
+			<Name>player_on_foot_throw</Name>
+			<Type>Float</Type>
+			<Display_Name>Player Throw factor (on foot)</Display_Name>
+			<Description>Multiplies velocity of projectile when thrown by on-foot player.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>npc_on_foot_throw</Name>
+			<Type>Float</Type>
+			<Display_Name>NPC Throw factor (on foot)</Display_Name>
+			<Description>Multiplies velocity of projectile when thrown by on-foot NPC.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>on_foot_toss</Name>
+			<Type>Float</Type>
+			<Display_Name>Toss factor (on foot)</Display_Name>
+			<Description>Multiplies the velocity of the projectile when tossed by on-foot human</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		<Element>
+			<Name>in_vehicle_throw</Name>
+			<Type>Float</Type>
+			<Display_Name>Throw factor (in vehicle)</Display_Name>
+			<Description>Multiplies the velocity of the projectile when thrown from within a vehicle.</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Item_drops</Name>
+		<Type>Element</Type>
+		<Display_Name>Item drops</Display_Name>
+		<Description>Items dropped by NPCs</Description>
+		<Element>
+			<Name>Money_drop_chance</Name>
+			<Type>Int</Type>
+			<Display_Name>Money drop chance</Display_Name>
+			<Description>Percent chance that a NPC will drop money when killed</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>100</MaxValue>
+			</Element>
+		<Element>
+			<Name>Enemy_gang_item_drop_chance</Name>
+			<Type>Int</Type>
+			<Display_Name>Enemy gang item drop chance</Display_Name>
+			<Description>Percent chance that an enemy gang member will drop an item</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>100</MaxValue>
+			</Element>
+		<Element>
+			<Name>Gang_money_drop_chance</Name>
+			<Type>Float</Type>
+			<Display_Name>Enemy gang money drop chance</Display_Name>
+			<Description>Percent chance that an enemy gang member will drop money</Description>
+			<Default>0.0</Default>
+			<MinValue>0</MinValue>
+			<MaxValue>100</MaxValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Dynamic_difficulty</Name>
+		<Type>Element</Type>
+		<Display_Name>Dynamic Difficulty</Display_Name>
+		<Description>Dynamic difficulty constants</Description>
+		<Element>
+			<Name>Rank_occurence_percentages</Name>
+			<Type>Grid</Type>
+			<Display_Name>Rank occurence percentages</Display_Name>
+			<Description>Percentage occurence of each rank</Description>
+			<Element>
+				<Name>Rank_occurrence_element</Name>
+				<Type>Element</Type>
+				<Element>
+					<Name>Average_rank</Name>
+					<Type>Int</Type>
+					<Display_Name>Average rank</Display_Name>
+					<Description>Average enemy rank (based on neighborhoods controlled by the player)</Description>
+					<Unique>true</Unique>
+					<Default>1</Default>
+					<MinValue>1</MinValue>
+					<MaxValue>4</MaxValue>
+					</Element>
+				<Element>
+					<Name>Rank1</Name>
+					<Type>Float</Type>
+					<Display_Name>Rank 1</Display_Name>
+					<Description>Percentage chance of rank 1 enemies spawning</Description>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				<Element>
+					<Name>Rank2</Name>
+					<Type>Float</Type>
+					<Display_Name>Rank 2</Display_Name>
+					<Description>Percentage chance of rank 2 enemies spawning</Description>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				<Element>
+					<Name>Rank3</Name>
+					<Type>Float</Type>
+					<Display_Name>Rank 3</Display_Name>
+					<Description>Percentage chance of rank 3 enemies spawning</Description>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				<Element>
+					<Name>Rank4</Name>
+					<Type>Float</Type>
+					<Display_Name>Rank 4</Display_Name>
+					<Description>Percentage chance of rank 4 enemies spawning</Description>
+					<Default>0.0</Default>
+					<MinValue>0</MinValue>
+					<MaxValue>1</MaxValue>
+					</Element>
+				</Element>
+			<Max_Children>4</Max_Children>
+			<Min_Children>4</Min_Children>
+			<Num_Display_Rows>4</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Melee_attack</Name>
+		<Type>Element</Type>
+		<Display_Name>Melee attack</Display_Name>
+		<Description>Melee attack constants</Description>
+		<Element>
+			<Name>Melee_attack_speeds</Name>
+			<Type>Grid</Type>
+			<Display_Name>Melee attack speeds</Display_Name>
+			<Description>Melee attack speeds, based on the number of NPCs attacking the target</Description>
+			<Element>
+				<Name>Melee_attack_speed_element</Name>
+				<Type>Element</Type>
+				<Display_Name>Melee attack speed element</Display_Name>
+				<Element>
+					<Name>Num_attackers</Name>
+					<Type>Int</Type>
+					<Display_Name>Number of attackers</Display_Name>
+					<Description>Number of NPCs attacking the target</Description>
+					<Unique>true</Unique>
+					<Default>0</Default>
+					<MinValue>1</MinValue>
+					<MaxValue>3</MaxValue>
+					</Element>
+				<Element>
+					<Name>Attack_delay_min</Name>
+					<Type>Int</Type>
+					<Display_Name>Attack delay (min)</Display_Name>
+					<Description>Minimum time between attacks (in ms)</Description>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>Attack_delay_max</Name>
+					<Type>Int</Type>
+					<Display_Name>Attack delay (max)</Display_Name>
+					<Description>Maximum time between attacks (in ms)</Description>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				</Element>
+			<Max_Children>3</Max_Children>
+			<Min_Children>3</Min_Children>
+			<Num_Display_Rows>3</Num_Display_Rows>
+			</Element>
+		<Element>
+			<Name>Gun_melee_attack_delay</Name>
+			<Type>Int</Type>
+			<Display_Name>Gun melee attack delay</Display_Name>
+			<Description>Time (in ms) before a NPC in gun AI mode will melee attack a nearby target</Description>
+			<Default>0</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Firearm_attack</Name>
+		<Type>Element</Type>
+		<Display_Name>Firearm attack</Display_Name>
+		<Description>Firearm attack constants</Description>
+		<Element>
+			<Name>Min_spread_multipliers</Name>
+			<Type>Grid</Type>
+			<Display_Name>Min weapon spread multipliers</Display_Name>
+			<Description>Minimum weapon spread multipliers, based on enemy advantage vs. the player's group</Description>
+			<Element>
+				<Name>Min_spread_multiplier_element</Name>
+				<Type>Element</Type>
+				<Display_Name>Min weapon spread multiplier element</Display_Name>
+				<Element>
+					<Name>Attacker_advantage</Name>
+					<Type>Int</Type>
+					<Display_Name>Attacker advantage</Display_Name>
+					<Description>If attackers outnumber the player's group by a number equal to or greater than this amount, the corresponding weapon min spread multiplier applies</Description>
+					<Unique>true</Unique>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>Min_spread_multiplier</Name>
+					<Type>Float</Type>
+					<Display_Name>Min spread multiplier</Display_Name>
+					<Description>Multiplier to apply to attacker's minimum weapon spread</Description>
+					<Default>1</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				</Element>
+			<Max_Children>4</Max_Children>
+			<Min_Children>4</Min_Children>
+			<Num_Display_Rows>4</Num_Display_Rows>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Respect_Hud</Name>
+		<Type>Element</Type>
+		<Display_Name>Respect Hud</Display_Name>
+		<Element>
+			<Name>Fill_Rate</Name>
+			<Type>Float</Type>
+			<Display_Name>Fill Rate</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Deplete_Rate</Name>
+			<Type>Float</Type>
+			<Display_Name>Deplete Rate</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Headshots</Name>
+		<Type>Element</Type>
+		<Description>Headshot constants</Description>
+		<Element>
+			<Name>Elevation</Name>
+			<Type>Float</Type>
+			<Display_Name>Elevation (m)</Display_Name>
+			<Description>Elevation above the neck that headshot sphere should be centered around.</Description>
+			<Default>0.4</Default>
+			</Element>
+		<Element>
+			<Name>Radius</Name>
+			<Type>Float</Type>
+			<Display_Name>Radius (m)</Display_Name>
+			<Description>Radius of the headshot sphere.</Description>
+			<Default>0.16</Default>
+			<MinValue>0</MinValue>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Shader_LOD</Name>
+		<Type>Element</Type>
+		<Display_Name>Shader LOD</Display_Name>
+		<Element>
+			<Name>Start_Time</Name>
+			<Type>Int</Type>
+			<Display_Name>Start Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Stop_Time</Name>
+			<Type>Int</Type>
+			<Display_Name>Stop Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Shadows</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Day_Shadow_Dist</Name>
+			<Type>Int</Type>
+			<Display_Name>Day Shadow Distance</Display_Name>
+			<Default>125.0</Default>
+			</Element>
+		<Element>
+			<Name>Night_Shadow_Dist</Name>
+			<Type>Int</Type>
+			<Display_Name>Night Shadow Distance</Display_Name>
+			<Default>60.0</Default>
+			</Element>
+		<Element>
+			<Name>Night_Shadow_Ramp_In_Start</Name>
+			<Type>Int</Type>
+			<Display_Name>Night Shadow Ramp In Start Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Night_Shadow_Ramp_In_Stop</Name>
+			<Type>Int</Type>
+			<Display_Name>Night Shadow Ramp In Stop Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Night_Shadow_Ramp_Out_Start</Name>
+			<Type>Int</Type>
+			<Display_Name>Night Shadow Ramp Out Start Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		<Element>
+			<Name>Night_Shadow_Ramp_Out_Stop</Name>
+			<Type>Int</Type>
+			<Display_Name>Night Shadow Ramp Out Stop Time</Display_Name>
+			<Default>0.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>UI</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Slider_Ramp_Time</Name>
+			<Type>Int</Type>
+			<Display_Name>Slider Ramp Time</Display_Name>
+			<Default>600.0</Default>
+			</Element>
+		</Element>
+	<Element>
+		<Name>Cribs</Name>
+		<Type>Element</Type>
+		<Element>
+			<Name>Money_Storage</Name>
+			<Type>Grid</Type>
+			<Display_Name>Money Storage</Display_Name>
+			<Element>
+				<Name>Money_Storage_Element</Name>
+				<Type>Element</Type>
+				<Display_Name>Money Storage Element</Display_Name>
+				<Element>
+					<Name>Number_of_Cribs</Name>
+					<Type>Int</Type>
+					<Display_Name>Number of Cribs</Display_Name>
+					<Description>Number of cribs the player has.</Description>
+					<Unique>true</Unique>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				<Element>
+					<Name>Max_Stash</Name>
+					<Type>Int</Type>
+					<Display_Name>Max Stash ($)</Display_Name>
+					<Description>Max crib stash.</Description>
+					<Default>0</Default>
+					<MinValue>0</MinValue>
+					</Element>
+				</Element>
+			<Num_Display_Rows>5</Num_Display_Rows>
+			</Element>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

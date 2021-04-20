@@ -1,0 +1,71 @@
+<root>
+<Table>
+	<Station>
+		<Name>101.69 SIZZURP FM</Name>
+		<Playlist>
+			<Entry>
+				<Group>MUS_KSURP_A</Group>
+				</Entry>
+			</Playlist>
+		<_Editor>
+			<Category>Radio Stations</Category>
+			</_Editor>
+		</Station>
+	<Station>
+		<Name>OFF</Name>
+		<Playlist></Playlist>
+		<_Editor>
+			<Category>Radio Stations</Category>
+			</_Editor>
+		</Station>
+	<Station>
+		<Name>STILWATER POLICE DISPATCH</Name>
+		<Playlist></Playlist>
+		<_Editor>
+			<Category>Radio Stations</Category>
+			</_Editor>
+		</Station>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>Station</Name>
+	<Type>TableDescription</Type>
+	<Description>A radio station.</Description>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Display_Name>Station Name</Display_Name>
+		<Description>Unique name of the radio station.</Description>
+		<Unique>true</Unique>
+		</Element>
+	<Element>
+		<Name>Playlist</Name>
+		<Type>Grid</Type>
+		<Description>The playlist for the station.</Description>
+		<Element>
+			<Name>Entry</Name>
+			<Type>Element</Type>
+			<Description>A single playlist entry (music, DJ, or event).</Description>
+			<Element>
+				<Name>Group</Name>
+				<Type>Reference</Type>
+				<Description>What radio group to play.</Description>
+				<Reference>
+					<File>radio_groups_demo.xtbl</File>
+					<Type>RadioGroups.Name</Type>
+					</Reference>
+				</Element>
+			</Element>
+		<Num_Display_Rows>16</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Radio Stations</Name>
+		</Category>
+	</EntryCategories>
+</root>

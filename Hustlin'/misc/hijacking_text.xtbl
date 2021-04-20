@@ -1,0 +1,151 @@
+<root>
+<Table>
+	<String>
+		<Name>Hijacking</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Texts>
+			<Text>
+				<Name>seeking</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_SEEKING_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>seeking2</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_SEEKING2_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>trailing</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_TRAILING_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>losing</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_LOSING_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>spotted</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_SPOTTED_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>driving</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_DRIVING_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>driving 2</Name>
+				<DisplayText>ACT_HIJACK_EVADE</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>driving abandon</Name>
+				<DisplayText>ACT_ESCORT_GETBACK_MSG</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			<Text>
+				<Name>fail lost</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HIJACK_FAIL_LOST_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail time</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HIJACK_FAIL_TIME_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail destroyed</Name>
+				<Duration>5.0</Duration>
+				<DisplayText>ACT_HIJACK_FAIL_DESTROYED</DisplayText>
+				</Text>
+			<Text>
+				<Name>fail abandon</Name>
+				<DisplayText>ACT_ESCORT_FAIL_LEFT_CAR</DisplayText>
+				<Duration>5.0</Duration>
+				</Text>
+			<Text>
+				<Name>stopped</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_STOPPED_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>comp notorious</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_COMP_NOTORIOUS_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>comp revenge</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_COMP_REVENGE_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>comp revenge 2</Name>
+				<Duration>7</Duration>
+				<DisplayText>ACT_HIJACK_COMP_REVENGE_2_MSG</DisplayText>
+				</Text>
+			<Text>
+				<Name>attack</Name>
+				<DisplayText>ACT_HIJACK_ATTACK</DisplayText>
+				<Duration>7</Duration>
+				</Text>
+			</Texts>
+		</String>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>String</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Texts</Name>
+		<Type>Grid</Type>
+		<Element>
+			<Name>Text</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				<Unique>true</Unique>
+				<Default>0</Default>
+				</Element>
+			<Element>
+				<Name>English</Name>
+				<Type>String</Type>
+				<Required>false</Required>
+				</Element>
+			<Element>
+				<Name>DisplayText</Name>
+				<Type>Reference</Type>
+				<Required>false</Required>
+				<Reference>
+					<File>localized_exports\ActivityCars.xtbl</File>
+					<Type>ActCars_Identifier.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Duration</Name>
+				<Type>Float</Type>
+				<Display_Name>Duration (sec)</Display_Name>
+				<Default>5.0</Default>
+				<MinValue>0</MinValue>
+				</Element>
+			</Element>
+		<Num_Display_Rows>20</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

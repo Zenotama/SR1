@@ -1,0 +1,206 @@
+<root>
+   <Table></Table>
+
+   <TableTemplates>
+   </TableTemplates>
+
+   <TableDescription>
+      <Name>Region</Name>
+      <Type>TableDescription</Type>
+      <Description>A description of a region for the activity</Description>
+      <MaxCount>4</MaxCount>
+      <Element>
+         <Name>Name</Name>
+         <Type>String</Type>
+         <Description>A unique name for the region</Description>
+         <Unique>true</Unique>
+      </Element>
+      <Element>
+         <Name>Levels</Name>
+         <Type>List</Type>
+         <Description>All of the levels available in the region.</Description>
+         <Element>
+            <Name>Level</Name>
+            <Type>Element</Type>
+            <Description>Description of a level</Description>
+            <Element>
+               <Name>Goods_Goal</Name>
+               <Type>Int</Type>
+               <Display_Name>Goods Goal</Display_Name>
+               <Description>Number of goods that must be delivered to complete the level</Description>
+               <Default>1</Default>
+               <MinValue>1</MinValue>
+            </Element>
+            <Element>
+               <Name>Vehicle_Spawn</Name>
+               <Type>Reference</Type>
+               <Display_Name>Vehicle Spawn Location</Display_Name>
+               <Description>Where the vehicle should be spawned.</Description>
+               <Reference>
+                  <File>template_navpoints.xtbl</File>
+                  <Type>Navpoint.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Vehicle_Type</Name>
+               <Type>Reference</Type>
+               <Display_Name>Vehicle Type</Display_Name>
+               <Description>What type of vehicle should be spawned.</Description>
+               <Reference>
+                  <File>vehicles.xtbl</File>
+                  <Type>Vehicle.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Timer</Name>
+               <Type>Int</Type>
+               <Description>How long after breaking into the shop the notoriety will be triggered.</Description>
+               <Default>0</Default>
+            </Element>
+            <Element>
+               <Name>Notoriety_Level</Name>
+               <Type>Int</Type>
+               <Display_Name>Notoriety Level</Display_Name>
+               <Description>What level of police notoriety a shop breakin should cause</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+               <MaxValue>5</MaxValue>
+               <UseSlider>True</UseSlider>
+            </Element>
+            <Element>
+               <Name>Shops</Name>
+               <Type>List</Type>
+               <Description>All of the shops in the level.</Description>
+               <Element>
+                  <Name>Shop</Name>
+                  <Type>Element</Type>
+                  <Description>Description of a shop.</Description>
+                  <Element>
+                     <Name>Entry_Trigger</Name>
+                     <Type>Reference</Type>
+                     <Display_Name>Entry Trigger</Display_Name>
+                     <Description>PLACEHOLDER: the trigger that signals the entry to the shop.</Description>
+                     <Reference>
+                        <File>template_trigger.xtbl</File>
+                        <Type>Trigger.Name</Type>
+                     </Reference>
+                  </Element>
+                  <Element>
+                     <Name>Goods_Spawns</Name>
+                     <Type>List</Type>
+                     <Display_Name>Goods Spawn Locations</Display_Name>
+                     <Description>All the places where goods.</Description>
+                     <Element>
+                        <Name>Goods_Spawn</Name>
+                        <Type>Reference</Type>
+                        <Display_Name>Goods Spawn Location</Display_Name>
+                        <Description>Where a goods will spawn.</Description>
+                        <Reference>
+                           <File>template_navpoints.xtbl</File>
+                           <Type>Navpoint.Name</Type>
+                        </Reference>
+                     </Element>
+                     <Max_Children>12</Max_Children>
+                     <Min_Children>0</Min_Children>
+                     <Element_Name>Goods_Spawn</Element_Name>
+                  </Element>
+                  <Element>
+                     <Name>Guards</Name>
+                     <Type>List</Type>
+                     <Description>All of the guards in the shop.</Description>
+                     <Element>
+                        <Name>Guard</Name>
+                        <Type>Element</Type>
+                        <Description>Description of the guard.</Description>
+                        <Element>
+                           <Name>Guard_Spawn</Name>
+                           <Type>Reference</Type>
+                           <Display_Name>Guard Spawn Location</Display_Name>
+                           <Description>Where the guard will spawn.</Description>
+                           <Reference>
+                              <File>template_navpoints.xtbl</File>
+                              <Type>Navpoint.Name</Type>
+                           </Reference>
+                        </Element>
+                        <Element>
+                           <Name>Guard_Type</Name>
+                           <Type>Reference</Type>
+                           <Display_Name>Guard Type</Display_Name>
+                           <Description>What type of character the guard will be.</Description>
+                           <Reference>
+                              <File>character.xtbl</File>
+                              <Type>Character.Name</Type>
+                           </Reference>
+                        </Element>
+                     </Element>
+                     <Max_Children>8</Max_Children>
+                     <Min_Children>0</Min_Children>
+                  </Element>
+                  <Element>
+                     <Name>Minimap_Location</Name>
+                     <Type>Reference</Type>
+                     <Display_Name>Minimap Location</Display_Name>
+                     <Description>Where the icon should show up on the minimap.</Description>
+                     <Reference>
+                        <File>template_navpoints.xtbl</File>
+                        <Type>Navpoint.Name</Type>
+                     </Reference>
+                  </Element>
+               </Element>
+               <Max_Children>5</Max_Children>
+               <Min_Children>1</Min_Children>
+            </Element>
+            <Element>
+               <Name>Return_Location</Name>
+               <Type>Reference</Type>
+               <Display_Name>Return Location</Display_Name>
+               <Description>Place you must return the goods to.</Description>
+               <Reference>
+                  <File>template_navpoints.xtbl</File>
+                  <Type>Navpoint.Name</Type>
+               </Reference>
+            </Element>
+            <Element>
+               <Name>Cash_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Cash Award</Display_Name>
+               <Description>Cash to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+            <Element>
+               <Name>Props_Award</Name>
+               <Type>Int</Type>
+               <Display_Name>Props Award</Display_Name>
+               <Description>Props to be given for completing the level</Description>
+               <Default>0</Default>
+               <MinValue>0</MinValue>
+            </Element>
+         </Element>
+         <Max_Children>8</Max_Children>
+         <Min_Children>1</Min_Children>
+      </Element>
+      <Element>
+         <Name>Max_Cash</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Cash Award</Display_Name>
+         <Description>Cash award for completing the maximum level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+      <Element>
+         <Name>Max_Props</Name>
+         <Type>Int</Type>
+         <Display_Name>Max Props Award</Display_Name>
+         <Description>Props to be given for completing the last level</Description>
+         <Default>0</Default>
+         <MinValue>0</MinValue>
+      </Element>
+   </TableDescription>
+
+   <EntryCategories>
+      <Category>
+         <Name>Entries</Name>
+      </Category>
+   </EntryCategories>
+</root>
